@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1979-09-29
+Version Consolidée au 1980-07-23
 
 # Partie législative
 
@@ -4305,6 +4305,37 @@ circulation.
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R11
+
+Est interdit l'usage de prospectus, affiches, tracts, etc., imitant les formules d'arrivée des télégrammes et les cartes
+pneumatiques utilisées par l'administration des postes et télécommunications [*infraction*].
+
+Toute personne qui contrevient aux dispositions qui précèdent est punie [*sanction*] d'une amende [*taux*] de 300 à 600 F par
+exemplaire mis en circulation, en contravention aux dispositions du présent article.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L78
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. R10-11 (V)
 
 
 #### CHAPITRE IV : Téléphone.
