@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1968-10-22
+Version Consolidée au 1968-11-30
 
 # Partie législative
 
@@ -7311,6 +7311,41 @@ marchés.
 	  - Code des postes et des communications électroni... - art. D27-2 (V)
 
 
+###### Article D28
+
+Des imprimés ou échantillons peuvent, lorsque leur présentation le permet, être encartés dans un journal ou écrit périodique.
+
+Le ou les encartages ainsi insérés dans une même publication sont passibles, outre la taxe afférente à la publication elle-
+même, d'une taxe distincte calculée, selon leur poids total, au tarif des "imprimés et échantillons".
+
+Les cartes ou enveloppes-réponses mentionnées à l'article D. 46 et diffusées sous le couvert d'une publication périodique
+donnent lieu à la perception d'une taxe particulière, indépendante de celle applicable aux autres encartages et calculée
+d'après le poids total des cartes ou enveloppes insérées, sur la base du tarif "imprimés et échantillons". Cette taxe est
+exigible, quel que soit le mode d'insertion de la correspondance-réponse, même si la carte destinée à la réponse est à
+détacher d'une page normale de publication.
+
+La taxe totale à percevoir ne doit en aucun cas excéder celle qui serait applicable à un envoi de même poids affranchi au
+tarif de la catégorie "imprimés et échantillons" ou "paquets-poste", selon le cas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D46
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°68-1073 1968-11-22 art. 1 JORF 30 novembre 1968
+
+
 ##### Section 5 : Magazines sonores.
 
 ###### Article D29
@@ -8517,6 +8552,28 @@ spéciales.
 	**Abrogé par**:
 
 	  - Décret n°74-506 1974-05-17 art. 1 JORF 21 mai 1974
+
+
+###### Article D84-1
+
+Les bureaux de poste participent au service des petits colis de la Société nationale des chemins de fer français dans les
+conditions fixées par l'administration des postes et communications électroniques en accord avec ladite société.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°68-1073 1968-11-22 art. 3 JORF 30 novembre 1968
 
 
 ###### Article D85
@@ -11236,6 +11293,31 @@ télégraphique dans les cas et conditions prévus par les règlements.
 	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
+###### Article D273
+
+**Nota:**
+
+[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°68-1073 1968-11-22 art. 4 JORF 30 novembre 1968
+
+	**Abrogé par**:
+
+	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
 ###### Article D274
 
 **Nota:**
@@ -11276,6 +11358,31 @@ télégraphique dans les cas et conditions prévus par les règlements.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
+###### Article D276
+
+**Nota:**
+
+[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°68-1073 1968-11-22 art. 4 JORF 30 novembre 1968
 
 	**Abrogé par**:
 
@@ -12324,6 +12431,32 @@ intéressés.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D363
+
+La taxe globale d'une communication téléphonique internationale se compose des taxes terminales revenant aux pays de départ
+et d'arrivée et, s'il y a lieu, de la ou des taxes de transit revenant aux pays de transit.
+
+Les taxes terminales et de transit, déterminées sur la base du franc-or défini par les conventions internationales des
+télécommunications, résultent d'accords entre l'administration des postes et télécommunications et l'administration ou
+l'exploitation téléphonique du ou des pays intéressés.
+
+Les communications téléphoniques du régime international sont taxées d'après leur durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°68-1073 1968-11-22 art. 5 JORF 30 novembre 1968
 
 
 ###### Article D364
@@ -15266,11 +15399,16 @@ pour bénéficier de la franchise postale, ou expédiés par eux, sont exempts d
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-###### Article D543
+###### Article D544
+
+Dans les relations visées à l'article D. 540, les maxima applicables au montant des mandats postaux ou télégraphiques sont
+fixés par arrêté du ministre des postes et des communications électroniques.
 
 **Nota:**
 
-[*(Abrogé par décret n° 68-1073 du 22 novembre 1968)*]
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -15282,9 +15420,47 @@ pour bénéficier de la franchise postale, ou expédiés par eux, sont exempts d
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°68-1073 1968-11-22 art. 8 JORF 30 novembre 1968
+	  - Décret n°68-1073 1968-11-22 art. 6 JORF 30 novembre 1968
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D540 (Ab)
+
+
+###### Article D545
+
+Dans les relations visées à l'article D. 540, le montant total des envois quotidiens qu'un même expéditeur est admis à
+adresser à un même bénéficiaire est en principe illimité.
+
+Toutefois, le nombre de ces envois peut être momentanément limité. La décision doit être prise sur proposition ou après avis
+du trésorier du territoire intéressé, soit par le ministre des postes et des communications électroniques au départ de la
+France métropolitaine et des départements d'outre-mer, soit par le chef du territoire au départ de celui-ci.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°68-1073 1968-11-22 art. 6 JORF 30 novembre 1968
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D540 (Ab)
 
 
 #### (en vigueur jusqu'au 31 décembre 2005).
@@ -16476,6 +16652,443 @@ Une indemnité de gérance et de responsabilité est allouée à chacun des chef
 d'approvisionnement dans les conditions prévues pour les chefs de centre des postes et télécommunications.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
+
+
+# Annexes
+
+## LIVRE IV : L'organisation financière
+
+### TITRE II : Dispositions budgétaires
+
+#### CHAPITRE III : Remboursement de frais de travaux fournitures et cessions - Fonds de concours.
+
+###### Article Annexe II à l'article D570
+
+ANNEXE N° 2 A L'ARTICLE D. 570
+
+CONVENTION
+
+relative à l'établissement d'une ligne d'abonnement principal téléphonique desservant le domicile de M. . .    et aux
+installations nécessaires à l'utilisation de cette ligne
+
+Entre l'Etat (administration des postes et télécommunications), représenté par le préfet de la région . ou le directeur
+régional des télécommunications, à .,                d'une part,
+
+et M. ., domicilié à .                d'autre part,
+
+il a été convenu et arrêté ce qui suit :
+
+Art. 1er. - M. . s'engage à faire à l'administration des postes et télécommunications une avance sans intérêt de . francs,
+représentant les dépenses afférentes à l'établissement d'une ligne d'abonnement principal téléphonique desservant son
+domicile et aux installations nécessaires à l'utilisation de cette ligne.
+
+Cette participation est consentie en exécution des dispositions des articles R. 64 et D. 570 du code des postes et
+télécommunications.
+
+Art. 2. -La somme prévue à l'article 1er sera mise à la disposition de l'administration des postes et télécommunications au
+plus tard le . (2), par :
+
+versement au .(1) (2)   virement au .(1) (2)
+
+L'exécution des travaux sera subordonnée à l'accomplissement de cette formalité.
+
+Art. 3. - Les travaux seront exécutés par les soins ou pour le compte de l'administration des postes et télécommunications.
+
+L'Etat demeurera propriétaire des installations réalisées.
+
+Art. 4. - L'administration des postes et télécommunications remboursera l'avance faite dans un délai maximum de dix ans à
+partir de la date de mise en service de la ligne.
+
+Dans ce but, le montant de cette avance, déduction faite de la taxe de raccordement, du dépôt de garantie et, le cas échéant,
+des parts contributives calculées au taux en vigueur à la date du versement, sera porté au crédit du compte du nouvel abonné.
+
+Sur ce crédit, seront imputés annuellement, dans les limites de la somme disponible :
+
+a) Les diverses redevances relatives à l'abonnement;
+
+b) Le montant des communications du régime intérieur.
+
+Art. 5. - A l'expiration de la période de dix années prévue à l'article 4, le solde éventuel du crédit ouvert sera remboursé
+en numéraire.
+
+Cette disposition reste applicable en cas de résiliation pure et simple du contrat intervenant du fait de l'abonné.
+
+Art. 6. - La présente convention ne dispense pas de la souscription de l'engagement d'abonnement réglementaire; toutefois,
+l'application des clauses contraires à celles stipulées dans les articles ci-dessus est suspendue pendant la durée de la
+convention.
+
+Fait à ., le .
+
+(1) Rayer la mention inutile.
+
+(2) Compléter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R64 et D570
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
+
+
+###### Article Annexe III à l'article D570
+
+ANNEXE N° 3 A L'ARTICLE D. 570
+
+CONVENTION
+
+relative à l'établissement d'une ligne d'abonnement principal
+
+"Télex" desservant :
+
+le domicile de M (1) .
+
+le bureau de M (1) .
+
+et aux installations nécessaires à l'utilisation de cette ligne.
+
+Entre l'Etat (administration des postes et télécommunications), représenté par le préfet de la région . ou le directeur
+régional des télécommunications, à .,   d'une part,
+
+et M ., domicilié à .    d'autre part,
+
+il a été convenu et arrêté ce qui suit :
+
+Art. 1er. - M. . s'engage à verser à l'administration des postes et télécommunications une contribution de . francs,
+représentant le montant des dépenses afférentes à l'établissement d'une ligne d'abonnement principal "Télex" desservant son
+domicile (1) son bureau (1) et aux installations nécessaires à l'utilisation de cette ligne.
+
+Cette participation est consentie en exécution des dispositions des articles R. 64 et D. 570 du code des postes et
+télécommunications.
+
+Art. 2. -La somme prévue à l'article 1er sera mise à la disposition de l'administration des postes et télécommunications au
+plus tard le . (2), par :    versement au .(1) (2)  virement au .(1) (2)
+
+L'exécution des travaux sera subordonnée à l'accomplissement de cette formalité.
+
+Art. 3. - Les travaux seront exécutés par les soins ou pour le compte de l'administration des postes et télécommunications.
+
+L'Etat demeurera propriétaire des installations réalisées.
+
+Art. 4. - En contrepartie de cette contribution, l'abonné sera dispensé pendant . années de la redevance de location de
+l'appareil téléimprimeur mis à sa disposition, à l'exclusion de tout organe accessoire ajouté sur sa demande à cet appareil.
+
+Il continuera à régler sur la base des tarifs en vigueur la redevance d'entretien de cet appareil.
+
+A l'expiration de la . année, l'appareil sera soumis au tarif de location de droit commun.
+
+Art. 5 - Pendant la durée de la présente convention :
+
+- le transfert de l'appareil visé à l'article précédent sera admis sans qu'il en résulte une modification quelconque des
+conditions d'application de la convention :
+
+- la cession de l'appareil sera également admise, le concessionnaire se trouvant substitué pour la durée de la convention
+restant à courir aux droits du cédant :
+
+- la résiliation pure et simple du contrat intervenant du fait de l'abonné entraîne acquisition définitive au profit de
+l'administration des postes et télécommunications de la contribution définie à l'article 1er.
+
+Art. 6. - La présente convention ne dispense pas de la souscription de l'engagement d'abonnement réglementaire ; toutefois,
+l'application des clauses contraires à celles stipulées dans les articles ci-dessus est suspendue pendant la durée de la
+
+convention.
+
+Fait à ., le .
+
+(1) Rayer la mention inutile.
+
+(2) Compléter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R64 et D570
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
+
+
+###### Article Annexe IV à l'article D570
+
+ANNEXE N° 4 A L'ARTICLE D. 570
+
+CONVENTION
+
+relative à l'extension (1), à la modernisation (1) :
+
+du
+
+réseau (1)
+
+centre téléphonique (1)
+
+centre télégraphique (1)
+
+groupement (1)
+
+.(1)
+
+de .
+
+Entre l'Etat (administration des postes et télécommunications), représenté par le préfet de la région . ou le directeur
+régional des télécommunications, à .,               d'un part,
+
+et M. . agissant au nom et pour le compte de . en vertu de la délibération du . dont extrait est joint ;
+d'autre part,
+
+il a été convenu et arrêté ce qui suit :
+
+Art. 1er. - Le . s'engage à mettre à la disposition de l'administration des postes et télécommunications, à titre de
+participation au financement des travaux d'extension (1), de modernisation (1) :
+
+du
+
+réseau (1)
+
+centre téléphonique (1)
+
+centre télégraphique (1)
+
+groupement (1)
+
+.(1)
+
+de .
+
+la somme de . francs, représentant :
+
+la totalité (1) les . (1)
+
+du montant des travaux
+
+Cette participation est consentie en exécution des dispositions des articles R. 64 et D. 570 du code des postes et
+télécommunications.
+
+Art. 2. - La somme prévue à l'article sera mise à la disposition de l'administration des postes et télécommunications au plus
+tard le (2), par :               virement au .(1) (2)                              versement au .(1) (2)
+L'exécution des travaux sera subordonnée à l'accomplissement de cette formalité.
+
+Art. 3. - L'avance faite par le . à l'administration des postes et télécommunications est consentie sans intérêt (2).
+
+Art. 4. - Chaque année, jusqu'au remboursement intégral de l'avance, l'administration des postes et télécommunications
+inscrira, parmi ses dépenses d'exploitation, une somme destinée à l'amortissement de l'avance à elle consentie égale :
+
+au supplément (1)
+
+aux . (1)   (2) du supplément (1) de recettes d'exploitation constatées dans le réseau (1) groupement (1) de . entre l'année
+de mise à disposition de l'avance et l'avant-dernière année précédant l'année budgétaire considérée.
+
+A titre de garantie, cette somme sera, en tout cas, au moins égale à 6,66 du montant de l'avance.
+
+Art. 5. - Le . déclare faire son affaire propre de toutes les
+
+démarches à charges et frais occasionnés par la collecte de l'avance par lui consentie à l'administration des postes et
+télécommunications.
+
+Art. 6. - Les travaux seront exécutés par les soins de l'administration des postes et télécommunications.
+
+L'Etat demeurera propriétaire des installations réalisées.
+
+Fait à ., le .    (1) Rayer la mention inutile.
+
+(1) Rayer la mention inutile.
+
+(2) Compléter.
+
+(2) Compléter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R64 et D570
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
+
+
+###### Article Annexe V à l'article D570
+
+ANNEXE N° 5 A L'ARTICLE D. 570
+
+CONVENTION
+
+relative à l'équipement téléphonique de l'ensemble immobilier de .
+
+Entre l'Etat (administration des postes et télécommunications), représenté par le préfet de la région . ou le directeur
+régional des télécommunications, à .,
+
+D'une part,
+
+et la société ., représentée par M. ., en vertu d'une délibération de son conseil d'administration en date du . 
+
+D'autre part,
+
+il a été convenu et arrêté ce qui suit :
+
+Art. 1er. - La société . s'engage à faire à l'administration des postes et télécommunications une avance sansintérêt de .
+francs, représentant les dépenses afférentes à l'équipement téléphonique de l'ensemble immobilier de . et à son raccordement
+au réseau général.
+
+Cette avance est consentie en exécution des dispositions des articles R. 64 et D. 570 du code des postes et
+télécommunications.
+
+Art. 2. -La somme prévue à l'article 1er sera mise à la disposition de l'administration des postes et télécommunications
+par :
+
+versement (1) virement (1)   au . avant le .
+
+L'exécution des travaux sera subordonnée à l'accomplissement de cette formalité.
+
+Art. 3. - Les travaux seront exécutés par les soins ou pour le compte de l'administration des postes et télécommunications.
+
+L'Etat demeurera propriétaire des installations réalisées.
+
+Art. 4. - L'administration des postes et télécommunications remboursera l'avance faite en cinq annuités égales au cinquième
+du montant de cette avance à partir de la date de mise en service de la première ligne téléphonique d'abonnement.
+
+Art. 5 - La présente convention ne dispense pas de la souscription des engagements réglementaires ; toutefois, l'application
+des clauses contraires à celles stipulées dans les articles ci-dessus est suspendue pendant la durée de la convention.
+
+Fait à ., le .
+
+(1) Rayer la mention inutile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R64 et D570
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 2 (V) JORF 29 mars 1997
+
+
+###### Article Annexe VI à l'article D570
+
+ANNEXE N° 6 A L'ARTICLE D. 570
+
+CONVENTION
+
+relative à la création (1) l'extension (1)
+
+du service spécial de .
+
+Entre l'Etat (administration des postes et télécommunications), représenté par le préfet de la région . ou le directeur
+régional des télécommunications, à .,
+
+D'une part,
+
+et la société ., représentée par M. . en vertu d'une délibération de son conseil d'administration,
+
+D'autre part,
+
+il a été convenu et arrêté ce qui suit :
+
+Art. 1er. - La société . s'engage à faire à l'administration des postes et télécommunications une avance sans intérêt de .
+francs, représentant les dépenses afférentes à :
+
+l'équipement du (1) des (1)
+
+centres téléphoniques de .
+
+en vue
+
+de créer (1) d'étendre (1)
+
+le service spécial de .
+
+Cette avance est consentie en exécution des dispositions des articles R. 64 et D. 570 du code des postes et
+télécommunications.
+
+Art. 2. -La somme prévue à l'article 1er sera mise à la disposition de l'administration des postes et télécommunication par :
+
+versement (1) virement (1)
+
+au . avant le .
+
+L'exécution des travaux sera subordonnée à l'accomplissement de cette formalité.
+
+Art. 3. - Les travaux seront exécutés par les soins ou pour le compte de l'administration des postes et télécommunications.
+
+L'Etat demeurera propriétaire des installations réalisées.
+
+Art. 4. - L'administration des postes et télécommunication remboursera l'avance faite à l'aide :
+
+du produit (1) de l'augmentation (1)
+
+des communications à destination du service spécial ainsi créé (1) étendu (1)
+
+à partir de la mise en service du premier équipement installé pour l'exécution de ce service dans le centre de . à l'aide de
+l'avance dont il s'agit.
+
+A titre de garantie, cette somme sera en tout cas au moins égale, chaque année, à 6,66 p. 100 du montant de l'avance.
+
+Art. 5. - La présente convention ne dispense pas de la souscription des engagements réglementaires ; toutefois, l'application
+des clauses contraires à celles stipulées dans les articles ci-dessus est suspendue pendant la durée de la convention.
+
+Fait à ., le . 
+
+(1) Rayer la mention inutile.
+
+(1) Rayer la mention inutile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R64 et D570
 
 	**Codifié par**:
 
