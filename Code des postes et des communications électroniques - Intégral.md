@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1964-05-16
+Version Consolidée au 1964-10-01
 
 # Partie législative
 
@@ -9614,29 +9614,6 @@ doivent être choisis uniquement parmi les modèles types agréés par l'adminis
 	**Abrogé par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-
-##### 17. : Télégrammes à ne pas faire suivre (régime intérieur seulement).
-
-###### Article D169
-
-**Nota:**
-
-[*(Abrogé par le décret n° 64-422 du 14 mai 1964)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°64-422 1964-05-14 art. 1 JORF 16 mai 1964 rectificatif JORF 11 juillet 1964
 
 
 ##### 18. : Télégrammes réexpédiés.
