@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-10-06
+Version Consolidée au 2001-11-16
 
 # Partie législative
 
@@ -1436,6 +1436,129 @@ télécommunications, ainsi que les membres de leur personnel, sont tenus de res
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+###### Article L32-3-1
+
+I. - Les opérateurs de télécommunications, et notamment ceux mentionnés à l'article 43-7 de la loi n° 86-1067 du 30 septembre
+1986 précitée, sont tenus d'effacer ou de rendre anonyme toute donnée relative à une communication dès que celle-ci est
+achevée, sous réserve des dispositions des II, III et IV.
+
+II. - Pour les besoins de la recherche, de la constatation et de la poursuite des infractions pénales, et dans le seul but de
+permettre, en tant que de besoin, la mise à disposition de l'autorité judiciaire d'informations, il peut être différé pour
+une durée maximale d'un an aux opérations tendant à effacer ou à rendre anonymes certaines catégories de données techniques.
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine, dans
+les limites fixées par le IV, ces catégories de données et la durée de leur conservation, selon l'activité des opérateurs et
+la nature des communications ainsi que les modalités de compensation, le cas échéant, des surcoûts identifiables et
+spécifiques des prestations assurées à ce titre, à la demande de l'Etat, par les opérateurs.
+
+III. - Pour les besoins de la facturation et du paiement des prestations de télécommunications, les opérateurs peuvent,
+jusqu'à la fin de la période au cours de laquelle la facture peut être également contestée ou des poursuites engagées pour en
+obtenir le paiement, utiliser, conserver et, le cas échéant, transmettre à des tiers concernés directement par la facturation
+ou le recouvrement les catégories de données techniques qui sont déterminées, dans les limites fixées par le IV, selon
+l'activité des opérateurs et la nature de la communication, par décret en Conseil d'Etat pris après avis de la Commission
+nationale de l'informatique et des libertés.
+
+Les opérateurs peuvent en outre réaliser un traitement de ces données en vue de commercialiser leurs propres services de
+télécommunications, si les usagers y consentent expressément et pour une durée déterminée. Cette durée ne peut, en aucun cas,
+être supérieure à la période correspondant aux relations contractuelles entre l'usager et l'opérateur.
+
+IV. - Les données conservées et traitées dans les conditions définies aux II et III portent exclusivement sur
+l'identification des personnes utilisatrices des services fournis par les opérateurs et sur les caractéristiques techniques
+des communications assurées par ces derniers.
+
+Elles ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous
+quelque forme que ce soit, dans le cadre de ces communications.
+
+La conservation et le traitement de ces données s'effectuent dans le respect des dispositions de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Les opérateurs prennent toutes mesures pour empêcher une utilisation de ces données à des fins autres que celles prévues au
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L32-3-2
+
+La prescription est acquise, au profit des opérateurs mentionnés aux articles L. 33-1, L. 34-1 et L. 34-2, pour toutes
+demandes en restitution du prix de leurs prestations de télécommunications présentées après un délai d'un an à compter du
+jour du paiement.
+
+La prescription est acquise, au profit de l'usager, pour les sommes dues en paiement des prestations de télécommunications
+d'un opérateur appartenant aux catégories visées au précédent alinéa lorsque celui-ci ne les a pas réclamées dans un délai
+d'un an courant à compter de la date de leur exigibilité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-1, L34-1, L34-2
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L34-2 (M)
+
+
+###### Article L32-3-3
+
+Les dispositions des articles L. 32-3-1 et L. 32-3-2 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans
+les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32-3-1, L32-3-2
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 2001-11-15 art. 71 JORF 16 novembre 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 126 I 1° JORF 19 mars 2003
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L34-4 (V)
 
 
 ###### Article L32-4
@@ -3982,6 +4105,61 @@ l'article L. 33-1.
 	  - Code des postes et des communications électroni... - art. L39-2-1 (V)
 
 
+###### Article L39-3
+
+I. - Est puni d'un an d'emprisonnement et de 75000 euros d'amende [*taux*] le fait pour un opérateur de télécommunications ou
+ses agents :
+
+1° De ne pas procéder aux opérations tendant à effacer ou à rendre anonymes les données relatives aux communications dans les
+cas où ces opérations sont prescrites par la loi ;
+
+2° De ne pas procéder à la conservation des données techniques dans les conditions où cette conservation est exigée par la
+loi.
+
+Les personnes physiques coupables de ces infractions encourent également l'interdiction, pour une durée de cinq ans au plus,
+d'exercer l'activité professionnelle à l'occasion de laquelle l'infraction a été commise.
+
+II. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2
+du code pénal, des infractions définies au I.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° La peine mentionnée au 2° de l'article 131-9 du code pénal, pour une durée de cinq ans au plus ;
+
+3° La peine mentionnée au 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-9 du code pénal porte sur l'activité professionnelle dans l'exercice ou à
+l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 131-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L39-10 (V)
+	  - Code des postes et des communications électroni... - art. L39-3-1 (V)
+
+
 ###### Article L39-4
 
 Sera puni de trois mois d'emprisonnement et de 200000 F d'amende [* taux *] ou de l'une de ces deux peines seulement
@@ -5923,6 +6101,30 @@ la tranquillité de l'appelé, s'opposer à l'identification par l'appelé de so
 
 
 #### Chapitre V : Dispositions pénales.
+
+###### Article L39-3-1
+
+Les dispositions de l'article L. 39-3 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis
+et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 2001-11-15 art. 71 JORF 16 novembre 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L39-3 (V)
+
 
 ###### Article L39-5
 
