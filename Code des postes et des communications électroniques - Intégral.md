@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1977-02-06
+Version Consolidée au 1977-04-01
 
 # Partie législative
 
@@ -12741,6 +12741,28 @@ L'abonné est responsable de l'usage du ou des postes téléphoniques d'abonneme
 
 
 ##### Paragraphe 2 : Abonnements principaux permanents
+
+##### 2. : Abonnements principaux ordinaires.
+
+###### Article D321
+
+L'abonnement principal ordinaire donne droit à l'usage d'un poste téléphonique relié au commutateur téléphonique considéré
+par l'administration comme le mieux placé pour desservir l'abonné, compte tenu de l'importance de son trafic téléphonique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°77-351 1977-03-28 art. 1 et 4 JORF 1er avril 1977
+
 
 ##### 4. : Abonnements à ligne partagée.
 
