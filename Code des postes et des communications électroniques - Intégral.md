@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1996-07-27
+Version Consolidée au 1996-11-30
 
 # Partie législative
 
@@ -15269,6 +15269,805 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 ### TITRE Ier : Dispositions générales
 
+#### Chapitre Ier : Principes et définitions.
+
+##### Paragraphe 1 : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.
+
+###### Article D96-1
+
+Les députés, membres de la commission supérieure du service public des postes et des communications électroniques sont
+désignés pour la durée de la législature au cours de laquelle ils sont nommés.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D570
+	  - Code des postes et des communications électronique - art. D570 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-2
+
+Les sénateurs sont désignés pour une période de trois ans. Après chaque renouvellement par tiers du Sénat, il est procédé à
+une nouvelle nomination du collège des sénateurs pour une durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D571 (V)
+	  - Code des postes et télécommunications électroniques D571
+
+
+###### Article D96-3
+
+Les personnalités qualifiées dans les secteurs des postes et communications électroniques sont nommées par arrêté du ministre
+chargé des postes et des communications électroniques pour une durée de trois ans.
+
+Ces personnalités ne peuvent exercer des fonctions soit auprès du ministre chargé des postes et des communications
+électroniques ou des établissements relevant de celui-ci, soit auprès de l'Autorité de régulation des télécommunications,
+soit auprès des opérateurs des secteurs des postes et communications électroniques, ni conserver, ni prendre durant leurs
+fonctions au sein de la commission, par eux-mêmes ou par personne interposée, des intérêts de nature à compromettre leur
+indépendance.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D572 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D96-6 (T)
+
+
+###### Article D96-4
+
+Les membres de la commission veillent à garantir la confidentialité des faits, informations ou documents dont ils ont
+connaissance dans l'exercice ou à l'occasion de l'exercice de leurs fonctions au sein de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D573 (V)
+	  - Code des postes et télécommunications électroniques D573
+
+
+###### Article D96-5
+
+La commission élit en son sein un président et deux vice-présidents choisis parmi les membres parlementaires pour une durée
+de trois ans.
+
+Les candidatures à la présidence de la commission doivent être déposées au secrétariat de celle-ci quinze jours avant la
+réunion consacrée à l'élection. Toutefois, à l'occasion de la première installation de la commission, aucun délai n'est
+exigé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D574
+	  - Code des postes et des communications électronique - art. D574 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-6
+
+Les membres de la commission perdent cette qualité en même temps que les mandats au titre desquels ils ont été désignés ou
+lorsqu'ils cessent de remplir les conditions prévues à l'article D. 96-3.
+
+En cas de vacance d'un siège, la durée de la nouvelle nomination est limitée à la période restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D575
+	  - Code des postes et des communications électronique - art. D575 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D96-3 (M)
+
+
+##### Paragraphe 2 : Attributions de la commission supérieure du service public des postes et des communications électroniques.
+
+###### Article D96-7
+
+La commission est consultée par le ministre chargé des postes et des communications électroniques ;
+
+1° Sur les projets de modification de la législation spécifique aux secteurs des postes et communications électroniques ;
+
+2° Sur les propositions de directives communautaires relatives aux secteurs des postes et communications électroniques ;
+
+3° Sur les projets et modifications des cahiers des charges et, le cas échéant, des contrats de plan de La Poste et des
+opérateurs chargés du service universel des communications électroniques ;
+
+4° Sur les rapports du Gouvernement au Parlement visés à l'article L. 35-7 du présent code et à l'article 23 de la loi n°
+96-659 du 26 juillet 1996 de réglementation des communications électroniques.
+
+Dans le cadre de cette procédure, le ministre met à disposition de la commission tout document que celle-ci estime nécessaire
+pour formuler un avis.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Cite**:
+
+	  - Loi n°96-659 du 26 juillet 1996 - art. 23 (V)
+	  - Code des postes et des communications électronique - art. L35-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D576 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D96-16 (T)
+
+
+###### Article D96-8
+
+Le ministre chargé des postes et des communications électroniques peut saisir pour avis la commission sur tout sujet entrant
+dans le domaine de compétence de celle-ci.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D577 (V)
+	  - Code des postes et télécommunications électroniques D577
+
+
+###### Article D96-9
+
+La commission examine les conditions dans lesquelles La Poste et France Télécom exécutent leurs missions et veille, avec le
+ministre chargé des postes et des communications électroniques, au respect des dispositions des contrats de plan et des
+cahiers des charges.
+
+Plus généralement, elle veille à l'évolution équilibrée des secteurs des postes et communications électroniques, ainsi qu'au
+respect des principes du service public, et notamment du service universel dans le secteur des communications électroniques,
+dans les conditions prévues par l'article L. 32-2.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D578 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32-2 (M)
+
+
+###### Article D96-10
+
+La commission peut décider, à l'initiative de son président et à la majorité de ses membres, de se saisir de toute question
+entrant dans son domaine de compétence, et faire connaître à tout moment ses observations et recommandations. Dans ce cas,
+elle en informe préalablement le ministre chargé des postes et des communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D579
+	  - Code des postes et des communications électronique - art. D579 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-11
+
+La commission peut recueillir toutes les informations utiles à l'accomplissement de ses missions.
+
+Plus généralement, la commission peut procéder à toute audition qu'elle estime nécessaire au bon accomplissement de ses
+missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D580 (V)
+	  - Code des postes et télécommunications électroniques D580
+
+
+###### Article D96-12
+
+La commission peut décider, à l'initiative de son président et à la majorité de ses membres, de demander au ministre chargé
+des postes et des communications électroniques de faire procéder par l'inspection générale des postes et communications
+électroniques à toute étude ou investigation concernant La Poste et France Télécom, ou, plus généralement, le domaine de
+compétence de la commission.
+
+Le rapport ou l'étude de l'inspection générale est remis par le ministre chargé des postes et des communications
+électroniques au président de la commission dans les délais fixés d'un commun accord.
+
+Dans le cadre de cette procédure, la commission peut procéder à toutes investigations qu'elle estime utiles auprès de chacun
+des deux opérateurs.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D581 (V)
+
+
+###### Article D96-13
+
+La commission peut être consultée par l'Autorité de régulation des télécommunications et par les commissions permanentes de
+l'Assemblée nationale et du Sénat sur les questions relevant de leurs compétences spécifiques en matière de postes et
+communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D582
+	  - Code des postes et des communications électronique - art. D582 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-14
+
+La commission peut saisir l'Autorité de régulation des télécommunications sur des questions concernant la compétence de cette
+autorité en matière de contrôle et de sanction du respect, par les opérateurs, des obligations de service public et service
+universel résultant des dispositions législatives et réglementaires qui leur sont applicables en vertu du code des postes et
+des communications électroniques et des autorisations dont ils bénéficient.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D583 (V)
+	  - Code des postes et télécommunications électroniques D583
+
+
+###### Article D96-15
+
+La commission rend ses avis dans le délai d'un mois à compter de sa saisine par l'autorité qui la saisit.
+
+Toutefois, en cas d'urgence, celle-ci peut demander un avis dans un délai plus bref qu'elle fixe après consultation du
+président de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D584 (V)
+	  - Code des postes et télécommunications électroniques D584
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D96-21 (T)
+
+
+###### Article D96-16
+
+Les avis de la commission, qui sont obligatoirement motivés en vertu de l'article 35 de la loi n° 90-568 du 2 juillet 1990
+modifiée relative à l'organisation du service public de la poste et des communications électroniques et rendus dans le cadre
+d'une consultation prévue au 3° de l'article D. 96-7, sont notifiés au ministre chargé des postes et des communications
+électroniques et publiés dans un délai d'un mois après cette transmission, ou, le cas échéant, lors de la publication des
+documents concernés.
+
+Les autres avis rendus dans le cadre d'une consultation prévue à l'article D. 96-7 ainsi que les avis, observations ou
+recommandations émis dans le cadre du présent décret peuvent être rendus publics par décision de la commission avec l'accord
+de l'autorité qui l'a saisie.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+L'article 124 (2°) de cette même loi a abrogé l'article 35 de la loi n° 90-568 du 2 juillet 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Cite**:
+
+	  - Loi n°90-568 1990-07-02 art. 35
+	  - Code des postes et des communications électronique - art. D96-7 (T)
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D585 (V)
+
+
+###### Article D96-17
+
+La commission établit un rapport annuel qui comprend obligatoirement un bilan de l'exercice du service public des postes et
+communications électroniques sur l'ensemble du territoire. Ce rapport comporte un chapitre concernant particulièrement le
+service universel des communications électroniques ainsi qu'un chapitre sur la mise en oeuvre des missions d'intérêt général
+définies au troisième alinéa de l'article L. 35-6. Ce rapport est établi après que la commission a pris connaissance du
+rapport annuel de l'Autorité de régulation des télécommunications. Il relate en outre les activités de la commission et
+répertorie les avis publics qu'elle a émis au cours de l'exercice écoulé.
+
+Ce rapport est remis au Premier ministre et aux présidents de l'Assemblée nationale et du Sénat. Il est rendu public.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D586
+	  - Code des postes et des communications électronique - art. D586 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L35-6 (M)
+
+
+##### Paragraphe 3 : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.
+
+###### Article D96-18
+
+La commission établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D587
+	  - Code des postes et des communications électronique - art. D587 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-19
+
+La commission se réunit en séances ordinaires au moins une fois tous les deux mois sur convocation de son président
+comportant l'ordre du jour de la séance fixé par le président Une question est inscrite de droit à l'ordre du jour si sept
+membres de la commission au moins en font la demande.
+
+La convocation est adressée dix jours au moins avant la date de la réunion. En cas d'urgence, aucun délai n'est imparti.
+
+La commission est réunie de droit sur un ordre du jour déterminé si au moins sept de ses membres en font la demande au
+président. Celui-ci procède alors à la convocation dans un délai de dix jours à compter de la saisine.
+
+En cours de séance, avec l'accord des membres présents, le président peut procéder à la modification de l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D588 (V)
+	  - Code des postes et télécommunications électroniques D588
+
+
+###### Article D96-20
+
+Lors de la première réunion destinée à l'élection de son président, la commission est convoquée et présidée par le doyen de
+ses membres parlementaires.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D589
+	  - Code des postes et des communications électronique - art. D589 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-21
+
+La commission délibère sur les affaires de sa compétence. Elle ne peut valablement délibérer que si neuf de ses membres en
+exercice sont présents ou représentés. Si ce quorum n'est pas atteint, la commission est convoquée à nouveau dans un délai de
+dix jours et délibère alors à la majorité des membres présents ou représentés.
+
+En cas de partage des voix, le président dispose d'une voix prépondérante.
+
+Les membres de la commission peuvent déléguer leur droit de vote. Chaque membre ne peut recevoir plus d'un mandat.
+
+Le président de la commission prend toute mesure nécessaire à la mise en oeuvre des dispositions de l'article D. 96-15. Il
+peut, en particulier, en cas d'urgence, décider de recourir à une consultation écrite selon des modalités prévues par le
+règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D590
+	  - Code des postes et des communications électronique - art. D590 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D96-15 (T)
+
+
+###### Article D96-22
+
+Chaque réunion fait l'objet d'un procès-verbal signé du président de la commission.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D591
+	  - Code des postes et des communications électronique - art. D591 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-23
+
+La commission gère son secrétariat auquel le ministère chargé des postes et communications électroniques apporte son
+concours.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D592
+	  - Code des postes et des communications électronique - art. D592 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+###### Article D96-24
+
+Les moyens nécessaires au fonctionnement de la commission et à l'accomplissement de ses missions sont inscrits au budget du
+ministère chargé des postes et des communications électroniques. Les dépenses décidées par le président de la commission,
+dans le cadre de ce budget, sont ordonnancées par le ministre chargé des postes et des communications électroniques.
+
+Les prévisions de moyens de la commission pour l'année suivante sont adressées, chaque année en temps utile, par son
+président au ministre chargé des postes et des communications électroniques en vue de la préparation du budget de son
+département.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D593
+	  - Code des postes et des communications électronique - art. D593 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
 #### CHAPITRE III : Télégraphe
 
 ##### SECTION 1 : Service télégraphique
@@ -19434,9 +20233,9 @@ règlements internationaux en vigueur.
 
 #### CHAPITRE Ier : Principes et définitions
 
-##### Paragraphe 1 : Commission consultative des radiocommunications.
+##### Paragraphe 4 : Commission consultative des radiocommunications.
 
-###### Article D96-1
+###### Article D97-1
 
 La commission consultative des radiocommunications est composée de vingt et un membres nommés par arrêté du ministre chargé
 des télécommunications. Elle comprend :
@@ -19487,6 +20286,14 @@ télécommunications.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D97-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D99-4 (V)
+
 	**Cite**:
 
 	  - Code des postes et télécommunications L33-2, L34-3, L33-3, L33-1
@@ -19495,18 +20302,14 @@ télécommunications.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°94-860 du 29 septembre 1994 - art. 1 () JORF 6 octobre 1994
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D570 (V)
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
 
 
-##### Paragraphe 2 : Commission consultative des services de télécommunications.
+##### Paragraphe 5 : Commission consultative des services de télécommunications.
 
-###### Article D96-2
+###### Article D97-2
 
 La commission consultative des services de télécommunications est composée de vingt et un membres nommés par arrêté du
 ministre chargé des télécommunications. Elle comprend :
@@ -19561,26 +20364,30 @@ rendre publics ses avis. Dans ce cas, elle en informe le ministre chargé des t�
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-2, L34-5
-
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°94-860 du 29 septembre 1994 - art. 2 () JORF 6 octobre 1994 rectificatif JORF 3 décembre 1994
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D97-3 (T)
 
 	**Nouveaux textes**:
 
-	  - Code des postes et des communications électronique - art. D571 (V)
+	  - Code des postes et des communications électronique - art. D99-5 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-2, L34-5
 
 
-##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.
+##### Paragraphe 6 : Organisation et fonctionnement des commissions consultatives.
 
-###### Article D96-3
+###### Article D97-3
 
 Le président de chacune des commissions est désigné par le ministre chargé des télécommunications parmi les personnalités
 qualifiées, membres de ces commissions. Il a voix prépondérante en cas de partage des voix.
@@ -19612,72 +20419,13 @@ extérieur.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°94-860 du 29 septembre 1994 - art. 3 () JORF 6 octobre 1994
+	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
 
 	**Nouveaux textes**:
 
-	  - Code des postes et des communications électronique - art. D572 (V)
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D96-6 (T)
-
-
-#### CHAPITRE III : Télégraphe
-
-##### SECTION 1 : Service télégraphique
-
-##### Paragraphe 1 : Ouverture des bureaux télégraphiques.
-
-###### Article D97
-
-Les centres télégraphiques sont ouverts aux services des transmissions et de la remise suivant un horaire fixé par
-l'administration des télécommunications.
-
-Les bureaux télégraphiques sont ouverts aux services des transmissions et de la distribution suivant un horaire fixé par
-l'administration de la poste.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
-
-
-###### Article D99
-
-Des prolongations d'ouverture peuvent être autorisées en considération des besoins particuliers de certains bureaux ou sur
-demande de collectivités, organismes divers, etc.
-
-Les frais résultant de la prolongation d'ouverture sont, dans ce dernier cas, supportés par les demandeurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°96-1035 du 28 novembre 1996 - art. 1 (V) JORF 30 novembre 1996
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D99-3 (M)
+	  - Code des postes et des communications électronique - art. D99-5-1 (V)
 
 
 #### CHAPITRE IV : Téléphone
