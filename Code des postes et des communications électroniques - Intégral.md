@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1984-04-19
+Version Consolidée au 1984-05-01
 
 # Partie législative
 
@@ -13096,213 +13096,6 @@ télégraphique dans les cas et conditions prévus par les règlements.
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### SECTION 2 : Service pneumatique.
-
-###### Article D268
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D269
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D270
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D271
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D272
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D273
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°68-1073 1968-11-22 art. 4 JORF 30 novembre 1968
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D274
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°64-422 1964-05-14 art. 1 JORF 16 mai 1964 rectificatif JORF 11 juillet 1964
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D275
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D276
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°68-1073 1968-11-22 art. 4 JORF 30 novembre 1968
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
 ##### SECTION 3 : Service télex
 
 ##### Paragraphe 1er : Généralités.
@@ -14105,92 +13898,6 @@ faisceau de lignes principales desservant une même installation.
 	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
 
 
-##### 4. : Abonnements à ligne partagée.
-
-###### Article D324
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D325
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D326
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D327
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
 ##### 5. : Abonnements spéciaux.
 
 ###### Article D329
@@ -14238,6 +13945,29 @@ heures d'ouverture, la qualité du service fourni et la taxation des communicati
 
 ##### Paragraphe 4 : Abonnements supplémentaires permanents.
 
+###### Article D334
+
+Quand une ligne d'abonnement téléphonique est équipée de conjoncteurs permettant son utilisation à partir de différents
+points, dans un même local, la section de ligne comprise entre deux conjoncteurs consécutifs n'est pas considérée comme ligne
+supplémentaire ; il en est de même de la section de ligne permettant de substituer un répondeur automatique au poste
+téléphonique pendant l'absence de l'abonné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°72-324 1972-04-28 art. 1 JORF 29 avril 1972 rectificatif JORF 18 mai 1972
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
 ###### Article D335
 
 **Nota:**
@@ -14264,6 +13994,38 @@ heures d'ouverture, la qualité du service fourni et la taxation des communicati
 
 
 ##### Paragraphe 6 : Suspension et résiliation des abonnements.
+
+###### Article D337
+
+Un abonnement permanent peut être résilié par le titulaire sur avis donné à l'administration des P.T.T.
+
+Un abonnement temporaire prend fin automatiquement au moment prévu lors de la demande ; il peut être résilié plus tôt, sur
+avis donné à l'administration des postes et télécommunications quinze jours avant l'expiration de la période mensuelle en
+cours [*délai*]. Il ne peut être prorogé qu'en cas de circonstances exceptionnelles et après accord de l'administration des
+P.T.T.
+
+La résiliation d'un abonnement principal entraîne la résiliation des abonnements supplémentaires correspondants.
+
+L'administration des P.T.T. peut, à tout moment, et même avant l'expiration de la durée minimale, mettre fin à un abonnement.
+Lors de la résiliation d'un abonnement, du fait de l'administration, ou du fait de l'abonné au-delà du délai minimal
+obligatoire, la partie des redevances principales et accessoires versée à l'avance et correspondant à la période pendant
+laquelle l'abonnement n'est plus en vigueur est remboursée à l'abonné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 3 JORF 15 septembre 1970
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
 
 ###### Article D340
 
@@ -14335,31 +14097,6 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
 
 
-###### Article D344
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
 ##### 2. : Transformation des abonnements.
 
 ###### Article D348
@@ -14382,48 +14119,6 @@ titulaire de l'abonnement dont la transformation est demandée des conditions fi
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-###### Article D349
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D350
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
 ###### Article D351
 
 **Nota:**
@@ -14443,48 +14138,6 @@ titulaire de l'abonnement dont la transformation est demandée des conditions fi
 	**Abrogé par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-
-###### Article D352
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D353
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
 ###### Article D355
@@ -14878,13 +14531,23 @@ donnée au demandeur, eu égard à l'intérêt général.
 
 ##### 1. : Lignes permanentes.
 
-###### Article D387
+###### Article D386
 
-**Nota:**
+Une ligne d'intérêt privé ne peut être autorisée qu'à titre exceptionnel et révocable par l'administration des P.T.T. dans
+les conditions indiquées à l'article D. 368.
 
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
+Elle est constituée par une voie de communication établie et entretenue par le permissionnaire sans que le support de
+transmission emprunte en totalité ou en partie l'infrastructure constitutive du réseau général de l'administration des P.T.T.
+
+Elle doit fonctionner sans aucune connexion avec le réseau public.
+
+Elle ne peut relier que deux installations terminales appartenant toutes deux au seul permissionnaire.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D368
 
 	**Codifié par**:
 
@@ -14894,9 +14557,9 @@ donnée au demandeur, eu égard à l'intérêt général.
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
 ###### Article D388
@@ -14950,11 +14613,22 @@ long des chemins de fer par les compagnies pour les nécessités de leur exploit
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-###### Article D393
+###### Article D392
 
-**Nota:**
+Les redevances d'usage sont toutefois réduites en faveur :
 
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
+- des lignes d'intérêt privé dont l'usage est autorisé à un même service public de l'Etat, d'un département ou d'une commune,
+à un même concessionnaire de service public, à un même établissement public ou reconnu d'utilité publique par décret ;
+
+- des lignes d'intérêt privé dont l'usage est autorisé sur les emprises respectives concédées à la Société nationale des
+chemins de fer français, à certaines compagnies de chemins de fer, aux entrepreneurs de distribution d'énergie électrique et
+aux exploitants de téléphériques ;
+
+- des lignes d'intérêt privé de télécommande, de télémesure, de télésignalisation, de sonneries ou de signaux destinées au
+fonctionnement d'installations terminales simples (relais, sirène, horloge, sonnerie, indicateur de niveaux d'eau, etc.) dont
+la commande est effectuée par courant continu ou par courant alternatif à très basse fréquence n'utilisant pas d'informations
+codées ou complexes (transmissions de données) et lorsque le permissionnaire est un service public ou un concessionnaire de
+service public.
 
 **Liens relatifs à cet article**
 
@@ -14966,9 +14640,9 @@ long des chemins de fer par les compagnies pour les nécessités de leur exploit
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
 ###### Article D394
@@ -15016,6 +14690,30 @@ indemnité ni à remboursement.
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
+###### Article D396
+
+La modification d'une ligne d'intérêt privé autorisée est traitée comme une nouvelle demande dans les conditions générales
+prévues à l'article D. 368 du code des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D368
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
 ###### Article D397
 
 Les permissionnaires peuvent, à toute époque, renoncer à l'usage des lignes concédées : la redevance pour droit d'usage et la
@@ -15030,71 +14728,6 @@ redevance pour droit d'entretien restent acquises jusqu'à la fin de la période
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D398
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-##### 2. : Lignes temporaires.
-
-###### Article D399
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D400
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
 ##### SECTION 4 : Réseaux spéciaux.
@@ -15380,50 +15013,6 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### SECTION 4 : Faisceaux concédés.
-
-###### Article D429
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D430
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
 #### CHAPITRE II : Entretien des lignes
 
 ##### SECTION 1 : Dispositions générales.
@@ -15474,136 +15063,6 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 	**Abrogé par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-
-##### SECTION 3 : Lignes étrangères au réseau général des télécommunications.
-
-###### Article D434
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D435
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D436
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D437
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D438
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-##### SECTION 4 : Faisceaux concédés.
-
-###### Article D439
-
-**Nota:**
-
-[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
 ### TITRE IV : Police des liaisons et des installations du réseau de télécommunications
