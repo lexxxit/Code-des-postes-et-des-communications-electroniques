@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-05-15
+Version Consolidée au 1987-09-25
 
 # Partie législative
 
@@ -14591,6 +14591,150 @@ donnée au demandeur, eu égard à l'intérêt général.
 
 ##### Paragraphe 1er : Régime général.
 
+###### Article D369
+
+Une liaison spécialisée est [*définition*] une liaison louée mise à la disposition exclusive du signataire du contrat de
+location pour ses besoins propres ou pour l'échange de signaux avec un tiers désigné par le contrat.
+
+La liaison est établie soit entre deux installations terminales, soit entre une installation terminale et un équipement de
+l'administration des télécommunications. Elle est appelée dans le premier cas "liaison point à point" et dans le deuxième cas
+"liaison multipoints".
+
+L'utilisation d'une liaison spécialisée par une personne autre que le contractant ou le tiers désigné le cas échéant par le
+contrat, lorsqu'elle est compatible avec les dispositions générales relatives à l'usage des liaisons spécialisées, peut être
+autorisée à titre exceptionnel et moyennant, le cas échéant, des prescriptions spéciales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 3 JORF 25 septembre 1987
+
+
+###### Article D370
+
+Les contrats de location de liaisons spécialisées ont une durée minimale de trois mois. A l'échéance de la durée initialement
+prévue, ils sont tacitement reconduits de mois en mois. Toutefois, la durée du contrat peut être inférieure à trois mois en
+cas de circonstances exceptionnelles, pour des liaisons louées à l'occasion de manifestations importantes ou pour des
+liaisons spécialisées de presse définies à l'article D. 377.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D377
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 3 JORF 25 septembre 1987
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D371 (V)
+	  - Code des postes et des communications électronique - art. D379 (Ab)
+
+
+###### Article D371
+
+Les contrats de location de liaisons spécialisées sont résiliés à la demande du contractant à condition que cette demande
+soit présentée par écrit quinze jours au moins [*délai*] avant l'expiration du contrat.
+
+Les dispositions de l'article D. 341 sont applicables à ces contrats.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D379 (Ab)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D341
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+	  - Décret n°87-775 1987-09-24 art. 2 et 3 JORF 25 septembre 1987
+
+
+###### Article D372
+
+L'administration des postes et télécommunications peut exercer sur les liaisons spécialisées un contrôle par les moyens
+qu'elle juge utile d'employer pour s'assurer que les prescriptions de l'article D. 369 sont appliquées. Toute infraction peut
+entraîner la reprise immédiate de la liaison sans indemnité et sans remboursement des sommes versées au titre de la location.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D369
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 4 JORF 25 septembre 1987
+
+
+###### Article D373
+
+Les spécifications techniques générales de transmission et d'exploitation des liaisons spécialisées sont fixées par
+l'administration des télécommunications et font l'objet d'une publication.
+
+L'administration des télécommunications peut, à la demande du client, établir des liaisons spécialisées répondant à des
+spécifications techniques particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 5 JORF 25 septembre 1987
+
+
 ###### Article D374
 
 **Nota:**
@@ -14670,11 +14814,47 @@ donnée au demandeur, eu égard à l'intérêt général.
 	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
 
 
-###### Article D383
+###### Article D377
 
-**Nota:**
+Les liaisons dites "de presse" sont des liaisons télégraphiques ou téléphoniques louées aux journaux paraissant au moins six
+jours par semaine et aux agences de presse, pour la transmission de correspondances en langage clair, destinées à être
+insérées dans les publications périodiques du journal ou de l'agence locataire, ou radiodiffusées sous forme de journal
+parlé.
 
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 JORF 25 septembre 1987
+
+
+###### Article D378
+
+Les liaisons spécialisées dites "de sécurité publique" sont des liaisons spécialisées louées aux services publics ou aux
+concessionnaires de service public et reconnues nécessaires pour assurer la sécurité publique.
+
+Il s'agit :
+
+a) Des liaisons spécialisées louées aux entrepreneurs de distribution d'énergie électrique et reconnues nécessaires pour
+assurer la sécurité de leur exploitation en exécution des lois et règlements en vigueur ;
+
+b) Des liaisons spécialisées reliant les locaux de services publics aux services d'alerte de la police ou aux services de
+pompiers ;
+
+c) Des liaisons spécialisées demandées par des services publics ou des concessionnaires de service public pour raccorder des
+installations simples de télécommande, télésignalisation ou télémesure (relais, sirène, horloge, sonnerie, indicateur de
+niveau d'eau, etc.) dont la commande est effectuée par courant continu ou par courant alternatif à très basse fréquence.
 
 **Liens relatifs à cet article**
 
@@ -14689,44 +14869,24 @@ donnée au demandeur, eu égard à l'intérêt général.
 	**Modifié par**:
 
 	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987
+	  - Décret n°87-775 1987-09-24 art. 2 et 6 JORF 25 septembre 1987
 
 
-###### Article D384
+###### Article D379
 
-**Nota:**
+L'administration des télécommunications peut établir des liaisons spécialisées aboutissant à un service particulier proposé
+par elle, qui nécessite l'accès à des équipements de commutation, de diffusion ou de concentration situés dans ses locaux.
 
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+Par l'intermédiaire de ces équipements, ces liaisons sont destinées à permettre notamment :
 
-**Liens relatifs à cet article**
+a) La mise en relation permanente d'une installation terminale principale avec des installations terminales secondaires. Ces
+liaisons sont appelées "liaisons spécialisées multipoints" ;
 
-	**Codifié par**:
+b) La réception de signaux horaires ou de la fréquence étalon ou de tout autre message destiné au public ou à des catégories
+particulières de clients ;
 
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-
-###### Article D385
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+c) Le prolongement d'une ligne d'abonnement jusqu'à un commutateur public de rattachement exceptionnel.
 
 **Liens relatifs à cet article**
 
@@ -14741,10 +14901,479 @@ donnée au demandeur, eu égard à l'intérêt général.
 	**Modifié par**:
 
 	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 7 JORF 25 septembre 1987
+
+
+###### Article D380
+
+Une liaison spécialisée peut être connectée à une de ses extrémités à une ligne d'abonnement dans les locaux du contractant.
+Dans ce cas, l'intéressé doit respecter les normes de transmission et de trafic applicables à la ligne d'abonnement. En
+outre, la liaison spécialisée ne doit être, à l'autre extrémité, ni connectée, ni connectable, directement ou indirectement,
+aux réseaux publics commutés.
+
+Les dispositions de l'article D. 372 sont applicables pour le contrôle du respect des prescriptions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D372
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 7 JORF 25 septembre 1987
+
+
+###### Article D381
+
+Plusieurs liaisons spécialisées peuvent être aboutées dans les locaux de l'un des contractants. Celui-ci est tenu d'en faire
+déclaration à l'administration des télécommunications à peine de suspension d'office de la liaison.
+
+La responsabilité de l'administration ne peut être mise en cause à raison de la qualité de la transmission sur des liaisons
+spécialisées ainsi aboutées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 7 JORF 25 septembre 1987
+
+
+###### Article D382
+
+Chacune des liaisons aboutées dans les conditions prévues à l'article D. 381 est, du point de vue de la tarification,
+considérée comme une liaison individuelle de même catégorie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D381
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°87-775 1987-09-24 art. 2 et 7 JORF 25 septembre 1987
+
+
+##### Paragraphe 2 : Régime des réseaux télématiques ouverts à des tiers.
+
+###### Article D385-1
+
+Les conditions dans lesquelles une personne morale peut, en dérogation aux dispositions des articles D. 369, D. 370 et D.
+380, utiliser des liaisons spécialisées pour constituer ou étendre un réseau télématique ouvert à des tiers sont définies aux
+articles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D369, D370 et D380
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-2
+
+Un réseau télématique ouvert à des tiers est [*définition*] l'ensemble des moyens informatiques et de communication gérés par
+une même personne morale, qui offre à des tiers des services associant le transport et, pour une part majoritaire, le
+traitement informatique de données.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-3
+
+Les réseaux télématiques ouverts à des tiers sont classés en deux catégories : I et II.
+
+Sont classés en catégorie II les réseaux dont la taille, mesurée par la capacité pondérée des accès externes, est supérieure
+à un seuil N1. Ce seuil est plus élevé (N2) dans le cas où le réseau n'offre que des services spécifiques, c'est-à-dire :
+
+- soit des services relatifs à l'automatisation d'une même fonction auprès de l'ensemble des utilisateurs ;
+
+- soit des services destinés exclusivement à un ensemble d'utilisateurs exerçant des activités professionnelles identiques ou
+complémentaires.
+
+Sont classés en catégorie I tous les autres réseaux.
+
+Les accès externes à un réseau sont ceux qui ne sont pas réservés à l'usage interne du gestionnaire du réseau. Leur capacité
+pondérée est obtenue en additionnant les débits nominaux de chacun des accès externes.
+
+Les seuils N1 et N2, qui ne peuvent être inférieurs, respectivement, à la valeur de 3,5 mégabits par seconde et à la valeur
+de 5 mégabits par seconde, sont fixés par arrêté du ministre chargé des télécommunications. Ils peuvent être progressivement
+augmentés par arrêté du même ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-4
+
+La personne morale exploitant un réseau télématique ouvert à des tiers ne peut utiliser ce réseau pour transporter des
+signaux vocaux entre tiers. Elle doit respecter pour chaque service offert sur le réseau, entre le montant des charges
+d'exploitation annuelles correspondant à l'activité de transport des données et le montant du chiffre d'affaires annuel total
+correspondant à l'exploitation du service télématique, un rapport au plus égal à un pourcentage déterminé. Ce pourcentage,
+qui ne peut être inférieur à 15 p. 100, est fixé par arrêté du ministre chargé des télécommunications. Il peut être
+progressivement augmenté par arrêté du même ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-5
+
+Une personne morale peut prendre en location des liaisons spécialisées en vue de la constitution ou de l'extension d'un
+réseau de catégorie I si elle a fait une déclaration préalable auprès du ministre chargé des télécommunications.
+
+Cette déclaration, qui doit être mise à jour chaque année, indique :
+
+- la dénomination ou la raison sociale de la personne morale, le nom de son représentant légal et, s'il s'agit d'une société,
+la composition de son capital ;
+
+- la liste des services offerts par le réseau et les catégories d'utilisateurs auxquels sont destinés ces services ;
+
+- l'architecture du réseau, et notamment la description et le débit des liaisons spécialisées utilisées, y compris des
+liaisons internationales ; le cas échéant, les interconnexions avec d'autres réseaux télématiques ouverts à des tiers ainsi
+que les connexions avec les réseaux étrangers ;
+
+- le nombre, le type et le débit nominal des accès internes et externes ;
+
+- les procédures proposées aux utilisateurs pour l'accès aux services offerts par le réseau.
+
+Le contrat conclu par la personne morale déclarée avec l'administration des télécommunications pour la location des liaisons
+spécialisées constituant le réseau doit comporter des prescriptions spéciales interdisant le transport de signaux vocaux
+entre tiers, rappelant l'obligation visée à l'article D. 385-4 et assurant le contrôle du respect de ces prescriptions. Il
+mentionne également les obligations auxquelles est soumis le réseau en application des articles D. 385-9 et D. 385-10.
+
+Le ministre chargé des télécommunications tient régulièrement informée la Commission nationale de la communication et des
+libertés des déclarations qu'il reçoit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-4, D385-9 et D385-10
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-6
+
+Une personne morale peut prendre en location des liaisons spécialisées en vue de la constitution d'un réseau de catégorie II
+si elle a obtenu une autorisation préalable délivrée par le ministre chargé des télécommunications après avis de la
+Commission nationale de la communication et des libertés. La durée maximale de cette autorisation est de douze ans.
+
+La demande d'autorisation contient tous les éléments mentionnés au second alinéa de l'article D. 385-5. La mise à jour de ces
+éléments est portée chaque année à la connaissance du ministre chargé des télécommunications.
+
+En sus des prescriptions spéciales et mentions énoncées à l'article D. 385-5, le contrat conclu par la personne morale
+autorisée avec l'administration des télécommunications pour la location des liaisons spécialisées constituant le réseau doit
+comporter l'engagement de la personne morale de facturer de manière distincte auprès des utilisateurs du réseau le coût du
+transport des données et le coût de leur traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-5
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-7
+
+La personne morale exploitant un réseau de catégorie I ne peut apporter à ce réseau une modification ayant pour effet de le
+classer en catégorie II sans avoir obtenu au préalable une autorisation dans les mêmes conditions que celles énoncées à
+l'article D. 385-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-6
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-8
+
+Lorsque les liaisons spécialisées constituant un réseau télématique ouvert à des tiers sont prises en location non par une
+personne morale unique, mais par plusieurs sociétés appartenant à un même groupe, la déclaration prévue à l'article D. 385-5
+ou la demande d'autorisation prévue à l'article D. 385-6 est faite, pour l'ensemble du réseau et pour le compte de sociétés
+appartenant au groupe, par l'une de ces sociétés désignée par le groupe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-5 et D385-6
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-9
+
+La personne morale exploitant un réseau télématique ouvert à des tiers dont la taille, mesurée par la capacité pondérée des
+accès externes définie à l'article D. 385-3, est supérieure à un seuil N3 ou, dans le cas où le réseau n'offre que des
+services spécifiques décrits à l'article D. 385-3, à un seuil plus élevé N4, est tenue de proposer l'accès aux services
+offerts sur le réseau selon des prescriptions techniques définies par arrêté du ministre chargé des télécommunications. Cette
+obligation doit être respectée au plus tard dans le délai d'un an après la publication des prescriptions techniques et à des
+conditions, d'une part de prix et d'autre part de performance, au moins équivalentes à celles pratiquées pour l'accès aux
+mêmes services suivant les procédures particulières au gestionnaire du réseau.
+
+Les seuils N3 et N4, qui ne peuvent être supérieurs, respectivement, à la valeur de 3,5 mégabits par seconde et à la valeur
+de 5 mégabits par seconde, sont fixés par arrêté du ministre chargé des télécommunications. Ils peuvent être progressivement
+diminués par arrêté du même ministre.
+
+Les prescriptions techniques visées au premier alinéa du présent article sont définies par arrêté du ministre chargé des
+télécommunications après consultation du groupe permanent "Prescriptions techniques" institué auprès de la commission
+technique consultative prévue à l'article D. 385-13. Elles sont fondées sur les normes, avis ou recommandations des instances
+européennes et internationales, et tendent notamment à promouvoir progressivement l'utilisation exclusive des normes O.S.I.
+au fur et à mesure de leur élaboration.
+
+Pour l'accès aux services auxquels s'appliquent ces prescriptions techniques, le ministre chargé des télécommunications peut,
+après avis du groupe permanent "Prescriptions techniques", prescrire l'abandon dans un délai déterminé des procédures
+particulières aux gestionnaires des réseaux. Ce délai ne peut être inférieur à deux ans.
+
+Le ministre chargé des télécommunications soumet chaque année à l'examen du groupe permanent "Prescriptions techniques" les
+procédures particulières aux gestionnaires des réseaux dont l'abandon est susceptible d'être prescrit en application de
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-3 et D385-13
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-10
+
+La personne morale exploitant un réseau télématique ouvert à des tiers est tenue de mettre à la disposition de toute personne
+qui en ferait la demande les spécifications techniques détaillées d'utilisation du réseau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-11
+
+L'administration des télécommunications peut exercer sur les liaisons spécialisées louées en application de l'article D.
+385-5 ou de l'article D. 385-6 un contrôle par les moyens qu'elle juge utile d'employer pour s'assurer que les prescriptions
+réglementaires ou contenues dans le contrat de location sont appliquées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-5 et D385-6
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-12
+
+Le contrat conclu en application de l'article D. 385-5 ou de l'article D. 385-6 peut être suspendu ou résilié à la demande du
+contractant dans les conditions prévues à l'article D. 371.
+
+Dans le cas où le réseau constitué ne serait pas conforme à la déclaration faite en application de l'article D. 385-5 ou à
+l'autorisation obtenue en application de l'article D. 385-6, ainsi que dans le cas où la personne morale exploitant le réseau
+ne respecterait pas les prescriptions imposées par les articles D. 385-4 à D. 385-10, le contrat [*sanction*] peut être
+suspendu par l'administration des télécommunications pour une durée maximale de trois mois. Cette suspension [*procédure*] ne
+peut intervenir qu'après mise en demeure non suivie d'effet dans le délai de trois mois et dans le respect des garanties
+prévues à l'article D. 385-13.
+
+Si, au terme de la période de suspension, la personne morale exploitant le réseau ne s'est pas conformée à la mise en
+demeure, le ministre chargé des télécommunications peut retirer le droit d'exploiter le réseau. Ce retrait intervient après
+avis de la Commission nationale de la communication et des libertés, lorsque le réseau a été autorisé en application de
+l'article D. 385-6. Il entraîne, dans tous les cas, la résiliation des contrats conclus en application des articles D. 385-5
+et D. 385-6 et la reprise des lignes, sans indemnité ni remboursement des sommes versées au titre de la location.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D371, D385-4, D385-5, D385-6, D385-10 et D385-13
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
+
+
+###### Article D385-13
+
+Une commission technique consultative, comprenant des représentants des gestionnaires de réseaux télématiques ouverts à des
+tiers, des utilisateurs de ces réseaux, des représentants de l'administration ainsi que des personnalités qualifiées nommés
+par le ministre chargé des télécommunications, peut être consultée par le ministre chargé des télécommunications sur toute
+demande d'autorisation présentée en application de l'article D. 385-6. Dans ce cas, l'avis émis par la commission est joint
+au dossier transmis par le ministre à la Commission nationale de la communication et des libertés.
+
+La commission technique peut également être saisie par toute personne morale :
+
+1° A laquelle aurait été refusée une autorisation demandée en application de l'article D. 385-6 ;
+
+2° Qui aurait reçu une mise en demeure en application de l'article D. 385-12 ;
+
+3° Dont le droit d'exploiter un réseau aurait été retiré en application de l'article D. 385-12.
+
+Le délai imparti à la commission pour émettre son avis est de deux mois dans les cas visés au 1° et au 3°, d'un mois dans le
+cas visé au 2°. L'avis est notifié, dans tous les cas, à la personne intéressée et au ministre chargé des télécommunications.
+Le ministre est tenu, dans les cas visés au 1° et au 3°, de prendre une nouvelle décision dans le délai de deux mois suivant
+la notification de l'avis. Il doit, dans le cas visé au 2°, faire connaître dans le délai d'un mois à la personne intéressée
+s'il maintient la mise en demeure, en l'assortissant d'un nouveau délai pour lui permettre de s'y conformer, ou s'il la
+retire.
+
+La commission technique peut, enfin, être consultée par le ministre chargé des télécommunications sur toute question relative
+à l'application des articles D. 385-2 à D. 385-14.
+
+La composition de la commission technique consultative est fixée par arrêté du ministre chargé des télécommunications. Cet
+arrêté prévoit également la composition du groupe permanent "Prescriptions techniques" qui doit être consulté en application
+de l'article D. 385-9.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D385-2 à D385-14
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
 
 	**Abrogé par**:
 
-	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+	  - Décret n°91-644 du 10 juillet 1991 - art. 2 () JORF 12 juillet 1991
+
+
+###### Article D385-14
+
+Le prix de location des liaisons spécialisées constituant un réseau télématique ouvert aux tiers et utilisées en amont des
+points d'accès externe peut, pour tenir compte des charges propres aux réseaux publics faire l'objet d'une majoration fixée
+en application de l'article R. 56. Cette majoration, calculée en fonction de la capacité pondérée des accès externes que
+comporte le réseau, ne peut excéder 30 p. 100 du prix normal de location des liaisons spécialisées.
+
+Les dispositions du présent article ne s'appliquent pas aux liaisons spécialisées dont l'une des extrémités est située hors
+du territoire français, qui sont soumises à une tarification particulière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R56
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 9 JORF 25 septembre 1987
 
 
 ##### SECTION 3 : Lignes d'intérêt privé
