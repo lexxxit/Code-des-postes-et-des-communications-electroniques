@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1971-01-09
+Version Consolidée au 1972-01-05
 
 # Partie législative
 
@@ -2866,6 +2866,76 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 	**Cité par**:
 
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L101-1
+
+Toute personne qui remet au bénéficiaire un chèque postal en paiement doit justifier de son identité au moyen d'un document
+officiel portant sa photographie.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°72-10 1972-01-03 art. 9 JORF 5 janvier 1972
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L106
+
+Tout chèque postal barré ou non pour lequel la provision correspondante existe à la disposition du tireur doit être certifié
+par le centre de chèques postaux intéressé si le tireur ou le porteur le demande, sauf la faculté pour le tiré de remplacer
+ce chèque par un chèque émis sur sa propre caisse.
+
+La provision du chèque postal certifié reste bloquée jusqu'à l'expiration du délai de validité du titre.
+
+Les mesures d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L174
+	  - Loi n°48-1288 1948-08-18 art. 2
+	  - Loi n°1941-11-17 art. 7
+	  - Loi n°1942-03-26 art. 1
+
+	**Modifié par**:
+
+	  - Loi n°72-10 1972-01-03 art. 12 JORF 5 janvier 1972
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
 
 	**Codifié par**:
 
