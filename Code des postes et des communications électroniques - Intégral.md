@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-02-02
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -600,9 +600,8 @@ télécommunications devient le code des postes et des communications électroni
 ###### Article L17
 
 Toute personne qui, en récidive, effectue un transport de correspondances en infraction aux dispositions de l'article L. 1
-est punie d'une amende de 6 000 F à 15 000 F [*taux résultant de la loi 89-469 du 10 juillet 1989*]. Il y a récidive
-[*définition*] lorsque le contrevenant a subi [*délai*] dans les trois années qui précèdent une condamnation pour infraction
-aux dispositions de l'article L. 1.
+est punie de 25000 F d'amende [* taux *]. Il y a récidive lorsque le contrevenant a subi dans les trois années qui précèdent
+une condamnation pour infraction aux dispositions de l'article L. 1.
 
 **Liens relatifs à cet article**
 
@@ -614,15 +613,15 @@ aux dispositions de l'article L. 1.
 
 	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 9 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 	**Cité par**:
 
@@ -853,7 +852,7 @@ Les infractions aux dispositions des articles L. 3 et L. 4 sont constatées de l
 ###### Article L25
 
 La mise en service de machines à affranchir sans l'autorisation de La Poste [*infraction*], toute tentative de fraude dans
-l'emploi des machines sont punies conformément à l'article 144 du code pénal [*sanction*].
+l'emploi des machines sont punies de six mois d'emprisonnement et de 50 000 F d'amende [* taux *] [*sanction*].
 
 **Liens relatifs à cet article**
 
@@ -864,11 +863,7 @@ l'emploi des machines sont punies conformément à l'article 144 du code pénal 
 
 	**Modifié par**:
 
-	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-	**Cite**:
-
-	  - Code pénal L144
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 201 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
@@ -877,9 +872,8 @@ l'emploi des machines sont punies conformément à l'article 144 du code pénal 
 
 ###### Article L26
 
-Toute déclaration frauduleuse de valeurs supérieures à la valeur réellement insérée dans une lettre [*infraction*] est punie
-[*sanction*] d'un emprisonnement [*durée*] d'un mois à un an et d'une amende [*taux*] de 60 F à 15 000 F [*taux résultant de
-la loi 85-835 du 7 août 1985*].
+Toute déclaration frauduleuse de valeurs supérieures à la valeur réellement insérée dans une lettre est punie d'un an
+d'emprisonnement et de 25000 F d'amende [* taux *].
 
 **Liens relatifs à cet article**
 
@@ -890,15 +884,15 @@ la loi 85-835 du 7 août 1985*].
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 	**Cité par**:
 
@@ -2408,8 +2402,8 @@ ou la transmission des listes d'abonnés des réseaux publics établies par l'ex
 
 ###### Article L39
 
-Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 6 000 F à 500 000 F ou de l'une de ces deux peines
-seulement, quiconque :
+Sera puni de trois mois d'emprisonnement et de 500000 F d'amende [* taux *] ou de l'une de ces deux peines seulement,
+quiconque :
 
 1° Aura établi ou fait établir un réseau ouvert au public, sans l'autorisation prévue à l'article L. 33-1 ou l'aura maintenu
 en violation d'une décision de retrait de cette autorisation ;
@@ -2436,7 +2430,11 @@ violation d'une décision de retrait de cette autorisation.
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -2461,8 +2459,8 @@ violation d'une décision de retrait de cette autorisation.
 
 ###### Article L39-1
 
-Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 2 000 F à 200 000 F ou de l'une de ces deux peines
-seulement quiconque :
+Sera puni de trois mois d'emprisonnement et de 200000 F d'amende [* taux *] ou de l'une de ces deux peines seulement
+quiconque :
 
 1° Aura établi ou fait établir un réseau indépendant, sans l'autorisation prévue à l'article L. 33-2 ou l'aura maintenu en
 violation d'une décision de retrait de cette autorisation ;
@@ -2482,9 +2480,13 @@ liaisons hertziennes d'un service public ou d'un service autorisé, les peines p
 	  - Code des postes et télécommunications L33-2, L34-5, L89
 	  - Loi n°86-1067 du 30 septembre 1986 - art. 78 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Cité par**:
 
@@ -2499,8 +2501,8 @@ liaisons hertziennes d'un service public ou d'un service autorisé, les peines p
 
 ###### Article L39-2
 
-Sera puni d'une amende de 100 000 F à un million de francs quiconque aura contrevenu aux dispositions du deuxième alinéa du
-paragraphe II de l'article L. 33-1.
+Sera puni d'un millions de francs d'amende quiconque aura contrevenu aux dispositions du deuxième alinéa du paragraphe II de
+l'article L. 33-1.
 
 **Liens relatifs à cet article**
 
@@ -2508,9 +2510,13 @@ paragraphe II de l'article L. 33-1.
 
 	  - Code des postes et télécommunications L33-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -2523,10 +2529,9 @@ paragraphe II de l'article L. 33-1.
 
 ###### Article L39-3
 
-Sera puni d'une amende de 1 000 F à 250 000 F quiconque aura effectué ou fait effectuer une publicité interdite en
-application du quatrième alinéa de l'article L. 34-9. Le maximum de l'amende pourra être porté à 50 p. 100 du montant des
-dépenses consacrées à la publicité illégale. Le tribunal pourra ordonner la cessation de la publicité interdite aux frais du
-condamné.
+Sera puni de 250000 F d'amende [* taux *] quiconque aura effectué ou fait effectuer une publicité interdite en application du
+quatrième alinéa de l'article L. 34-9. Le maximum de l'amende pourra être porté à 50 p. 100 du montant des dépenses
+consacrées à la publicité illégale. Le tribunal pourra ordonner la cessation de la publicité interdite aux frais du condamné.
 
 **Liens relatifs à cet article**
 
@@ -2534,9 +2539,17 @@ condamné.
 
 	  - Code des postes et télécommunications L34-9
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
 
 	**Codifié par**:
 
@@ -2550,9 +2563,9 @@ condamné.
 
 ###### Article L39-4
 
-Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 2 000 F à 200 000 F ou de l'une de ces deux peines
-seulement quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au
-déroulement des enquêtes mentionnés aux articles L. 32-4 et L. 40.
+Sera puni de trois mois d'emprisonnement et de 200000 F d'amende [* taux *] ou de l'une de ces deux peines seulement
+quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des
+enquêtes mentionnés aux articles L. 32-4 et L. 40.
 
 **Liens relatifs à cet article**
 
@@ -2560,9 +2573,13 @@ déroulement des enquêtes mentionnés aux articles L. 32-4 et L. 40.
 
 	  - Code des postes et télécommunications L32-4, L40
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -2679,57 +2696,11 @@ l'intéressé ordonner mainlevée de la saisie.
 	  - Code des postes et des communications électroni... - art. R20-44-1 (V)
 
 
-###### Article L41
-
-Tout agent de l'exploitant public, tout agent d'un exploitant de réseau de télécommunications autorisé ou d'un fournisseur de
-services de télécommunications qui viole le secret des correspondances émises par la voie des télécommunications est puni des
-peines mentionnées à l'article 186-1 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 21 (V)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 23 (V)
-	  - Arrêté du 18 décembre 1996 - art. ANNEXE (P)
-	  - Code des postes et des communications électroni... - art. L33 (V)
-	  - Code des postes et des communications électroni... - art. L41-1 (V)
-	  - Code des postes et des communications électroni... - art. L42 (V)
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
-	  - Code des postes et des communications électroni... - art. R52-3-3 (V)
-	  - Code des postes et des communications électronique - art. L41-3 (V)
-	  - Code des postes et des communications électronique - art. L42-4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°91-646 du 10 juillet 1991 - art. 25 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 202 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code pénal 187, 186-1
-	  - Code des postes et télécommunications L33-1
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L77
-	  - Loi n°1850-11-29 art. 5
-
-
 ###### Article L43
 
 Toute personne qui, sciemment, transmet ou met en circulation, par la voie radioélectrique, des signaux ou appels de
-détresse, faux ou trompeurs [*infraction*] , est punie [*sanction*] d'un emprisonnement [*durée*] de huit jours à un an et
-d'une amende de 720 F à 20 000 F [*taux résultant de la loi 77-1468 du 30 décembre 1977*] ou de l'une de ces deux peines
-seulement.
+détresse, faux ou trompeurs [*infraction*], est punie [*sanction*] d'un an d'emprisonnement et de 25000 F d'amende [* taux *]
+ou de l'une de ces deux peines seulement.
 
 Les appareils utilisés par le délinquant ou ses complices peuvent être confisqués.
 
@@ -2737,7 +2708,11 @@ Les appareils utilisés par le délinquant ou ses complices peuvent être confis
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Cité par**:
 
@@ -2768,47 +2743,6 @@ Les appareils utilisés par le délinquant ou ses complices peuvent être confis
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-
-###### Article L44
-
-Toute personne qui effectue des transmissions radioélectriques en utilisant sciemment un indicatif d'appel de la série
-internationale attribué à une station de l'Etat, à une station de l'exploitant public ou à une station privée autorisée par
-le ministre des postes et télécommunications [*infraction*], est punie [*sanction*] d'un emprisonnement [*durée*] de trois
-mois à un an.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Cité par**:
-
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Décret n°2017-56 du 19 janvier 2017 (V)
-	  - Code de la consommation - art. L121-83-2 (VT)
-	  - Code de la consommation - art. L224-31 (VD)
-	  - Code des postes et des communications électroni... - art. D406-18 (V)
-	  - Code des postes et des communications électroni... - art. D406-20 (V)
-	  - Code des postes et des communications électroni... - art. D98-11 (V)
-	  - Code des postes et des communications électroni... - art. D99-4 (Ab)
-	  - Code des postes et des communications électroni... - art. L33-4 (Ab)
-	  - Code des postes et des communications électroni... - art. L34 (V)
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
-	  - Code des postes et des communications électroni... - art. L36-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
-	  - Code des postes et des communications électronique - art. D99-5 (V)
-	  - Code des postes et des communications électronique - art. R20-44-33 (T)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L82
-	  - Loi n°1938-06-15 art. 3
 
 
 ###### Article L45
@@ -2847,6 +2781,52 @@ titre IV ou par le code pénal, la peine la plus forte est seule prononcée.
 
 	  - Code des postes, télégraphes et téléphones L83
 	  - Loi n°1938-06-15 art. 4
+
+
+#### CHAPITRE V : Dispositions pénales.
+
+###### Article L44
+
+Toute personne qui effectue des transmissions radioélectriques en utilisant sciemment un indicatif d'appel de la série
+internationale attribué à une station de l'Etat, à une station de l'exploitant public ou à une station privée autorisée par
+le ministre des postes et télécommunications, est punie d'un an d'emprisonnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L82
+	  - Loi n°1938-06-15 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Décret n°2017-56 du 19 janvier 2017 (V)
+	  - Code de la consommation - art. L121-83-2 (VT)
+	  - Code de la consommation - art. L224-31 (VD)
+	  - Code des postes et des communications électroni... - art. D406-18 (V)
+	  - Code des postes et des communications électroni... - art. D406-20 (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. D99-4 (Ab)
+	  - Code des postes et des communications électroni... - art. L33-4 (Ab)
+	  - Code des postes et des communications électroni... - art. L34 (V)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
+	  - Code des postes et des communications électronique - art. D99-5 (V)
+	  - Code des postes et des communications électronique - art. R20-44-33 (T)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ### TITRE II : Prérogatives et servitudes
@@ -3486,8 +3466,8 @@ usagers, il est fait application de l'article L. 59.
 
 ###### Article L63
 
-Les infractions aux dispositions du chapitre Ier et des règlements pris pour son application sont passibles [*sanction*]
-d'une amende de 150 F à 20000 F [*taux résultant de la loi 77-1468 du 30 décembre 1977*].
+Les infractions aux dispositions du chapitre Ier et des règlements pris pour son application sont passibles [*sanction*] de
+25000 F d'amende [* taux *].
 
 Sur réquisition du ministère public agissant à la demande du ministre intéressé, le tribunal saisi de la poursuite impartit
 aux personnes qui contreviennent aux dispositions du chapitre Ier, sous peine d'une astreinte de 5 F à 50 F par jour de
@@ -3508,9 +3488,8 @@ En outre, si, à l'expiration du délai fixé par le jugement, la situation n'a 
 effectuer les travaux d'office aux frais et risques des personnes civilement responsables.
 
 Les personnes qui ont été condamnées par application du présent article et qui, dans les trois années [*délai*] qui suivent,
-commettent une nouvelle infraction aux dispositions du présent article, sont punies d'une amende de 300 F à 40 000 F [*taux
-résultant de la loi 77-1468 du 30 décembre 1977*] et d'un emprisonnement [*durée*] de onze jours à un mois ou de l'une de ces
-deux peines seulement.
+commettent une nouvelle infraction aux dispositions du présent article, sont punies de 50000 F d'amende [* taux *] et d'un
+mois d'emprisonnement ou de l'une de ces deux peines seulement.
 
 Les infractions aux dispositions du chapitre Ier peuvent être constatées par des procès-verbaux dressés par les officiers de
 police judiciaire, les gendarmes et les fonctionnaires assermentés de l'administration intéressée.
@@ -3521,12 +3500,16 @@ Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
 	**Anciens textes**:
 
-	  - Loi n°49-758 1949-06-09 art. 9
 	  - Code des postes, télégraphes et téléphones L105
+	  - Loi n°49-758 1949-06-09 art. 9
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -3643,8 +3626,7 @@ représentant de l'Etat dans le département demande l'avis de cette collectivit
 ###### Article L66
 
 Toute personne qui, par la rupture des fils, par la dégradation des appareils ou par tout autre moyen, cause volontairement
-l'interruption des télécommunications, est punie d'un emprisonnement de trois mois à deux ans et d'une amende de 360 F à 15
-000 F [*taux résultant de la loi 85-835 du 7 août 1985*].
+l'interruption des télécommunications, est punie d'un emprisonnement de deux ans et d'une amende de  25000 F. [* taux *].
 
 **Liens relatifs à cet article**
 
@@ -3655,7 +3637,11 @@ l'interruption des télécommunications, est punie d'un emprisonnement de trois 
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -3664,13 +3650,12 @@ l'interruption des télécommunications, est punie d'un emprisonnement de trois 
 
 ###### Article L67
 
-Sont punis de la détention criminelle à temps de dix à vingt ans et d'une amende de 3 600 F à 30 000 F, sans préjudice des
-peines que pourrait entraîner leur complicité avec l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont
-détruit ou rendu impropres au service une ou plusieurs lignes de télécommunications, brisé ou détruit des appareils, envahi,
-à l'aide de violence ou de menaces, un ou plusieurs centraux ou stations de télécommunications, ceux qui ont intercepté par
-tout autre moyen, avec violence et menaces, les télécommunications ou la correspondance par télécommunications entre les
-divers dépositaires de l'autorité publique ou qui se sont opposés avec violence ou menaces au rétablissement des liaisons de
-télécommunications.
+Sont punis de vingt ans de détention criminelle et d'une amende de 30 000 F, sans préjudice des peines que pourrait entraîner
+leur complicité avec l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont détruit ou rendu impropres au
+service une ou plusieurs lignes de télécommunications, brisé ou détruit des appareils, envahi, à l'aide de violence ou de
+menaces, un ou plusieurs centraux ou stations de télécommunications, ceux qui ont intercepté par tout autre moyen, avec
+violence et menaces, les télécommunications ou la correspondance par télécommunications entre les divers dépositaires de
+l'autorité publique ou qui se sont opposés avec violence ou menaces au rétablissement des liaisons de télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -3681,7 +3666,11 @@ télécommunications.
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -3885,9 +3874,8 @@ il se serait rendu coupable.
 
 ###### Article L73
 
-A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de 120
-F à 15 000 F [*taux résultant de la loi 85-835 du 7 août 1985*] et, éventuellement, d'un emprisonnement de douze jours à
-quatre mois.
+A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de 25
+000 F et, éventuellement, de quatre mois d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -3902,7 +3890,11 @@ quatre mois.
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -4086,9 +4078,8 @@ est punie [*sanction*] des peines appliquées à la rébellion, suivant les dist
 
 ###### Article L81
 
-Est punie d'une amende de 1 080 F à 15 000 F [*taux résultant de la loi 85-835 du 7 août 1985*] et d'un emprisonnement de
-trois mois à cinq ans : toute personne qui rompt volontairement un câble sous-marin ou lui cause une détérioration qui
-pourrait interrompre ou entraver, en tout ou partie, les télécommunications.
+Est punie d'une amende de 25000 F et  d'un emprisonnement de cinq ans  : toute personne qui rompt volontairement un câble
+sous-marin ou lui cause une détérioration qui pourrait interrompre ou entraver, en tout ou partie, les télécommunications.
 
 Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits.
 
@@ -4097,14 +4088,13 @@ de lui causer une détérioration par la nécessité actuelle de protéger leur 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L144
-	  - Loi n°1884-12-20 art. 10
-
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 	**Codifié par**:
 
@@ -4114,6 +4104,11 @@ de lui causer une détérioration par la nécessité actuelle de protéger leur 
 
 	  - Code des postes et des communications électroni... - art. L74 (Ab)
 	  - Code des postes et des communications électroni... - art. R51 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L144
+	  - Loi n°1884-12-20 art. 10
 
 
 ##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.
@@ -5901,7 +5896,7 @@ lorsque celui-ci ne les a pas réclamées dans un délai d'un an courant à comp
 ###### Article R1
 
 Toute personne qui, en infraction aux dispositions de l'article L. 1, effectue un transport de correspondance sera punie
-[*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*].
+[*sanction*] de l'amende prévue pour les contraventions de la 5° classe.
 
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement à un nombre d'exemplaires qui ne peut excéder
 cinquante, le tout aux frais du contrevenant.
@@ -5914,7 +5909,7 @@ cinquante, le tout aux frais du contrevenant.
 
 	**Modifié par**:
 
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -5926,10 +5921,6 @@ cinquante, le tout aux frais du contrevenant.
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 	**Cite**:
 
@@ -5969,10 +5960,10 @@ Les contraventions aux dispositions des articles L. 3 et L. 4 sont passibles des
 
 ###### Article R3
 
-Sera punie [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] :
+Sera punie de l'amende prévue pour les contraventions de la 5e classe :
 
 1° L'insertion de billets de banque français ou étrangers ou d'autres valeurs au porteur dans les envois ordinaires ou
-simplement recommandés [*infraction*].
+simplement recommandés *infraction*.
 
 La peine ne sera pas encourue lorsque l'insertion de tels billets et valeurs dans les lettres recommandées n'excède pas le
 montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux de garantie choisi par l'expéditeur au moment
@@ -5988,19 +5979,15 @@ l'expéditeur au moment de l'envoi.
 3° L'insertion de pièces de monnaie françaises ou étrangères ayant cours légal dans tout envoi autre qu'une lettre ou boîte
 avec valeur déclarée.
 
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L65
 
 	**Modifié par**:
 
-	  - Décret n°91-263 du 7 mars 1991 - art. 1 () JORF 9 mars 1991
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -6009,6 +5996,10 @@ avec valeur déclarée.
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. R4 (Ab)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L65
 
 
 ###### Article R4
@@ -6072,31 +6063,26 @@ Des marchandises soumises à des droits de douane, de régie, ainsi que des marc
 
 ###### Article R6
 
-Seront punis [*sanction*] d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] :
+Seront punis de l'amende prévue pour les contraventions de la 4e classe :
 
-1° Ceux qui auront fait usage d'un timbre-poste ou d'une empreinte d'affranchissement ayant déjà été utilisé [*infraction*] ;
+1° Ceux qui auront fait usage d'un timbre-poste ou d'une empreinte d'affranchissement ayant déjà été utilisé ;
 
 2° Ceux qui auront inséré dans un envoi en franchise postale ou en dispense d'affranchissement une lettre, un document, un
 imprimé ou tout autre objet pour lequel ce mode d'expédition n'est pas prévu par la réglementation en vigueur.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°73-385 1973-03-14 art. 1 JORF 3 avril 1973
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R7
@@ -6141,12 +6127,8 @@ Est interdite également la distribution de tout document, de quelque nature qu'
 d'empreintes ou de mentions lui donnant faussement l'apparence d'objet de correspondance ayant transité par le service
 postal.
 
-Toute infraction aux dispositions de deux alinéas précédents est punie [*sanction*] d'une amende de 600 à 1 300 F [*taux
-résultant du décret 89-989 du 29 décembre 1989*] par formule utilisée ou par document mis en distribution.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+Toute infraction aux dispositions de deux alinéas précédents est punie de l'amende prévue pour les contraventions de la 3e
+classe par formule utilisée ou par document mis en distribution.
 
 **Liens relatifs à cet article**
 
@@ -6156,7 +6138,11 @@ résultant du décret 89-989 du 29 décembre 1989*] par formule utilisée ou par
 
 	**Modifié par**:
 
-	  - Décret n°90-1214 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -9012,16 +8998,12 @@ la commune en cas de dégradation d'un ouvrage ou de toute autre anomalie.
 
 ###### Article R45
 
-Est puni [*sanction*] d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et d'un
-emprisonnement de un à cinq jours [*durée résultant du décret 80-567 du 18 juillet 1980 - caduc*] quiconque s'est refusé à
-exhiber les pièces nécessaires pour rédiger les procès-verbaux prévus à l'article L. 79.
+Est puni [*sanction*] de l'amende prévue pour les contraventions de la 4° classe quiconque s'est refusé à exhiber les pièces
+nécessaires pour rédiger les procès-verbaux prévus à l'article L. 79.
 
 **Nota:**
 
-NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.
-
-L'article 464 du code pénal, dans sa rédaction issue de le loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme peines de
-police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
 
 **Liens relatifs à cet article**
 
@@ -9035,11 +9017,7 @@ police que l'amende et la confiscation d'objets saisis, et ce, dès la date de p
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
@@ -9052,7 +9030,7 @@ police que l'amende et la confiscation d'objets saisis, et ce, dès la date de p
 
 ###### Article R46
 
-Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] :
+Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe :
 
 1° Le capitaine d'un bâtiment qui, occupé à la réparation ou à la pose d'un câble sous-marin, n'observe pas les règles sur
 les signaux adoptés en vue de prévenir les abordages [*infraction*] ;
@@ -9071,7 +9049,7 @@ des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mil
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
@@ -9089,7 +9067,7 @@ des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mil
 
 ###### Article R47
 
-Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois :
+Est puni [*sanction*] de l'amende prévue pour les contraventions de la 5° classe :
 
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart de mille nautique d'un câble sous-marin,
 dont il est en mesure de connaître la position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
@@ -9105,10 +9083,7 @@ des bouées destinées à indiquer la position des câbles sous-marins.
 
 **Nota:**
 
-NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal.
-
-NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
-peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
 
 **Liens relatifs à cet article**
 
@@ -9118,24 +9093,20 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 193-07-19
-
 
 ###### Article R48
 
-Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois :
+Est puni de l'amende prévue pour les contraventions de la 5° classe :
 
 1° Toute personne qui, par négligence coupable et notamment dans les cas visés par les articles R. 46 et R. 47, rompt un
 câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
-les télécommunications [*infraction*] ;
+les télécommunications ;
 
 2° Le capitaine de tout bâtiment qui, occupé à la pose ou à la réparation d'un câble sous-marin, est cause, par
 l'inobservation des règles sur les signaux adoptés en vue de prévenir les abordages, de la rupture ou de la détérioration
@@ -9143,10 +9114,7 @@ d'un câble commise par tout autre navire.
 
 **Nota:**
 
-NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.
-
-NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
-peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
 
 **Liens relatifs à cet article**
 
@@ -9160,11 +9128,7 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
@@ -9173,7 +9137,7 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la
 
 ###### Article R49
 
-Est punie d'une amende de 3 000 à 6 000 F et peut être punie d'un emprisonnement de dix jours à un mois :
+Est punie [*sanction*] dd l'amende prévue pour les contraventions de la 5° classe :
 
 1° Toute personne qui fabrique, détient hors de son domicile, met en vente, embarque ou fait embarquer des instruments ou
 engins servant exclusivement à couper ou à détruire des câbles sous-marins [*infraction*] ;
@@ -9182,10 +9146,7 @@ engins servant exclusivement à couper ou à détruire des câbles sous-marins [
 
 **Nota:**
 
-NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal.
-
-NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
-peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
 
 **Liens relatifs à cet article**
 
@@ -9195,11 +9156,7 @@ peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-913 1993-07-19
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
@@ -9240,8 +9197,7 @@ dispositions de l'article L. 67.
 ###### Article R51
 
 Dans le cas prévu au troisième alinéa de l'article L. 81, l'auteur de la rupture ou de la détérioration est tenu, sous peine
-d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*], de faire la déclaration prévue à
-l'article L. 72.
+de l'amende prévue pour les contraventions de la 4° classe, de faire la déclaration prévue à l'article L. 72.
 
 **Nota:**
 
@@ -9259,7 +9215,7 @@ l'article L. 72.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
