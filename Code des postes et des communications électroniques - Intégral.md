@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1992-12-31
+Version Consolidée au 1993-01-14
 
 # Partie législative
 
@@ -21104,10 +21104,15 @@ applicables sont perçues par le ministre des postes et télécommunications.
 
 ###### Article D483
 
-Les radiocommunications privées sont autorisées avec les navires en mer par l'intermédiaire des stations côtières désignées
-par le ministre des postes et télécommunications.
+Les réseaux de radiocommunications maritimes ouverts au public sont établis dans les conditions fixées à l'article L. 33-1.
+Les services de radiocommunications sont fournis par l'intermédiaire des stations côtières de l'exploitant public ou par
+celles autorisées par le ministère chargé des télécommunications.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-1
 
 	**Codifié par**:
 
@@ -21115,7 +21120,7 @@ par le ministre des postes et télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -21124,10 +21129,8 @@ par le ministre des postes et télécommunications.
 
 ###### Article D484
 
-Les stations côtières de la marine nationale sont autorisées à acheminer, concurremment avec les stations côtières de
-l'administration des postes et télécommunications, les radiotélégrammes et les lettres radiomaritimes échangés avec les
-navires de guerre français. Les taxes terrestres sont toutefois attribuées à l'administration des postes et
-télécommunications.
+Les stations côtières établies par les services de la marine nationale du ministère chargé de la défense, ainsi que celles de
+l'exploitant public, sont autorisées à acheminer les radiotélégrammes échangés avec les navires de guerre français.
 
 **Liens relatifs à cet article**
 
@@ -21137,7 +21140,7 @@ télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -21146,21 +21149,27 @@ télécommunications.
 
 ###### Article D485
 
-Aucune installation de radiocommunication, obligatoire ou non, ne peut être établie à bord des navires de commerce, de pêche
-ou de plaisance, sans l'autorisation du ministre des postes et télécommunications. Cette autorisation fixe les
-caractéristiques et les conditions d'exploitation.
+Les installations radioélectriques établies à bord des navires de commerce, de pêche ou de plaisance doivent être agréées par
+le ministre chargé des télécommunications, conformément aux articles L. 34-9, R. 20-1 et suivants.
 
-Toute installation doit être d'un type agréé par l'administration des postes et télécommunications.
+Dans le cadre des dispositions du règlement des radiocommunications et des conventions ou accords internationaux,
+l'exploitant du réseau de radiocommunications maritimes ouvert au public participe à la définition des caractéristiques
+techniques et des conditions d'exploitation des installations radiomaritimes établies à bord des navires de commerce, de
+pêche ou de plaisance.
 
-Elle ne peut être ouverte à l'exploitation sans la licence prévue par le règlement des radiocommunications. Cette licence est
-délivrée par l'administration des postes et télécommunications.
+L'exploitant du réseau radiomaritime s'assure de la conformité de ces installations aux caractéristiques susvisées. Il est
+consulté sur les demandes d'autorisation temporaire d'usage d'installations déjà existantes à bord des navires. Lorsque
+l'installation d'un navire n'est pas conforme aux dispositions du présent article, l'exploitant du réseau peut refuser
+d'accepter les communications entre ses stations côtières et le navire en cause, à l'exception des communications de détresse
+et d'aide médicale.
 
-L'exploitation est assurée sous le contrôle de l'administration des postes et télécommunications.
-
-En aucun cas et pour aucun motif, une station de bord ne peut faire usage, sans autorisation de l'administration des postes
-et télécommunications, d'un indicatif d'appel autre que celui qui lui a été assigné.
+Il délivre la licence prévue par le règlement des radiocommunications.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-9, R20-1
 
 	**Codifié par**:
 
@@ -21168,7 +21177,7 @@ et télécommunications, d'un indicatif d'appel autre que celui qui lui a été 
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -21177,11 +21186,20 @@ et télécommunications, d'un indicatif d'appel autre que celui qui lui a été 
 
 ###### Article D486
 
-L'administration des postes et télécommunications assure le contrôle du personnel et du matériel des installations de
-radiocommunications des stations de bord. Elle exerce ce même contrôle sur les navires étrangers stationnant dans les ports
-français.
+Les installations radioélectriques à bord des navires relèvent de l'autorité des capitaines. En aucun cas et pour aucun
+motif, une station de bord ne peut faire usage d'un indicatif d'appel autre que celui qui lui a été assigné.
+
+La manoeuvre des installations de radiocommunications maritimes est effectuée par l'intermédiaire d'opérateurs titulaires du
+certificat visé à l'article L. 90.
+
+Les opérateurs d'installations radiomaritimes doivent respecter le secret des correspondances conformément à l'article L.
+32-3.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L90, L32-3
 
 	**Codifié par**:
 
@@ -21189,7 +21207,7 @@ français.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -21198,15 +21216,8 @@ français.
 
 ###### Article D487
 
-Elle peut, à la suite du contrôle effectué, prendre, pour ce qui touche au service des radiocommunications, les sanctions
-qu'elle juge nécessaires à l'égard du personnel opérateur et exiger les modifications qu'elle estime devoir faire apporter
-aux installations.
-
-Les sanctions relatives au personnel consistent dans l'avertissement, la suspension [*durée*] de un à six mois ou le retrait
-définitif du certificat.
-
-Les sanctions relatives à l'inexécution des modifications susvisées consistent dans l'interdiction pour les stations côtières
-d'accepter les communications du navire en cause, sauf les communications de détresse.
+Les navires étrangers stationnant dans les ports français sont soumis aux dispositions du présent chapitre dans la limite des
+règlements internationaux en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -21216,7 +21227,7 @@ d'accepter les communications du navire en cause, sauf les communications de dé
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
 
 	**Nouveaux textes**:
 
