@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1965-05-26
+Version Consolidée au 1965-06-13
 
 # Partie législative
 
@@ -8767,31 +8767,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D96
-
-**Nota:**
-
-[*(Abrogé par le décret n° 65-444 du 8 juin 1965)*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L59 al. 1er à 4
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°65-444 1965-06-08 art. 1 JORF 13 juin 1965
 
 
 ## LIVRE II : Le service des télécommunications
