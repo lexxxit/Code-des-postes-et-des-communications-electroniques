@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1967-10-14
+Version Consolidée au 1968-10-22
 
 # Partie législative
 
@@ -8440,6 +8440,29 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Modifié par**:
 
 	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+
+
+###### Article D81-1
+
+La liste des pays étrangers, avec lesquels le trafic des colis postaux bénéficie d'un régime préférentiel prévu par une
+convention conclue entre l'Etat et la Société nationale des chemins de fer français, est fixée par arrêté du ministre des
+postes et des communications électroniques après avis du ministre des affaires étrangères.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°68-904 1968-10-14 art. 2 JORF 22 octobre 1968
 
 
 ###### Article D83
