@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-08-01
 
 # Partie législative
 
@@ -13676,6 +13676,23 @@ Les postes d'abonnement se subdivisent en :
 
 ##### Paragraphe 1er : Dispositions générales.
 
+###### Article D291-1
+
+Les abonnés, qui le souhaitent, peuvent demander à souscrire, dans la limite des possibilités techniques, un abonnement au
+service interurbain optionnel. Ce service se caractérise par une tarification dégressive des communications et une redevance
+d'abonnement d'un montant particulier pour chaque ligne exploitée en service restreint national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+
+
 ###### Article D292
 
 **Nota:**
@@ -13755,29 +13772,6 @@ Toute communication refusée est soumise à un prix de refus.
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-##### 6. : Facturation aux gérants de cabine.
-
-###### Article D299
-
-**Nota:**
-
-[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
-
-
 ##### Paragraphe 3 : Communications spéciales
 
 ##### 1. : Indication de durée.
@@ -13831,13 +13825,13 @@ Toute communication refusée est soumise à un prix de refus.
 	  - Code des postes et des communications électroni... - art. D303 (V)
 
 
-##### 3. : Préavis.
+##### 5. : Communications avec un ordinateur.
 
-###### Article D302
+###### Article D306
 
 **Nota:**
 
-[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
 
 **Liens relatifs à cet article**
 
@@ -13849,30 +13843,19 @@ Toute communication refusée est soumise à un prix de refus.
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
-	**Abrogé par**:
+	**Cité par**:
 
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°64-422 1964-05-14 art. 1 JORF 16 mai 1964 rectificatif JORF 11 juillet 1964
+	  - Décret n°71-106 1971-02-03 art. 1 JORF 5 février 1971
 	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
-
-
-###### Article D303
-
-**Nota:**
-
-[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 	**Abrogé par**:
 
-	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
 ##### 6. : Communication avec un véhicule.
@@ -14345,34 +14328,6 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 
 
 ##### Paragraphe 7 : Modification des conditions de concession d'un abonnement
-
-##### 1. : Transfert des postes d'abonnement.
-
-###### Article D343
-
-**Nota:**
-
-[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
-	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
-
-	**Abrogé par**:
-
-	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
-
 
 ##### 2. : Transformation des abonnements.
 
