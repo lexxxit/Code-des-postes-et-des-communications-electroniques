@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1994-08-28
 
 # Partie législative
 
@@ -7079,6 +7079,85 @@ Les dossiers et la correspondance se rapportant aux procédures visées à la pr
 	  - Décret n°62-274 1962-03-12
 
 
+##### SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.
+
+###### Article R20-17
+
+La destination des équipements terminaux de télécommunications, visés à la présente section, est celle qui est fixée par le
+fabricant ou le fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-18 (M)
+
+
+###### Article R20-19
+
+1° Dès lors qu'un équipement terminal comporte le marquage C.E. visé à l'article R-20-13, suivi du symbole d'identification
+de l'organisme notifié responsable et du symbole indiquant qu'il est destiné et apte à être connecté à un réseau ouvert au
+public, il est présumé conforme aux exigences essentielles et peut être librement commercialisé en France.
+
+2° Peut également être librement commercialisé en France, tout équipement terminal de télécommunications susceptible d'être
+connecté à un réseau ouvert au public, sans être destiné à une telle utilisation, et qui a fait l'objet d'un marquage C.E
+visé à l'article R-20-14.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-737 1994-08-22 art. 1 et 5 JORF 28 août 1994
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-20 (V)
+	  - Code des postes et des communications électroni... - art. R20-21 (V)
+	  - Code des postes et des communications électroni... - art. R20-3 (V)
+	  - Code des postes et des communications électroni... - art. R20-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-8 (M)
+	  - Code des postes et des communications électronique - art. R20-25 (M)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R-20-13, R-20-14
+
+
+###### Article R20-21
+
+Lorsqu'un accord entre la Communauté européenne et un Etat n'appartenant pas à celle-ci a été conclu à cet effet, la
+conformité d'un équipement terminal aux normes et spécifications techniques est évaluée en tenant compte de la documentation
+établie par un organisme pertinent de ce pays.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électronique - art. R20-25 (M)
+
+
 ##### SECTION 5 : Admission des installateurs.
 
 ###### Article R20-25
@@ -7166,32 +7245,34 @@ d'installateur admis en télécommunications ou en radiocommunications, en viola
 
 ###### Article R20-1
 
-On entend par " équipement terminal " tout équipement défini au 10° de l'article L. 32. On considère qu'un terminal est
-connecté indirectement à un réseau lorsque, par l'intermédiaire d'un autre réseau ou d'un autre terminal, il fonctionne avec
-le réseau.
+On entend par équipement terminal tout équipement défini au 10° de l'article L. 32. On considère qu'un terminal est connecté
+indirectement à un réseau lorsque, par l'intermédiaire d'un autre réseau ou d'un autre terminal, il fonctionne avec le
+réseau.
 
-On entend par " exigences essentielles " les exigences définies au 12° de l'article L. 32. La compatibilité électromagnétique
-est au nombre des facteurs qui sont à prendre en considération pour apprécier si l'exigence de bonne utilisation du spectre
+On entend par exigences essentielles les exigences définies au 12° de l'article L. 32. La compatibilité électromagnétique est
+au nombre des facteurs qui sont à prendre en considération pour apprécier si l'exigence de bonne utilisation du spectre
 radioélectrique est satisfaite.
 
-On entend par " spécification technique " la définition des caractéristiques requises d'un produit, telles que les niveaux de
+On entend par spécification technique la définition des caractéristiques requises d'un produit, telles que les niveaux de
 qualité ou de propriété d'emploi, la sécurité, les dimensions, y compris les prescriptions applicables au produit en ce qui
 concerne la terminologie, les symboles, les essais et méthodes d'essai, l'emballage, le marquage et l'étiquetage.
 
-On entend par " réglementations techniques communes " les spécifications techniques communautaires mettant en oeuvre les
+On entend par réglementations techniques communes les spécifications techniques communautaires mettant en oeuvre les
 exigences essentielles visées ci-dessus, à l'exception de celles relatives à la sécurité des usagers et du personnel des
 exploitants de réseaux de télécommunications. Leur respect est rendu obligatoire par la législation communautaire dans
-l'ensemble des Etats membres. Leurs références sont publiées au Journal officiel des communautés européennes.
+l'ensemble des Etats membres de la Communauté européenne ou de tout autre Etat partie à l'accord instituant l'Espace
+économique européen. Leurs références sont publiées au Journal officiel des communautés européennes.
 
-On entend par " organisme notifié " un organisme établi dans la Communauté économique européenne, désigné par un des Etats
-membres pour certifier la conformité aux exigences essentielles des équipements terminaux lors de leur commercialisation et
-figurant sur une liste publiée au Journal officiel des communautés européennes.
+On entend par organisme notifié un organisme établi dans la Communauté européenne ou dans l'Espace économique européen,
+désigné par un des Etats membres de la Communauté européenne ou de tout autre Etat partie à l'accord instituant l'Espace
+économique européen. pour certifier la conformité aux exigences essentielles des équipements terminaux lors de leur
+commercialisation et figurant sur une liste publiée au Journal officiel des communautés européennes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
 
 	**Codifié par**:
 
@@ -7227,8 +7308,8 @@ radioélectrique, quelle que soit sa destination.
 
 La procédure d'agrément a pour objet de garantir le respect des exigences essentielles.
 
-Au choix du fabricant ou de son mandataire établi dans la Communauté économique européenne, l'agrément est délivré à
-l'issue :
+Au choix du fabricant ou de son mandataire établi dans la Communauté européenne ou dans l'Espace économique européen,
+l'agrément est délivré à l'issue :
 
 a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R. 20-5 et R. 20-6, suivi de la déclaration de
 conformité au type prévue à l'article R. 20-7 (a), assortie ou non d'un système approuvé de qualité de la production,
@@ -7265,7 +7346,7 @@ mentionnées aux 1° et 2° du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
 
 	**Codifié par**:
 
@@ -7282,15 +7363,15 @@ pertinentes ou, à défaut, des normes nationales ;
 
 b) S'agissant des autres exigences essentielles prévues au même 12° de l'article L. 32, au regard des réglementations
 techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des réglementations techniques des
-autres Etats membres de la Communauté économique européenne reconnues équivalentes par le directeur général des postes et
-télécommunications.
+autres Etats membres de la Communauté européenne ou des autres Etats parties à l'accord instituant l'Espace économique
+européen reconnues équivalentes par le directeur général des postes et télécommunications.
 
 Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 modifié, les réglementations techniques
 nationales sont adoptées par arrêté du ministre chargé des télécommunications.
 
 L'évaluation de la conformité des équipements terminaux aux normes harmonisées et aux réglementations techniques communes,
-effectuée dans d'autres Etats membres de la Communauté économique européenne, est reconnue en France conformément aux
-dispositions de la section III du présent chapitre.
+effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant
+l'Espace économique européen, est reconnue en France conformément aux dispositions de la section III du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -7301,7 +7382,7 @@ dispositions de la section III du présent chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
 
 	**Codifié par**:
 
@@ -7315,16 +7396,16 @@ dispositions de la section III du présent chapitre.
 ###### Article R20-4
 
 La demande d'agrément est présentée au directeur général des postes et télécommunications par le fabricant de l'équipement ou
-son mandataire établi dans la Communauté économique européenne, ci-après dénommé le demandeur. Le demandeur doit avoir la
-personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de
-réglementations techniques nationales, la demande d'agrément peut être présentée par toute personne à même d'assurer les
-responsabilités incombant au titulaire de l'agrément.
+son mandataire établi dans la Communauté européenne ou dans l'espace économique européen, ci-après dénommé le demandeur. Le
+demandeur doit avoir la personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au regard de normes
+nationales ou de réglementations techniques nationales, la demande d'agrément peut être présentée par toute personne à même
+d'assurer les responsabilités incombant au titulaire de l'agrément.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
 
 	**Codifié par**:
 
@@ -7672,6 +7753,9 @@ Lorsque l'agrément a été délivré à l'issue soit d'un examen C.E. de type, 
 l'équipement terminal est l'objet d'un marquage C.E., conforme à un modèle fixé par arrêté du ministre chargé des
 télécommunications.
 
+Ce marquage C.E. ne pourra être apposé par le fabricant ou son mandataire qu'après que celui-ci se sera également conformé
+aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
+
 2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et comporter l'indication du modèle, lot ou
 numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
 
@@ -7679,7 +7763,7 @@ numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°94-737 1994-08-22 art. 2 JORF 28 août 1994
 
 	**Codifié par**:
 
@@ -7697,13 +7781,17 @@ l'équipement concerné n'est pas destiné à être connecté à un réseau ouve
 d'utilisation de l'équipement.
 
 3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
-Etat membre de la Communauté économique européenne, le fabricant ou le fournisseur est tenu de justifier, sur demande du
-directeur général des postes et télécommunications , que l'équipement correspond à la destination qu'il a déclarée, compte
-tenu de ses caractéristiques techniques, de ses fonctions et du segment de marché pour lequel il est prévu.
+Etat membre de la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen , le fabricant
+ou le fournisseur est tenu de justifier, sur demande du directeur général des postes et télécommunications , que l'équipement
+correspond à la destination qu'il a déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du segment
+de marché pour lequel il est prévu.
 
-4° Chaque équipement concerné doit faire l'objet, préalablement à sa commercialisation, d'un marquage par le fabricant ou le
-fournisseur indiquant qu'il ne peut être connecté à un réseau ouvert au public, conforme à un modèle publié par arrêté du
-ministre chargé des télécommunications.
+4° Préalablement à sa commercialisation, chaque équipement concerné doit faire l'objet, de la part du fabricant ou du
+fournisseur, du marquage C.E. conforme à un modèle publié par arrêté du ministre chargé des télécommunications et indiquant
+qu'il ne peut être connecté à un réseau ouvert au public.
+
+Ce marquage C.E. ne pourra être apposé par le fabricant ou le fournisseur qu'après que celui-ci se sera également conformé
+aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
 
 **Liens relatifs à cet article**
 
@@ -7713,7 +7801,7 @@ ministre chargé des télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-737 1994-08-22 art. 1 et 3 JORF 28 août 1994
 
 	**Cité par**:
 
@@ -7741,33 +7829,14 @@ techniques des équipements terminaux soumis à agrément sont publiées au Jour
 	  - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté économique européenne.
-
-###### Article R20-17
-
-La destination des équipements terminaux de télécommunications, visés à la présente section, est celle qui est fixée par le
-fabricant ou le fournisseur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-18 (M)
-
+##### SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.
 
 ###### Article R20-18
 
 1° Les équipements destinés à être connectés directement ou indirectement à un réseau ouvert au public, qui ont obtenu de la
-part d'un organisme notifié d'un autre Etat membre une décision approuvant leur connexion au réseau, sont dispensés de
-l'agrément prévu au 1° de l'article R. 20-2 lorsque cette décision a été obtenue à l'issue :
+part d'un organisme notifié d'un autre Etat membre ou de tout autre Etat partie à l'accord instituant l'Espace économique
+européen une décision approuvant leur connexion au réseau, sont dispensés de l'agrément prévu au 1° de l'article R. 20-2
+lorsque cette décision a été obtenue à l'issue :
 
 - soit d'un examen C.E. de type suivi d'une déclaration de conformité assortie éventuellement d'un système approuvé de
 qualité de la production ;
@@ -7775,8 +7844,10 @@ qualité de la production ;
 - soit d'une déclaration C.E. de conformité assortie d'un système approuvé d'assurance de qualité complète.
 
 2° Lors de l'instruction d'une demande visant à obtenir l'agrément prévu au 1° de l'article R. 20-2, sont reconnus valables
-les résultats des essais effectués dans des laboratoires désignés par les autres Etats membres et figurant le cas échéant sur
-une liste publiée au Journal officiel des communautés européennes.
+les résultats des essais effectués dans les laboratoires présentant des garanties d'indépendance et de compétence notamment
+sur la base des critères généraux définis par les normes de la série EN 45000, désignés comme tels par les autres Etats
+membres ou les autres Etats parties à l'accord instituant l'Espace économique européen et figurant le cas échéant sur une
+liste publiée au Journal officiel de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -7786,41 +7857,11 @@ une liste publiée au Journal officiel des communautés européennes.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°94-737 1994-08-22 art. 1 et 4 JORF 28 août 1994
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-19
-
-1° Dès lors qu'un équipement terminal comporte le marquage C.E., suivi du symbole d'identification de l'organisme notifié
-responsable et du symbole indiquant qu'il est destiné et apte à être connecté à un réseau ouvert au public, il est présumé
-conforme aux exigences essentielles et peut être librement commercialisé en France.
-
-2° Peut également être librement commercialisé en France, tout équipement terminal de télécommunications susceptible d'être
-connecté à un réseau ouvert au public, sans être destiné à une telle utilisation, et qui a fait l'objet d'un marquage C.E.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. R20-20 (V)
-	  - Code des postes et des communications électroni... - art. R20-21 (V)
-	  - Code des postes et des communications électroni... - art. R20-3 (V)
-	  - Code des postes et des communications électroni... - art. R20-4 (V)
-	  - Code des postes et des communications électroni... - art. R20-8 (M)
-	  - Code des postes et des communications électronique - art. R20-25 (M)
 
 
 ###### Article R20-20
@@ -7829,43 +7870,22 @@ Lorsqu'il estime que les normes hamonisées et réglementations techniques commu
 les exigences essentielles ou vont au-delà de celles-ci, le directeur de le réglementation générale en saisit le comité
 d'approbation des équipements de télécommunications (Acte) siégeant auprès de la Commission des communautés européennes.
 
-Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté économique européenne et
-utilisé conformément à sa destination, ne satisfait pas aux exigences essentielles, le directeur général des postes et
-télécommunications en informe sans délai la Commission des communautés européennes ainsi que les autres Etats membres et
-précise si la non-conformité résulte d'une application inadéquate des normes et spécifications harmonisées ou de lacunes
-intrinsèques de celles-ci.
+Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté européenne ou dans un
+autre Etat partie à l'accord instituant l'Espace économique européen et utilisé conformément à sa destination, ne satisfait
+pas aux exigences essentielles, le directeur général des postes et télécommunications en informe sans délai la Commission des
+communautés européennes ainsi que les autres Etats membres de la Communauté européenne et les autres Etats parties à l'accord
+instituant l'Espace économique européen et précise si la non conformation résulte d'une application inadéquate des normes et
+spécifications harmonisées ou de lacunes intrinsèques de celles-ci.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-737 1994-08-22 art. 1 et 6 JORF 28 août 1994
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-21
-
-Lorsqu'un accord entre la Communauté économique européenne et un Etat n'appartenant pas à celle-ci a été conclu à cet effet,
-la conformité d'un équipement terminal aux normes et spécifications techniques est évaluée en tenant compte de la
-documentation établie par un organisme pertinent de ce pays.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électronique - art. R20-25 (M)
 
 
 ##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.
@@ -7931,8 +7951,8 @@ l'article R. 20-22 ne peuvent être raccordés, mis en service et entretenus que
 installateurs admis, selon le cas, en télécommunications ou en radiocommunications.
 
 2° La demande d'inscription peut être présentée par toute entreprise inscrite au registre des métiers ou au registre du
-commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté économique
-européenne.
+commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté européenne
+ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
 
 La demande d'inscription comporte :
 
@@ -7965,7 +7985,7 @@ motivés et notifiés à l'entreprise concernée.
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
 
 	**Codifié par**:
 
