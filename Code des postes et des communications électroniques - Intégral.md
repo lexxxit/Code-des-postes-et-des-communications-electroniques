@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1985-01-10
+Version Consolidée au 1985-01-26
 
 # Partie législative
 
@@ -3501,6 +3501,40 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L106-1
+
+Il n'est admis d'opposition par le tireur au paiement d'un chèque postal présenté par le bénéficiaire [*condition*] qu'en cas
+de perte du chèque ou de redressement judiciaire.
+
+Si, malgré cette défense, le tireur fait opposition pour d'autres causes, le juge des référés, même dans le cas où une
+instance au principal est engagée, doit, sur la demande du porteur, ordonner la mainlevée de l'opposition.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°72-10 1972-01-03 art. 13 JORF 5 janvier 1972
+
+	**Modifié par**:
+
+	  - Loi n°85-98 1985-01-25 art. 233 JORF 26 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ### TITRE II : Mandats.
