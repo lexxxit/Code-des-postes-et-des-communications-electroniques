@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-05-14
+Version Consolidée au 1987-05-15
 
 # Partie législative
 
@@ -11475,6 +11475,30 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 ##### Paragraphe 1 : Ouverture des bureaux télégraphiques.
 
+###### Article D97
+
+Les centres télégraphiques sont ouverts aux services des transmissions et de la remise suivant un horaire fixé par
+l'administration des télécommunications.
+
+Les bureaux télégraphiques sont ouverts aux services des transmissions et de la distribution suivant un horaire fixé par
+l'administration de la poste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+
 ###### Article D99
 
 Des prolongations d'ouverture peuvent être autorisées en considération des besoins particuliers de certains bureaux ou sur
@@ -11495,6 +11519,37 @@ Les frais résultant de la prolongation d'ouverture sont, dans ce dernier cas, s
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. D99-3 (M)
+
+
+##### Paragraphe 2 : Dépôt des télégrammes.
+
+###### Article D100
+
+Les télégrammes privés peuvent être :
+
+- déposés par téléphone, par télex, par Minitel ou tout autre moyen de télécommunication ;
+
+- émis dans les bureaux télégraphiques par l'expéditeur ou son mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+	**Cité par**:
+
+	  - Arrêté du 4 août 2006 - art. 2 (V)
+	  - Code des postes et des communications électronique - art. D101 (V)
 
 
 ##### Paragraphe 3 : Rédaction des télégrammes
@@ -12134,6 +12189,26 @@ Les télégrammes illustrés sont admis dans le régime intérieur et dans certa
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
+###### Article D183
+
+Les télégrammes illustrés sont obligatoirement déposés à l'avance et remis par la voie postale à la date indiquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai en vigueur le 15 mai 1987
+
+
 ###### Article D185
 
 En plus des tarifs principaux et accessoires qui leur sont normalement applicables, les télégrammes illustrés sont passibles
@@ -12152,6 +12227,34 @@ d'une majoration équivalant à une unité Télécom perçue gratuitement au pro
 	**Modifié par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+##### 22. : Télégrammes avec accusé de réception.
+
+###### Article D192
+
+Les télégrammes avec accusé de réception sont des télégrammes pour lesquels l'expéditeur a demandé d'être informé de la date
+et de l'heure de remise au destinataire [*définition*].
+
+L'expéditeur doit obligatoirement indiquer son nom et son adresse en signature.
+
+Ces télégrammes sont caractérisés par l'indication de service "P.C." ; l'accusé de réception est transmis par la voie
+postale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai en vigueur le 15 mai 1987
 
 
 ##### 24. : Télégrammes sur un compte télécommunications.
@@ -12353,6 +12456,55 @@ La signature et le sceau ou le cachet du fonctionnaire expéditeur peuvent être
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+##### 3. : Dépôt et remise.
+
+###### Article D237
+
+Les télégrammes officiels sont déposés par télex ou minitel.
+
+Toutefois, des dérogations peuvent être admises sur autorisation spéciale des Télécommunications.
+
+Ils sont remis dans les mêmes conditions qu'un télégramme privé ordinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+
+##### 4. : Modalités particulières concernant les conditions de dépôt, de transmission et de remise des télégrammes officiels.
+
+###### Article D241
+
+Les télégrammes officiels bénéficient de la priorité de transmission et de remise pendant les heures d'ouverture des centres
+et des bureaux télégraphiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
 ##### 5. : Circulaires.
@@ -12636,6 +12788,30 @@ au ministre d'Etat de la principauté.
 	**Modifié par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+##### 6. : Remise.
+
+###### Article D259
+
+Les télégrammes d'Etat portant l'indication de service "Etat priorité" sont traités comme les télégrammes officiels, en ce
+qui concerne la remise. Les télégrammes d'Etat portant l'indication de service "Etat" sont remis comme les télégrammes privés
+ordinaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
 ##### Paragraphe 13 : Remboursement.
@@ -13903,6 +14079,68 @@ Les lignes supplémentaires sont dites intérieures ou extérieures selon leur c
 	  - Code des postes et des communications électronique - art. D333-2 (Ab)
 
 
+###### Article D333-1
+
+Sous réserve des conditions prévues à l'article D. 333, une ligne supplémentaire est dite intérieure [*définition*] quand
+elle est établie en totalité à l'intérieur d'un même local ou d'un même terrain affecté à titre privatif ou locatif au seul
+titulaire de l'abonnement principal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D333
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+
+###### Article D333-2
+
+Sous réserve des conditions prévues à l'article D. 333, une ligne supplémentaire est dite extérieure [*définition*] quand
+elle est établie en partie à l'extérieur du local ou du terrain affecté à titre privatif ou locatif au titulaire de
+l'abonnement principal.
+
+Le poste supplémentaire situé à l'extrémité d'une ligne supplémentaire extérieure doit être installé dans un local à usage
+professionnel appartenant ou loué par le titulaire et dont il a la libre disposition.
+
+Par dérogation à l'alinéa ci-dessus, il est admis qu'une ligne supplémentaire extérieure, et une seule, puisse desservir un
+local à usage d'habitation lequel peut être :
+
+- soit le domicile du titulaire de l'abonnement principal ;
+
+- soit le domicile d'une personne physique nommément désignée si le titulaire de l'abonnement principal est une personne
+morale.
+
+Toutes communications échangées entre personnes physiques ou morales différentes doivent être établies par l'intermédiaire
+d'un centre public de télécommunications et donnent lieu à la perception des tarifs réglementaires.
+
+Exceptionnellement, et après accord de l'administration, des lignes supplémentaires extérieures peuvent être affectées au
+service de personnes autres que le titulaire de l'abonnement principal, lorsque ces lignes supplémentaires sont entièrement
+contenues à l'intérieur d'un immeuble à usage professionnel et aboutissent à une installation principale utilisée en commun.
+
+Cette exception n'est pas admise pour la desserte de locaux à usage d'habitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D333
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+
 ###### Article D334
 
 Quand une ligne d'abonnement téléphonique est équipée de conjoncteurs permettant son utilisation à partir de différents
@@ -13990,6 +14228,30 @@ télécommunications dans les conditions prévues au présent code, et sans pré
 	**Abrogé par**:
 
 	  - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
+
+
+###### Article D339
+
+Toute interruption de service, qui n'est pas du fait de l'abonné et dure au moins quatre jours consécutifs à partir du
+lendemain du jour où elle a été signalée au service des télécommunications, entraîne, dans le montant des redevances
+périodiques, une diminution calculée proportionnellement à la durée totale de l'interruption.
+
+Si l'interruption, au sens de l'alinéa précédent, dure au moins quatorze jours, l'abonné est dispensé du paiement des
+redevances périodiques correspondant à un bimestre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
 ###### Article D340
@@ -14122,6 +14384,43 @@ D. 328.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+##### Paragraphe 8 : Dispositions diverses
+
+##### 2. : Listes périodiques d'abonnés.
+
+###### Article D359
+
+Le nom des titulaires des postes d'abonnement principaux permanents est, sauf demande contraire des intéressés, inscrit sur
+une ou plusieurs listes périodiques ou sur des suppléments destinés à tenir ces listes à jour.
+
+La non-inscription sur ces listes ou suppléments donne lieu au paiement d'un supplément de redevance d'abonnement.
+
+Le nom du titulaire d'un poste supplémentaire n'est pas inscrit gratuitement sur les listes périodiques ou leurs suppléments.
+
+Le titulaire d'un abonnement principal ordinaire et permanent a droit, à ce titre, à un exemplaire de la liste d'abonnés sur
+laquelle il figure, ainsi qu'à ses suppléments éventuels. Il peut, lorsque le service des télécommunications en a fait la
+proposition, demander qu'au lieu et place de cette liste soit mis à sa disposition un terminal permettant l'accès à
+l'annuaire téléphonique sous forme électronique.
+
+La concession des postes autres que les postes d'abonnement principal ordinaire et permanent ne donne pas droit à la remise
+gratuite des listes périodiques ou de leurs suppléments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
 
 
 ##### SECTION 4 : Dispositions particulières au service international.
