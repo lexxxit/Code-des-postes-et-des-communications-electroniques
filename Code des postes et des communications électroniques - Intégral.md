@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-08-06
+Version Consolidée au 2003-09-27
 
 # Partie législative
 
@@ -2030,6 +2030,28 @@ sont déterminées dans les conditions prévues à l'article L. 36-6.
 	**Cite**:
 
 	  - Code des postes et télécommunications L36-6
+
+
+###### Article L33-3-1
+
+En Nouvelle-Calédonie et en Polynésie française sont établies sans être soumises à autorisation ou à déclaration les
+installations radioélectriques permettant de rendre inopérants dans les établissements pénitentiaires, tant pour l'émission
+que pour la réception, les téléphones mobiles de tous types.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 8 () JORF 27 septembre 2003
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L33-3-2 (V)
+	  - Code des postes et des communications électroni... - art. L39-1 (V)
 
 
 ###### Article L33-4
