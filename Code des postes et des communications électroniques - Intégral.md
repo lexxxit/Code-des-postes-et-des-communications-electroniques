@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-07-10
 
 # Partie législative
 
@@ -2670,6 +2670,40 @@ ci dans sa déclaration.
 
 	  - Arrêté du 4 août 2006 - art. 1 (V)
 	  - Arrêté du 12 octobre 2016 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+#### CHAPITRE II : Dispositions pénales.
+
+###### Article L97
+
+Les infractions aux dispositions des articles L. 89 (1er alinéa) et L. 93 sont passibles [*sanction*] des peines prévues à
+l'article L. 39.
+
+Sont passibles des mêmes peines les infractions aux autres dispositions du présent titre commises en état de récidive. Il y a
+récidive [*définition*] lorsqu'il a été rendu contre le contrevenant, dans les douze mois précédents [*délai*], un premier
+jugement pour infraction à l'une de ces dispositions, quel que soit le tribunal de police dans le ressort duquel elle a été
+commise.
+
+Le tribunal peut aussi prononcer la confiscation des appareils.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L39, L89 al. 1 et L93
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L167
+	  - Décret n°1926-12-28 art. 31
+
+	**Créé par**:
+
+	  - Loi n°77-750 1977-07-08 art. 1 JORF 10 juillet 1977
 
 	**Codifié par**:
 
