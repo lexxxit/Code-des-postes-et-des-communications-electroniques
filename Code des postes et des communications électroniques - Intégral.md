@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1983-04-01
 
 # Partie législative
 
@@ -14289,33 +14289,6 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
 
 
-###### Article D345
-
-**Nota:**
-
-[*(Abrogé par décret n° 83-258 du 30 mars 1983, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
-	  - Décret n°77-351 1977-03-28 art. 1 JORF 1er avril 1977
-	  - Décret n°78-570 1978-04-29 art. 1 JORF 30 avril 1978
-
-	**Abrogé par**:
-
-	  - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
-
-
 ##### 2. : Transformation des abonnements.
 
 ###### Article D348
@@ -14504,35 +14477,6 @@ D. 328.
 	**Abrogé par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-
-##### Paragraphe 8 : Dispositions diverses
-
-##### 1. : Reprise de l'abonnement après résiliation.
-
-###### Article D358
-
-**Nota:**
-
-[*(Abrogé par décret n° 83-258 du 30 mars 1983, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
-
-	**Abrogé par**:
-
-	  - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
 
 
 ##### SECTION 4 : Dispositions particulières au service international.
