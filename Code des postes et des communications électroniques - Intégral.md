@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1978-12-30
+Version Consolidée au 1979-06-08
 
 # Partie législative
 
@@ -12592,6 +12592,39 @@ télégraphique dans les cas et conditions prévus par les règlements.
 
 ##### Paragraphe 1er : Généralités.
 
+###### Article D277
+
+Le service télex est un service de transmissions mis à la disposition du public au moyen de postes d'abonnement ou de postes
+publics.
+
+Un poste d'abonnement télex est un poste installé dans les locaux d'un usager déterminé [*définition*].
+
+Un poste public télex est un poste mis à la disposition du public pendant les heures d'ouverture (fixées par
+l'administration) d'un établissement postal, télégraphique ou téléphonique.
+
+La fourniture et l'entretien des installations de télécommunications sont assurés dans les conditions prévues aux articles D.
+440 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D440
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-23 1970-01-08 art. 1 JORF 10 janvier 1970
+	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
+
+
 ###### Article D278
 
 Le service télex permet :
@@ -13296,6 +13329,47 @@ l'administration des postes et télécommunications, peuvent être transformés 
 	  - Décret n°78-570 1978-04-29 art. 1 JORF 30 avril 1978
 
 
+###### Article D323
+
+Le nombre n de lignes d'abonnement principal utilisables pour desservir le trafic d'arrivée à destination d'une installation
+d'abonné doit être tel que, pour une intensité totale T de trafic mesurée en erlangs à l'heure chargée sur ces lignes, les
+relations suivantes soient satisfaites: [*formule non reproduite*]
+
+Si l'une des conditions n'est pas remplie, l'administration peut mettre l'abonné en demeure d'accepter l'extension nécessaire
+du faisceau de lignes utilisables à l'arrivée, par pli recommandé avec accusé de réception.
+
+En cas de refus ou de non-réponse de l'abonné dans le délai d'un mois, le taux de redevance d'abonnement principal ordinaire
+est immédiatement appliqué à l'ensemble des lignes principales desservant l'installation et le taux de la redevance
+d'abonnement supplémentaire applicable à cette installation est majoré. Cette majoration est fixée dans les conditions
+prévues à l'article R. 56. En outre, l'administration se réserve le droit de mettre en place dans ses locaux un dispositif de
+réponse automatique aux frais de l'abonné et destiné à informer ses correspondants des raisons pour lesquelles ses
+communications n'ont pu aboutir.
+
+Sans préjudice des dispositions qui précèdent, le tarif réduit prévu en faveur des lignes principales d'extension
+spécialisées à l'arrivée n'est appliqué aux lignes de ce type que dans les cas où elles constituent au moins 30 p. 100 du
+faisceau de lignes principales desservant une même installation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R56
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°72-324 1972-04-28 art. 1 JORF 29 avril 1972 rectificatif JORF 18 mai 1972
+	  - Décret n°78-570 1978-04-29 art. 1 JORF 30 avril 1978
+	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
+
+
 ##### 4. : Abonnements à ligne partagée.
 
 ###### Article D324
@@ -13816,29 +13890,6 @@ D. 328.
 	**Abrogé par**:
 
 	  - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
-
-
-##### 2. : Listes périodiques d'abonnés.
-
-###### Article D360
-
-**Nota:**
-
-[*(Abrogé par décret n° 79-440 du 7 juin 1979)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
 
 
 ##### SECTION 4 : Dispositions particulières au service international.
