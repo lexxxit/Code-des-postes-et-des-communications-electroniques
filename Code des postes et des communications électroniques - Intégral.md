@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1967-01-08
+Version Consolidée au 1967-10-14
 
 # Partie législative
 
@@ -9569,27 +9569,6 @@ doivent être choisis uniquement parmi les modèles types agréés par l'adminis
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-###### Article D161
-
-**Nota:**
-
-[*(Abrogé par le décret n° 67-896 du 6 octobre 1967)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°67-896 1967-10-06 art. 1 JORF 14 octobre 1967
-
-
 ###### Article D162
 
 **Nota:**
@@ -11125,6 +11104,31 @@ télégraphique dans les cas et conditions prévus par les règlements.
 
 ##### SECTION 2 : Service pneumatique.
 
+###### Article D268
+
+**Nota:**
+
+[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+
+	**Abrogé par**:
+
+	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
 ###### Article D269
 
 **Nota:**
@@ -12385,6 +12389,146 @@ pays limitrophe de la France au sujet de la détermination de ces relations et d
 
 
 #### CHAPITRE  V : Services particuliers des télécommunications
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article D368
+
+Des liaisons de télécommunications peuvent être mises à la disposition des usagers. Ces liaisons se subdivisent en deux
+catégories :
+
+- les liaisons spécialisées ;
+
+- les lignes d'intérêt privé.
+
+Une ligne d'intérêt privé n'est accordée que dans le cas où la liaison demandée par l'usager ne peut être assurée par la mise
+à sa disposition d'une liaison spécialisée.
+
+Il appartient à l'administration des postes et télécommunications de déterminer de quelle manière satisfaction peut être
+donnée au demandeur, eu égard à l'intérêt général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+
+
+##### SECTION 2 : Liaisons spécialisées
+
+##### Paragraphe 1er : Régime général.
+
+###### Article D374
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D377 (V)
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+
+
+###### Article D375
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+
+	**Abrogé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+
+###### Article D376
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+
+	**Abrogé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+
+###### Article D385
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+
+	**Abrogé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
 
 ##### SECTION 3 : Lignes d'intérêt privé
 
