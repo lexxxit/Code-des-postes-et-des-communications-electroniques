@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1963-02-23
+Version Consolidée au 1963-08-08
 
 # Partie législative
 
@@ -2833,6 +2833,62 @@ mains et contre décharge des vaguemestres civils ou militaires régulièrement 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
+###### Article L115
+
+Le montant des mandats de toute nature dont le paiement ou le remboursement n'a pas été réclamé par les ayants droit dans le
+délai de deux ans à partir du jour du versement des fonds est définitivement acquis à l'administration des postes et
+télécommunications [*prescription acquisitive*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L191
+	  - Loi n°1943-06-29 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+#### (en vigueur jusqu'au 31 décembre 2005).
+
+###### Article L116
+
+Passé le délai de deux ans à partir du jour du versement des fonds, les réclamations afférentes aux mandats de toute nature
+ne sont plus recevables, quels qu'en soient l'objet et le motif.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L116
+	  - Loi n°1943-06-29 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+
 ### TITRE III : Valeurs à recouvrer et envois contre remboursement
 
 ###### Article L119
@@ -3020,6 +3076,42 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L123
+
+Dans les cas prévus au deuxième alinéa de l'article L. 122 ci-dessus, les réclamations concernant les valeurs à recouvrer et
+les envois contre remboursement sont reçues dans le délai de deux ans à partir du dépôt.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L201
+	  - Loi n°53-26 1953-01-28 art. 10
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L122 (M)
 
 
 ###### Article L124
