@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-07-28
 
 # Partie législative
 
@@ -1090,6 +1090,11 @@ de gestion qui y est associé, entre les points de terminaison de ce réseau.
 On entend par réseau ouvert au public tout réseau de télécommunications établi ou utilisé pour la fourniture au public de
 services de télécommunications.
 
+3° bis Points de terminaison d'un réseau.
+
+On entend par points de terminaison d'un réseau les points physiques par lesquels les utilisateurs accèdent à un réseau de
+télécommunications ouvert au public. Ces points de raccordement font partie du réseau.
+
 4° Réseau indépendant.
 
 On entend par réseau indépendant un réseau de télécommunications réservé à un usage privé ou partagé.
@@ -1139,23 +1144,30 @@ terminaison d'un réseau en vue de la transmission, du traitement ou de la réce
 équipements permettant d'accéder à des services de communication audiovisuelle diffusés par voie hertzienne ou distribués par
 câble, sauf dans les cas où ils permettent d'accéder également à des services de télécommunications.
 
-11° Réseau, installation ou équipement terminal radioélectrique.
+11° Réseau, installation ou équipement radioélectrique.
 
-Un réseau, une installation ou un équipement terminal sont qualifiés de radioélectriques lorsqu'ils utilisent des fréquences
-hertziennes pour la propagation des ondes en espace libre.
-
-Au nombre des réseaux radioélectriques, figurent notamment les réseaux utilisant les capacités de satellites.
+Un réseau, une installation ou un équipement sont qualifiés de radioélectriques lorsqu'ils utilisent des fréquences
+radioélectriques pour la propagation des ondes en espace libre. Au nombre des réseaux radioélectriques figurent notamment les
+réseaux utilisant les capacités de satellites ;
 
 12° Exigences essentielles.
 
-On entend par exigences essentielles les exigences nécessaires pour garantir, dans l'intérêt général, la sécurité des usagers
-et du personnel des exploitants de réseaux de télécommunications, la protection des réseaux et notamment des échanges
-d'informations de commande et de gestion qui y sont associés, le cas échéant la bonne utilisation du spectre radioélectrique
-ainsi que, dans les cas justifiés, l'interopérabilité des services et celle des équipements terminaux, la protection des
-données, la protection de l'environnement et la prise en compte des contraintes d'urbanisme et d'aménagement du territoire.
+On entend par exigences essentielles les exigences nécessaires pour garantir dans l'intérêt général la santé et la sécurité
+des personnes, la compatibilité électromagnétique entre les équipements et installations de télécommunications et, le cas
+échéant, une bonne utilisation du spectre des fréquences radioélectriques en évitant des interférences dommageables pour les
+tiers. Les exigences essentielles comportent également, dans les cas justifiés, la protection des réseaux et notamment des
+échanges d'informations de commande et de gestion qui y sont associés, l'interopérabilité des services et celle des
+équipements terminaux, la protection des données, la protection de l'environnement et la prise en compte des contraintes
+d'urbanisme et d'aménagement du territoire, la compatibilité des équipements terminaux et des équipements radioélectriques
+avec des dispositifs empêchant la fraude, assurant l'accès aux services d'urgence et facilitant leur utilisation par les
+personnes handicapées.
 
 On entend par interopérabilité des équipements terminaux l'aptitude de ces équipements à fonctionner, d'une part, avec le
-réseau et, d'autre part, avec les autres équipements terminaux permettant d'accéder à un même service.
+réseau et, d'autre part, avec les autres équipements terminaux.
+
+Un décret définit les valeurs limites que ne doivent pas dépasser les champs électromagnétiques émis par les équipements
+utilisés dans les réseaux de télécommunication ou par les installations mentionnées à l'article L. 33-3, lorsque le public y
+est exposé.
 
 13° Exploitant public.
 
@@ -1174,15 +1186,16 @@ fournissant au public un service de télécommunications.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-3
+	  - Loi n°86-1067 1986-09-30
+	  - Loi n°90-568 1990-07-02 art. 3
+
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L71
 	  - Loi n°1925-08-09 art. d'introduction
-
-	**Cite**:
-
-	  - Loi n°86-1067 1986-09-30
-	  - Loi n°90-568 1990-07-02 art. 3
 
 	**Cité par**:
 
@@ -1249,7 +1262,7 @@ fournissant au public un service de télécommunications.
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 1 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 20 () JORF 28 juillet 2001
 
 	**Codifié par**:
 
@@ -1290,13 +1303,19 @@ du contenu des messages transmis ;
 6° Au respect, par les exploitants de réseau et les fournisseurs de services de télécommunications, des obligations de
 défense et de sécurité publique ;
 
-7° A la prise en compte de l'intérêt des territoires et des utilisateurs dans l'accès aux services et aux équipements.
+7° A la prise en compte de l'intérêt des territoires et des utilisateurs dans l'accès aux services et aux équipements ;
+
+8° Au développement de l'utilisation partagée entre opérateurs des installations mentionnées aux articles L. 47 et L. 48.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code des postes et télécommunications L47, L48
+
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 2 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 14 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -1560,9 +1579,9 @@ communications ;
 
 d) Les normes et spécifications du réseau et des services, notamment européennes s'il y a lieu ;
 
-e) Les prescriptions exigées par la protection de l'environnement et par les objectifs d'aménagement du territoire et
-d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public et les modalités de partage des
-infrastructures ;
+e) Les prescriptions exigées par la protection de la santé et de l'environnement et par les objectifs d'aménagement du
+territoire et d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public et les modalités de
+partage des infrastructures ;
 
 f) Les prescriptions exigées par la défense et la sécurité publiques ;
 
@@ -1591,8 +1610,8 @@ o) Les conditions nécessaires pour assurer l'interopérabilité des services ;
 p) Les obligations qui s'imposent à l'exploitant pour permettre le contrôle du cahier des charges par l'Autorité de
 régulation des télécommunications ;
 
-q) Les taxes dues pour la délivrance, la gestion et le contrôle de l'autorisation, dans les conditions prévues par les lois
-de finances ;
+q) Les taxes dues par l'exploitant à raison de la délivrance, de la gestion et du contrôle de l'autorisation, dans les
+limites des frais administratifs afférents à ces opérations ;
 
 r) L'égalité de traitement et l'information des utilisateurs, notamment sur les conditions contractuelles de fourniture du
 service, comportant en particulier les compensations prévues pour le consommateur en cas de manquement aux exigences de
@@ -1617,6 +1636,11 @@ En outre, lorsqu'ils disposent dans un secteur d'activité autre que les téléc
 dominante appréciée après avis du Conseil de la concurrence, et que les infrastructures utilisées peuvent être séparées
 physiquement, ils sont tenus, dans l'intérêt d'un bon exercice de la concurrence, d'individualiser cette activité sur le plan
 juridique.
+
+Les opérateurs inscrits sur la liste établie en application du a du 7° de l'article L. 36-7 au titre d'une zone géographique
+donnée et qui détiennent, dans la même zone, des droits exclusifs ou bénéficient de droits particuliers pour l'exploitation
+de réseaux distribuant par câble des services de radiodiffusion sonore et de télévision sont tenus d'exploiter cette dernière
+activité sous la forme d'une personne juridiquement distincte.
 
 III. - Sous réserve des engagements internationaux souscrits par la France comportant une clause de réciprocité applicable au
 secteur des télécommunications, l'autorisation mentionnée au présent article, lorsqu'elle concerne un réseau utilisant des
@@ -1745,7 +1769,9 @@ L'allocation des fréquences doit dans tous les cas permettre d'assurer des cond
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 21 () JORF 28 juillet 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 28 () JORF 28 juillet 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 8 () JORF 28 juillet 2001
 
 	**Codifié par**:
 
@@ -1753,7 +1779,7 @@ L'allocation des fréquences doit dans tous les cas permettre d'assurer des cond
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L36-11, L39, L39-1, L39-2, L39-4, L34-10, L35-2, L35-3, L35-5, L35-4, L34-1
+	  - Code des postes et télécommunications L36-11, L39, L39-1, L39-2, L39-4, L34-10, L35-2, L35-3, L35-5, L35-4, L36-7, L34-1
 
 
 ###### Article L33-2
@@ -1770,8 +1796,8 @@ réservé, être connectés à un réseau ouvert au public.
 
 L'autorisation ne peut être refusée qu'en cas de non-conformité à l'une des conditions générales d'établissement définies
 dans le décret mentionné au précédent alinéa ou à l'une des conditions d'établissement fixées par l'Autorité de régulation
-des télécommunications conformément aux dispositions de l'article L. 36-6. A défaut de décision expresse dans les deux mois
-suivant la demande, et sauf dans le cas mentionné à l'alinéa suivant, elle est réputée acquise.
+des télécommunications conformément aux dispositions de l'article L. 36-6. A défaut de décision expresse dans un délai fixé
+par le décret mentionné au précédent alinéa, et sauf dans le cas mentionné à l'alinéa suivant, elle est réputée acquise.
 
 Lorsqu'elle concerne un réseau qui utilise des fréquences assignées à son exploitant, l'autorisation doit être expresse. Elle
 est assortie d'un cahier des charges qui porte sur les prescriptions mentionnées au h du I de l'article L. 33-1 et qui
@@ -1780,6 +1806,9 @@ précise les obligations pesant sur le titulaire en application du décret prév
 Un exploitant de réseau indépendant ne peut conférer à son réseau le caractère de réseau ouvert au public sans autorisation
 préalable délivrée dans les conditions prévues à l'article L. 33-1. A défaut, l'exploitant peut être sanctionné dans les
 conditions prévues aux articles L. 36-11 et L. 39.
+
+L'exploitant acquitte les taxes dues à raison de la délivrance, de la gestion et du contrôle de l'autorisation, dans les
+limites des frais administratifs afférents à ces opérations.
 
 **Liens relatifs à cet article**
 
@@ -1807,7 +1836,8 @@ conditions prévues aux articles L. 36-11 et L. 39.
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 8 () JORF 28 juillet 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 9 () JORF 28 juillet 2001
 
 	**Codifié par**:
 
@@ -1884,27 +1914,24 @@ prévues à l'article L. 36-6 ;
 La publication des listes d'abonnés ou d'utilisateurs des réseaux ou services de télécommunications est libre, sous réserve
 de la protection des droits des personnes concernées.
 
-Parmi les droits garantis figure celui pour toute personne de ne pas être mentionnée sur les listes d'abonnés ou
-d'utilisateurs publiées, de s'opposer à l'inscription de l'adresse complète de son domicile sur ces listes, d'interdire que
-les informations nominatives la concernant soient utilisées dans des opérations commerciales, ainsi que de pouvoir obtenir
-communication desdites informations nominatives et exiger qu'elles soient rectifiées, complétées, clarifiées, mises à jour ou
-effacées, dans les conditions prévues aux articles 35 et 36 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
-aux fichiers et aux libertés.
+Parmi les droits garantis figure celui pour toute personne d'être mentionnée sur les listes d'abonnés ou d'utilisateurs
+publiées ou, sur sa demande, de ne pas l'être, de s'opposer à l'inscription de l'adresse complète de son domicile sur ces
+listes, d'interdire que les informations nominatives la concernant soient utilisées dans des opérations commerciales, ainsi
+que de pouvoir obtenir communication desdites informations nominatives et exiger qu'elles soient rectifiées, complétées,
+clarifiées, mises à jour ou effacées, dans les conditions prévues aux articles 35 et 36 de la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés.
+
+Sur toute demande présentée en vue d'éditer un annuaire universel ou de fournir un service universel de renseignements, même
+limitée à une zone géographique déterminée, les opérateurs sont tenus de communiquer, dans des conditions non
+discriminatoires et à un tarif reflétant les coûts du service rendu, la liste de tous les abonnés ou utilisateurs auxquels
+ils ont affecté, directement ou par l'intermédiaire d'un distributeur, un ou plusieurs numéros du plan national de
+numérotation prévu à l'article L. 34-10. Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service
+public des postes et télécommunications, précise les modalités d'application du présent alinéa.
+
+Les litiges relatifs aux conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'alinéa
+précédent peuvent être soumis à l'Autorité de régulation des télécommunications conformément à l'article L. 36-8.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 36 (M)
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
 
 	**Cité par**:
 
@@ -1918,6 +1945,44 @@ aux fichiers et aux libertés.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L34-5 (T)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-10, L36-8
+	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 36 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 17 () JORF 28 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L33-4-1
+
+Est interdite la prospection directe, par automates d'appel ou télécopieurs, d'un abonné ou d'un utilisateur d'un réseau de
+télécommunications qui n'a pas exprimé sont consentement à recevoir de tels appels.
+
+Les opérateurs ou leurs distributeurs fournissent gratuitement à ceux de leurs abonnés ou utilisateurs qui le souhaitent les
+moyens d'exprimer leur consentement à recevoir les appels mentionnés à l'alinéa précédent. Ils mettent à la disposition de
+toute personne qui en fait la demande la liste de ces abonnés ou utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 16 () JORF 28 juillet 2001
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ##### SECTION 2 : Services
@@ -1973,11 +2038,20 @@ mentionnés au I de l'article L. 33-1, à l'exception des e et h.
 Lorsque la fourniture du service suppose l'établissement d'un réseau ouvert au public, l'autorisation délivrée en application
 de l'article L. 33-1 autorise la fourniture du service.
 
+L'Autorité de régulation des télécommunications peut, dans les conditions prévues à l'article L. 36-11, exiger d'un opérateur
+qu'il modifie ses conditions contractuelles de fourniture du service téléphonique au public et les modalités de remboursement
+ou d'indemnisation appliquées par lui, lorsque ces conditions ou modalités ne sont pas conformes aux dispositions du r du I
+de l'article L. 33-1.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 18 () JORF 28 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
 
 	**Cité par**:
 
@@ -2042,6 +2116,68 @@ de l'article L. 33-1 autorise la fourniture du service.
 	  - Code des postes et télécommunications L36-11, L39, L39-1, L39-2, L39-4, L33-1
 
 
+###### Article L34-1-1
+
+Sans préjudice des dispositions de l'article L. 35-2, les opérateurs inscrits sur la liste établie en application du a du 7°
+de l'article L. 36-7 :
+
+1° Fixent les tarifs du service téléphonique au public de manière à ce qu'ils reflètent les coûts correspondants. Ces tarifs
+sont indépendants de la nature de l'utilisation qui est faite du service par les utilisateurs. Ils sont suffisamment
+détaillés pour que l'utilisateur ne soit pas obligé de payer des compléments de services qui ne sont pas nécessaires à la
+fourniture du service demandé. Les opérateurs portent ces tarifs et leurs modifications à la connaissance du public au moins
+huit jours avant la date de leur mise en application ;
+
+2° Publient et appliquent de façon non discriminatoire toute formule de réduction tarifaire. L'Autorité de régulation des
+télécommunications peut, dans les conditions prévues à l'article L. 36-11, exiger d'un opérateur qu'il modifie ou retire des
+formules de réduction lorsque celles-ci ne sont pas conformes aux dispositions du présent article ;
+
+3° Disposent d'un système d'information et tiennent une comptabilité des services et des activités qui permettent notamment
+de vérifier le respect des obligations prévues au 1°. Cette comptabilité est vérifiée périodiquement, à leurs frais, par un
+organisme indépendant agréé par l'Autorité de régulation des télécommunications. Les résultats du contrôle sont communiqués à
+l'Autorité de régulation des télécommunications et au ministre chargé des télécommunications. L'organisme agréé publie
+annuellement une attestation de conformité établie en application des présentes dispositions ;
+
+4° Fournissent une offre de services avancés de téléphonie vocale dont le contenu est fixé par arrêté ministériel ;
+
+5° Se conforment aux obligations de qualité de service fixées, le cas échéant, par arrêté ministériel et, lorsque des
+indicateurs de qualité on été définis par arrêté ministériel, enregistrent les valeurs résultant de l'application de ces
+indicateurs. Les valeurs enregistrées sont communiquées, à leur demande, au ministre chargé des télécommunications et à
+l'Autorité de régulation des télécommunications. Celle-ci peut demander une vérification des données fournies par un
+organisme indépendant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L35-2, L36-7, L36-11
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 18 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
+	  - Arrêté du 26 mars 2012 - art. 1 (V)
+	  - Arrêté du 26 mars 2012 - art. 4 (V)
+	  - Code de la sécurité intérieure - art. L222-2 (VT)
+	  - Code de la sécurité intérieure - art. L243-12 (VT)
+	  - Code de la sécurité intérieure - art. L243-7 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-15 (VT)
+	  - Code des postes et des communications électroni... - art. R10-16 (VT)
+	  - Code des postes et des communications électroni... - art. R10-17 (VT)
+	  - Code des postes et des communications électroni... - art. R10-18 (VT)
+	  - Code des postes et des communications électroni... - art. R10-21 (VT)
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
 ###### Article L34-2
 
 La fourniture au public des services de télécommunications autres que le service téléphonique est libre sous réserve du
@@ -2050,14 +2186,10 @@ respect des exigences essentielles et des prescriptions relatives à la défense
 Toutefois, ces services sont soumis à autorisation dans les cas prévus à l'article L. 34-3 et à déclaration dans le cas prévu
 au premier alinéa de l'article L. 34-4.
 
-Un décret en Conseil d'Etat précise le contenu de la déclaration et de la demande d'autorisation et les conditions dans
-lesquelles sont fixées les prescriptions techniques nécessaires au respect des exigences essentielles.
+Un décret en Conseil d'Etat précise le contenu de la déclaration et de la demande d'autorisation et fixe les prescriptions
+nécessaires au respect des exigences essentielles.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
 
 	**Cité par**:
 
@@ -2074,6 +2206,14 @@ lesquelles sont fixées les prescriptions techniques nécessaires au respect des
 	  - Code de la défense. - art. R1334-2 (V)
 	  - Code des postes et des communications électronique - art. D97-2 (T)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 22 () JORF 28 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
@@ -2085,6 +2225,35 @@ lesquelles sont fixées les prescriptions techniques nécessaires au respect des
 	**Cite**:
 
 	  - Code des postes et télécommunications L34-3, L34-4
+
+
+###### Article L34-2-1
+
+Le ministre chargé des télécommunications désigne, parmi les opérateurs figurant sur la liste établie en application du b du
+7° de l'article L. 36-7 ou, à défaut de tels opérateurs, parmi les titulaires des autorisations délivrées en application de
+l'article L. 33-1, les opérateurs qui sont tenus de fournir une offre de liaisons louées. Pour chaque opérateur, le ministre
+précise la zone géographique dans laquelle l'offre de liaisons louées doit être fournie.
+
+Un décret précise le contenu de l'offre de liaisons louées et les conditions de fourniture de liaisons louées par les
+opérateurs désignés en application de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L36-7, L33-1
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 15 () JORF 28 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ###### Article L34-3
@@ -2320,16 +2489,19 @@ services de télécommunications, dans le respect des dispositions du présent c
 
 ###### Article L34-8
 
-I. - Les exploitants de réseaux ouverts au public font droit, dans des conditions objectives, transparentes et non
-discriminatoires, aux demandes d'interconnexion des titulaires d'une autorisation délivrée en application des articles L.
-33-1 et L. 34-1.
+I. - Les exploitants de réseaux ouverts au public font droit, dans des conditions objectives et transparentes, aux demandes
+d'interconnexion des titulaires d'une autorisation délivrée en application des articles L. 33-1 et L. 34-1.
 
-La demande d'interconnexion ne peut être refusée si elle est raisonnable au regard, d'une part, des besoins du demandeur,
-d'autre part, des capacités de l'exploitant à la satisfaire. Le refus d'interconnexion est motivé.
+La demande d'interconnexion ne peut être refusée si elle est justifiée au regard, d'une part, des besoins du demandeur,
+d'autre part, des capacités de l'exploitant à la satisfaire. Tout refus d'interconnexion opposé par l'exploitant est motivé.
+L'Autorité de régulation des télécommunications peut, au cas par cas, dans les conditions fixées à l'article L. 36-8, limiter
+à titre temporaire l'obligation prévue au premier alinéa lorsque l'interconnexion demandée peut être remplacée par des
+solutions techniquement et économiquement viables et que les ressources disponibles sont inadéquates pour répondre à la
+demande.
 
 L'interconnexion fait l'objet d'une convention de droit privé entre les deux parties concernées. Cette convention détermine,
 dans le respect des dispositions du présent code et des décisions prises pour son application, les conditions techniques et
-financières de l'interconnexion. Elle est communiquée à l'Autorité de régulation des télécommunications.
+financières de l'interconnexion. Elle est communiquée à l'Autorité de régulation des télécommunications à sa demande.
 
 Lorsque cela est indispensable pour garantir l'égalité des conditions de concurrence ou l'interopérabilité des services,
 l'Autorité de régulation des télécommunications peut, après avis du Conseil de la concurrence, demander la modification des
@@ -2338,36 +2510,59 @@ conventions déjà conclues.
 Un décret détermine les conditions générales, notamment celles liées aux exigences essentielles, et les principes de
 tarification auxquels les accords d'interconnexion doivent satisfaire.
 
-II. - Les exploitants de réseaux ouverts au public figurant sur la liste établie en application du 7° de l'article L. 36-7
-sont tenus de publier, dans les conditions déterminées par leur cahier des charges, une offre technique et tarifaire
-d'interconnexion approuvée préalablement par l'Autorité de régulation des télécommunications. Les tarifs d'interconnexion
-rémunèrent l'usage effectif du réseau de transport et de desserte, et reflètent les coûts correspondants.
+II. - Les exploitants de réseaux ouverts au public figurant sur les listes établies en application des a et b du 7° de
+l'article L. 36-7 sont tenus de publier, dans les conditions déterminées par leur cahier des charges, une offre technique et
+tarifaire d'interconnexion approuvée préalablement par l'Autorité de régulation des télécommunications.
 
 L'offre mentionnée à l'alinéa précédent contient des conditions différentes pour répondre, d'une part, aux besoins
 d'interconnexion des exploitants de réseaux ouverts au public et, d'autre part, aux besoins d'accès au réseau des
 fournisseurs de service téléphonique au public, compte tenu des droits et obligations propres à chacune de ces catégories
-d'opérateurs. Ces conditions doivent être suffisamment détaillées pour faire apparaître les divers éléments propres à
-répondre aux demandes.
+d'opérateurs. Ces conditions doivent être suffisamment détaillées pour faire apparaître les divers éléments correspondant à
+chaque catégorie de services.
 
-Les mêmes exploitants doivent, dans des conditions objectives, transparentes et non discriminatoires, assurer un accès à leur
-réseau aux utilisateurs et fournisseurs de services de télécommunications autres que le service téléphonique au public, ainsi
-qu'aux services de communication audiovisuelle déclarés en application de l'article 43 de la loi n° 86-1067 du 30 septembre
-1986 précitée. Ils doivent également répondre aux demandes justifiées d'accès spécial correspondant à des conditions
-techniques ou tarifaires non publiées, émanant de ces fournisseurs de service ou des utilisateurs.
+Les mêmes exploitants disposent d'un système d'information et tiennent une comptabilité des services et des activités qui
+permettent notamment de vérifier le respect des obligations prévues au présent article. Cette comptabilité est vérifiée
+périodiquement, à leurs frais, par un organisme indépendant agréé par l'Autorité de régulation des télécommunications. Ces
+frais sont intégrés aux coûts des services d'interconnexion. L'organisme agréé publie annuellement une attestation de
+conformité établie en application du présent alinéa.
 
-III. - Les litiges relatifs aux refus d'interconnexion, aux conventions d'interconnexion et aux conditions d'accès peuvent
-être soumis à l'Autorité de régulation des télécommunications conformément à l'article L. 36-8.
+III. - Les tarifs d'interconnexion des exploitants de réseaux ouverts au public figurant sur les listes établies en
+application des a et b du 7° de l'article L. 36-7 et ceux des exploitants de réseaux de téléphonie mobile ouverts au public
+figurant sur la liste établie en application du d du même article rémunèrent l'usage effectif du réseau de transport et de
+desserte et reflètent les coûts du service rendu.
+
+IV. - Les exploitants de réseaux ouverts au public figurant sur les listes établies en application des a, b et c du 7° de
+l'article L. 36-7 font droit aux demandes d'interconnexion des titulaires d'une autorisation délivrée en application des
+articles L. 33-1 et L. 34-1 dans des conditions objectives, non discriminatoires et transparentes. Les conventions conclues à
+cet effet sont communiquées à l'Autorité de régulation des télécommunications.
+
+Les mêmes exploitants assurent, dans les mêmes conditions, un accès à leur réseau aux utilisateurs et fournisseurs de
+services de télécommunications autres que le service téléphonique au public, ainsi qu'aux services de communication
+audiovisuelle autres que les services de radiodiffusion sonore ou de télévision diffusés par voie hertzienne terrestre ou par
+satellite, ou distribués par câble. Ils répondent également aux demandes justifiées d'accès spécial correspondant à des
+conditions techniques ou tarifaires non publiées, émanant de ces fournisseurs de service ou des utilisateurs. La fourniture
+des accès mentionnés au présent alinéa par un exploitant figurant sur la liste établie en application du a du 7° de l'article
+L. 36-7 donne lieu à une rémunération reflétant les coûts du service rendu.
+
+V. - Les exploitants de réseaux ouverts au public figurant sur la liste établie en application du a du 7° de l'article L.
+36-7 mettent en place les moyens nécessaires pour que leurs abonnés puissent accéder aux services commutés de tout opérateur
+interconnecté au moyen d'une présélection et écarter, appel par appel, tout choix de présélection en composant un préfixe
+court. L'Autorité de régulation des télécommunications peut imposer cette obligation à d'autres opérateurs exerçant une
+influence significative sur un marché pertinent qu'elle détermine. En ce cas, elle tient compte de l'intérêt du consommateur
+et veille à ne pas imposer une charge disproportionnée aux opérateurs et à ne pas créer d'obstacles à l'entrée sur le marché
+de nouveaux opérateurs.
+
+VI. - L'Autorité de régulation des télécommunications peut, soit d'office à tout moment, soit à la demande d'une des parties,
+intervenir, dans les conditions prévues à l'article L. 36-8, afin de définir les rubriques qui doivent être couvertes par un
+accord d'interconnexion ou de fixer les conditions spécifiques que doit respecter un tel accord.
+
+L'Autorité de régulation des télécommunications peut, soit d'office à tout moment, soit à la demande d'une des parties, fixer
+un terme pour conclure des négociations d'interconnexion.
+
+Les dispositions des deux alinéas précédents sont également applicables aux négociations relatives à l'accès spécial aux
+réseaux ouverts au public des exploitants figurant sur la liste établie en application du a du 7° de l'article L. 36-7.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-1067 1986-09-30 art. 43
-	  - Code des postes et télécommunications L33-1, L34-1, L36-7, L36-8
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
 
 	**Cité par**:
 
@@ -2402,9 +2597,17 @@ III. - Les litiges relatifs aux refus d'interconnexion, aux conventions d'interc
 	  - Code des postes et des communications électronique - art. D99-6 (V)
 	  - Code général des impôts, CGI. - art. 302 bis KH (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 11 () JORF 28 juillet 2001
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-1, L34-1, L36-8, L36-7
 
 
 ##### SECTION 5 : Equipements terminaux
@@ -2413,41 +2616,42 @@ III. - Les litiges relatifs aux refus d'interconnexion, aux conventions d'interc
 
 Les équipements terminaux sont fournis librement.
 
-Les équipements destinés à être connectés à un réseau ouvert au public, ainsi que les installations radioélectriques, doivent
-faire l'objet d'une évaluation de leur conformité aux exigences essentielles. Les organismes intervenant dans la procédure
-d'évaluation de conformité sont désignés de façon à offrir aux industriels concernés un choix préservant leur indépendance
-par rapport à des entreprises offrant des biens ou services dans le domaine des télécommunications.
+Les équipements destinés à être connectés à un réseau ouvert au public et les équipements radioélectriques doivent faire
+l'objet d'une évaluation de leur conformité aux exigences essentielles. Les organismes intervenant, le cas échéant, dans la
+procédure d'évaluation de conformité sont désignés de façon à offrir aux industriels concernés un choix préservant leur
+indépendance par rapport à des entreprises offrant des biens ou services dans le domaine des télécommunications.
 
 Un décret en Conseil d'Etat détermine :
 
-1° Les conditions dans lesquelles l'Autorité de régulation des télécommunications peut désigner les organismes chargés de
-délivrer l'attestation de conformité ;
+1° Les équipements qui sont dispensés de l'évaluation de conformité ;
 
-2° Les conditions dans lesquelles sont élaborées et publiées les spécifications techniques des équipements soumis à
-l'évaluation de conformité et les conditions de leur raccordement aux réseaux ouverts au public ;
+2° Les conditions que doivent respecter les organismes intervenant dans la procédure d'évaluation de conformité, pour être
+désignés en vue d'exercer ces fonctions ;
 
-3° Les cas dans lesquels une qualification technique est requise pour procéder au raccordement et à la mise en service de ces
-équipements ou installations et les conditions permettant de la garantir ;
+3° Les conditions dans lesquelles sont, le cas échéant, élaborées et publiées les spécifications techniques des équipements
+soumis à l'évaluation de conformité ;
 
-4° La procédure d'évaluation de conformité et de délivrance des attestations correspondantes, les cas où celles-ci, en raison
-des caractéristiques techniques des équipements, sont acquises tacitement, ainsi que les conditions particulières dans
-lequelles l'attestation est délivrée pour les installations destinées à être connectées aux réseaux mentionnés au 1° de
-l'article L. 33.
+4° Celles des exigences essentielles qui sont applicables aux équipements concernés ;
+
+5° Les conditions de mise sur le marché, de mise en service, de retrait du marché ou du service, de restriction ou
+d'interdiction de mise sur le marché ou de mise en service des équipements radioélectriques et des équipements terminaux
+ainsi que, pour ces derniers, les conditions de raccordement aux réseaux ouverts au public ;
+
+6° La procédure d'évaluation de conformité ;
+
+7° Les conditions dans lesquelles les détenteurs des équipements font vérifier à leurs frais la conformité de ces équipements
+aux prescriptions du présent article.
 
 Les équipements ou installations soumis à l'évaluation de conformité ne peuvent être fabriqués pour l'Espace économique
 européen, importés, en vue de leur mise à la consommation, de pays n'appartenant pas à celui-ci, détenus en vue de la vente,
 mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau ouvert au public ou faire l'objet de publicité que
-s'ils ont fait l'objet d'une attestation de conformité et sont à tout moment conformes à celle-ci.
+s'ils ont fait l'objet d'une évaluation de leur conformité et sont à tout moment conformes à celle-ci.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 10
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
 
 	**Cité par**:
 
@@ -2477,13 +2681,13 @@ s'ils ont fait l'objet d'une attestation de conformité et sont à tout moment c
 	  - Code des postes et des communications électronique - art. L39-1 (V)
 	  - Code des postes et des communications électronique - art. L65-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 23 () JORF 28 juillet 2001
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33
 
 
 #### CHAPITRE III : Le service public des télécommunications
@@ -2679,6 +2883,9 @@ I. - Les coûts imputables aux obligations du service universel sont évalués s
 par les opérateurs. Cette comptabilité est auditée, à leurs frais, par un organisme indépendant, désigné par l'Autorité de
 régulation des télécommunications.
 
+L'évaluation des coûts nets des obligations de service universel pesant sur les opérateurs prend en compte l'avantage sur le
+marché qu'ils retirent, le cas échéant, de ces obligations.
+
 II. - Le financement des coûts imputables aux obligations de service universel est assuré par les exploitants de réseaux
 ouverts au public et par les fournisseurs de services téléphoniques au public dans les conditions suivantes :
 
@@ -2775,47 +2982,43 @@ dispositions du présent article.
 	  - Code des postes et des communications électronique - art. R20-36 (M)
 	  - Code des postes et des communications électronique - art. R20-41 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-8, L35-7, L35-1, L36-11
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 12 () JORF 28 juillet 2001
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-8, L35-7, L35-1, L36-11
+
 
 ###### Article L35-4
 
-Un annuaire universel, sous formes imprimée et électronique, et un service universel de renseignements sont mis à la
-disposition du public. Sous réserve de la protection des droits des personnes concernées, ils donnent accès aux noms ou
-raisons sociales, aux coordonnées téléphoniques et aux adresses de tous les abonnés aux réseaux ouverts au public, ainsi qu'à
-la mention de leur profession pour ceux qui le souhaitent.
+Au moyen d'un annuaire universel, présenté sous forme imprimée et électronique, et d'un service universel de renseignements,
+le public a accès, sous réserve de la protection des droits des personnes, aux noms ou raisons sociales, aux numéros
+téléphoniques et aux adresses de tous les abonnés aux réseaux ouverts au public, ainsi qu'à la mention de leur profession
+pour ceux qui le souhaitent. Il peut avoir accès, sous cette même réserve, aux adresses électroniques des abonnés qui le
+souhaitent.
 
-Un organisme juridiquement distinct des entreprises offrant des biens ou services de télécommunications établit et tient à
-jour la liste nécessaire à l'édition d'annuaires universels et à la fourniture de services universels de renseignements et la
-met à disposition des opérateurs et prestataires intéressés. Les opérateurs concernés ou leurs distributeurs sont tenus de
-lui communiquer leurs listes d'abonnés.
+Tout annuaire universel doit respecter des modalités de présentation et des caractéristiques techniques fixées par voie
+réglementaire. Toute personne qui édite un annuaire universel ou fournit un service universel de renseignements traite et
+présente de façon non discriminatoire les informations qui lui sont communiquées à cette fin.
 
-L'organisme visé à l'alinéa précédent fournit, dans des conditions identiques, à toute personne qui lui en fait la demande,
-la liste consolidée comportant, sous réserve des droits des personnes concernées, les informations mentionnées au premier
-alinéa du présent article. Cette fourniture donne lieu à rémunération reflétant les coûts. Cet organisme ne peut éditer un
-annuaire d'abonnés. France Télécom édite un annuaire universel sous formes imprimée et électronique.
+France Télécom édite un annuaire universel sous forme imprimée et électronique et fournit un service universel de
+renseignements.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et télécommunications,
-détermine les modalités d'application du présent article. Il fixe les critères de choix et les modalités de désignation de
-l'organisme par le ministre chargé des télécommunications ; il précise les missions confiées à cet organisme et les garanties
-à mettre en oeuvre pour assurer la confidentialité des données, notamment au regard des intérêts commerciaux des opérateurs,
-et la protection de la vie privée.
+détermine les modalités d'application du présent article. Il précise notamment les garanties à mettre en oeuvre pour assurer
+la confidentialité des données, compte tenu des intérêts commerciaux des opérateurs, et la protection de la vie privée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 19 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -3142,7 +3345,9 @@ des articles L. 33-1 et L. 34-1 ;
 interopérabilité, la portabilité des terminaux et le bon usage des fréquences et des numéros de téléphone ;
 
 4° Les conditions d'établissement et d'exploitation des réseaux mentionnés à l'article L. 33-2 et celles d'utilisation des
-réseaux mentionnés à l'article L. 33-3.
+réseaux mentionnés à l'article L. 33-3 ;
+
+5° La détermination des points de terminaison des réseaux.
 
 Les décisions prises en application du présent article sont, après homologation par arrêté du ministre chargé des
 télécommunications, publiées au Journal officiel.
@@ -3199,17 +3404,17 @@ télécommunications, publiées au Journal officiel.
 	  - Code des postes et des communications électronique - art. L42-4 (V)
 	  - Code des postes et des communications électronique - art. R20-10 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1, L34-8, L33-2, L33-3
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 20 () JORF 28 juillet 2001
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-1, L34-1, L34-8, L33-2, L33-3
 
 
 ###### Article L36-7
@@ -3221,7 +3426,7 @@ des articles L. 33-1, L. 34-1 et L. 34-3 ; délivre les autres autorisations et 
 chapitre II ; publie, lorsque les autorisations sont délivrées à l'issue d'un appel à candidatures, le compte rendu et le
 résultat motivé de la procédure de sélection qu'elle conduit ;
 
-2° Délivre ou fait délivrer les attestations de conformité prévues à l'article L. 34-9 ;
+2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ;
 
 3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
 sont applicables en vertu du présent code et des autorisations dont ils bénéficient et sanctionne les manquements constatés
@@ -3239,18 +3444,31 @@ homologation par les ministres chargés des télécommunications et de l'économ
 ressources en fréquences et en numérotation nécessaires à l'exercice de leur activité, veille à leur bonne utilisation,
 établit le plan national de numérotation et contrôle sa gestion ;
 
-7° Etablit, chaque année, après avis du Conseil de la concurrence publié au Bulletin officiel de la concurrence, de la
-consommation et de la répression des fraudes, la liste des opérateurs concernés par les dispositions du II de l'article L.
-34-8 et considérés comme exerçant une influence significative sur un marché pertinent du secteur des télécommunications
-concerné par ces mêmes dispositions. Est présumé exercer une telle influence tout opérateur qui détient une part supérieure à
-25 p. 100 d'un tel marché. L'Autorité de régulation des télécommunications tient aussi compte du chiffre d'affaires de
-l'opérateur par rapport à la taille du marché, de son contrôle des moyens d'accès à l'utilisateur final, de son accès aux
-ressources financières et de son expérience dans la fourniture de produits et de services sur le marché.
+7° Etablit, chaque année, après avis du Conseil de la concurrence, les listes des opérateurs considérés comme exerçant une
+influence significative :
+
+a) Sur un marché pertinent du service téléphonique au public entre points fixes ;
+
+b) Sur un marché pertinent des liaisons louées ;
+
+c) Sur un marché pertinent du service de téléphonie mobile au public ;
+
+d) Sur le marché national de l'interconnexion.
+
+Est réputé exercer une influence significative sur un marché tout opérateur qui détient une part supérieure à 25 % de ce
+marché. L'Autorité de régulation des télécommunications peut décider qu'un opérateur détenant une part inférieure à 25 % d'un
+marché exerce une influence significative sur ce marché ou qu'un opérateur détenant une part supérieure à 25 % d'un marché
+n'exerce pas une influence significative sur ce marché. Elle tient compte de la capacité effective de l'opérateur à influer
+sur les conditions du marché, de son chiffre d'affaires par rapport à la taille du marché, de son contrôle des moyens d'accès
+à l'utilisateur final, de son accès aux ressources financières et de son expérience dans la fourniture de produits et de
+services sur le marché.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Loi n°85-30 du 9 janvier 1985 - art. 16 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 26 (V)
 	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
 	  - Arrêté du 14 juin 1996 - art. Annexe (V)
 	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
@@ -3263,11 +3481,18 @@ ressources financières et de son expérience dans la fourniture de produits et 
 	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
 	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
 	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 119-1 (V)
+	  - Loi n°2009-258 du 5 mars 2009 - art. 89 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
 	  - Code des postes et des communications électroni... - art. R20-14 (V)
 	  - Code des postes et des communications électronique - art. D98-8 (M)
 	  - Code des postes et des communications électronique - art. D99-11 (M)
 	  - Code des postes et des communications électronique - art. D99-12 (Ab)
 	  - Code des postes et des communications électronique - art. D99-13 (Ab)
+	  - Code des postes et des communications électronique - art. D99-14 (Ab)
 	  - Code des postes et des communications électronique - art. D99-15 (Ab)
 	  - Code des postes et des communications électronique - art. D99-16 (Ab)
 	  - Code des postes et des communications électronique - art. D99-17 (Ab)
@@ -3277,25 +3502,18 @@ ressources financières et de son expérience dans la fourniture de produits et 
 	  - Code des postes et des communications électronique - art. D99-21 (Ab)
 	  - Code des postes et des communications électronique - art. D99-22 (Ab)
 	  - Code des postes et des communications électronique - art. D99-23 (Ab)
-	  - Code des postes et des communications électronique - art. D99-6 (M)
-	  - Loi n°85-30 du 9 janvier 1985 - art. 16 (V)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 26 (V)
-	  - Loi n°2008-776 du 4 août 2008 - art. 119-1 (V)
-	  - Loi n°2009-258 du 5 mars 2009 - art. 89 (V)
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
-	  - Code des postes et des communications électronique - art. D99-14 (Ab)
 	  - Code des postes et des communications électronique - art. D99-3 (M)
+	  - Code des postes et des communications électronique - art. D99-6 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 13 () JORF 28 juillet 2001 rectificatif JORF 20 octobre 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 13
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 24
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L33-1, L34-1, L34-3, L34-9, L36-10, L36-11, L35-3, L34-8
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
+	  - Code des postes et télécommunications L33-1, L34-1, L34-3, L34-9, L36-10, L36-11, L35-3
 
 	**Codifié par**:
 
@@ -3328,7 +3546,11 @@ dudit article ;
 existantes situées sur le domaine public et, prévue à l'article L. 48, d'installations existantes situées sur une propriété
 privée.
 
-Elle se prononce sur ces différends dans les conditions de forme et de procédure prévues au I.
+Elle se prononce sur ces différends dans les conditions de forme et de procédure prévues au I. En outre, elle procède à une
+consultation publique de toutes les parties intéressées avant toute décision imposant l'utilisation partagée entre opérateurs
+des installations mentionnées au 2°.
+
+3° Les conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'article L. 33-4.
 
 III. - Les décisions prises par l'Autorité de régulation des télécommunications en application des I et II peuvent faire
 l'objet d'un recours en annulation ou en réformation dans le délai d'un mois à compter de leur notification.
@@ -3347,10 +3569,6 @@ Le pourvoi en cassation formé le cas échéant contre l'arrêt de la cour d'app
 notification de cet arrêt.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
 
 	**Cité par**:
 
@@ -3394,13 +3612,18 @@ notification de cet arrêt.
 	  - Code général des collectivités territoriales - art. L1425-1 (V)
 	  - Code général des impôts, CGI. - art. 199 undecies B (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 14 () JORF 28 juillet 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 17 () JORF 28 juillet 2001
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L34-4, L47, L48
+	  - Code des postes et télécommunications L34-4, L47, L48, L33-4
 
 
 ###### Article L36-9
@@ -3477,8 +3700,7 @@ prises pour en assurer la mise en oeuvre. Ce pouvoir de sanction est exercé dan
 
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services à une disposition législative ou
 réglementaire afférente à son activité ou aux prescriptions du titre en vertu duquel il l'exerce, l'Autorité de régulation
-des télécommunications le met en demeure de s'y conformer dans un délai déterminé. Elle peut rendre publique cette mise en
-demeure ;
+des télécommunications le met en demeure de s'y conformer. Elle peut rendre publique cette mise en demeure ;
 
 2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme pas dans les délais fixés à une décision prise
 en application de l'article L. 36-8 ou à la mise en demeure prévue au 1° ci-dessus, l'Autorité de régulation des
@@ -3505,14 +3727,13 @@ Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étran
 fait aucun acte tendant à leur recherche, leur constatation ou leur sanction ;
 
 4° Les décisions sont motivées, notifiées à l'intéressé et publiées au Journal officiel. Elles peuvent faire l'objet d'un
-recours de pleine juridiction et d'une demande de sursis à exécution devant le Conseil d'Etat. Lorsqu'elles concernent des
-sanctions pécuniaires, les demandes de sursis à exécution sont suspensives.
+recours de pleine juridiction et d'une demande de suspension présentée conformément à l'article L. 521-1 du code de justice
+administrative, devant le Conseil d'Etat.
+
+Un décret détermine les délais impartis aux opérateurs pour régulariser leur situation ainsi que les délais dans lesquels
+interviennent et sont notifiées les décisions prises par l'Autorité de régulation des télécommunications.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
 
 	**Cité par**:
 
@@ -3530,12 +3751,17 @@ sanctions pécuniaires, les demandes de sursis à exécution sont suspensives.
 	  - Code des postes et des communications électronique - art. D97-11 (T)
 	  - Code des postes et des communications électronique - art. L97-2 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 10 () JORF 28 juillet 2001
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. L521-1 (V)
 	  - Code des postes et télécommunications L36-8, L33-1
 
 
@@ -3688,21 +3914,25 @@ violation d'une décision de suspension ou de retrait de cette autorisation.
 
 ###### Article L39-1
 
-Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 200 000 F le fait :
+Est puni de six mois d'emprisonnement et de [*taux*] 30000 euros d'amende le fait :
 
 1° D'établir ou de faire établir un réseau indépendant, sans l'autorisation prévue à l'article L. 33-2, ou de le maintenir en
 violation d'une décision de suspension ou de retrait de cette autorisation ;
 
-2° De perturber, en utilisant une fréquence ou une installation radioélectrique sans posséder l'attestation de conformité ou
-l'autorisation prévue à l'article L. 89 ou en dehors des conditions réglementaires générales prévues à l'article L. 33-3, les
-émissions hertziennes d'un service autorisé, sans préjudice de l'application de l'article 78 de la loi n° 86-1067 du 30
-septembre 1986 précitée.
+2° De perturber, en utilisant une fréquence, un équipement ou une installation radioélectrique, dans des conditions non
+conformes aux dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 89 ou en dehors des
+conditions réglementaires générales prévues à l'article L. 33-3, les émissions hertziennes d'un service autorisé, sans
+préjudice de l'application de l'article 78 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
+
+3° D'utiliser une fréquence, un équipement ou une installation radioélectrique dans des conditions non conformes aux
+dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 89 ou en dehors des conditions
+réglementaires générales prévues à l'article L. 33-3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L33-2, L89, L33-3
+	  - Code des postes et télécommunications L33-2, L34-9, L89, L33-3
 	  - Loi n°86-1067 du 30 septembre 1986 - art. 78 (M)
 
 	**Liens**:
@@ -3711,7 +3941,7 @@ septembre 1986 précitée.
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 25 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -3809,7 +4039,7 @@ Outre les officiers et agents de police judiciaire agissant conformément aux di
 fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des télécommunications et de
 l'Agence nationale des fréquences habilités à cet effet par le ministre chargé des télécommunications et assermentés dans des
 conditions fixées par décret en Conseil d'Etat peuvent rechercher et constater par procès-verbal les infractions prévues par
-les dispositions du chapitre III du présent titre et les textes pris pour leur application.
+les dispositions du présent titre et les textes pris pour leur application.
 
 Les fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des télécommunications
 et de l'Agence nationale des fréquences visés à l'alinéa précédent peuvent accéder aux locaux, terrains ou moyens de
@@ -3847,7 +4077,17 @@ l'intéressé ordonner mainlevée de la saisie.
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 26 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L215-1 (VT)
+	  - Code de la consommation - art. L511-22 (V)
+	  - Code des postes et des communications électroni... - art. L39-4 (VD)
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. L97-3 (V)
+	  - Code des postes et des communications électroni... - art. R20-20 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-1 (V)
 
 	**Cite**:
 
@@ -3861,16 +4101,6 @@ l'intéressé ordonner mainlevée de la saisie.
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L215-1 (VT)
-	  - Code de la consommation - art. L511-22 (V)
-	  - Code des postes et des communications électroni... - art. L39-4 (VD)
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. L97-3 (V)
-	  - Code des postes et des communications électroni... - art. R20-20 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-1 (V)
 
 
 ###### Article L43
@@ -5579,8 +5809,9 @@ Un arrêté interministériel précise les objectifs à atteindre par l'agence d
 de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation générale de la défense ainsi que les dispositions
 particulières à prendre en compte pour y parvenir.
 
-VI. - Le présent article est applicable à la collectivité de Mayotte et aux territoires d'outre-mer sous réserve des
-compétences exercées par ces territoires en application des statuts qui les régissent.
+VI. - Le présent article est applicable en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises et en Nouvelle-Calédonie sous réserve des compétences exercées par ces collectivités en application
+des statuts qui les régissent.
 
 **Liens relatifs à cet article**
 
@@ -5602,9 +5833,9 @@ compétences exercées par ces territoires en application des statuts qui les r�
 	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
 	  - Code de la défense. - art. R1334-3 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 14 () JORF 27 juillet 1996
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 27 () JORF 28 juillet 2001
 
 	**Codifié par**:
 
@@ -5714,6 +5945,28 @@ En cas de récidive, les peines prévues aux articles L. 39 à L. 39-4 pourront 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques
+
+
+###### Article L40-1
+
+Les agents mentionnés au 1° de l'article L. 215-1 du code de la consommation ont qualité pour rechercher et constater les
+infractions aux dispositions de l'article L. 34-9 du présent code et des textes pris pour son application. A cet effet, ils
+disposent des pouvoirs prévus aux chapitres II à VI du titre Ier du livre II du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 26 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (V)
+	  - Code des postes et des communications électroni... - art. L34-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ## LIVRE III : Les services financiers
