@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-03-21
 
 # Partie législative
 
