@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-01-01
 
 # Partie législative
 
@@ -17012,6 +17012,105 @@ communications éléctroniques devient le code des postes et des communications 
 	  - Décret n°97-188 du 3 mars 1997 - art. 1 () JORF 4 mars 1997
 
 
+##### SECTION 4 : Accès à la boucle locale
+
+###### Article D99-24
+
+Les tarifs de l'accès à la boucle locale sont orientés vers les coûts correspondants. Ils sont établis conformément aux
+principes suivants :
+
+1. Les tarifs doivent éviter une discrimination fondée sur la localisation géographique ;
+
+2. Les coûts pris en compte doivent être pertinents,
+
+c'est-à-dire liés par une forme de causalité, directe ou indirecte, à l'accès à la boucle locale ;
+
+3. Les éléments de réseaux sont valorisés à leurs coûts moyens incrémentaux de long terme ;
+
+4. Les tarifs pratiqués pour l'accès partagé à la boucle locale ne peuvent être inférieurs à ceux de l'accès totalement
+dégroupé diminués du montant de l'abonnement au service téléphonique au public ;
+
+5. Les tarifs incluent une contribution équitable aux coûts qui sont communs à la fois à l'accès à la boucle locale et aux
+autres services de l'opérateur ;
+
+6. Les tarifs incluent la rémunération normale des capitaux employés pour les investissements utilisés fixée dans les
+conditions prévues à l'article D. 99-22.
+
+L'Autorité de régulation des télécommunications établit et rend publique la nomenclature des coûts pertinents. Elle définit
+et publie la méthode de calcul des coûts moyens incrémentaux de long terme.
+
+Les opérateurs mentionnés au premier alinéa de l'article D. 99-23 sont tenus de communiquer à l'Autorité de régulation des
+télécommunications, à sa demande, tout élément d'information lui permettant de vérifier que les tarifs pratiqués sont
+orientés vers les coûts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-881 du 12 septembre 2000 - art. 1 () JORF 13 septembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D99-22 (M)
+	  - Code des postes et des communications électronique - art. D99-23 (M)
+
+
+###### Article D99-25
+
+Les opérateurs mentionnés au premier alinéa de l'article D. 99-23 sont tenus de publier une offre de référence pour l'accès à
+la boucle locale, contenant une description des prestations ainsi que des modalités, conditions et prix qui y sont associés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D99-23
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-881 du 12 septembre 2000 - art. 1 () JORF 13 septembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+
+###### Article D99-26
+
+Les dispositions du troisième alinéa de l'article D. 99-6 ainsi que de l'article D. 99-7 sont applicables à l'accès à la
+boucle locale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D99-6, D99-7
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-881 du 12 septembre 2000 - art. 1 () JORF 13 septembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1301 du 26 novembre 2004 - art. 1 () JORF 30 novembre 2004
+
+
 #### CHAPITRE III : Télégraphe
 
 ##### SECTION 1 : Service télégraphique
@@ -22202,6 +22301,64 @@ investisseur dans les activités de réseaux de télécommunications en France.
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. D99-17 (Ab)
+	  - Code des postes et des communications électronique - art. D99-24 (Ab)
+
+
+##### SECTION 4 : Accès à la boucle locale
+
+###### Article D99-23
+
+Les opérateurs inscrits sur la liste établie en application du 7° de l'article L. 36-7 sont tenus de répondre, dans des
+conditions objectives, transparentes et non discriminatoires, aux demandes raisonnables d'accès à la boucle locale, pour la
+partie métallique de leur réseau comprise entre le répartiteur principal et le point de terminaison situé dans les locaux de
+l'abonné, lorsqu'elles émanent des titulaires de l'autorisation prévue à l'article L. 33-1.
+
+L'accès à la boucle locale se traduit, selon la demande :
+
+- soit par la mise à disposition de la partie de réseau précitée (accès totalement dégroupé à la boucle locale) ;
+
+- soit par la mise à disposition des fréquences non vocales disponibles sur cette partie du réseau (accès partagé à la boucle
+locale), l'opérateur mentionné au premier alinéa continuant à fournir le service téléphonique au public.
+
+L'accès à la boucle locale inclut en outre les prestations associées et notamment la fourniture des informations nécessaires
+à la mise en oeuvre de l'accès à la boucle locale, une offre de colocalisation des équipements et une offre permettant la
+connexion de ces équipements aux réseaux des demandeurs d'accès.
+
+En cas de résiliation de l'abonnement au service téléphonique au public de l'opérateur mentionné au premier alinéa, le
+bénéficiaire de l'accès partagé devient bénéficiaire de l'accès totalement dégroupé.
+
+L'accès à la boucle locale fait l'objet d'une convention de droit privé qui est communiquée à l'Autorité de régulation des
+télécommunications dans les dix jours suivant sa conclusion.
+
+Les informations nécessaires à la mise en oeuvre de l'accès à la boucle locale sont fournies aux demandeurs d'accès et les
+demandes de colocalisation sont traitées par les opérateurs mentionnés au premier alinéa, dans des conditions objectives,
+transparentes et non discriminatoires. Les demandeurs d'accès prennent les dispositions nécessaires pour assurer la
+confidentialité des informations fournies dont la divulgation pourrait porter atteinte à l'intégrité ou à la sécurité du
+réseau.
+
+En cas de litige, l'Autorité de régulation des télécommunications peut être saisie et se prononce dans les conditions prévues
+à l'article L. 36-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L36-7, L33-1, L36-8
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-881 du 12 septembre 2000 - art. 1 () JORF 13 septembre 2000 en vigueur le 1er janvier 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-881 du 12 septembre 2000 - art. 2 (V)
+
+	**Cité par**:
+
 	  - Code des postes et des communications électronique - art. D99-24 (Ab)
 
 
