@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-08-05
+Version Consolidée au 1993-12-02
 
 # Partie législative
 
@@ -6157,8 +6157,8 @@ résultant du décret 89-989 du 29 décembre 1989*] par formule utilisée ou par
 Toute personne physique ou morale disposant de la capacité juridique peut présenter une demande d'autorisation en vue de
 fournir au public un service-support relevant de l'article L. 34-2.
 
-Cette demande est adressée au ministre chargé des télécommunications (direction de la réglementation générale) et comporte
-les éléments suivants :
+Cette demande est adressée au ministre chargé des télécommunications (direction générale des postes et télécommunications) et
+comporte les éléments suivants :
 
 - l'identité du demandeur ;
 
@@ -6175,8 +6175,8 @@ La décision intervient dans un délai de quatre mois suivant la réception de l
 
 Les modifications envisagées par le demandeur postérieurement à la délivrance de l'autorisation et concernant les points
 figurant dans la demande d'autorisation doivent être portées à la connaissance du ministre chargé des télécommunications
-(direction de la réglementation générale) qui peut, par décision motivée, indiquer à l'intéressé qu'il y a lieu de présenter
-une nouvelle demande d'autorisation.
+(direction générale des postes et télécommunications) qui peut, par décision motivée, indiquer à l'intéressé qu'il y a lieu
+de présenter une nouvelle demande d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -6190,11 +6190,7 @@ une nouvelle demande d'autorisation.
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 et 2 JORF 31 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Cité par**:
 
@@ -6203,10 +6199,6 @@ une nouvelle demande d'autorisation.
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*9-1
@@ -6276,14 +6268,15 @@ de leur publication dans la liste déclarée ;
 Elle est accompagnée :
 
 1. D'un exemplaire de la liste d'utilisateurs ; pour les listes accessibles par voie télématique, le déclarant met à la
-disposition de la direction de la réglementation générale du ministère chargé des télécommunications un accès permanent et
-gratuit au service télématique ;
+disposition de la direction générale des postes et télécommunications du ministère chargé des télécommunications un accès
+permanent et gratuit au service télématique ;
 
 2. D'une copie de l'acte réglementaire pris en application de l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés ou du récépissé de déclaration délivré par la Commission nationale de
 l'informatique et des libertés en application de son article 16.
 
-La déclaration est effectuée auprès de la direction de la réglementation générale du ministère chargé des télécommunications.
+La déclaration est effectuée auprès de la direction générale des postes et télécommunications du ministère chargé des
+télécommunications.
 
 Il est délivré un récépissé de la déclaration à la réception du dossier complet.
 
@@ -6292,7 +6285,9 @@ selon les modalités prévues ci-dessus.
 
 Toute personne qui, sans avoir fait la déclaration préalable prévue au présent article, aura mis à la disposition du public
 une liste d'utilisateurs d'un réseau de télécommunications ouvert au public sera punie de la peine d'amende prévue pour les
-contraventions de la cinquième classe.
+contraventions
+
+de la cinquième classe.
 
 En cas de récidive, le contrevenant sera puni de l'amende prévue pour la récidive des contraventions de la 5e classe.
 
@@ -6307,6 +6302,10 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°91-1205 du 26 novembre 1991 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Cité par**:
 
@@ -6324,10 +6323,6 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 	  - Code des postes et des communications électroni... - art. R10-8 (V)
 	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
 	  - Code des postes et des communications électronique - art. D98-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6589,9 +6584,9 @@ Les modifications apportées aux éléments figurant dans la déclaration doiven
 Est soumise à autorisation préalable du ministre chargé des télécommunications l'offre de services relevant de la catégorie
 II mentionnée à l'article R. 11-4.
 
-La demande d'autorisation est adressée au directeur de la réglementation générale et comporte les éléments mentionnés à
-l'alinéa 2 de l'article R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n° 83-1025 du 28
-novembre 1983.
+La demande d'autorisation est adressée au directeur général des postes et télécommunications et comporte les éléments
+mentionnés à l'alinéa 2 de l'article R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n° 83-1025
+du 28 novembre 1983.
 
 Le ministre accorde l'autorisation sollicitée lorsque les services sont offerts dans des conditions qui respectent les
 exigences essentielles définies à l'article L. 32, telles qu'elles sont précisées, le cas échéant, par les prescriptions
@@ -6612,7 +6607,11 @@ ministre qui peut, par décision motivée, inviter l'intéressé à présenter u
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
 
 	**Codifié par**:
 
@@ -7179,11 +7178,15 @@ respectivement d'examens C.E. de type et de déclarations C.E. de conformité.
 utilisation, ne peut être mis sur le marché qu'après une déclaration souscrite dans les conditions prévues à l'article R.
 20-14.
 
-Le ministre chargé des télécommunications (direction de la réglementation générale) est l'organisme notifié compétent en
-France, au sens de l'article R. 20-1. A ce titre, il reçoit les demandes d'agrément et les déclarations mentionnées aux 1° et
-2° du présent article.
+Le ministre chargé des télécommunications (direction générale des postes et télécommunications) est l'organisme notifié
+compétent en France, au sens de l'article R. 20-1. A ce titre, il reçoit les demandes d'agrément et les déclarations
+mentionnées aux 1° et 2° du présent article.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D375 (Ab)
 
 	**Cite**:
 
@@ -7191,15 +7194,11 @@ France, au sens de l'article R. 20-1. A ce titre, il reçoit les demandes d'agr�
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D375 (Ab)
 
 
 ###### Article R20-3
@@ -7212,8 +7211,8 @@ pertinentes ou, à défaut, des normes nationales ;
 
 b) S'agissant des autres exigences essentielles prévues au même 12° de l'article L. 32, au regard des réglementations
 techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des réglementations techniques des
-autres Etats membres de la Communauté économique européenne reconnues équivalentes par le directeur de la réglementation
-générale.
+autres Etats membres de la Communauté économique européenne reconnues équivalentes par le directeur général des postes et
+télécommunications.
 
 Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 modifié, les réglementations techniques
 nationales sont adoptées par arrêté du ministre chargé des télécommunications.
@@ -7231,7 +7230,7 @@ dispositions de la section III du présent chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7244,8 +7243,8 @@ dispositions de la section III du présent chapitre.
 
 ###### Article R20-4
 
-La demande d'agrément est présentée au directeur de la réglementation générale par le fabricant de l'équipement ou son
-mandataire établi dans la Communauté économique européenne, ci-après dénommé le demandeur. Le demandeur doit avoir la
+La demande d'agrément est présentée au directeur général des postes et télécommunications par le fabricant de l'équipement ou
+son mandataire établi dans la Communauté économique européenne, ci-après dénommé le demandeur. Le demandeur doit avoir la
 personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de
 réglementations techniques nationales, la demande d'agrément peut être présentée par toute personne à même d'assurer les
 responsabilités incombant au titulaire de l'agrément.
@@ -7254,7 +7253,7 @@ responsabilités incombant au titulaire de l'agrément.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7274,10 +7273,11 @@ responsabilités incombant au titulaire de l'agrément.
 Lorsque le demandeur décide de solliciter l'agrément selon la procédure prévue au a du 1° de l'article R. 20-2, il constitue
 un dossier d'agrément.
 
-Un arrêté du ministre chargé des télécommunications précise la composition de ce dossier, qui doit permettre au directeur de
-la réglementation générale d'évaluer la conformité du produit aux exigences essentielles qui lui sont applicables. Le dossier
-comporte un justificatif du paiement des frais de dossier. Un ou plusieurs exemplaires représentatifs de l'équipement
-terminal objet de la demande d'agrément sont tenus à la disposition du directeur de la réglementation générale.
+Un arrêté du ministre chargé des télécommunications précise la composition de ce dossier, qui doit permettre au directeur
+général des postes et télécommunications d'évaluer la conformité du produit aux exigences essentielles qui lui sont
+applicables. Le dossier comporte un justificatif du paiement des frais de dossier. Un ou plusieurs exemplaires représentatifs
+de l'équipement terminal objet de la demande d'agrément sont tenus à la disposition du directeur général des postes et
+télécommunications.
 
 Un arrêté du ministre chargé des télécommunications fixe la procédure simplifiée d'agrément applicable aux catégories
 d'équipements terminaux radioélectriques dont la conformité aux exigences essentielles n'est appréciée qu'au regard des
@@ -7287,7 +7287,7 @@ normes et spécifications techniques relatives à la protection du spectre radio
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7323,14 +7323,14 @@ un des laboratoires désignés aux fins d'essais. La demande est examinée au vu
 
 4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points de non-conformité à une ou plusieurs des
 exigences essentielles, une attestation d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par le
-directeur de la réglementation générale. Dans le cas contraire, l'attestation est refusée par une décision motivée, notifiée
-au demandeur.
+directeur général des postes et télécommunications. Dans le cas contraire, l'attestation est refusée par une décision
+motivée, notifiée au demandeur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7354,17 +7354,21 @@ des équipements conformes au type décrit dans cette attestation, selon l'une o
 a) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il prend toutes les
 mesures nécessaires pour que le procédé de fabrication assure cette conformité.
 
-Le directeur de la réglementation générale effectue ou fait effectuer des contrôles du produit à des intervalles aléatoires,
-par prélèvement dans une série de fabrication, dans les stocks de l'entreprise ou aux différents stades de la distribution.
-Le demandeur ne peut s'opposer à ces examens.
+Le directeur général des postes et télécommunications effectue ou fait effectuer des contrôles du produit à des intervalles
+aléatoires, par prélèvement dans une série de fabrication, dans les stocks de l'entreprise ou aux différents stades de la
+distribution. Le demandeur ne peut s'opposer à ces examens.
 
 b) Il met en oeuvre un système approuvé de qualité de la production dans les conditions prévues à l'article R. 20-8.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-8
+
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7375,25 +7379,21 @@ b) Il met en oeuvre un système approuvé de qualité de la production dans les 
 	  - Code des postes et des communications électroni... - art. R20-5 (V)
 	  - Code des postes et des communications électroni... - art. R20-8 (M)
 
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-8
-
 
 ###### Article R20-8
 
 Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la production, le fabricant ou son mandataire
-présente au directeur de la réglementation générale une demande d'approbation de ce système, destinée à garantir la
-conformité des produits au type décrit dans l'attestation d'examen ou d'examen C.E. de type.
+présente au directeur général des postes et télécommunications une demande d'approbation de ce système, destinée à garantir
+la conformité des produits au type décrit dans l'attestation d'examen ou d'examen C.E. de type.
 
-Le directeur de la réglementation générale évalue le système de qualité après une procédure d'examen sur pièces et
+Le directeur général des postes et télécommunications évalue le système de qualité après une procédure d'examen sur pièces et
 éventuellement sur place.
 
 Il notifie au demandeur une décision motivée d'évaluation du système de qualité de la production. Lorsque cette décision
 approuve le système soumis à évaluation, le demandeur s'engage à remplir les obligations découlant du système tel qu'il a été
-approuvé et à maintenir son efficacité. Il informe sans délai le directeur de la réglementation générale de tout projet
-d'adaptation de son système de qualité. Celui-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle approbation du
-système révisé.
+approuvé et à maintenir son efficacité. Il informe sans délai le directeur général des postes et télécommunications de tout
+projet d'adaptation de son système de qualité. Celui-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle
+approbation du système révisé.
 
 Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'approbation et de la documentation
 nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi que celles de la surveillance par
@@ -7403,7 +7403,7 @@ inspections et visites sur place du respect par le demandeur des obligations ré
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7417,25 +7417,25 @@ inspections et visites sur place du respect par le demandeur des obligations ré
 ###### Article R20-9
 
 Lorsque le fabricant ou son mandataire décide de solliciter l'agrément selon la procédure prévue au b du 1° de l'article R.
-20-2, il présente au directeur de la réglementation générale une demande d'évaluation du système d'assurance de qualité
-complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles qui leur sont
+20-2, il présente au directeur général des postes et télécommunications une demande d'évaluation du système d'assurance de
+qualité complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles qui leur sont
 applicables.
 
 Cette demande comporte toutes les informations appropriées sur les produits concernés ainsi qu'une documentation complète
 permettant d'apprécier la qualité de la conception du produit, de sa fabrication et du contrôle de celle-ci.
 
-Après un examen sur pièces et, éventuellement, sur place, le directeur de la réglementation générale prend une décision
-motivée d'évaluation du système d'assurance de qualité complète. Lorsqu'il estime que ce système garantit la conformité des
-équipements aux exigences essentielles, il délivre au fabricant ou à son mandataire une déclaration ou déclaration C.E. de
-conformité.
+Après un examen sur pièces et, éventuellement, sur place, le directeur général des postes et télécommunications prend une
+décision motivée d'évaluation du système d'assurance de qualité complète. Lorsqu'il estime que ce système garantit la
+conformité des équipements aux exigences essentielles, il délivre au fabricant ou à son mandataire une déclaration ou
+déclaration C.E. de conformité.
 
 Le fabricant s'engage à remplir les obligations découlant du système d'assurance de qualité complète approuvé et à en
-maintenir l'efficacité. Il autorise la direction de la réglementation générale à accéder, à des fins d'inspection, aux lieux
-de conception, de fabrication, d'inspection, d'essais et de stockage des matériels concernés.
+maintenir l'efficacité. Il autorise la direction générale des postes et télécommunications à accéder, à des fins
+d'inspection, aux lieux de conception, de fabrication, d'inspection, d'essais et de stockage des matériels concernés.
 
-Le fabricant informe le directeur de la réglementation générale de tout projet d'adaptation du système d'assurance de qualité
-complète. Ce dernier fait connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle évaluation du système
-révisé.
+Le fabricant informe le directeur général des postes et télécommunications                                                 de
+tout projet d'adaptation du système d'assurance de qualité complète. Ce dernier fait connaître au fabricant s'il y a lieu ou
+non de procéder à une nouvelle évaluation du système révisé.
 
 Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'évaluation du système d'assurance de
 qualité complète et de la documentation nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi
@@ -7446,7 +7446,7 @@ le fabricant des obligations du système d'assurance de qualité complète appro
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7468,8 +7468,8 @@ le fabricant des obligations du système d'assurance de qualité complète appro
 ###### Article R20-10
 
 1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions d'approbation des systèmes de qualité de la
-production mentionnées aux articles R. 20-8 et R. 20-9, le directeur de la réglementation générale délivre au demandeur un
-agrément.
+production mentionnées aux articles R. 20-8 et R. 20-9, le directeur général des postes et télécommunications délivre au
+demandeur un agrément.
 
 Cet agrément atteste que l'équipement qui en est l'objet respecte les exigences essentielles. En outre, il vaut autorisation
 de connexion à un réseau ouvert au public, sauf pour certaines catégories d'équipements terminaux radioélectriques non
@@ -7482,18 +7482,18 @@ La demande de renouvellement d'un agrément doit être présentée au moins quat
 laquelle l'agrément a été délivré. La décision de renouvellement est notifiée au demandeur et précise la durée pour laquelle
 l'agrément est renouvelé.
 
-2° L'agrément est personnel à son titulaire et ne peut être cédé à un tiers qu'avec l'accord du directeur de la
-réglementation générale. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en mesure de remplir les
+2° L'agrément est personnel à son titulaire et ne peut être cédé à un tiers qu'avec l'accord du directeur général des postes
+et télécommunications. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en mesure de remplir les
 obligations incombant au titulaire de l'agrément.
 
-3° Toute modification des conditions au vu desquelles a été délivré l'agrément est signalée sans délai au directeur de la
-réglementation générale.
+3° Toute modification des conditions au vu desquelles a été délivré l'agrément est signalée sans délai au directeur général
+des postes et télécommunications.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7562,18 +7562,18 @@ télécommunications.
 Lorsque les contrôles opérés en application des articles R. 20-7 (a) ou R. 20-8 font apparaître que les équipements produits
 ne sont pas conformes au type qui a fait l'objet de l'attestation d'examen ou d'examen C.E. de type ou lorsque les contrôles
 opérés en application de l'article R. 20-9 font apparaître que les équipements produits ne respectent pas les exigences
-essentielles qui leur sont applicables, l'agrément est suspendu par le directeur de la réglementation générale. Cette
-décision est motivée et notifiée au titulaire de l'agrément, qui est invité à prendre les mesures de mise en conformité des
-appareils existants jugées nécessaires dans un délai qui ne peut être inférieur à trente jours.
+essentielles qui leur sont applicables, l'agrément est suspendu par le directeur général des postes et télécommunications.
+Cette décision est motivée et notifiée au titulaire de l'agrément, qui est invité à prendre les mesures de mise en conformité
+des appareils existants jugées nécessaires dans un délai qui ne peut être inférieur à trente jours.
 
-S'il n'est pas satisfait à cette demande dans le délai fixé, le directeur de la réglementation générale peut retirer
-l'agrément par une décision motivée, notifiée au titulaire de cet agrément.
+S'il n'est pas satisfait à cette demande dans le délai fixé, le directeur général des postes et télécommunications peut
+retirer l'agrément par une décision motivée, notifiée au titulaire de cet agrément.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7618,8 +7618,8 @@ numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
 ###### Article R20-14
 
 1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le fabricant ou le fournisseur auprès du directeur
-de la réglementation générale lors de la première mise sur le marché de l'équipement terminal considéré. Le déclarant doit
-avoir la personnalité juridique.
+général des postes et télécommunications lors de la première mise sur le marché de l'équipement terminal considéré. Le
+déclarant doit avoir la personnalité juridique.
 
 2° Cette déclaration, conforme à un modèle fixé par arrêté du ministre chargé des télécommunications, atteste que
 l'équipement concerné n'est pas destiné à être connecté à un réseau ouvert au public. Elle est accompagnée de la notice
@@ -7627,8 +7627,8 @@ d'utilisation de l'équipement.
 
 3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
 Etat membre de la Communauté économique européenne, le fabricant ou le fournisseur est tenu de justifier, sur demande du
-directeur de la réglementation générale, que l'équipement correspond à la destination qu'il a déclarée, compte tenu de ses
-caractéristiques techniques, de ses fonctions et du segment de marché pour lequel il est prévu.
+directeur général des postes et télécommunications , que l'équipement correspond à la destination qu'il a déclarée, compte
+tenu de ses caractéristiques techniques, de ses fonctions et du segment de marché pour lequel il est prévu.
 
 4° Chaque équipement concerné doit faire l'objet, préalablement à sa commercialisation, d'un marquage par le fabricant ou le
 fournisseur indiquant qu'il ne peut être connecté à un réseau ouvert au public, conforme à un modèle publié par arrêté du
@@ -7642,7 +7642,7 @@ ministre chargé des télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Cité par**:
 
@@ -7759,16 +7759,16 @@ les exigences essentielles ou vont au-delà de celles-ci, le directeur de le ré
 d'approbation des équipements de télécommunications (Acte) siégeant auprès de la Commission des communautés européennes.
 
 Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté économique européenne et
-utilisé conformément à sa destination, ne satisfait pas aux exigences essentielles, le directeur de la réglementation
-générale en informe sans délai la Commission des communautés européennes ainsi que les autres Etats membres et précise si la
-non-conformité résulte d'une application inadéquate des normes et spécifications harmonisées ou de lacunes intrinsèques de
-celles-ci.
+utilisé conformément à sa destination, ne satisfait pas aux exigences essentielles, le directeur général des postes et
+télécommunications en informe sans délai la Commission des communautés européennes ainsi que les autres Etats membres et
+précise si la non-conformité résulte d'une application inadéquate des normes et spécifications harmonisées ou de lacunes
+intrinsèques de celles-ci.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
@@ -7876,8 +7876,8 @@ au raccordement, à la mise en service et à l'entretien des équipements figura
 20-22.
 
 4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un an, les travaux réalisés par l'entreprise
-peuvent être vérifiés par la direction de la réglementation générale, de sa propre initiative ou sur demande de la commission
-d'admission des installateurs.
+peuvent être vérifiés par la direction générale des postes et télécommunications, de sa propre initiative ou sur demande de
+la commission d'admission des installateurs.
 
 A l'issue de cette période, la capacité de l'entreprise est appréciée au regard de la compétence et de l'expérience acquises
 dans la spécialité choisie.
@@ -7894,7 +7894,7 @@ motivés et notifiés à l'entreprise concernée.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
 
 	**Codifié par**:
 
