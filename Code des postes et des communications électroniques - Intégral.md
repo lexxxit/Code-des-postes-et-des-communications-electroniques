@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-05-09
+Version Consolidée au 1994-05-14
 
 # Partie législative
 
@@ -6278,6 +6278,9 @@ permanent et gratuit au service télématique ;
 l'informatique, aux fichiers et aux libertés ou du récépissé de déclaration délivré par la Commission nationale de
 l'informatique et des libertés en application de son article 16.
 
+3. De l'engagement de l'éditeur de la publication ou du responsable du service télématique de ne pas utiliser à des fins
+autres que l'édition de la liste d'utilisateurs les informations nominatives figurant sur cette liste.
+
 La déclaration est effectuée auprès de la direction générale des postes et télécommunications du ministère chargé des
 télécommunications.
 
@@ -6288,9 +6291,7 @@ selon les modalités prévues ci-dessus.
 
 Toute personne qui, sans avoir fait la déclaration préalable prévue au présent article, aura mis à la disposition du public
 une liste d'utilisateurs d'un réseau de télécommunications ouvert au public sera punie de la peine d'amende prévue pour les
-contraventions
-
-de la cinquième classe.
+contraventions de la cinquième classe.
 
 En cas de récidive, le contrevenant sera puni de l'amende prévue pour la récidive des contraventions de la 5e classe.
 
@@ -6308,7 +6309,11 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°94-373 du 6 mai 1994 - art. 1 () JORF 14 mai 1994
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
 
 	**Cité par**:
 
@@ -6334,12 +6339,13 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 
 ###### Article R10-1
 
-Les personnes physiques ayant souscrit un abonnement dans les conditions prévues aux articles D. 317 et D. 284 peuvent, en
-application de l'article 26 de la loi n° 78-17 du 6 janvier 1978, demander, sans redevance supplémentaire, à ne pas figurer
-sur les listes extraites des annuaires et commercialisées par l'exploitant public [*fichiers nominatifs*].
+Les personnes physiques ayant souscrit un abonnement au service du téléphone fixe ou du télex peuvent, en application de
+l'article 26 de la loi n° 78-17 du 6 janvier 1978, demander, sans redevance supplémentaire, à ne pas figurer sur les extraits
+des listes d'utilisateurs, commercialisés par l'exploitant public.
 
 Est interdit l'usage par quiconque, à des fins commerciales ou de diffusion dans le public, des informations nominatives
-extraites desdits annuaires concernant les personnes mentionnées à l'alinéa précédent.
+extraites des listes d'utilisateurs et concernant les personnes mentionnées à l'alinéa précédent. Toutefois, ces informations
+peuvent être utilisées ou communiquées aux seules fins d'édition des listes d'utilisateurs mentionnés à l'article R. 10.
 
 **Liens relatifs à cet article**
 
@@ -6350,8 +6356,12 @@ extraites desdits annuaires concernant les personnes mentionnées à l'alinéa p
 
 	**Cite**:
 
+	  - Code des postes et télécommunications R10
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
-	  - Code des postes et télécommunications D284 et D317
+
+	**Modifié par**:
+
+	  - Décret n°94-373 du 6 mai 1994 - art. 2 () JORF 14 mai 1994
 
 	**Codifié par**:
 
@@ -6363,10 +6373,6 @@ extraites desdits annuaires concernant les personnes mentionnées à l'alinéa p
 	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
 	  - Code des postes et des communications électroni... - art. R10-11 (V)
 	  - Code des postes et des communications électronique - art. R11 (T)
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 
 ###### Article R10-2
