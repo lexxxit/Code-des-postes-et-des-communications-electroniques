@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1981-01-10
+Version Consolidée au 1981-03-20
 
 # Partie législative
 
@@ -8813,6 +8813,32 @@ universelle et son règlement, sous réserve de l'application des arrangements s
 	  - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
+###### Article D35
+
+L'échange des objets avec valeur déclarée entre, d'une part, la France et les départements d'outre-mer et, d'autre part, les
+pays qui ont adhéré ou adhéreront à l'arrangement de l'Union postale universelle concernant les objets avec valeur déclarée,
+s'effectue dans les conditions déterminées par cet arrangement et son règlement, sous réserve de l'application des régimes
+particuliers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
+
+	**Codifié par**:
+
+	  - Décret n°62-275 du 12 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 7
+
+
 ###### Article D36
 
 Le service des "abonnements-poste" dans les relations entre, d'une part, la France et les départements d'outre-mer et,
@@ -8887,29 +8913,6 @@ communications électroniques devient le code des postes et des communications �
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D39
-
-[*(Abrogé par décret n° 81-256 du 13 mars 1981, art. 4)*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L18
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°81-256 1981-03-13 art. 4 JORF 20 mars 1981
 
 
 ###### Article D40
@@ -9040,6 +9043,31 @@ de contrôle des dépenses engagées.
 	**Abrogé par**:
 
 	  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
+
+
+###### Article D44
+
+Dans le service intérieur, l'affranchissement préalable des objets de correspondance n'est pas obligatoire, sauf en ce qui
+concerne les objets chargés ou recommandés, les envois urgents ou distribuables par porteur spécial, les avis de réception,
+les envois contre remboursement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Codifié par**:
+
+	  - Décret n°62-275 du 12 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
 ###### Article D45
@@ -9561,6 +9589,30 @@ siège de leur résidence officielle.
 	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
 
 
+###### Article D63
+
+Sauf exceptions prévues par le ministre chargé des postes et télécommunications, les envois expédiés en franchise sont soumis
+aux mêmes conditions d'admission que les autres objets de même nature confiés au service postal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 1 JORF 20 mars 1981
+
+	**Abrogé par**:
+
+	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
+
 ###### Article D64
 
 Sauf exceptions prévues par la réglementation, les envois expédiés en franchise sont obligatoirement déposés au guichet du
@@ -9686,6 +9738,60 @@ poste pour qu'il soit soumis à la taxe.
 	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
 
 
+###### Article D69
+
+Les envois valablement échangés en franchise entre fonctionnaires publics peuvent être soumis, sans perception de droits, à
+la formalité de la recommandation sur réquisition écrite du fonctionnaire expéditeur. Cette facilité ne s'étend pas à l'avis
+de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
+
+	**Abrogé par**:
+
+	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
+
+###### Article D70
+
+Les fonctionnaires bénéficiant de la franchise peuvent, sur réquisition écrite et exclusivement dans les cas prévus par
+l'arrêté mentionné à l'article D. 59, obtenir l'expédition comme "pli chargé" sans perception de droits pour certains envois
+contenant des valeurs. L'exemption de taxe ne s'étend pas à l'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D59
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
+
+	**Abrogé par**:
+
+	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
+
 ###### Article D71
 
 Sauf les exceptions autorisées par l'arrêté prévu à l'article D. 59, il est interdit d'insérer dans les envois recommandés ou
@@ -9774,6 +9880,37 @@ télécommunications et du ministre des finances.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+#### CHAPITRE II : Correspondance des militaires.
+
+###### Article D76
+
+Les militaires et marins de tous grades des armées de terre, de l'air et de mer, en campagne, bénéficient des franchises
+suivantes :
+
+1° Franchise pour les lettres simples de caractère familial, expédiées ou reçues par ces militaires et marins ;
+
+2° Franchise pour deux paquets non recommandés de cinq kilogrammes par mois à l'adresse de ces militaires et marins.
+
+En dehors du cas visé ci-dessus, les paquets expédiés à ces militaires et marins bénéficient du tarif spécial prévu pour les
+envois à l'adresse des troupes en campagne.
+
+Les modalités d'application de ces dispositions sont fixées par arrêté du ministre des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
 
 
 #### CHAPITRE III : Sécurité sociale et mutualité sociale agricole.
@@ -17252,6 +17389,37 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Code des postes et des communications électronique - art. D535 (Ab)
 
 
+###### Article D528
+
+Les mandats sont nominatifs. Par exception, dans la limite du montant maximum fixé par arrêté du ministre des postes et des
+communications électroniques, les mandats-lettres peuvent être au porteur sans autre indication que celle de la somme à
+payer.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L187
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
+
+
 ###### Article D529
 
 Les mandats sont payables à vue dans les conditions prévues par les règlements, pendant un délai qui peut varier avec leur
@@ -17303,6 +17471,55 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D535
+
+A moins qu'ils ne soient payés par inscription au crédit d'un compte courant postal, les mandats-lettres sont, sauf les
+exceptions prévues par les règlements, payables au guichet des bureaux de poste.
+
+Sous les mêmes réserves et si leur montant ne dépasse pas la somme fixée en exécution de l'article D. 524 sont payables à
+domicile :
+
+1° Les mandats-cartes postaux ;
+
+2° Les mandats télégraphiques dont le paiement à domicile a été expressément demandé par l'expéditeur ou le bénéficiaire.
+
+Peuvent également être payés à domicile les mandats-lettres répondant à la condition de montant susvisée dont le paiement a
+été retardé par suite d'une faute de service.
+
+Le nombre de présentations successives à domicile est au maximum de deux.
+
+L'administration est autorisée à différer le paiement à domicile d'un certain nombre de mandats lorsque leur montant total
+dépasse, pour une même tournée, un maximum fixé par arrêté du ministre des postes et des communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R11
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D524 (M)
 
 
 ###### Article D538
@@ -17482,6 +17699,73 @@ Aucun reçu n'est toutefois établi lorsque le mandat résulte de la transformat
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D532
+
+L'expéditeur d'un mandat au porteur visé à l'article D. 528 a la faculté de rendre le titre nominatif en y portant lui-même
+la désignation du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D528
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R8
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D533
+
+L'avis de paiement prévu à l'article D. 526 peut être demandé dans tous les cas au moment du dépôt de fonds.
+
+La demande peut également en être faite dans le délai de recevabilité des réclamations à partir de la date d'émission du
+mandat lorsqu'il s'agit soit d'un mandat-carte ou d'un mandat télégraphique, soit d'un mandat ordinaire ayant donné lieu à
+l'établissement d'un avis d'émission ou payable par un bureau de poste expressément désigné.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D526
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R9
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
 
 	**Abrogé par**:
 
@@ -18001,6 +18285,35 @@ d'assurer la transmission des fonds à l'expéditeur.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D557
+
+En cas de non-paiement de la valeur, le notaire ou l'huissier qui a fait le protêt remet au bureau de poste, au plus tard le
+douzième jour après l'échéance, l'effet protesté, les originaux des actes intervenus ainsi qu'un état dûment quittancé de ses
+frais et débours dont le montant lui est réglé par l'administration des P.T.T.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R20
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
 
 	**Abrogé par**:
 
