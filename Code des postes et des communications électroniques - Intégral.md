@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1966-07-10
+Version Consolidée au 1966-07-30
 
 # Partie législative
 
@@ -11208,6 +11208,27 @@ manifestations, si les disponibilités du service le permettent.
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
+###### Article D284
+
+Les abonnements au service télex sont, en ce qui concerne les conditions réglementaires de souscription des engagements, la
+durée minimum des abonnements, la modification des conditions de concession, la modification des installations, l'inscription
+à l'annuaire du service télex, assujettis aux mêmes règles que les abonnements ordinaires au service téléphonique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+
+
 ##### Paragraphe 3 : Communications.
 
 ###### Article D285
@@ -11864,6 +11885,31 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 
 ##### 1. : Transfert des postes d'abonnement.
 
+###### Article D344
+
+**Nota:**
+
+[*(Abrogé par décret n° 84-313 du 26 avril 1984, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+
+	**Abrogé par**:
+
+	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
 ###### Article D346
 
 **Nota:**
@@ -12097,6 +12143,33 @@ D. 328.
 
 
 ##### Paragraphe 8 : Dispositions diverses
+
+##### 1. : Reprise de l'abonnement après résiliation.
+
+###### Article D358
+
+**Nota:**
+
+[*(Abrogé par décret n° 83-258 du 30 mars 1983, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+
+	**Abrogé par**:
+
+	  - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
+
 
 ##### 2. : Listes périodiques d'abonnés.
 
@@ -12788,6 +12861,33 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général.
+
+###### Article D433
+
+**Nota:**
+
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
 
 	**Abrogé par**:
 
