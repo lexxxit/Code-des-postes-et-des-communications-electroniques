@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1970-01-09
+Version Consolidée au 1970-01-10
 
 # Partie législative
 
@@ -11573,7 +11573,85 @@ télégraphique dans les cas et conditions prévus par les règlements.
 
 ##### SECTION 3 : Service télex
 
+##### Paragraphe 1er : Généralités.
+
+###### Article D278
+
+Le service télex permet :
+
+La mise en communication directe de deux postes d'abonnés ou d'un poste public et d'un poste d'abonné pour l'échange de
+communications, ou d'informations codées, transmises à une vitesse compatible avec les caractéristiques techniques du réseau
+télex ;
+
+Le dépôt de télégrammes ou de messages dans les bureaux de l'administration des P.T.T. reliés au réseau télex ;
+
+La transmission des télégrammes d'arrivée directement au domicile des abonnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-23 1970-01-08 art. 1 JORF 10 janvier 1970
+
+
+###### Article D279
+
+Le réseau télex commuté est constitué par l'ensemble des postes télex, des lignes les rattachant aux commutateurs, de ceux-ci
+et des circuits de jonction reliant lesdits commutateurs entre eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-23 1970-01-08 art. 1 JORF 10 janvier 1970
+
+
 ##### Paragraphe 2 : Abonnement.
+
+###### Article D280
+
+Tout poste d'abonnement télex est relié, par l'intermédiaire du répartiteur de télécommunications le plus voisin du lieu où
+ce poste est installé, au commutateur télex considéré par l'administration comme le mieux placé pour desservir l'abonné,
+compte tenu de l'importance de son trafic télex.
+
+La ligne terminale reliant le poste d'abonnement au répartiteur est prolongée jusqu'au commutateur par une voie télégraphique
+du réseau général.
+
+Lorsque, à la demande de l'abonné, un rattachement exceptionnel est consenti par l'administration sur un commutateur télex
+autre que le commutateur normal de rattachement tel qu'il est défini au paragraphe 1er du présent article, l'utilisation de
+la voie télégraphique prolongeant la ligne terminale donne lieu au paiement de la redevance de location-entretien applicable
+à une liaison spécialisée télégraphique présentant les mêmes caractéristiques techniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-23 1970-01-08 art. 1 JORF 10 janvier 1970
+
 
 ###### Article D282
 
