@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-03-19
+Version Consolidée au 1997-03-20
 
 # Partie législative
 
@@ -8196,31 +8196,6 @@ le décret n° 92-681 du 20 juillet 1992.
 
 
 ## LIVRE II : Les télécommunications
-
-### TITRE Ier : Les services de télécommunications
-
-#### CHAPITRE III : Les services relevant de l'article L. 34-5
-
-###### Article R11-1
-
-On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
-capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
-l'exclusion de toute commutation contrôlée par cet utilisateur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
 
 ### TITRE Ier : Dispositions générales
 
