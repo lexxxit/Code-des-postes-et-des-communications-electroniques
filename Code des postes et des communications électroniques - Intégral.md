@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1980-08-01
+Version Consolidée au 1981-01-10
 
 # Partie législative
 
@@ -8408,6 +8408,39 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 ##### Section 4 : Journaux et écrits périodiques.
 
+###### Article D19-2
+
+Les publications éditées par l'administration de l'Etat ou par les établissements publics ou pour leur compte sont taxées au
+tarif des publications administratives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°81-11 1981-01-09 art. 2 JORF 10 janvier 1981
+
+	**Cité par**:
+
+	  - Décret n°97-1065 du 20 novembre 1997 - art. 11 (V)
+	  - Décret n°97-1065 du 20 novembre 1997 - art. 7 (V)
+	  - Décret n°98-1009 du 6 novembre 1998 - art. 2 (V)
+	  - Décret n°99-79 du 5 février 1999 - art. 1 (Ab)
+	  - Décret n°2004-595 du 22 juin 2004 - art. 2 (V)
+	  - Décret n°2004-1311 du 26 novembre 2004 - art. 5 (Ab)
+	  - Décret n°2009-535 du 13 mai 2009 (V)
+	  - Décret n°2012-484 du 13 avril 2012 - art. 9 (V)
+	  - Arrêté du 22 novembre 2012 - art. 2 (V)
+	  - Décret n°2016-1161 du 26 août 2016 - art. 21
+	  - Décret n°2016-1161 du 26 août 2016 - art. 6
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 9 (V)
+	  - Code des postes et des communications électroni... - art. D19-3 (VD)
+	  - Code des postes et des communications électroni... - art. D27-2 (V)
+
+
 ###### Article D20
 
 Sont taxés comme imprimés ordinaires :
@@ -8448,6 +8481,34 @@ ce qui pourrait être l'objet d'une transaction.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D22
+
+Pour l'application des taxes, les journaux sont classés en routés, semi-routés et autres journaux selon le degré de la
+préparation des envois effectuée par l'expéditeur préalablement à la remise au service postal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-11 1981-01-09 art. 1 JORF 10 janvier 1981
+
+	**Cité par**:
+
+	  - Décret n°2001-1090 du 20 novembre 2001 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article D23
