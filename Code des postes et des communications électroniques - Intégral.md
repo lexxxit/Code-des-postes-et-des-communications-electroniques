@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-03-09
 
 # Partie législative
 
@@ -6061,14 +6061,14 @@ montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux 
 de l'envoi.
 
 2° L'insertion de matières d'or ou d'argent, de bijoux ou autres objets précieux dans les envois ordinaires ou simplement
-recommandés ainsi que dans les lettres avec valeur déclarée.
+recommandés.
 
 La peine ne sera pas encourue lorsque l'insertion de telles matières, bijoux ou objets dans les paquets recommandés n'excède
 pas une valeur égale au montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux de garantie choisi par
 l'expéditeur au moment de l'envoi.
 
-3° L'insertion de pièces de monnaie françaises ou étrangères ayant cours légal dans tout envoi autre qu'une boîte avec valeur
-déclarée.
+3° L'insertion de pièces de monnaie françaises ou étrangères ayant cours légal dans tout envoi autre qu'une lettre ou boîte
+avec valeur déclarée.
 
 **Nota:**
 
@@ -6082,16 +6082,11 @@ déclarée.
 
 	**Modifié par**:
 
-	  - Décret n°79-466 1979-06-07 art. 1 JORF 15 juin 1979
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°91-263 du 7 mars 1991 - art. 1 () JORF 9 mars 1991
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 	**Cité par**:
 
@@ -11971,14 +11966,11 @@ lettre, boîte ou paquet.
 
 Les valeurs susceptibles d'être assurées moyennant déclaration préalable sont :
 
-1° Dans les lettres : les billets de banque, bons, coupons de dividendes et d'intérêts payables au porteur ainsi que les
-valeurs papiers de toute nature ;
+1° Dans les lettres ou dans les boîtes : les billets de banque, bons, coupons de dividendes et d'intérêts payables au
+porteur, les valeurs papiers de toute nature, les bijoux et objets précieux, les matières d'or et d'argent, y compris les
+pièces de monnaie françaises ou étrangères ayant cours légal.
 
-2° Dans les boîtes : les billets de banque, bons, coupons de dividendes et d'intérêts payables au porteur, les valeurs
-papiers de toute nature, les bijoux et objets précieux, les matières d'or et d'argent y compris les pièces de monnaies
-françaises ou étrangères ayant cours légal ;
-
-3° Dans les paquets : les billets de banque et autres valeurs au porteur, ainsi que les valeurs papiers de toute nature, les
+2° Dans les paquets : les billets de banque et autres valeurs au porteur ainsi que les valeurs papiers de toute nature, les
 objets ayant une valeur marchande, à l'exclusion des bijoux et objets précieux, des matières d'or et d'argent.
 
 **Liens relatifs à cet article**
@@ -11991,13 +11983,13 @@ objets ayant une valeur marchande, à l'exclusion des bijoux et objets précieux
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°79-466 1979-06-07 art. 3 JORF 15 juin 1979
+	  - Décret n°91-263 du 7 mars 1991 - art. 3 () JORF 9 mars 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
 ###### Article D56
