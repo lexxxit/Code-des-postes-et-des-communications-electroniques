@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1978-06-29
+Version Consolidée au 1978-12-30
 
 # Partie législative
 
@@ -3213,6 +3213,57 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 	  - Décret n°62-273 1962-03-12
 
 
+###### Article L105
+
+Le chèque postal de paiement peut recevoir un barrement spécial avant d'être présenté à l'encaissement.
+
+Le barrement s'effectue au moyen de deux barres parallèles apposées au recto.
+
+Le nom du banquier désigné est inscrit entre les barres. Le biffage du barrement ou du nom du banquier désigné est réputé non
+avenu.
+
+Le chèque postal barré ne peut être payé qu'au banquier désigné par une chambre de compensation ou par virement à son compte
+courant postal, ou au bénéficiaire, par virement à son compte courant postal. Si le bénéficiaire du chèque postal barré est
+le tireur lui-même, le chèque peut également lui être payé en numéraire. Le banquier désigné peut recourir à un autre
+banquier pour l'encaissement par une chambre de compensation.
+
+Un chèque postal peut porter deux barrements au maximum dont l'un pour l'encaissement par une chambre de compensation.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L173
+	  - Loi n°1941-11-17 art. 7 al. 1 à 3 et 5
+
+	**Modifié par**:
+
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 85 () JORF 30 décembre 1978
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D501 (Ab)
+
+
 ###### Article L106
 
 Tout chèque postal barré ou non pour lequel la provision correspondante existe à la disposition du tireur doit être certifié
@@ -5393,6 +5444,86 @@ La contravention prévue à l'article précédent est poursuivie et jugée comme
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R44-1
+
+Pour l'application des dispositions du troisième alinéa de l'article L. 69-1 du présent code, les demandes de renseignements
+concernant l'emplacement des ouvrages souterrains de télécommunications pouvant exister dans l'emprise de travaux publics ou
+privés projetés sont présentées par le maître de l'ouvrage ou le maîre d'oeuvre dans les conditions ci-après.
+
+La demande est adressée par lettre recommandée en trois exemplaires ou par télex au directeur chargé des services régionaux
+des télécommunications, au plus tôt soixante jours et au plus tard vingt jours [*délai*] avant l'ouverture du chantier.
+
+Elle doit comporter les indications suivantes :
+
+Nom ou raison sociale, adresse ou siège social du demandeur ;
+
+Nom ou raison sociale, adresse ou siège social du ou des entrepreneurs ainsi que, le cas échéant, de leurs agents, chargés de
+l'exécution des travaux ;
+
+Nature, durée et calendrier d'exécution des travaux incombant à chaque entrepreneur ainsi que date d'ouverture du chantier.
+
+La demande doit être accompagnée de plans et relevés permettant de situer avec une précision suffisante les emplacements où
+seront exécutés les travaux.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L69-1 al. 3
+
+	**Créé par**:
+
+	  - Décret n°78-1249 1978-12-28 art. 2 JORF 30 décembre 1978
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R44-2
+
+L'administration des postes et télécommunications adresse, par lettre recommandée ou par télex, sa réponse aux entrepreneurs
+mentionnés à l'article précédent [*délai*] avant l'ouverture du chantier.
+
+Cette réponse peut revêtir une ou plusieurs des modalités suivantes :
+
+Fourniture d'un tirage d'extraits de plans des ouvrages souterrains des télécommunications, accompagné éventuellement de
+toutes autres informations utiles ;
+
+Invitation à venir consulter les plans de ces ouvrages dans les huit jours précédant l'ouverture du chantier. Cette
+consultation donne lieu à l'établissement en deux exemplaires d'un constat contradictoire ;
+
+Report des renseignements concernant les ouvrages souterrains des télécommunications sur les plans fournis par le demandeur.
+
+La réponse peut comporter, avec l'indication sommaire de l'emplacement des ouvrages, l'annonce de la visite en temps utile
+sur les lieux des travaux d'un agent de l'administration des postes et télécommunications chargé de préciser, par voie de
+piquetage, l'implantation de ces ouvrages et de donner à l'entrepreneur toutes indications complémentaires afin d'assurer
+leur préservation et leurs conditions de fonctionnement. Cette visite donne lieu à l'établissement en deux exemplaires d'un
+constat contradictoire.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R44-1
+
+	**Créé par**:
+
+	  - Décret n°78-1249 1978-12-28 art. 2 JORF 30 décembre 1978
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ### TITRE V : Protection des câbles sous-marins
