@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1985-11-06
+Version Consolidée au 1986-02-01
 
 # Partie législative
 
@@ -198,6 +198,36 @@ cargaison de son bâtiment.
 
 
 #### CHAPITRE II : Dérogations à l'inviolabilité et au secret des correspondances.
+
+###### Article L5
+
+L'administration des postes et télécommunications communique aux autorités judiciaires qui en font la demande en matière
+pénale, au service des contributions directes ainsi qu'au régisseur du service de la redevance de l'audiovisuel les
+changements de domicile dont elle a connaissance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Créé par**:
+
+	  - Loi n°66-948 1966-12-22 art. 34 JORF 23 décembre 1966
+
+	**Modifié par**:
+
+	  - Loi n°85-1407 1985-12-30 art. 92 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L6 (V)
+
 
 ###### Article L6
 
