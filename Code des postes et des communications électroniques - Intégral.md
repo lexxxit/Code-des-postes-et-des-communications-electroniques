@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-11
 
 # Partie législative
 
@@ -13961,8 +13961,8 @@ Les sommes dues au titre des communications téléphoniques échangées à parti
 facture adressée à l'abonné. Les conditions d'émission de la facture et de paiement des sommes dues sont fixées par arrêté du
 ministre chargé des télécommunications.
 
-Pendant les six mois qui suivent l'émission de la facture [*délai*], l'administration tient à la disposition de l'abonné soit
-la photographie du compteur, soit le relevé des consommations enregistrées sur support informatique, soit tout autre élément
+Pendant les douze mois qui suivent l'émission de la facture, l'administration tient à la disposition de l'abonné soit la
+photographie du compteur, soit le relevé des consommations enregistrées sur support informatique, soit tout autre élément
 justificatif de la facture, établissant en l'état des techniques existantes l'utilisation faite du service téléphonique.
 
 **Liens relatifs à cet article**
@@ -13971,9 +13971,13 @@ justificatif de la facture, établissant en l'état des techniques existantes l'
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-888 1987-10-30 art. 1 JORF 31 octobre 1987
+	  - Décret n°90-18 1990-01-04 art. 1 JORF 5 janvier 1990 en vigueur le 11 janvier 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
 ##### Paragraphe 2 : Communications ordinaires
@@ -14092,9 +14096,26 @@ La demande de récépissé doit être formulée au moment du versement du prix.
 
 ###### Article D300
 
-**Nota:**
+Le service dénommé "Service d'accès Télétel" permet à tout terminal clavier-écran équipé d'un modem-décodeur (75/1 200 bit
+par seconde en émission, 1 200 bit par seconde en réception) conforme à l'avis V23 du C.C.I.T.T., respectant les
+"spécifications techniques d'usage des Minitel (S.T.U.M.)" et associé à un poste téléphonique, de communiquer par
+l'intermédiaire du réseau Transpac, avec des services télématiques interactifs. A cette fin sont utilisés des points d'accès
+au réseau Transpac spécifiques au service.
 
-[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
+Le prix du service pour l'utilisateur du réseau téléphonique général dépend de la prise en charge ou non par celui-ci du coût
+de la communication afférente à l'utilisation du réseau Transpac ; c'est-à-dire en fait de la catégorie de service
+télématique interactif à laquelle il souhaite accéder.
+
+Lorsque la prise en charge est assurée par l'utilisateur, la tarification du service est perçue, par montant indivisible égal
+à l'unité Télécom en vigueur.
+
+Prise en charge assurée par le centre serveur :
+
+Lorsque la totalité de la prise en charge de la communication est assurée par le centre serveur, la communication est
+gratuite ;
+
+Lorsque le serveur prend en charge seulement le prix de la communication correspondant à l'utilisation du point d'accès et du
+réseau Transpac, la tarification de la communication est perçue par montant indivisible égal à l'unité Télécom en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -14102,36 +14123,41 @@ La demande de récépissé doit être formulée au moment du versement du prix.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°90-18 1990-01-04 art. 1 JORF 5 janvier 1990 en vigueur le 11 janvier 1990
 
-	**Abrogé par**:
+	**Liens**:
 
-	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+	  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
 ##### 2. : Avis d'appel.
 
 ###### Article D301
 
-**Nota:**
-
-[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
+Pour les services télématiques interactifs et pour les services de diffusion d'informations téléphonées, un système de
+tarification spécifique permet d'appliquer un tarif incluant la transmission de l'information et sa rémunération au profit
+des fournisseurs de services, conformément à l'article R. 54-1 du code des postes et télécommunications. Aux différents
+régimes de tarification applicables à l'usager correspondent des régimes de rémunération différents.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R54-1
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°90-18 1990-01-04 art. 1 JORF 5 janvier 1990 en vigueur le 11 janvier 1990
 
-	**Abrogé par**:
+	**Liens**:
 
-	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+	  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 	**Cité par**:
 
@@ -17297,8 +17323,9 @@ Les matériels vendus par l'administration des postes et télécommunications so
 
 ###### Article D442
 
-Les appareils et installations fournis par l'utilisateur sont soumis à une autorisation préalable de mise en service donnée
-par la direction générale des télécommunications.
+Les appareils et installations de télécommunications, fournis par l'usager, doivent être d'un type agréé par le ministre
+chargé des télécommunications. En outre, certains de ces appareils et installations peuvent être soumis à une autorisation
+préalable de mise en service donnée par la direction générale des télécommunications.
 
 Toutefois, cette autorisation n'est pas exigée pour les matériels de péritéléphonie répondant aux conditions définies par la
 direction générale des télécommunications. Elle peut être donnée, a posteriori, dans des conditions fixées par arrêté, pour
@@ -17306,19 +17333,21 @@ les installations téléphoniques.
 
 **Liens relatifs à cet article**
 
+	**Annulé par**:
+
+	  - Conseil d'Etat n°115232 115233 1994-05-09
+
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°85-336 1985-03-12 art. 2 JORF 15 mars 1985
-	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+	  - Décret n°90-18 1990-01-04 art. 1 JORF 5 janvier 1990 en vigueur le 11 janvier 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
 ###### Article D443
@@ -17328,8 +17357,8 @@ par un installateur admis par la direction générale des télécommunications, 
 desservant une ligne d'abonnement télex qui doivent être installés par la direction générale des télécommunications et
 entretenus soit par celle-ci, soit par un installateur admis.
 
-Les appareils et installations télégraphiques et télex fournis par l'utilisateur doivent être d'un type agréé par la
-direction générale des télécommunications et estampillés par celle-ci avant mise en service.
+Les appareils et installations télégraphiques et télex, fournis par l'utilisateur, doivent être estampillés par la direction
+générale des télécommunications.
 
 Ils peuvent être assujettis à un contrôle périodique effectué par la direction générale des télécommunications aux frais de
 l'utilisateur.
@@ -17340,22 +17369,20 @@ l'utilisateur.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
-	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+	  - Décret n°90-18 1990-01-04 art. 1 JORF 5 janvier 1990 en vigueur le 11 janvier 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
 ###### Article D444
 
-Les postes, appareils et installations téléphoniques fournis par l'abonné doivent être agréés par l'administration des postes
-et télécommunications. Ils sont, suivant le type et la capacité du matériel choisi, mis en place et entretenus soit par
-l'administration des postes et télécommunications, soit par un installateur admis par elle, soit par l'usager.
+Les postes, appareils et installations téléphoniques fournis par l'abonné sont, suivant le type et la capacité du matériel
+choisi, mis en place et entretenus, soit par l'administration chargée des télécommunications, soit par un installateur admis
+par elle, soit par l'usager.
 
 L'entretien par l'administration des postes et télécommunications est exclusif de la fourniture de pièces de rechange et des
 générateurs d'électricité. Toutefois, l'administration fournit gratuitement les générateurs d'électricité nécessaires au
@@ -17368,14 +17395,13 @@ pour des communications avec le réseau général, à l'exclusion de toute commu
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°85-336 1985-03-12 art. 3 JORF 15 mars 1985
-	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+	  - Décret n°90-18 1990-01-04 art. 1 JORF 5 janvier 1990 en vigueur le 11 janvier 1990
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-18 1990-01-04 art. 3
 
 
 ###### Article D445
