@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-05-14
+Version Consolidée au 1997-06-01
 
 # Partie législative
 
@@ -19667,6 +19667,87 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
+### TITRE II : Etablissement des lignes
+
+#### CHAPITRE Ier : Etablissement des lignes
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article D407-1
+
+Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
+dispositifs de connexion placés dans chaque logement conformément à l'article R. 111-14 du code de la construction et de
+l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D407-2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-14
+
+
+###### Article D407-2
+
+En dehors du cas mentionné à l'article D. 407-1, les lignes de communications électroniques intérieures à une propriété
+privée peuvent être construites par tout opérateur de réseau autorisé en application de l'article L. 33-1. L'opérateur n'y
+est tenu que s'il existe des gaines techniques et des passages horizontaux permettant la pose des câbles.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°97-684 du 30 mai 1997 - art. 2 () JORF 1er juin 1997
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D407-1 (M)
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+
+
+###### Article D407-3
+
+Les conditions d'entretien et de gestion des réseaux téléphoniques et des lignes mentionnés aux articles D. 407-1 et D. 407-2
+sont déterminées par contrat établi entre l'utilisateur ou son mandant et un opérateur de réseau autorisé au titre de
+l'article L. 33-1. Ce contrat ne peut exclure l'usage des réseaux et des lignes par un tiers dans des conditions qui ne
+portent pas atteinte au service fourni par l'opérateur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D407-1, D407-2, L33-1
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°97-684 du 30 mai 1997 - art. 3 () JORF 1er juin 1997
+
+
 ### TITRE VI : Les services radioélectriques
 
 #### CHAPITRE Ier : Dispositions générales.
@@ -21591,492 +21672,6 @@ secrétariat sont assurés par le ministère chargé des télécommunications.
 
 
 ### TITRE II : Etablissement des lignes
-
-#### CHAPITRE Ier : Etablissement des lignes
-
-##### SECTION 1 : Dispositions générales.
-
-###### Article D407
-
-Les lignes de télécommunications empruntant la voie publique ou une propriété tierce sont établies obligatoirement par
-l'administration des postes et télécommunications qui en détermine seule le tracé.
-
-Toutefois, les lignes étrangères au réseau général des télécommunications qui ne présentent aucun intérêt au point de vue de
-ce réseau peuvent, après autorisation spéciale et approbation de leur tracé, être construites et entretenues par les
-permissionnaires.
-
-C'est le cas, en particulier :
-
-Des lignes établies par la Société nationale des chemins de fer français ou certaines autres compagnies de chemin de fer sur
-leurs emprises ;
-
-Des voies de télécommunications "de sécurité" constituées par les entrepreneurs de distribution d'énergie électrique sur leur
-réseau haute tension.
-
-Lorsque les lignes de télécommunications empruntent la voie publique, l'autorité responsable de la voie donne, dans le cadre
-de la concertation prévue à l'article L. 47-1 du code des postes et télécommunications, son avis sur leur tracé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L47-1
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D407-1
-
-Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
-dipositifs de connexion placés dans chaque logement conformément à l'article 13 du décret n° 69-596 du 14 juin 1969.
-L'administration des postes et télécommunications procède au contrôle des travaux et de la qualité des installations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Cite**:
-
-	  - Décret n°69-596 1969-06-14 art. 13
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D407-2 (V)
-
-
-###### Article D407-2
-
-En dehors du cas visé à l'article précédent, les lignes de télécommunications intérieures à une propriété privée ne sont
-construites par la direction générale des télécommunications que s'il existe des gaines techniques et des passages
-horizontaux permettant la pose des câbles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D407-1
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D407-3
-
-Les lignes construites par l'administration des postes et télécommunications restent la propriété exclusive de cette
-administration qui se borne à en concéder l'usage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D408
-
-Avant toute exécution, un tracé de la ligne de télécommunications projetée, indiquant les propriétés privées où il doit être
-placé des supports ou des conduits, est déposé par l'administration des postes et télécommunications pendant trois jours à la
-mairie de la commune où ces propriétés sont situées.
-
-Ce délai de trois jours [*computation*] court à dater de l'avertissement qui est donné aux parties intéressées de prendre
-communication du tracé déposé à la mairie.
-
-Cet avertissement est affiché à la porte de la mairie et inséré dans l'un des journaux publiés dans l'arrondissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L89
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D409
-
-Le maire ouvre un procès-verbal pour recevoir les observations ou réclamations. A l'expiration du délai, il transmet ce
-procès-verbal au préfet qui arrête le tracé définitif et autorise toutes les opérations que comportent l'établissement,
-l'entretien et la surveillance de la ligne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L90
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D410
-
-L'arrêté préfectoral détermine les travaux à effectuer. Il est notifié individuellement aux intéressés. Les travaux peuvent
-commencer trois jours après cette notification.
-
-Ce délai ne s'applique pas aux travaux d'entretien.
-
-Si les travaux ne sont pas commencés dans les quinze jours de l'avertissement, celui-ci doit étre renouvelé.
-
-Lorsque, pour des raisons d'ordre et de sécurité publique, il y a urgence à établir ou rétablir une ligne télégraphique ou
-téléphonique, le préfet, par un arrêté motivé, peut prescrire l'exécution immédiate des travaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L91
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D411
-
-Les notifications et avertissements prévus ci-dessus peuvent être donnés au locataire, fermier, gardien ou régisseur de la
-propriété.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L92
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D412
-
-Les fils de télécommunications, autres que ceux des lignes d'intérêt général, ne peuvent être établis dans les égouts
-appartenant aux communes qu'après avis des conseils municipaux et moyennant une redevance si les conseils municipaux
-l'exigent.
-
-Le taux de cette redevance est déterminé par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L85 al. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D413
-
-Lorsque le tribunal administratif, appelé à régler l'indemnité visée à l'article L. 51, croit devoir ordonner une expertise,
-il y est procédé par un seul expert qui est désigné d'office par le tribunal, à défaut par les parties de l'avoir nommé
-d'accord dans le délai qui leur a été imparti.
-
-L'expert désigné d'office ne peut être un agent de l'administration des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L51
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L93 al. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D414
-
-Les participations aux frais d'établissement des lignes de télécommunications sont dans tous les cas définitivement acquises
-à l'administration des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D416
-
-L'administration des postes et télécommunications reste étrangère à tout litige pouvant naître entre l'occupant d'un local ou
-le locataire et le propriétaire à l'occasion de la réalisation d'une installation de télécommunication.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D417
-
-La [*frais - charge*] réparation des dommages de toute nature pouvant résulter de l'installation téléphonique ou
-télégraphique incombe au locataire, à l'occupant ou au copropriétaire, selon le cas.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-###### Article D419
-
-Le titulaire d'un poste d'abonnement d'une ligne d'intérêt privé ou d'une liaison spécialisée doit accorder aux agents de
-l'administration des postes et télécommunications chargés du service des télécommunications, qui justifient de leur qualité,
-l'accès, à des heures convenables, des locaux où sont installés la ligne et le poste.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).
-
-###### Article D420
-
-L'établissement de toute ligne terminale d'abonnement principal téléphonique ou télex donne lieu au paiement de frais
-forfaitaires d'accès au réseau.
-
-Une contribution supplémentaire peut être demandée à l'abonné lorsque l'établissement de la ligne présente des difficultés
-exceptionnelles, soit en raison de la situation de l'immeuble à raccorder, soit en raison des modalités de sa construction ou
-de son aménagement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-961 1993-07-28 art. 2 JORF 29 juillet 1993
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D317 (Ab)
-
-
-###### Article D425
-
-Les lignes ou sections de ligne de télécommunications sont normalement établies suivant le parcours direct, par les voies
-classées praticables et dans les conditions fixées par l'administration des postes et télécommunications.
-
-Lorsque, dans l'intérêt du service, le parcours emprunté est plus long que le parcours direct, les parts contributives à
-mettre à la charge des abonnés doivent être calculées en considérant le tracé direct, par les voies classées praticables,
-qu'il eût été possible d'adopter.
-
-Par contre, lorsque les lignes ou sections de ligne sont, sur la demande expresse des usagers, établies suivant un parcours
-ou dans des conditions autres que celles fixées par l'administration des postes et télécommunications, l'établissement de ces
-lignes ou sections de ligne est à leur charge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".
-
-###### Article D427
-
-L'établissement de toutes lignes d'intérêt privé demeure à la charge exclusive des permissionnaires respectifs et reste
-subordonné aux autorisations locales ou particulières nécessaires pour la traversée des voies publiques ou des propriétés
-privées.
-
-Ces autorisations sont obtenues par les soins des permissionnaires dès lors que les lignes d'intérêt privé ont été dûment
-autorisées par l'administration des P.T.T.
-
-En conséquence, sont à la charge exclusive du permissionnaire :
-
-- les redevances dues aux communes pour occupation de leurs égouts ;
-
-- les indemnités réclamées par les propriétaires intéressés pour préjudice résultant des travaux d'établissement ou
-d'entretien des lignes ;
-
-- les frais pouvant résulter du déplacement des lignes par suite de clôture, réparation, surélévation, etc., effectuées par
-des propriétaires en vertu de l'article L. 49 du code des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L49
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
-
-#### CHAPITRE II : Entretien des lignes
-
-##### SECTION 1 : Dispositions générales.
-
-###### Article D431
-
-Les lignes de télécommunications établies par l'administration des postes et télécommunications sont obligatoirement
-entretenues par elle.
-
-L'administration des postes et télécommunications assure également, dans les immeubles groupant plusieurs logements,
-l'entretien des réseaux téléphoniques intérieurs établis en application de l'article 13 du décret n° 69-596 du 14 juin 1969.
-
-Lorsqu'une redevance d'entretien est exigible, elle est calculée d'après la distance ayant servi de base pour le calcul des
-parts contributives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Cite**:
-
-	  - Décret n°69-596 1969-06-14 art. 13
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
-
 
 #### CHAPITRE III : Fourniture et entretien des installations de télécommunications.
 
