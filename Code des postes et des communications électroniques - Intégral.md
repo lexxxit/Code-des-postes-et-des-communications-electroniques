@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-07-29
 
 # Partie législative
 
@@ -18896,50 +18896,19 @@ l'article D. 363, est arrondi au nombre entier multiple de trois immédiatement 
 
 #### CHAPITRE  V : Services particuliers des télécommunications
 
-##### SECTION 2 : Liaisons spécialisées
-
-##### Paragraphe 1er : Régime général.
+##### SECTION 2 : Liaisons louées
 
 ###### Article D369
 
-Une liaison spécialisée est [*définition*] une liaison louée mise à la disposition exclusive du signataire du contrat de
-location pour ses besoins propres ou pour l'échange de signaux avec un tiers désigné par le contrat.
-
-La liaison est établie soit entre deux installations terminales, soit entre une installation terminale et un équipement de
-l'administration des télécommunications. Elle est appelée dans le premier cas "liaison point à point" et dans le deuxième cas
-"liaison multipoints".
-
-L'utilisation d'une liaison spécialisée par une personne autre que le contractant ou le tiers désigné le cas échéant par le
-contrat, lorsqu'elle est compatible avec les dispositions générales relatives à l'usage des liaisons spécialisées, peut être
-autorisée à titre exceptionnel et moyennant, le cas échéant, des prescriptions spéciales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D370
-
-Les contrats de location de liaisons louées ont une durée minimale de trois mois. A l'échéance de la durée initialement
-prévue, ils sont tacitement reconduits de mois en mois. Toutefois, la durée du contrat peut être inférieure à trois mois en
-cas de circonstances exceptionnelles, pour des liaisons louées à l'occasion de manifestations importantes ou pour des
-liaisons louées de presse définies à l'article D. 377.
+Pour l'application de la présente section, l'autorité réglementaire nationale, visée à l'article 2 de la directive (C.E.E.)
+n° 92-44 relative à l'application de la fourniture d'un réseau ouvert aux lignes louées, est le ministre chargé des
+télécommunications (direction de la réglementation générale).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications D377
+	  - Directive CEE 92-44 1992-06-05 art. 2
 
 	**Codifié par**:
 
@@ -18947,7 +18916,33 @@ liaisons louées de presse définies à l'article D. 377.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+
+
+###### Article D370
+
+Les informations concernant les offres de liaisons louées, relatives aux caractéristiques techniques, aux tarifs et aux
+conditions de fourniture des liaisons, sont rendues publiques par l'exploitant public dans les conditions prévues par arrêté
+du ministre chargé des télécommunications. Cet arrêté précise également les modalités selon lesquelles l'exploitant public
+met à disposition du public les informations, établies par l'autorité réglementaire, concernant les conditions d'utilisation
+des liaisons, les procédures de déclaration ou d'autorisation ainsi que les conditions de connexion d'un équipement terminal
+aux liaisons louées.
+
+Les modifications des offres existantes sont rendues publiques par l'exploitant public dès que possible, et au plus tard dans
+les deux mois avant leur mise en oeuvre, sauf accord de l'autorité réglementaire sur un délai plus court.
+
+Les informations concernant les nouveaux types d'offre de liaisons louées sont publiées au plus tard deux mois avant la mise
+en oeuvre de l'offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 	**Cité par**:
 
@@ -18957,16 +18952,33 @@ liaisons louées de presse définies à l'article D. 377.
 
 ###### Article D371
 
-Les contrats de location de liaisons louées sont résiliés à la demande du contractant à condition que cette demande soit
-présentée par écrit quinze jours au moins [*délai*] avant l'expiration du contrat.
+Les liaisons louées sont fournies dans des conditions objectives, transparentes et non discriminatoires.
 
-Les dispositions de l'article D. 341 sont applicables à ces contrats.
+Les conditions de fourniture de liaisons louées, visées à l'article D. 370, comprennent au moins :
+
+- des informations relatives à la procédure de commande des liaisons louées ;
+
+- la durée du contrat, notamment sa durée minimale qui ne peut être inférieure à trois mois, sauf pour les liaisons louées à
+l'occasion de manifestations temporaires ;
+
+- les modalités de résiliation des contrats, notamment par l'utilisateur, moyennant le respect d'un délai de préavis
+raisonnable et, à défaut de respect de ce délai, les pénalités raisonnables éventuellement exigées ;
+
+- les principes et modalités d'indemnisation.
+
+L'exploitant public rend publiques les statistiques relatives au délai de fourniture type et au temps de réparation type des
+liaisons louées, selon des modalités de calcul et une périodicité précisées par l'autorité réglementaire.
+
+Lorsqu'il est conduit à fournir, à la demande d'un utilisateur déterminé, une liaison louée correspondant à des
+caractéristiques particulières, l'exploitant public informe l'autorité réglementaire des conditions financières et techniques
+de cette offre. L'autorité réglementaire peut alors, en fonction de la demande du marché, demander à l'exploitant public de
+rendre publiques les conditions de fourniture de ces liaisons particulières.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications D341
+	  - Code des postes et télécommunications D370
 
 	**Codifié par**:
 
@@ -18974,7 +18986,7 @@ Les dispositions de l'article D. 341 sont applicables à ces contrats.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 	**Cité par**:
 
@@ -18983,9 +18995,9 @@ Les dispositions de l'article D. 341 sont applicables à ces contrats.
 
 ###### Article D372
 
-L'administration des postes et télécommunications peut exercer sur les liaisons spécialisées un contrôle par les moyens
-qu'elle juge utile d'employer pour s'assurer que les prescriptions de l'article D. 369 sont appliquées. Toute infraction peut
-entraîner la reprise immédiate de la liaison sans indemnité et sans remboursement des sommes versées au titre de la location.
+Les liaisons dites "de sécurité publique" sont des liaisons reconnues nécessaires pour assurer la sécurité publique et louées
+aux services publics ou aux concessionnaires de service public. L'exploitant public informe l'autorité réglementaire des
+conditions de mise à disposition de ces liaisons.
 
 **Liens relatifs à cet article**
 
@@ -18999,38 +19011,31 @@ entraîner la reprise immédiate de la liaison sans indemnité et sans rembourse
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 	**Abrogé par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+	  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
 
 
 ###### Article D373
 
-Les spécifications techniques générales de transmission et d'exploitation des liaisons louées sont fixées par l'exploitant
-public et font l'objet d'une publication.
+Les offres sont maintenues pendant un délai raisonnable.
 
-L'exploitant public peut, à la demande du client, établir des liaisons louées répondant à des spécifications techniques
-particulières.
+En cas de suppression d'une offre, l'autorité réglementaire est tenue informée du calendrier complet de mise en oeuvre de la
+suppression de l'offre. Elle peut allonger les délais prévus par le présent article en fonction des incidences, notamment
+financières, pour les utilisateurs de la suppression d'une offre et de leur prise en charge par l'exploitant public.
 
-**Liens relatifs à cet article**
+L'exploitant public rend publique au moins douze mois à l'avance la date à laquelle les nouvelles demandes cesseront d'être
+satisfaites.
 
-	**Codifié par**:
+La résiliation des contrats en cours résultant de la suppression de l'offre ne peut intervenir qu'après consultation de
+chaque utilisateur concerné. Elle ne peut, sauf accord de l'utilisateur, prendre effet avant l'expiration d'un délai de six
+mois suivant la date à laquelle il a été mis fin à la commercialisation de l'offre, visée à l'alinéa précédent.
 
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D377
-
-Les liaisons dites "de presse" sont des liaisons télégraphiques ou téléphoniques louées aux journaux paraissant au moins six
-jours par semaine et aux agences de presse, pour la transmission de correspondances en langage clair, destinées à être
-insérées dans les publications périodiques du journal ou de l'agence locataire, ou radiodiffusées sous forme de journal
-parlé.
+Les utilisateurs peuvent porter à la connaissance de l'autorité réglementaire les désaccords relatifs au retrait de l'offre.
+L'autorité réglementaire doit être saisie au plus tard dans les neuf mois suivant la date à laquelle la décision de
+suppression de l'offre a été rendue publique, en application du troisième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -19040,51 +19045,41 @@ parlé.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
-###### Article D378
+###### Article D374
 
-Les liaisons louées dites "de sécurité publique" sont des liaisons louées louées aux services publics ou aux concessionnaires
-de service public et reconnues nécessaires pour assurer la sécurité publique.
+Les liaisons louées ne peuvent être soumises par l'autorité réglementaire à des restrictions d'accès ou d'utilisation qu'en
+vue d'assurer le respect des exigences essentielles définies au 12° de l'article L. 32.
 
-Il s'agit :
+Les liaisons louées peuvent être connectées à des lignes d'abonnement ou à d'autres liaisons louées. Dans ce cas, aucune
+restriction autre que celles visées à l'alinéa précédent ne peut être introduite ou maintenue.
 
-a) Des liaisons louées louées aux entrepreneurs de distribution d'énergie électrique et reconnues nécessaires pour assurer la
-sécurité de leur exploitation en exécution des lois et règlements en vigueur ;
+Pour assurer la sécurité du fonctionnement et la protection du réseau, l'exploitant public peut, en cas d'urgence, refuser la
+fourniture de liaisons louées, l'interrompre ou réduire la disponibilité de leurs fonctions. Il informe, sans délai, les
+utilisateurs concernés ainsi que l'autorité réglementaire, du début et de la fin de la période d'urgence, ainsi que des
+restrictions apportées au service.
 
-b) Des liaisons louées reliant les locaux de services publics aux services d'alerte de la police ou aux services de
-pompiers ;
+On entend par urgence, au sens de la présente section, les cas exceptionnels de force majeure, tels que conditions
+météorologiques extrêmes, inondations, foudre ou incendies, actions syndicales ou lock-out, guerres, opérations militaires ou
+troubles civils. Dans ces cas, l'exploitant public prend les dispositions utiles pour garantir le maintien du service à tous
+les utilisateurs.
 
-c) Des liaisons louées demandées par des services publics ou des concessionnaires de service public pour raccorder des
-installations simples de télécommande, télésignalisation ou télémesure (relais, sirène, horloge, sonnerie, indicateur de
-niveau d'eau, etc.) dont la commande est effectuée par courant continu ou par courant alternatif à très basse fréquence.
+En cas de non-respect des conditions d'utilisation des liaisons louées par leurs utilisateurs, l'autorité réglementaire peut,
+après avoir entendu les parties concernées, autoriser par décision motivée l'exploitant public à refuser la fourniture de ces
+liaisons louées, à l'interrompre, à en réduire la disponibilité des fonctions ou à adopter toute autre mesure spécifique
+appropriée. Cette décision est notifiée aux parties dans un délai de sept jours suivant son adoption.
 
-**Liens relatifs à cet article**
+L'utilisation de liaisons louées pour fournir au public des services de télécommunications relevant des articles L. 34-2 et
+L. 34-5 est soumise, respectivement, aux dispositions des articles R. 9 et suivants et R. 11-1 et suivants.
 
-	**Codifié par**:
+Lorsque l'exploitant public utilise des liaisons louées pour fournir des services relevant du domaine concurrentiel et
+notamment ceux visés aux articles L. 34-2, L. 34-3 et L. 34-5, la même catégorie de liaisons louées doit être fournie sur
+demande aux autres utilisateurs, dans des conditions techniques et financières identiques.
 
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D379
-
-L'exploitant public peut établir des liaisons louées aboutissant à un service particulier proposé par elle, qui nécessite
-l'accès à des équipements de commutation, de diffusion ou de concentration situés dans ses locaux.
-
-Par l'intermédiaire de ces équipements, ces liaisons sont destinées à permettre notamment :
-
-a) La mise en relation permanente d'une installation terminale principale avec des installations terminales secondaires. Ces
-liaisons sont appelées "liaisons louées multipoints" ;
-
-b) La réception de signaux horaires ou de la fréquence étalon ou de tout autre message destiné au public ou à des catégories
-particulières de clients ;
-
-c) Le prolongement d'une ligne d'abonnement jusqu'à un commutateur public de rattachement exceptionnel.
+L'exploitant public ne peut déroger aux conditions de tarification et de fourniture qu'il a publiées pour répondre à une
+demande déterminée qu'il estime déraisonnable, qu'après accord de l'autorité réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -19094,40 +19089,43 @@ c) Le prolongement d'une ligne d'abonnement jusqu'à un commutateur public de ra
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D377 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32, L34-2, L34-5, R9, R11-1, L34-3
 
 
-###### Article D380
+###### Article D375
 
-Une liaison louée peut être connectée à des lignes d'abonnement ou à des liaisons louées dans les locaux du contractant. Dans
-ce cas, l'intéressé doit respecter les normes de transmission et de trafic applicables aux lignes d'abonnement ou aux
-liaisons louées.
+Lorsque l'équipement terminal d'un utilisateur n'est pas agréé ou n'est plus conforme à l'agrément délivré dans les
+conditions prévues par l'article R. 20-2, le ministre chargé des télécommunications peut, à l'expiration du délai visé à
+l'article R. 20-22 (3°), dernier alinéa, et à défaut pour l'utilisateur de s'être conformé à la mise en demeure, demander à
+l'exploitant public de mettre en place, aux frais de l'intéressé, les dispositifs techniques permettant de mettre fin aux
+perturbations constatées.
 
-**Liens relatifs à cet article**
+En cas d'urgence ou d'impossibilité de mettre fin dans un délai raisonnable aux troubles constatés, l'exploitant public peut,
+à la demande du ministre chargé des télécommunications, suspendre la fourniture de la ou des liaisons louées auxquelles sont
+connectés les terminaux à l'origine des perturbations.
 
-	**Codifié par**:
+L'exploitant public informe, dans les plus brefs délais, l'utilisateur de cette suspension et en donne les raisons.
 
-	  - Décret n°62-275 1962-03-12
+L'exploitant public met fin à la suspension de la fourniture de la ou des liaisons, dès que la perturbation a pris fin ou que
+l'équipement terminal, à l'origine de la perturbation, a été déconnecté.
 
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-	**Abrogé par**:
-
-	  - Décret n°93-961 1993-07-28 art. 3 JORF 29 juillet 1993
-
-
-###### Article D382
-
-Chacune des liaisons aboutées dans les conditions prévues à l'article D. 381 est, du point de vue de la tarification,
-considérée comme une liaison individuelle de même catégorie.
+Indépendamment des cas visés aux alinéas 1 à 4 du présent article, les conditions d'utilisation relatives à l'équipement
+terminal ne peuvent justifier une restriction d'utilisation des liaisons louées fondée sur l'intégrité du réseau ou
+l'interopérabilité des services.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications D381
+	  - Code des postes et télécommunications R20-2, R20-22
 
 	**Codifié par**:
 
@@ -19135,11 +19133,85 @@ considérée comme une liaison individuelle de même catégorie.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
-	**Abrogé par**:
 
-	  - Décret n°93-961 1993-07-28 art. 3 JORF 29 juillet 1993
+###### Article D377
+
+Les tarifs des liaisons louées respectent le principe de l'orientation vers les coûts et sont fixés selon des règles
+tranparentes, conformément aux règles suivantes :
+
+- les tarifs des liaisons louées sont indépendants du type d'application que les utilisateurs de lignes louées mettent en
+oeuvre ;
+
+- ils comportent une redevance initiale de connexion et une redevance périodique qui sont indiquées de façon distincte.
+Lorsque d'autres éléments de tarification sont appliqués, ceux-ci doivent être transparents et fondés sur des critères
+objectifs ;
+
+- les tarifs des liaisons louées s'appliquent aux prestations fournies à l'utilisateur entre les points de terminaison du
+réseau auxquels il a accès. Pour les liaisons louées internationales, des tarifs de demi-circuit peuvent être appliqués.
+
+Le système de comptabilisation des coûts des liaisons louées par l'exploitant public permet de vérifier le respect du
+principe de l'orientation des tarifs en fonction des coûts.
+
+L'autorité réglementaire approuve ce système de comptabilisation et contrôle son application. Elle rend publics les principes
+de comptabilisation retenus et rend compte des vérifications auxquelles elle a procédé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+
+
+###### Article D378
+
+Sans préjudice des recours prévus par le droit communautaire et national, tout utilisateur s'estimant lésé peut saisir
+l'autorité réglementaire du non-respect des dispositions de la présente section. Après avoir entendu les parties concernées,
+celle-ci rend un avis motivé.
+
+Lorsqu'elle constate qu'il y a lieu de poursuivre l'examen du cas, l'autorité réglementaire peut saisir le président du
+comité visé à l'article 12 de la directive (C.E.E.) n° 92-44 relative à l'application de la fourniture d'un réseau ouvert aux
+lignes louées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive CEE 92-44 1992-06-05 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+
+
+###### Article D379
+
+L'autorité réglementaire rend publiques une fois par an les statistiques relatives aux conditions de fourniture des liaisons
+louées mentionnées aux articles D. 370 et D. 371, concernant notamment les performances relatives au délai de fourniture type
+et au temps de réparation type.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D370, D371
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
 ##### SECTION 3 : Lignes d'intérêt privé
@@ -20024,8 +20096,8 @@ l'accès, à des heures convenables, des locaux où sont installés la ligne et 
 
 ###### Article D420
 
-L'établissement de toute ligne terminale d'abonnement principal téléphonique ou télex ou d'une liaison spécialisée donne lieu
-au paiement de frais forfaitaires d'accès au réseau.
+L'établissement de toute ligne terminale d'abonnement principal téléphonique ou télex donne lieu au paiement de frais
+forfaitaires d'accès au réseau.
 
 Une contribution supplémentaire peut être demandée à l'abonné lorsque l'établissement de la ligne présente des difficultés
 exceptionnelles, soit en raison de la situation de l'immeuble à raccorder, soit en raison des modalités de sa construction ou
@@ -20039,41 +20111,15 @@ de son aménagement.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-961 1993-07-28 art. 2 JORF 29 juillet 1993
+
+	**Abrogé par**:
+
+	  - Décret n°97-684 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
 
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. D317 (Ab)
-
-
-###### Article D421
-
-La ligne terminale d'une liaison spécialisée présentant des caractéristiques particulières peut être constituée, selon les
-cas, soit à l'aide d'une ou plusieurs paires de fils, soit à l'aide d'un câble spécial répondant à des normes particulières.
-
-Lorsque la ligne terminale est constituée par plusieurs paires de fils, les redevances prévues à l'article D. 420 sont
-applicables autant de fois qu'il y a de paires.
-
-Lorsque cette ligne terminale doit être construite selon des normes particulières, son établissement donne lieu au
-remboursement intégral des dépenses faites majorées forfaitairement pour dépenses annexes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D420
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-961 1993-07-28 art. 3 JORF 29 juillet 1993
 
 
 ###### Article D425
@@ -21325,6 +21371,30 @@ applicables sont perçues par le ministre des postes et télécommunications.
 ### TITRE Ier : Dispositions générales
 
 #### CHAPITRE  V : Services particuliers des télécommunications
+
+##### SECTION 2 : Liaisons louées
+
+##### Paragraphe 1er : Régime général.
+
+###### Article D376
+
+L'autorité réglementaire détermine les catégories de liaisons louées conformes à des caractéristiques techniques harmonisées
+dans la Communauté européenne, dont la fourniture est assurée par l'exploitant public. Cette liste peut être complétée, après
+consultation de l'exploitant public, par une offre obligatoire additionnelle de liaisons louées.
+
+L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
+défini au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
+
 
 ## LIVRE III : Les services financiers
 
