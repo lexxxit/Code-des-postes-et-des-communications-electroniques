@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1996-03-20
+Version Consolidée au 1996-03-31
 
 # Partie législative
 
@@ -20529,29 +20529,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
 
 
-###### Article D507
-
-A l'exclusion des chèques postaux barrés présentés en chambres de compensation des banquiers, les chèques postaux doivent
-être adressés sous pli fermé non affranchi ou remis directement aux centres de chèques postaux intéressés.
-
-Sous réserve qu'ils ne soient pas barrés et qu'ils ne comportent pas l'indication du numéro du compte courant postal du
-bénéficiaire, les chèques postaux peuvent être payés aux guichets spéciaux de paiements à vue.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-
 ###### Article D508
 
 Sur demande écrite du titulaire d'un compte courant postal, sont exécutés, par débit de ce compte :
@@ -20691,30 +20668,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Cite**:
 
 	  - Code des postes et des communications électroniques L109 al. 1
-
-
-###### Article D521
-
-Les correspondances et les diverses pièces adressées aux centres de chèques postaux et expédiées par lesdits centres sont
-exonérées de la taxe d'affranchissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-	**Abrogé par**:
-
-	  - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
 
 
 #### (en vigueur jusqu'au 31 décembre 2005).
@@ -21090,6 +21043,29 @@ et à la durée de l'insuffisance de provision constatée.
 	**Créé par**:
 
 	  - Décret n°84-288 1984-04-17 art. 3 JORF 19 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D507
+
+A l'exclusion des chèques postaux barrés présentés en chambres de compensation des banquiers, les chèques postaux doivent
+être adressés sous pli fermé ou remis directement aux centres de chèques postaux intéressés.
+
+Sous réserve qu'ils ne soient pas barrés et qu'ils ne comportent pas l'indication du numéro du compte courant postal du
+bénéficiaire, les chèques postaux peuvent être payés aux guichets spéciaux de paiements à vue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
 
 	**Abrogé par**:
 
