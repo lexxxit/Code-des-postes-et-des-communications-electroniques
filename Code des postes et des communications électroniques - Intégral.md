@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-04-30
 
 # Partie législative
 
@@ -13094,6 +13094,46 @@ par l'administration comme le mieux placé pour desservir l'abonné, compte tenu
 	  - Décret n°77-351 1977-03-28 art. 1 et 4 JORF 1er avril 1977
 
 
+##### 3. : Abonnements principaux d'extension.
+
+###### Article D322
+
+Un abonné déjà titulaire d'un abonnement principal ordinaire peut obtenir la concession d'un ou plusieurs abonnements, dits
+abonnements principaux d'extension [*conditions*].
+
+Les lignes des abonnements principaux d'extension doivent servir à l'écoulement du même trafic que la ligne d'abonnement
+principal ordinaire et figurer à l'annuaire sous la même dénomination.
+
+L'administration des postes et télécommunications se réserve le droit :
+
+1° D'exiger que les lignes d'abonnement principal ordinaire et d'extension aboutissent chez l'abonné sur un même tableau
+commutateur ;
+
+2° De déterminer, s'il y a lieu, la répartition de ces lignes en groupes dont chacun est spécialement affecté à l'écoulement
+du trafic dans un sens ;
+
+3° De subordonner la concession d'une ou plusieurs lignes d'extension au dénumérotage des lignes existantes pour permettre
+leur groupement en une série unique.
+
+Les abonnements principaux d'extension, utilisés par l'abonné dans des conditions autres que celles fixées par
+l'administration des postes et télécommunications, peuvent être transformés d'office en abonnements principaux ordinaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°72-324 1972-04-28 art. 1 JORF 29 avril 1972 rectificatif JORF 18 mai 1972
+	  - Décret n°78-570 1978-04-29 art. 1 JORF 30 avril 1978
+
+
 ##### 4. : Abonnements à ligne partagée.
 
 ###### Article D324
@@ -13347,6 +13387,33 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 	**Abrogé par**:
 
 	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
+###### Article D345
+
+**Nota:**
+
+[*(Abrogé par décret n° 83-258 du 30 mars 1983, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+	  - Décret n°77-351 1977-03-28 art. 1 JORF 1er avril 1977
+	  - Décret n°78-570 1978-04-29 art. 1 JORF 30 avril 1978
+
+	**Abrogé par**:
+
+	  - Décret n°83-258 1983-03-30 art. 1 et 5 JORF 31 mars 1983 rectificatif JORF 23 avril 1983 en vigueur le 1er avril 1983
 
 
 ##### 2. : Transformation des abonnements.
