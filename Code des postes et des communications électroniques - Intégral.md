@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1965-01-13
+Version Consolidée au 1965-03-12
 
 # Partie législative
 
@@ -14134,11 +14134,25 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-###### Article D495
+###### Article D501
+
+L'administration des postes et communications électroniques fournit aux titulaires de comptes courants postaux des formules
+de chèques comportant, notamment, imprimés par les soins du centre de chèques postaux, le nom et le numéro sous lesquels le
+compte est ouvert. Ces formules permettent aux titulaires de procéder à l'émission de chèques payables :
+
+Soit en numéraire, à eux-mêmes (chèque de retrait), à une tierce personne dénommée (chèque d'assignation) ou au porteur ;
+
+Soit par inscription à un compte courant postal. Le titre, qui peut être barré ou non barré, doit comporter le numéro du
+compte courant postal du bénéficiaire. Il est dénommé "chèque de virement" ;
+
+Soit par inscription à un compte bancaire. Dans ce cas, le chèque reçoit un barrement spécial dans les conditions prévues à
+l'article L. 105.
 
 **Nota:**
 
-[*(Abrogé par le décret n° 65-192 du 8 mars 1965)*]
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -14150,30 +14164,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
 
+	**Cite**:
 
-###### Article D498
-
-**Nota:**
-
-[*(Abrogé par décret n° 65-192 du 8 mars 1965)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+	  - Code des postes et des communications électronique - art. L105 (Ab)
 
 
 ###### Article D503
@@ -14205,6 +14202,56 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Cite**:
 
 	  - Code des postes et des communications électroniques L100 al. 2
+
+
+###### Article D505
+
+Lorsque les mentions figurant sur le chèque postal sont incomplètes ou illisibles ou encore lorsque le chèque contient des
+ratures, surcharges, grattages ou lavages, l'administration des postes et communications électroniques est en droit de
+retarder ou de ne pas exécuter l'opération.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+
+###### Article D507
+
+A l'exclusion des chèques postaux barrés présentés en chambres de compensation des banquiers, les chèques postaux doivent
+être adressés sous pli fermé non affranchi ou remis directement aux centres de chèques postaux intéressés.
+
+Sous réserve qu'ils ne soient pas barrés et qu'ils ne comportent pas l'indication du numéro du compte courant postal du
+bénéficiaire, les chèques postaux peuvent être payés aux guichets spéciaux de paiements à vue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
 
 
 ###### Article D508
@@ -14263,6 +14310,70 @@ renseignement, le nom du mari.
 	  - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
 
 
+###### Article D511
+
+Le chef de centre de chèques postaux poursuit, auprès de la personne qui a présenté le chèque postal au paiement, le
+remboursement des émoluments et droits fiscaux qu'il a versés au greffe pour l'inscription du certificat de non-paiement.
+Lorsque le présentateur du chèque est titulaire d'un compte courant postal, le montant desdits émoluments et droits fiscaux
+est prélevé sur l'avoir disponible au compte. Si, faute d'avoir suffisant, ce prélévement n'est pas possible, ou s'il ne peut
+être effectué que partiellement, ou encore si, n'étant pas titulaire d'un compte courant postal, l'intéressé refuse de
+rembourser les frais avancés par le chef de centre de chèques postaux, le recouvrement des sommes dues ou restant dues est
+poursuivi dans les formes et conditions prévues aux articles 85 et suivants du décret n° 62-1587 du 29 décembre 1962.
+
+**Nota:**
+
+[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
+décret n° 91-70 du 17 janvier 1991. *]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 85 (M)
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
+
+
+###### Article D519
+
+Lorsque le solde d'un compte clôturé est égal ou inférieur à la taxe éventuellement applicable au chèque postal de
+remboursement, ce solde est acquis au budget annexe des postes et communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+
 ###### Article D520
 
 Trois mois avant l'échéance du délai légal de prescription fixé par l'article L. 109, alinéa 1er, l'administration des postes
@@ -14289,6 +14400,30 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Cite**:
 
 	  - Code des postes et des communications électroniques L109 al. 1
+
+
+###### Article D521
+
+Les correspondances et les diverses pièces adressées aux centres de chèques postaux et expédiées par lesdits centres sont
+exonérées de la taxe d'affranchissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
 
 
 ###### Article D522
@@ -14349,6 +14484,54 @@ dépôt de garantie dont le montant est fixé par décret.
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D491
+
+Les demandes d'ouverture de comptes courants postaux sont remises au chef d'établissement, receveur-distributeur ou gérant du
+bureau de poste qui dessert le domicile du demandeur. Elles peuvent également être déposées, pour être transmises à ce
+bureau, dans un établissement postal quelconque ou remises au préposé, en cours de tournée, dans les cas et conditions prévus
+par les règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D491-1
+
+Les titulaires de comptes courants postaux peuvent accréditer auprès des centres de chèques postaux détenteurs de leurs
+comptes une ou plusieurs personnes. Les procurations données à cet effet sont établies sur papier libre ; elles peuvent être
+générales ou limitées à une ou certaines opérations. Les spécimens de signature du titulaire ou de ses mandataires sont
+également recueillis sur papier libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
 ###### Article D493
 
 Aucune limite n'est fixée pour l'actif des comptes courants postaux.
@@ -14393,6 +14576,35 @@ l'application des régimes particuliers.
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D497
+
+Dans le régime intérieur français, tous les bureaux de poste de plein exercice, les établissements de receveur-distributeur
+et les autres établissements secondaires participent, dans les conditions et dans les limites fixées par les règlements en
+vigueur :
+
+A l'émission des mandats de versement aux comptes courants postaux ;
+
+Au paiement des mandats émis par les centres de chèques postaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
 ###### Article D502
 
 Le titulaire de compte courant postal peut, au moyen d'un seul chèque, assigner des paiements ou des virements au profit d'un
@@ -14408,6 +14620,37 @@ fiche de virement par bénéficiaire et un bordereau récapitulatif.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D504
+
+Le chèque au porteur est payable à vue au guichet des établissements spécialement désignés à cet effet. Le paiement est
+effectué sans acquit et sans justification d'identité.
+
+Tout chèque au porteur peut être, avant paiement, transformé soit en chèque d'assignation par l'inscription sur le titre du
+nom et de l'adresse du bénéficiaire, soit en chèque de virement par l'indication sur le titre du nom et du numéro du compte
+courant postal du bénéficiaire.
+
+Les chèques barrés au porteur sont payables dans les mêmes conditions que les chèques postaux barrés portant désignation du
+bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
 
 	**Abrogé par**:
 
