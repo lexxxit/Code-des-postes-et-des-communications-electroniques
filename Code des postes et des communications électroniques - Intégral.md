@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1975-08-08
+Version Consolidée au 1975-10-05
 
 # Partie législative
 
@@ -5206,6 +5206,30 @@ lettre recommandée avec demande d'avis de réception adressée au ministre des 
 	**Abrogé par**:
 
 	  - Décret n°92-116 du 4 février 1992 - art. 2 (V) JORF 6 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+## LIVRE III : Les services financiers
+
+### TITRE Ier : Chèques postaux.
+
+###### Article R52-10
+
+Les dispositions réglementaires fixant les conditions d'application de la loi n° 72-10 du 3 janvier 1972 relative à la
+prévention et à la répression des infractions en matière de chèques sont applicables aux centres de chèques postaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°72-10 1972-01-03
+
+	**Créé par**:
+
+	  - Décret n°75-903 1975-10-03 art. 43 JORF 5 octobre 1975 rectificatif JORF 29 novembre 1975 et JORF 7 décembre 1975
 
 	**Codifié par**:
 
