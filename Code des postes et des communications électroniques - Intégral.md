@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1972-01-05
+Version Consolidée au 1972-02-16
 
 # Partie législative
 
@@ -2694,6 +2694,39 @@ du titulaire et des personnes autorisées à tirer des chèques sont également 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
+###### Article L102
+
+Dans les cas et conditions déterminés par décret, la non-exécution d'un chèque postal présenté au paiement par le
+bénéficiaire est constatée par un certificat de non-paiement, établi immédiatement par le centre de chèque postaux et qui
+sera transmis au bénéficiaire dans les quatre jours ouvrables qui suivent le jour de la réception du chèque par ledit centre
+[*délai*].
+
+Ce certificat permet au bénéficiaire d'exercer son recours contre le tireur. Ce délai peut être modifié par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L172-3
+	  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
+
+	**Abrogé par**:
+
+	  - Loi n°91-1382 du 30 décembre 1991 - art. 20 (V) JORF 1er janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°72-120 1972-02-14 art. 1 JORF 16 février 1972
+
+
 ###### Article L103
 
 Le bénéficiaire d'un chèque postal doit donner avis du défaut de paiement au tireur dans [*délai*] les quatre jours ouvrables
@@ -2874,6 +2907,47 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L101
+
+Lorsque le chèque postal est présenté au paiement par le bénéficiaire, celui-ci ne peut refuser un paiement partiel.
+
+Si la provision est inférieure au montant du chèque, le bénéficiaire a le droit d'en demander le paiement jusqu'à concurrence
+de la provision, après déduction de la taxe applicable à l'opération effectuée.
+
+En cas de paiement partiel, le centre de chèques postaux, détenteur du compte du tireur, peut exiger que la mention de ce
+paiement soit faite sur le chèque et qu'une quittance lui en soit donnée.
+
+**Nota:**
+
+NOTA : Loi 2005-516 du 20 mai 2005 art. 16 V 2 : Les dispositions du IV de l'article 16 entrent en vigueur à la date du
+transfert prévu au 1 du II de l'article 16, au plus tard le 1er janvier 2006 (art. 28).
+
+NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est fixée au 31 décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L172-2
+	  - Loi n°55-1551 du 28 novembre 1955 - art. 1, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°72-120 1972-02-14 art. 1 JORF 16 février 1972
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
 
 
 ###### Article L101-1
@@ -15342,6 +15416,45 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D509
+
+Le chèque postal qui n'a pas été suivi d'effet pour une cause quelconque ne peut donner lieu à protêt. Il est renvoyé ou
+rendu au tireur ou à la personne qui l'a transmis ou présenté au paiement.
+
+Lorsqu'il s'agit d'un chèque postal présenté au paiement par le bénéficiaire et demeuré impayé soit pour défaut ou
+insuffisance de provision, soit parce que le tireur a fait défense de payer pour une cause autre que la perte ou le vol du
+chèque, le règlement judiciaire ou la liquidation des biens du porteur, soit parce que la signature de tirage n'est pas
+conforme au spécimen détenu par le centre, le défaut de paiement est notifié, par le centre intéressé au présentateur, sur la
+demande expresse de celui-ci, au moyen de la remise ou de l'envoi d'un certificat de non-paiement.
+
+Le certificat, établi sur papier libre, est daté et signé par le chef de centre de chèques postaux qui tient le compte du
+tireur, ou par son représentant. Il énonce les causes de non-paiement et, en cas de paiement partiel, le montant de la somme
+qui a été payée.
+
+**Nota:**
+
+[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
+décret n° 91-70 du 17 janvier 1991. *]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°72-121 1972-02-14 art. 2 JORF 16 février 1972
+
+	**Abrogé par**:
+
+	  - Décret n°92-456 du 22 mai 1992 - art. 45 (Ab) JORF 23 mai 1992
 
 
 ###### Article D510
