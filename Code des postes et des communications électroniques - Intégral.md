@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1966-12-28
+Version Consolidée au 1967-01-08
 
 # Partie législative
 
@@ -7957,6 +7957,62 @@ objet par le destinataire.
 ### TITRE IV : Franchise postale et dispense d'affranchissement
 
 #### CHAPITRE Ier : Courrier officiel.
+
+###### Article D58
+
+Est admise à circuler en franchise par la poste, dans les conditions fixées ci-après, la correspondance exclusivement
+relative au service de l'Etat, échangée entre fonctionnaires chefs d'un service d'une administration de l'Etat, ainsi que la
+correspondance de même nature adressée par ces fonctionnaires aux chefs de service des établissements publics à caractère
+administratif.
+
+La liste de ces bénéficiaires est établie par arrêté du ministre des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-24 1967-01-02 art. 1 JORF 8 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
+
+###### Article D59
+
+Les dérogations aux dispositions de l'article D. 58 ainsi que les exceptions prévues dans le présent chapitre sont fixées par
+arrêté conjoint du ministre des postes et télécommunications et du ministre des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D58
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-24 1967-01-02 art. 1 JORF 8 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+
 
 ###### Article D60
 
