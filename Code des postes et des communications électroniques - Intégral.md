@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-03-20
+Version Consolidée au 1997-03-21
 
 # Partie législative
 
@@ -7483,6 +7483,212 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Code des postes et des communications électronique - art. L34-3 (M)
 	  - Code des postes et des communications électronique - art. L34-4 (M)
 	  - Code des postes et des communications électroniques L34-3, R9-1, L34-4, R9-2
+
+
+##### SECTION 4 : De l'interconnexion.
+
+###### Article R11-1
+
+Le délai dans lequel l'Autorité de régulation des télécommunications doit se prononcer sur les différends mentionnés au I de
+l'article L. 36-8 est fixé à trois mois, à compter de sa saisine par l'une des parties.
+
+Toutefois, en vue de lui permettre de procéder ou faire procéder à toutes investigations ou expertises nécessaires,
+l'Autorité de régulation des télécommunications peut porter ce délai à six mois. La décision de l'Autorité de régulation des
+télécommunications est notifiée aux parties par lettre recommandée avec accusé de réception.
+
+L'Autorité de régulation des télécommunications donne à chacune des parties connaissance des observations et pièces déposées
+par les autres parties et fixe s'il y a lieu le délai dans lequel il devra y être répondu. Elle peut entendre les parties.
+
+Une demande de mesures conservatoires ne peut être formée qu'accessoirement à une saisine au fond de l'Autorité de régulation
+des télécommunications. Elle peut être présentée à tout moment de la procédure et doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 2 () JORF 19 mars 1997
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L36-8 (M)
+
+
+###### Article R11-2
+
+Par dérogation aux dispositions du titre VI du livre II du nouveau code de procédure civile, les recours contre les décisions
+de l'Autorité de régulation des télécommunications prévues à l'article L. 36-8 sont formés, instruits et jugés conformément
+aux dispositions suivantes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L36-8 (M)
+
+
+###### Article R11-3
+
+Le recours est formé par déclaration écrite déposée en quadruple exemplaire au greffe de la cour d'appel de Paris contre
+récépissé. A peine d'irrecevabilité prononcée d'office, la déclaration précise l'objet du recours et contient un exposé
+sommaire des moyens. L'exposé complet des moyens doit, sous peine de la même sanction, être déposé au greffe dans le mois qui
+suit le dépôt de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
+
+
+###### Article R11-4
+
+Dès l'enregistrement du recours, le greffe de la cour d'appel transmet une copie de la déclaration et des pièces qui y sont
+jointes aux parties intéressées, ainsi qu'à l'Autorité de régulation des télécommunications, par lettre recommandée avec
+demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-5
+
+La cour d'appel statue après que les parties et l'Autorité de régulation des télécommunications ont été mises à même de
+présenter leurs observations.
+
+Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties à l'instance et, si elle le
+juge utile, l'Autorité de régulation des télécommunications doivent se communiquer leurs observations écrites et en déposer
+copie au greffe de la cour. Il fixe également la date des débats.
+
+Le greffe notifie ces délais aux parties et à l'Autorité de régulation des télécommunications et les convoque à l'audience
+prévue pour les débats par lettre recommandée avec demande d'avis de réception.
+
+L'Autorité de régulation des télécommunications et les parties peuvent prendre connaissance de l'ensemble des pièces de la
+procédure au greffe de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-6
+
+Les demandes de sursis à exécution présentées au premier président de la cour d'appel de Paris sont formées par simple
+requête déposée au greffe. A peine d'irrecevabilité, la requête contient l'exposé des moyens invoqués et précise la date à
+laquelle a été formé le recours contre la décision dont le sursis à exécution est demandé.
+
+Le premier président fixe par ordonnance, dès le dépôt de la requête, la date de l'audience à laquelle la demande de sursis
+sera examinée.
+
+Le demandeur au sursis dénonce à l'autre partie et à l'Autorité de régulation des télécommunications une copie de la requête
+et de l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-7
+
+Lorsque le recours porte sur les mesures conservatoires mentionnées au I de l'article L. 36-8, le premier président fixe dès
+l'enregistrement du recours le jour auquel l'affaire sera appelée par priorité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L36-8 (M)
+
+
+###### Article R11-8
+
+Les parties et l'Autorité de régulation des télécommunications ont la faculté de se faire assister par un avocat ou
+représenter par un avoué près la cour d'appel de Paris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
+
+
+###### Article R11-9
+
+Les décisions de la cour d'appel de Paris ou de son premier président sont notifiées par le greffe par lettre recommandée
+avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-264 du 19 mars 1997 - art. 1 () JORF 21 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R1-2-13 (M)
 
 
 ### TITRE VI : Services radioélectriques
