@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1974-05-21
+Version Consolidée au 1975-01-04
 
 # Partie législative
 
@@ -2790,6 +2790,39 @@ quinzaine de l'établissement dudit certificat.
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L103-1
+
+La signification au tireur du certificat de non-paiement établi pour défaut ou insuffisance de provision, faite après
+nouvelle présentation du chèque par ministère d'huissier, vaut commandement de payer.
+
+S'il n'y a pas paiement dans un délai de vingt jours à compter de la signification prévue à l'alinéa précédent
+[*computation*], l'huissier peut, sans autre procédure, saisir les biens meubles du tireur.
+
+A défaut de paiement à l'expiration d'un délai d'un mois après la saisie, le bénéficiaire du chèque peut faire procéder à la
+vente des objets saisis, sauf au débiteur à saisir la juridiction compétente en cas de difficulté.
+
+Les frais résultant de la nouvelle présentation du chèque par ministère d'huissier prévue à l'alinéa 1er sont à la charge du
+tireur. Si la provision disponible est suffisante, ces frais sont payés par le tiré en même temps que le montant du chèque.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°72-10 1972-01-03 art. 10 JORF 5 janvier 1972
+
+	**Modifié par**:
+
+	  - Loi n°75-4 1975-01-03 art. 6 JORF 4 janvier 1975 rectificatif JORF 16 novembre 1975
+
+	**Abrogé par**:
+
+	  - Loi n°91-1382 du 30 décembre 1991 - art. 20 (V) JORF 1er janvier 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ###### Article L107
