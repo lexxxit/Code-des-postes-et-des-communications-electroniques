@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1984-05-01
+Version Consolidée au 1984-10-25
 
 # Partie législative
 
@@ -1076,6 +1076,67 @@ L'administration peut toujours exiger que le demandeur établisse son identité.
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
+###### Article L35-1
+
+Toute personne obtient, sur sa demande, l'abonnement au téléphone aux conditions prévues par le présent code.
+
+L'obtention de l'abonnement peut être subordonnée au paiement préalable à l'administration de la somme dont le demandeur
+serait redevable au titre d'autres abonnements souscrits auprès de l'administration des postes et télécommunications.
+
+Le propriétaire d'un immeuble ou son mandataire ne peuvent s'opposer à l'installation du téléphone demandée par son locataire
+ou occupant de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-939 1984-10-23 art. 1 JORF 25 octobre 1984
+
+	**Cité par**:
+
+	  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
+	  - Arrêté du 18 novembre 2009 - art. 1 (V)
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 14 février 2012 - art. (V)
+	  - Arrêté du 14 février 2012 - art. 1 (V)
+	  - Arrêté du 6 décembre 2012 - art. (V)
+	  - Arrêté du 6 décembre 2012 - art. 1 (V)
+	  - Arrêté du 31 octobre 2013 - art. (V)
+	  - Arrêté du 31 octobre 2013 - art. 1 (V)
+	  - Décret n°2013-1331 du 31 décembre 2013 (V)
+	  - Décret n°2016-1870 du 26 décembre 2016 (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. L135 (V)
+	  - Code des postes et des communications électroni... - art. L35 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L35-2-1 (M)
+	  - Code des postes et des communications électroni... - art. L35-3 (M)
+	  - Code des postes et des communications électroni... - art. L35-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-30 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-10 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-11 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-12 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-13 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-3 (Ab)
+	  - Code des postes et des communications électroni... - art. R20-30-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+	  - Code des postes et des communications électroni... - art. R20-31 (V)
+	  - Code des postes et des communications électroni... - art. R20-33 (V)
+	  - Code des postes et des communications électroni... - art. R20-38 (V)
+	  - Code des postes et des communications électronique - art. R10-8 (MMN)
+	  - Code des postes et des communications électronique - art. R20-36 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
 ###### Article L36
 
 Le service de la correspondance privée peut être suspendu par le ministre des postes et télécommunications, soit
@@ -1101,17 +1162,26 @@ partiellement, soit totalement, sur une partie ou sur l'ensemble du réseau des 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
-###### Article L38
+###### Article L37
 
-**Nota:**
+La responsabilité de l'Etat peut être engagée à raison des services de communication sur le réseau des télécommunications en
+cas de faute lourde.
 
-NOTA :(Abrogé par la loi n° 84-939 du 23 octobre 1984, art. 3-I).
+Il en est de même en ce qui concerne les erreurs ou omissions qui pourraient se produire dans la rédaction, la distribution
+ou la transmission des listes d'abonnés.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Anciens textes**:
 
-	  - Loi n°84-939 1984-10-23 art. 3 JORF 25 octobre 1984
+	  - Code des postes, télégraphes et téléphones L76
+	  - Décret n°1929-09-06
+	  - Loi n°1850-11-29 art. 6
+	  - Loi n°1931-03-31
+
+	**Modifié par**:
+
+	  - Loi n°84-939 1984-10-23 art. 2 JORF 25 octobre 1984
 
 	**Codifié par**:
 
@@ -1120,24 +1190,6 @@ NOTA :(Abrogé par la loi n° 84-939 du 23 octobre 1984, art. 3-I).
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. D301 (V)
-	  - Code des postes et des communications électroni... - art. D307 (V)
-	  - Code des postes et des communications électroni... - art. D310 (V)
-	  - Code des postes et des communications électroni... - art. D311 (V)
-	  - Code des postes et des communications électroni... - art. D313 (Ab)
-	  - Code des postes et des communications électroni... - art. L33-1 (M)
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
-	  - Code des postes et des communications électroni... - art. L37-1 (V)
-	  - Code des postes et des communications électroni... - art. L37-2 (V)
-	  - Code des postes et des communications électroni... - art. L38-2 (V)
-	  - Code des postes et des communications électronique - art. D305 (V)
-	  - Code des postes et des communications électronique - art. D309 (V)
-	  - Code des postes et des communications électronique - art. D312 (V)
-	  - Code des postes et des communications électronique - art. D99-6 (V)
-	  - Code des postes et des communications électronique - art. L38-1 (M)
 
 
 #### CHAPITRE II : Dispositions pénales.
@@ -2084,6 +2136,34 @@ Si l'objet est mobile et n'est point placé à demeure, un arrêté du maire suf
 	  - Décret-loi 1851-12-27 art. 9
 
 
+###### Article L65-1
+
+Les propriétaires, fermiers, ou leurs représentants, riverains de la voie publique, sont tenus d'élaguer les plantations
+gênant la construction ou compromettant le fonctionnement des lignes de télécommunications empruntant le domaine public
+[*servitude dite administrative*]. Après mise en demeure d'effectuer les travaux adressée par le représentant de l'Etat dans
+le département, et à défaut de leur exécution dans un délai qui ne peut être inférieur à quinze jours, les opérations
+d'élagage peuvent être exécutées d'office par l'administration, aux frais des propriétaires, fermiers, ou leurs
+représentants, riverains de la voie publique.
+
+Dans le cas où le domaine public emprunté par les lignes appartient à une collectivité publique autre que l'Etat, le
+représentant de l'Etat dans le département demande l'avis de cette collectivité un mois au moins [*délai*] avant de procéder
+à la mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-939 1984-10-23 art. 4 JORF 25 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. L95 (T)
+
+
 #### CHAPITRE II : Dispositions pénales.
 
 ###### Article L67
@@ -2781,6 +2861,35 @@ télécommunications.
 
 	  - Code des postes, télégraphes et téléphones L162
 	  - Décret n°1926-12-28 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L94
+
+Les informations de toute nature transmises par les stations radio-électriques privées d'émission sont soumises au contrôle
+de l'Etat dans les conditions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L164
+	  - Décret n°1926-12-28 art. 25
+
+	**Modifié par**:
+
+	  - Loi n°84-939 1984-10-23 art. 3 JORF 25 octobre 1984
+
+	**Abrogé par**:
+
+	  - Loi n°90-1170 du 29 décembre 1990 - art. 10 () JORF 30 décembre 1990
 
 	**Codifié par**:
 
@@ -4157,6 +4266,59 @@ de la loi de finances pour 1991, n° 90-1168 du 29 décembre 1990, à compter du
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+### TITRE II : Dispositions budgétaires
+
+#### CHAPITRE V : Dispositions particulières.
+
+###### Article L126
+
+Les dispositions législatives qui régissent le recouvrement et le contentieux du recouvrement des contributions indirectes
+sont applicables au recouvrement de toutes les recettes propres au budget annexe des postes et télécommunications qui sont
+perçues en application des tarifs légalement édictés.
+
+Le directeur départemental des postes et télécommunications exerce les attributions conférées au directeur départemental des
+impôts par les dispositions législatives visées ci-dessus (1).
+
+La prescription est acquise au profit de l'Etat pour toutes demandes en restitution présentées après un délai d'un an à
+compter du jour de paiement *computation*.
+
+La prescription est acquise au profit du redevable pour les sommes que l'administration n'a pas réclamées dans un délai d'un
+an courant à compter de la date de leur exigibilité.
+
+**Nota:**
+
+*(1) NOTA : Décret n° 72-682 du 18 juillet 1972 article 1er :
+
+"Le deuxième alinéa de l'article L. 126 du code des postes et télécommunications est abrogé en tant qu'il détermine le grade
+et la compétence territoriale du fonctionnaire des postes et télécommunications habilité à exercer les attributions définies
+audit alinéa."
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L228-1
+	  - Loi n°1926-04-29 art. 92 al. 1, 2, 3 et 4
+
+	**Modifié par**:
+
+	  - Décret n°72-682 1972-07-18 art. 1 JORF 23 juillet 1972
+	  - Loi n°66-948 1966-12-22 art. 35 JORF 23 décembre 1966
+	  - Loi n°84-939 1984-10-23 art. 5 JORF 25 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L11 (V)
 
 
 ### TITRE IV : Dispositions financières
