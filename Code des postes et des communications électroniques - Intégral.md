@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1962-03-23
+Version Consolidée au 1962-11-16
 
 # Partie législative
 
@@ -8212,6 +8212,63 @@ postaux en vigueur.
 
 ### TITRE V : Colis postaux.
 
+###### Article D81
+
+Le ministre des postes et des communications électroniques est chargé de l'organisation et du contrôle du service des colis
+postaux en France et dans les départements d'outre-mer. Dans la France continentale et les îles du littoral, le service des
+colis postaux est limité aux échanges avec la Corse et les départements et territoires d'outre-mer ainsi qu'aux relations
+internationales.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+
+
+###### Article D83
+
+Les conditions d'exécution du service par les transporteurs terrestres, maritimes et aériens et les responsabilités qu'ils
+encourent sont fixées par les cahiers des charges, les textes sur la coordination des transports ou des conventions
+spéciales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Codifié par**:
+
+	  - Décret n°62-275 du 12 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D86 (Ab)
+
+
 ###### Article D84
 
 **Nota:**
@@ -8235,6 +8292,85 @@ postaux en vigueur.
 	**Abrogé par**:
 
 	  - Décret n°74-506 1974-05-17 art. 1 JORF 21 mai 1974
+
+
+###### Article D85
+
+Les taxes perçues pour les colis postaux échangés dans les relations visées à l'article D. 82 comportent, en application des
+stipulations des arrangements de l'Union postale universelle concernant les colis postaux et les envois contre
+remboursement :
+
+a) Les quotes-parts territoriales revenant au budget annexe des postes et communications électroniques ou aux transporteurs
+français ;
+
+b) Les quotes-parts de transport maritime ou aérien ;
+
+c) Les quotes-parts de transit dues aux administrations ou services intermédiaires ;
+
+d) Les quotes-parts territoriales attribuées aux administrations ou services de destination ;
+
+e) Les taxes accessoires prévues par les arrangements précités.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L46
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D82 (M)
+
+
+###### Article D86
+
+L'étendue du service, le montant des indemnités, les quotes-parts territoriales, maritimes, aériennes et de transit
+françaises ainsi que toute taxe principale ou accessoire revenant au budget annexe des postes et communications électroniques
+ou aux transporteurs français sont fixés par décision du ministre des postes et des communications électroniques compte tenu,
+le cas échéant, des dispositions des cahiers des charges, des textes sur la coordination des transports ou des conventions
+spéciales visées à l'article D. 83.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D83 (V)
 
 
 ###### Article D88
