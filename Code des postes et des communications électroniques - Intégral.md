@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1977-10-11
+Version Consolidée au 1977-11-09
 
 # Partie législative
 
@@ -4342,6 +4342,72 @@ applicable en vertu des textes en vigueur à la location des liaisons télégrap
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones R47
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R*18-1
+
+Les dispositions de l'alinéa 2 de l'article R. 15 s'appliquent en outre aux redevances relatives à la transmission par le
+procédé du fac-similé des quotidiens et des publications qui leur sont assimilées au sens de l'article 2-I de la loi susvisée
+du 29 décembre 1976, en vue de leur impression dans un ou plusieurs centres différents du lieu d'édition.
+
+Le taux et les modalités de la réduction de tarif sont fixés par décret contresigné par le ministre de l'économie et des
+finances, le ministre chargé des postes et télécommunications et le ministre chargé de l'information.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 5 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R15 al. 2
+	  - Loi n°76-1233 1976-12-29 art. 2
+
+	**Créé par**:
+
+	  - Décret n°77-1221 1977-11-08 art. 1 JORF 9 novembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R*19
+
+La liste des journaux et agences appelés à bénéficier des dispositions des articles R. 15 et R. 18, ainsi que la liste des
+bénéficiaires des dispositions de l'article R.18-1, est arrêtée par une commission mixte.
+
+Cette commission arrête également, pour chaque période de deux mois, compte tenu des déclarations qui lui sont soumises en
+vertu de l'article R. 17 et dont elle peut contrôler l'exactitude par tous les moyens appropriés, les sommes correspondant
+pour chaque journal ou agence à la réduction de tarif visée à l'article R. 16. Ces sommes sont inscrites au crédit du compte
+téléphonique de chaque bénéficiaire.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 5 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R15, R16, R17, R18 et R18-1
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R48
+
+	**Modifié par**:
+
+	  - Décret n°77-1221 1977-11-08 art. 2 JORF 9 novembre 1977
 
 	**Codifié par**:
 
