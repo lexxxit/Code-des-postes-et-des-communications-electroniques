@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2000-09-20
+Version Consolidée au 2000-12-31
 
 # Partie législative
 
@@ -2865,6 +2865,13 @@ France Télécom assure la fourniture de tous les services obligatoires.
 
 ###### Article L35-6
 
+Les opérateurs autorisés en application des articles L. 33-1 et L. 34-1 mettent en place et assurent la mise en oeuvre des
+moyens nécessaires aux interceptions justifiées par les nécessités de la sécurité publique. [Dispositions déclarées non
+conformes à la Constitution par décision du Conseil constitutionnel n° 2000-441 DC du 28 décembre 2000.]
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-441 DC du 28 décembre
+2000.]
+
 Les prescriptions exigées par la défense et la sécurité publique et les garanties d'une juste rémunération des prestations
 assurées à ce titre, à la demande de l'Etat, par les opérateurs autorisés en application des articles L. 33-1 et L. 34-1,
 sont déterminées par leur cahier des charges.
@@ -2880,9 +2887,9 @@ les modalités de réalisation ainsi que de financement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
+	  - Loi - art. 48 (V) JORF 31 décembre 2000
 
 	**Codifié par**:
 
