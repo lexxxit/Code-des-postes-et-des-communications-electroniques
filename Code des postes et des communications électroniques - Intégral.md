@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1972-07-23
+Version Consolidée au 1972-08-31
 
 # Partie législative
 
@@ -8896,33 +8896,6 @@ télécommunications et du ministre des finances.
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 
-#### CHAPITRE II : Correspondance des militaires.
-
-###### Article D75
-
-**Nota:**
-
-[*(Abrogé par l'article 1er du décret n° 72-799 du 30 août 1972)*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L40 et L41
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°72-799 1972-08-30 art. 1 JORF 31 août 1972
-
-
 #### CHAPITRE III : Sécurité sociale et mutualité sociale agricole.
 
 ###### Article D77
@@ -8990,29 +8963,6 @@ postaux en vigueur.
 	**Abrogé par**:
 
 	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-#### CHAPITRE V : Radiodiffusion et télévision.
-
-###### Article D80
-
-**Nota:**
-
-[*(Abrogé par l'article 1er du décret n° 72-800 du 30 août 1972)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°72-800 1972-08-30 art. 1 JORF 31 août 1972
 
 
 ### TITRE V : Colis postaux.
