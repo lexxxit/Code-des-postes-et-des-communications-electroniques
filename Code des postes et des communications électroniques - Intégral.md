@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1999-10-31
+Version Consolidée au 2000-09-20
 
 # Partie législative
 
@@ -16436,6 +16436,239 @@ fonctionnement de l'Autorité ou à l'exécution de ses décisions, au directeur
 
 ##### Section 2 : Réseaux indépendants
 
+###### Article D98-3
+
+Les demandes d'autorisation pour l'établissement de réseaux indépendants de communications électroniques sont adressées à
+l'Autorité de régulation des télécommunications en un exemplaire. Les demandes sont libellées en langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D98-8 (M)
+
+
+###### Article D98-4
+
+Toute demande d'autorisation contient les éléments suivants :
+
+1° Les informations relatives au demandeur :
+
+a) L'identité du demandeur (dénomination, siège social, immatriculation au registre du commerce et des sociétés ou
+équivalent, statuts) ;
+
+b) La composition de son actionnariat ;
+
+c) La description des activités existantes, notamment dans le domaine des communications électroniques ;
+
+d) Le cas échéant, les autorisations dont le demandeur est déjà titulaire et les sanctions qu'il a déjà subies, en
+application du code des postes et communications électroniques ;
+
+2° La description du projet faisant l'objet de la demande :
+
+a) La nature du réseau ;
+
+b) Les caractéristiques techniques du réseau, comprenant :
+
+- un schéma descriptif de l'architecture du réseau ;
+
+- les supports de transmission et de commutation ;
+
+- les éléments permettant d'apprécier la conformité des équipements aux exigences essentielles ;
+
+- le calendrier de déploiement du réseau ;
+
+- lorsqu'il s'agit d'un réseau radioélectrique, la liste et les caractéristiques des stations ;
+
+- lorsqu'il s'agit d'un réseau utilisant des capacités de satellites, les fréquences dont l'utilisation est envisagée, les
+caractéristiques du secteur spatial et de l'antenne et le descriptif des procédures d'urgence et de sécurité utilisées pour
+l'exploitation du réseau ;
+
+c) La destination du réseau : usage privé ou usage partagé et, dans ce dernier cas, la composition du ou des groupes fermés
+d'utilisateurs, et les conditions et modalités d'accès au service du ou des groupes fermés d'utilisateurs ;
+
+d) L'objet du réseau et la description du service fourni ;
+
+e) Le cas échéant, les connexions à d'autres réseaux, notamment les réseaux ouverts au public. La demande précise alors
+l'implantation et les caractéristiques des points de connexion et les moyens mis en place pour que cette connexion ne
+permette pas l'échange de communications entre des personnes autres que celles auxquelles l'usage du réseau est réservé.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+
+###### Article D98-5
+
+Dès qu'il reçoit la demande d'autorisation, le président de l'Autorité de régulation des télécommunications en accuse
+réception. Le cas échéant, dans un délai de dix jours ouvrables à compter de la réception de la demande, le président de
+l'Autorité informe le demandeur, par lettre recommandée avec demande d'avis de réception, que la demande est incomplète ou
+comporte des pièces dont la traduction est requise ; il invite alors le demandeur à fournir les pièces complémentaires et en
+accuse réception. Ce délai est porté à vingt jours lorsque la demande concerne un réseau mentionné au deuxième alinéa de
+l'article D. 98-7. Le délai d'instruction court à compter de la réception de la demande complète par l'Autorité de régulation
+des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 2013 - art. (VD)
+	  - Arrêté du 31 décembre 2013 - art. 3 (V)
+	  - Décret n°2017-428 du 28 mars 2017 - art. 1
+	  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D98-7 (M)
+
+
+###### Article D98-6
+
+Dans le cadre de l'instruction de la demande, et dans la mesure nécessaire pour établir que la demande d'autorisation répond
+aux conditions prévues par le code des postes et des communications électroniques, le président de l'Autorité de régulation
+des télécommunications peut inviter le demandeur à apporter des précisions sur les éléments que comporte la demande.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+
+###### Article D98-7
+
+A compter de la réception de la demande complète, l'Autorité de régulation des télécommunications délivre ou refuse les
+autorisations dans un délai de six semaines.
+
+Ce délai est porté à quatre mois lorsque la demande concerne :
+
+- un réseau du service fixe qui utilise des fréquences assignées à son exploitant ;
+
+- un réseau du service mobile à usage partagé ;
+
+- un réseau du service mobile à usage privé utilisant des bandes de fréquences exclusives ;
+
+- un réseau utilisant des capacités de satellites, à l'exception de ceux constitués de stations terriennes pour liaisons
+vidéo temporaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 2012 - art. 1 (V)
+	  - Code des postes et des communications électronique - art. D98-5 (M)
+	  - Code des postes et des communications électronique - art. D98-8 (M)
+
+
+###### Article D98-8
+
+Le nombre des autorisations peut être limité en raison des contraintes techniques inhérentes à la disponibilité des
+fréquences. Dans ce cas, les dispositions des articles D. 98-3 et D. 98-7 ne s'appliquent pas. L'Autorité de régulation des
+télécommunications délivre les autorisations à l'issue d'un appel à candidatures dont elle fixe les modalités, dans les
+conditions prévues à l'article L. 36-7, et notamment le délai d'instruction, qui ne peut excéder huit mois à compter de la
+réception des dossiers de candidatures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 1er février 2010 - art. 3 (V)
+	  - Arrêté du 27 février 2017 - art. 1 (V)
+	  - Code des postes et des communications électroni... - art. D98-8-1 (VD)
+	  - Code des postes et des communications électroni... - art. D98-8-3 (VD)
+	  - Code des postes et des communications électroni... - art. D98-8-4 (VD)
+	  - Code des postes et des communications électroni... - art. D98-8-6 (VD)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D98-3 (M)
+	  - Code des postes et des communications électronique - art. D98-7 (M)
+	  - Code des postes et des communications électronique - art. L36-7 (M)
+
+
+###### Article D98-9
+
+Les autorisations sont délivrées et les refus notifiés aux demandeurs dans les délais mentionnés aux articles D. 98-7 et D.
+98-8 sans préjudice de tout accord international applicable en matière de coordination internationale des fréquences et des
+satellites.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D98-7, D98-8
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 1 () JORF 20 septembre 2000
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+
 ###### Article D99
 
 En cas de nécessité imposée par la sécurité publique ou la défense, l'exploitant d'un réseau indépendant se conforme aux
@@ -16466,6 +16699,23 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Cite**:
 
 	  - Code des postes et des communications électronique - art. L32-1 (M)
+
+
+###### Article D99-1
+
+Lorsqu'un réseau indépendant est connecté à un réseau ouvert au public, l'Autorité de régulation des télécommunications peut
+à tout moment demander à l'exploitant autorisé de justifier des moyens mis en place pour que cette connexion ne permette pas
+l'échange de communications entre des personnes autres que celles auxquelles l'usage du réseau est réservé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°2000-902 du 13 septembre 2000 - art. 2 () JORF 20 septembre 2000
 
 
 ###### Article D99-2
@@ -21387,27 +21637,6 @@ notamment, des modes de commercialisation des services offerts.
 	**Créé par**:
 
 	  - Décret n°96-1175 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
-
-
-##### Section 2 : Réseaux indépendants.
-
-###### Article D99-1
-
-Le demandeur peut, le cas échéant, prévoir que le réseau indépendant soit connecté aux réseaux ouverts au public. Sa demande
-d'autorisation doit alors décrire les caractéristiques du réseau indépendant au regard de la connexion aux réseaux ouverts au
-public et indiquer les moyens mis en place pour que cette connexion ne permette pas l'échange de communications entre des
-personnes autres que celles auxquelles l'usage du réseau est réservé. L'Autorité de régulation des télécommunications peut à
-tout moment demander à l'exploitant autorisé de justifier des moyens mis en place à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°96-1176 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
 ##### SECTION 3 : Interconnexion
