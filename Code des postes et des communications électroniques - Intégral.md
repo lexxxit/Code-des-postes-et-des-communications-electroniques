@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1979-06-08
+Version Consolidée au 1979-06-15
 
 # Partie législative
 
@@ -9052,6 +9052,42 @@ Les taxes de toute nature dont sont passibles les objets recommandés doivent ê
 	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
+###### Article D51
+
+Dans les limites prévues par l'article R. 3 (1°), deuxième alinéa, des valeurs de toute nature, à l'exclusion de l'or et de
+l'argent, des bijoux et objets précieux, peuvent être insérées dans les lettres recommandées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R3 al. 2
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L26
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°79-466 1979-06-07 art. 2 JORF 15 juin 1979
+
+	**Cité par**:
+
+	  - Décret n°2000-376 du 28 avril 2000 - art. 1 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 9
+
+
 ###### Article D52
 
 Dans les paquets recommandés, il est permis d'insérer des matières d'or ou d'argent, autres que des pièces de monnaie ayant
@@ -9138,6 +9174,39 @@ lettre, boîte ou paquet.
 	**Abrogé par**:
 
 	  - Décret n°2013-417 du 21 mai 2013 - art. 9
+
+
+###### Article D55
+
+Les valeurs susceptibles d'être assurées moyennant déclaration préalable sont :
+
+1° Dans les lettres : les billets de banque, bons, coupons de dividendes et d'intérêts payables au porteur ainsi que les
+valeurs papiers de toute nature ;
+
+2° Dans les boîtes : les billets de banque, bons, coupons de dividendes et d'intérêts payables au porteur, les valeurs
+papiers de toute nature, les bijoux et objets précieux, les matières d'or et d'argent y compris les pièces de monnaies
+françaises ou étrangères ayant cours légal ;
+
+3° Dans les paquets : les billets de banque et autres valeurs au porteur, ainsi que les valeurs papiers de toute nature, les
+objets ayant une valeur marchande, à l'exclusion des bijoux et objets précieux, des matières d'or et d'argent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L30
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°79-466 1979-06-07 art. 3 JORF 15 juin 1979
 
 
 ###### Article D56
