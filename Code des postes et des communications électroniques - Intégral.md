@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1965-03-12
+Version Consolidée au 1965-05-26
 
 # Partie législative
 
@@ -426,6 +426,18 @@ le remboursement du droit spécial est obligatoire.
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L13-1
+
+Les réclamations concernant les objets de correspondances de toute nature ne sont recevables, quels qu'en soient l'objet et
+le motif, que dans le délai d'un an compté à partir du lendemain du jour de dépôt de l'envoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ### TITRE VI : Distribution postale
