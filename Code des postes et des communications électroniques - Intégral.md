@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1981-03-20
+Version Consolidée au 1981-10-16
 
 # Partie législative
 
@@ -10292,6 +10292,47 @@ Les mêmes dispositions sont applicables aux colis postaux reconnus contenir des
 ### TITRE VI : Distribution postale
 
 #### Chapitre Ier : Distribution à domicile.
+
+###### Article D90
+
+L'administration des postes et communications électroniques recueille les objets de correspondance dont le transport lui est
+confié et les fait distribuer tous les jours ouvrables à l'adresse indiquée par l'expéditeur.
+
+A cet effet, les immeubles construits à compter d'une date qui sera fixée par arrêté conjoint du ministre de l'équipement et
+du secrétaire d'Etat aux postes et des communications électroniques doivent comporter un équipement de boîtes aux lettres
+permettant d'assurer la sécurité des correspondances et la rapidité de la distribution.
+
+A défaut d'un tel équipement, les objets de correspondance sont mis en instance au bureau de poste de rattachement suivant
+des modalités et des délais fixés par le ministre des PTT.
+
+Des conventions peuvent, d'autre part, être conclues par l'administration pour la desserte des immeubles qui, par nature,
+situation ou affectation, justifient des conditions particulières d'exploitation.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L47
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°75-761 1975-08-07 art. 1 JORF 15 août 1975
+	  - Décret n°81-936 1981-10-09 art. 1 JORF 16 octobre 1981
+
 
 ###### Article D91
 
