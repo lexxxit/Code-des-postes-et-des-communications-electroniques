@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1970-09-15
+Version Consolidée au 1970-12-17
 
 # Partie législative
 
@@ -4865,6 +4865,88 @@ qui précèdent, il a été rendu contre le contrevenant un jugement définitif 
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+### TITRE VI : Services radioélectriques
+
+#### CHAPITRE Ier : Dispositions générales.
+
+###### Article R*52-1
+
+L'autorisation administrative prévue au premier alinéa de l'article L. 89 est délivrée par le ministre des postes et
+télécommunications, avec l'agrément du ministre d'Etat chargé de la défense nationale et du ministre de l'intérieur.
+
+Cet agrément peut être regardé comme donné tacitement dans les cas qui seront déterminés, chacun pour ce qui le concerne, par
+le ministre d'Etat chargé de la défense nationale et le ministre de l'intérieur.
+
+L'arrêté interministériel qui détermine les catégories d'appareils de faible puissance et de faible portée dont l'utilisation
+est autorisée de plein droit en application des dispositions du premier alinéa de l'article L. 89 est pris conjointement par
+le ministre d'Etat chargé de la défense nationale, le ministre de l'intérieur et le ministre des postes et
+télécommunications.
+
+L'homologation d'un appareil radioélectrique prévue au deuxième alinéa de l'article L. 89 ne peut être accordée que lorsque
+les caractéristiques de cet appareil satisfont aux conditions techniques et d'exploitation imposées aux stations
+radioélectriques privées. Elle est prononcée par le ministre des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L89 al. 1 et 2
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°67-118 1967-02-10 art. 1 JORF 15 février 1967
+
+	**Modifié par**:
+
+	  - Décret n°70-1171 1970-12-15 art. 1 JORF 17 décembre 1970
+
+
+##### TITRE VII : Agence nationale des fréquences
+
+##### Chapitre Ier : Dispositions générales et missions
+
+###### Article R*52-2
+
+Sous réserve de la dispense édictée au premier alinéa de l'article L. 96-1 en faveur des constructeurs et commerçants, la
+déclaration de détention prévue audit alinéa doit être effectuée par tout détenteur d'un appareil radioélectique d'émission,
+sauf s'il s'agit d'un appareil dont l'utilisation est autorisée de plein droit ou d'un appareil ayant fait l'objet de
+l'autorisation administrative prévue à l'article L. 89. La déclaration de détention doit être faite au commissariat de police
+ou à la brigade de gendarmerie du domicile ou, à défaut, de la résidence du déclarant dans les trois mois suivant l'entrée en
+possession de l'appareil. La déclaration donne lieu à la délivrance d'un récépissé qui doit être présenté à toute
+réquisition.
+
+La déclaration de cession prévue au deuxième alinéa de l'article L. 96-1 doit être effectuée par le cédant pour tout appareil
+radioélectrique d'émission dont l'utilisation est subordonnée à l'autorisation administrative prévue à l'article L. 89. Elle
+doit indiquer les nom, prénoms, date, lieu de naissance et domicile ou, à défaut, résidence du cessionnaire. Lorsqu'il
+s'assure de l'identité du cessionnaire, le cédant est tenu de noter la nature et le numéro de la pièce d'identité produite
+par ce dernier, de façon à pouvoir en justifier à toute réquisition.
+
+La déclaration visée à l'alinéa précédent doit être effectuée dans le délai d'un mois à compter du jour de la cession, par
+lettre recommandée avec demande d'avis de réception adressée au ministre des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L89 et L96-1
+
+	**Créé par**:
+
+	  - Décret n°70-1171 1970-12-15 art. 2 JORF 17 décembre 1970
+
+	**Abrogé par**:
+
+	  - Décret n°92-116 du 4 février 1992 - art. 2 (V) JORF 6 février 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ## LIVRE IV : L'organisation financière
