@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1992-03-29
+Version Consolidée au 1992-04-07
 
 # Partie législative
 
@@ -12670,30 +12670,6 @@ sous réserve de l'application des régimes particuliers.
 
 #### Chapitre Ier : Affranchissement.
 
-###### Article D37
-
-Le ministre des postes et télécommunications est autorisé à émettre les timbres-poste nécessaires pour l'affranchissement des
-correspondances, ainsi que toutes autres valeurs fiduciaires postales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L16
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
-
-
 ###### Article D38
 
 L'administration des postes et communications électroniques est autorisée à émettre un coupon réponse utilisable dans les
@@ -12718,31 +12694,6 @@ communications électroniques devient le code des postes et des communications �
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D40
-
-Les frais de fabrication des valeurs fiduciaires postales (roulettes, cartes, enveloppes, etc.), les frais de timbrage pour
-le compte des particuliers ainsi que les frais de recherches dans les documents de service sont fixés par arrêté du ministre
-des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L19
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
 
 
 ###### Article D41
@@ -12786,26 +12737,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°79-842 1979-09-28 art. 1 JORF 29 septembre 1979
 
 
-###### Article D41-1
-
-Pour les services d'un type nouveau mis à l'essai, les redevances peuvent être fixées ou modifiées par arrêté pendant la
-durée de l'essai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°79-842 1979-09-28 art. 2 JORF 29 septembre 1979
-
-	**Abrogé par**:
-
-	  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
-
-
 ###### Article D42
 
 Le ministre des postes et des communications électroniques est autorisé à procéder à l'émission de timbres-poste spéciaux
@@ -12827,27 +12758,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D43
-
-Les opérations consécutives aux émissions de timbres avec surtaxe sont retracées dans un compte de trésorerie tenu par
-l'agent comptable centralisateur des postes et télécommunications et sont soumises à la réglementation applicable en matière
-de contrôle des dépenses engagées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
 
 
 ###### Article D44
@@ -19901,34 +19811,6 @@ D. 453.
 	  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-###### Article D450
-
-La fourniture, l'installation, la location-entretien des appareils et des organes des postes et installations par
-l'administration des postes et télécommunications, l'entretien par cette administration des appareils et organes des postes
-et installations fournis par les abonnés, la vérification des installations réalisées par les installateurs privés donnent
-lieu au paiement de taxes fixées par décret.
-
-Toutefois, pour les matériels ou les services d'un type nouveau mis à l'essai, les redevances peuvent être fixées ou
-modifiées par arrêté pendant la durée de l'essai.
-
-Lorsqu'aucun prix spécifique n'est prévu, les prestations annexes effectuées par la direction générale des télécommunications
-donnent lieu au remboursement des dépenses réelles, majorées forfaitairement pour dépenses annexes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-382 du 30 mars 1992 - art. 1 (V) JORF 7 avril 1992
-
-
 ###### Article D451
 
 Lorsque le contrôle des installations de télécommunications exige un matériel spécial, l'usager est tenu de pourvoir aux
@@ -21239,89 +21121,6 @@ d'accepter les communications du navire en cause, sauf les communications de dé
 ### TITRE Ier : Dispositions générales
 
 #### CHAPITRE  V : Services particuliers des télécommunications
-
-##### SECTION 2 : Liaisons spécialisées
-
-##### Paragraphe 1er : Régime général.
-
-###### Article D374
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D377 (V)
-
-	**Modifié par**:
-
-	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-
-###### Article D375
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-	**Abrogé par**:
-
-	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-
-###### Article D376
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
-
-	**Abrogé par**:
-
-	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
 
 ## LIVRE III : Les services financiers
 
