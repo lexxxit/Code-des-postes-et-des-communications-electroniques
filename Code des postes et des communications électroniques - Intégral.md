@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-12-28
+Version Consolidée au 2004-01-01
 
 # Partie législative
 
@@ -1602,6 +1602,45 @@ entre l'administration et le public et diverses dispositions d'ordre administrat
 	  - Décret n°62-273 1962-03-12
 
 
+###### Article L32-5
+
+Les opérateurs exploitant un réseau radioélectrique de communication ouvert au public ou fournissant des services de
+radiocommunication au public sont tenus de mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
+des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des communications émises au moyen de terminaux mobiles,
+identifiés et qui leur ont été déclarés volés.
+
+Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après accord donné par le procureur de la République
+ou le juge d'instruction, de ne pas appliquer les dispositions du premier alinéa.
+
+**Nota:**
+
+NOTA : Loi 2003-239 du 18 mars 2003 art. 72 II : Les présentes dispositions entrent en application pour le territoire
+métropolitain le 1er janvier 2004. En tant que de besoin, les modalités d'application en sont fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 72 (V) JORF 19 mars 2003 en vigueur le 1er janvier 2004
+
+	**Transféré par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L32-4 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L34-3 (M)
+
+
 ###### Article L32-6
 
 Les dispositions des articles L. 32-3-1, L. 32-3-2 et L. 32-5 sont applicables en Nouvelle-Calédonie, en Polynésie française
@@ -2835,146 +2874,28 @@ s'ils ont fait l'objet d'une évaluation de leur conformité et sont à tout mom
 	  - Décret n°62-273 1962-03-12
 
 
-#### CHAPITRE III : Le service public des télécommunications
-
-###### Article L35
-
-Le service public des télécommunications est assuré dans le respect des principes d'égalité, de continuité et d'adaptabilité.
-Il comprend :
-
-a) Le service universel des télécommunications défini, fourni et financé dans les conditions fixées aux articles L. 35-1 à L.
-35-4 ;
-
-b) Les services obligatoires de télécommunications offerts dans les conditions fixées à l'article L. 35-5 ;
-
-c) Les missions d'intérêt général dans le domaine des télécommunications, en matière de défense et de sécurité, de recherche
-publique et d'enseignement supérieur, assurées dans les conditions fixées à l'article L. 35-6.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (M)
-	  - Code des postes et des communications électronique - art. D288 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L35-1 à L35-4, L35-5, L35-6
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L74
-	  - Loi n°1850-11-29 art. 1 al. 2
-	  - Loi n°1861-07-03 art. 1
-
-
-###### Article L35-1
-
-Le service universel des télécommunications fournit à tous un service téléphonique de qualité à un prix abordable. Il assure
-l'acheminement des communications téléphoniques en provenance ou à destination des points d'abonnement, ainsi que
-l'acheminement gratuit des appels d'urgence, la fourniture d'un service de renseignements et d'un annuaire d'abonnés, sous
-formes imprimée et électronique, et la desserte du territoire national en cabines téléphoniques installées sur le domaine
-public.
-
-Il est fourni dans des conditions tarifaires et techniques prenant en compte les difficultés spécifiques rencontrées dans
-l'accès au service téléphonique par certaines catégories de personnes en raison notamment de leur niveau de revenu ou de leur
-handicap. Ces conditions incluent le maintien, pendant une année, en cas de défaut de paiement, d'un service restreint
-comportant la possibilité de recevoir des appels ainsi que d'acheminer des appels téléphoniques aux services gratuits ou aux
-services d'urgence au bénéfice du débiteur saisi en application de la loi n° 91-650 du 9 juillet 1991 portant réforme des
-procédures civiles d'exécution, et du débiteur pour lequel a été établi le plan de règlement amiable ou prononcé le
-redressement judiciaire civil institués par la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au règlement
-des difficultés liées au surendettement des particuliers et des familles.
-
-Toute personne obtient, sur sa demande, l'abonnement au téléphone auprès d'un opérateur chargé du service universel dans les
-conditions prévues par le présent code. Le propriétaire d'un immeuble ou son mandataire ne peut s'opposer à l'installation du
-téléphone demandée par son locataire ou occupant de bonne foi.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°89-1010 1989-12-31
-	  - Loi n°91-650 1991-07-09
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
-	  - Arrêté du 18 novembre 2009 - art. 1 (V)
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Arrêté du 14 février 2012 - art. (V)
-	  - Arrêté du 14 février 2012 - art. 1 (V)
-	  - Arrêté du 6 décembre 2012 - art. (V)
-	  - Arrêté du 6 décembre 2012 - art. 1 (V)
-	  - Arrêté du 31 octobre 2013 - art. (V)
-	  - Arrêté du 31 octobre 2013 - art. 1 (V)
-	  - Décret n°2013-1331 du 31 décembre 2013 (V)
-	  - Décret n°2016-1870 du 26 décembre 2016 (V)
-	  - Code des postes et des communications électroni... - art. D98-11 (V)
-	  - Code des postes et des communications électroni... - art. L135 (V)
-	  - Code des postes et des communications électroni... - art. L35 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (V)
-	  - Code des postes et des communications électroni... - art. L35-2-1 (M)
-	  - Code des postes et des communications électroni... - art. L35-3 (M)
-	  - Code des postes et des communications électroni... - art. L35-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-30 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-10 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-11 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-12 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-13 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-3 (Ab)
-	  - Code des postes et des communications électroni... - art. R20-30-4 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-6 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
-	  - Code des postes et des communications électroni... - art. R20-31 (V)
-	  - Code des postes et des communications électroni... - art. R20-33 (V)
-	  - Code des postes et des communications électroni... - art. R20-38 (V)
-	  - Code des postes et des communications électronique - art. R10-8 (MMN)
-	  - Code des postes et des communications électronique - art. R20-36 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
+#### CHAPITRE III : Les obligations de service public
 
 ###### Article L35-2
 
-I. - Peut être chargé de fournir le service universel tout opérateur en acceptant la fourniture sur l'ensemble du territoire
-national et capable de l'assurer.
+Peut être chargé de fournir l'une des composantes du service universel mentionnées aux 1°, 2° et 3° de l'article L. 35-1 tout
+opérateur en acceptant la fourniture sur l'ensemble du territoire national et capable de l'assurer.
 
-France Télécom est l'opérateur public chargé du service universel.
+Le ministre chargé des télécommunications désigne les opérateurs chargés de fournir les composantes du service universel à
+l'issue d'appels à candidatures portant sur les conditions techniques et tarifaires ainsi que, le cas échéant, le coût net de
+fourniture de ces prestations.
 
-Le cahier des charges d'un opérateur chargé de fournir le service universel est établi après avis de la Commission supérieure
-du service public des postes et télécommunications et détermine les conditions générales de fourniture de ce service et
-notamment les obligations tarifaires nécessaires, d'une part pour permettre l'accès au service universel de toutes les
-catégories sociales de la population, d'autre part pour éviter une discrimination fondée sur la localisation géographique. Il
-fixe également les conditions dans lesquelles les tarifs du service universel et sa qualité sont contrôlés.
+Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé des télécommunications désigne un opérateur
+capable d'assurer le service en cause sur l'ensemble du territoire national.
 
-II. - L'acheminement gratuit des appels d'urgence est obligatoire pour tous les fournisseurs de service téléphonique au
-public.
+Le cahier des charges du ou des opérateurs en charge du service universel des télécommunications est soumis pour avis à la
+Commission supérieure du service public des postes et télécommunications.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et télécommunications,
+détermine les modalités d'application du présent article. Il fixe les conditions dans lesquelles les tarifs du service
+universel et sa qualité sont contrôlés.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
 
 	**Cité par**:
 
@@ -3017,119 +2938,9 @@ public.
 	  - Code des postes et des communications électroni... - art. R20-32 (V)
 	  - Code des postes et des communications électroni... - art. R20-33 (V)
 
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L35-3
-
-I. - Les coûts imputables aux obligations du service universel sont évalués sur la base d'une comptabilité appropriée tenue
-par les opérateurs. Cette comptabilité est auditée, à leurs frais, par un organisme indépendant, désigné par l'Autorité de
-régulation des télécommunications.
-
-L'évaluation des coûts nets des obligations de service universel pesant sur les opérateurs prend en compte l'avantage sur le
-marché qu'ils retirent, le cas échéant, de ces obligations.
-
-II. - Le financement des coûts imputables aux obligations de service universel est assuré par les exploitants de réseaux
-ouverts au public et par les fournisseurs de services téléphoniques au public dans les conditions suivantes :
-
-1° Le financement du coût net des obligations de péréquation tarifaire correspondant, d'une part aux obligations de
-péréquation géographique, d'autre part au déséquilibre résultant de la structure courante des tarifs téléphoniques, est
-assuré par une rémunération additionnelle à la rémunération d'interconnexion mentionnée à l'article L. 34-8, versée à
-l'opérateur chargé du service universel selon les mêmes modalités que la rémunération principale.
-
-Cette rémunération additionnelle est la contrepartie de l'universalité du réseau et du service téléphonique. Elle est
-calculée au prorata de la part de l'opérateur qui demande l'interconnexion dans l'ensemble du trafic téléphonique. Son
-montant est constaté, sur proposition de l'Autorité de régulation des télécommunications, par le ministre chargé des
-télécommunications.
-
-Afin de favoriser le développement des radiocommunications mobiles, la baisse des tarifs aux utilisateurs et compte tenu du
-supplément de trafic qu'ils apportent, les opérateurs de radiocommunications mobiles soumis par leurs cahiers des charges à
-des obligations de couverture à l'échelle nationale sont exemptés de la part de cette rémunération additionnelle
-correspondant au déséquilibre de la structure courante des tarifs téléphoniques. En contrepartie, les opérateurs concernés
-s'engagent à contribuer, à compter du 1er janvier 2001, à la couverture, par au moins un service de radiotéléphonie mobile,
-des routes nationales et des autres axes routiers principaux et des zones faiblement peuplées du territoire non couvertes par
-un tel service à la date de remise du premier rapport mentionné à l'article L. 35-7. Ils s'engagent également à fournir les
-éléments et à formuler les propositions nécessaires à l'élaboration de ce rapport. Les opérateurs qui ne prennent pas ces
-engagements avant le 1er octobre 1997 sont exclus par le ministre chargé des télécommunications, sur proposition de
-l'Autorité de régulation des télécommunications, du bénéfice de l'exemption ;
-
-2° Il est créé un fonds de service universel des télécommunications. La gestion comptable et financière de ce fonds est
-assurée par la Caisse des dépôts et consignations dans un compte spécifique. Les frais de gestion exposés par la caisse sont
-imputés sur le fonds.
-
-Ce fonds est affecté au financement des coûts nets des obligations de service universel suivants : l'offre, mentionnée au
-deuxième alinéa de l'article L. 35-1, de tarifs spécifiques à certaines catégories d'abonnés en vue de leur assurer
-l'accessibilité au service, la desserte du territoire en cabines téléphoniques, l'annuaire universel et le service de
-renseignements correspondant.
-
-La part des coûts nets que doit supporter chaque opérateur est calculée au prorata de son volume de trafic.
-
-Si un opérateur accepte de fournir l'offre, mentionnée au deuxième alinéa de l'article L. 35-1, de tarifs spécifiques à
-certaines catégories d'abonnés en vue de leur assurer l'accès au service téléphonique dans les conditions fixées par son
-cahier des charges, le coût net de cette offre est déduit de sa contribution.
-
-Le montant des contributions nettes que les opérateurs versent ou reçoivent est constaté, sur proposition de l'Autorité de
-régulation des télécommunications, par le ministre chargé des télécommunications. Ces contributions sont recouvrées par la
-Caisse des dépôts et consignations selon les modalités prévues pour les créances de cet établissement.
-
-En cas de défaillance d'un opérateur, l'Autorité de régulation des télécommunications prononce une des sanctions prévues à
-l'article L. 36-11. En cas de nouvelle défaillance, elle peut retirer l'autorisation. Si les sommes dues ne sont pas
-recouvrées dans un délai d'un an, elles sont imputées sur le fonds lors de l'exercice suivant ;
-
-3° Le déséquilibre résultant de la structure actuelle des tarifs téléphoniques au regard du fonctionnement normal du marché
-sera résorbé progressivement par l'opérateur public avant le 31 décembre 2000, dans le cadre de baisses globales des tarifs
-pour l'ensemble des catégories d'utilisateurs. Lorsque le déséquilibre aura été résorbé, et au plus tard au 31 décembre 2000,
-il sera mis fin au versement de la rémunération additionnelle mentionnée au 1° ci-dessus et le financement du coût net des
-obligations de péréquation géographique sera assuré par l'intermédiaire du fonds mentionné au 2° ci-dessus.
-
-Le passage à ce nouveau régime de financement sera décidé, sur proposition de l'Autorité de régulation des
-télécommunications, par le ministre chargé des télécommunications, après avis de la Commission supérieure du service public
-des postes et télécommunications.
-
-III. - Les méthodes d'évaluation, de compensation et de partage des coûts nets liés aux obligations de service universel sont
-rendues publiques un an au moins avant leur mise en application.
-
-IV. - Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et
-télécommunications, précise les modalités d'application du présent article. Il établit notamment les méthodes de
-l'évaluation, de la compensation et du partage des coûts nets du service universel, ainsi que les modalités de gestion du
-fonds de service universel des télécommunications.
-
-V. - Le ministre chargé des télécommunications adresse chaque année au Parlement un rapport sur l'application des
-dispositions du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
-	  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 24 (V)
-	  - Arrêté du 23 décembre 2010 - art. (V)
-	  - Arrêté du 14 février 2012 - art. (V)
-	  - Arrêté du 6 décembre 2012 - art. (V)
-	  - Code des postes et des communications électroni... - art. L36-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-31 (V)
-	  - Code des postes et des communications électroni... - art. R20-33 (V)
-	  - Code des postes et des communications électroni... - art. R20-37-1 (V)
-	  - Code des postes et des communications électroni... - art. R20-39 (V)
-	  - Code des postes et des communications électronique - art. R20-36 (M)
-	  - Code des postes et des communications électronique - art. R20-41 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 12 () JORF 28 juillet 2001
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Codifié par**:
 
@@ -3137,108 +2948,19 @@ dispositions du présent article.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L34-8, L35-7, L35-1, L36-11
-
-
-###### Article L35-4
-
-Au moyen d'un annuaire universel, présenté sous forme imprimée et électronique, et d'un service universel de renseignements,
-le public a accès, sous réserve de la protection des droits des personnes, aux noms ou raisons sociales, aux numéros
-téléphoniques et aux adresses de tous les abonnés aux réseaux ouverts au public, ainsi qu'à la mention de leur profession
-pour ceux qui le souhaitent. Il peut avoir accès, sous cette même réserve, aux adresses électroniques des abonnés qui le
-souhaitent.
-
-Tout annuaire universel doit respecter des modalités de présentation et des caractéristiques techniques fixées par voie
-réglementaire. Toute personne qui édite un annuaire universel ou fournit un service universel de renseignements traite et
-présente de façon non discriminatoire les informations qui lui sont communiquées à cette fin.
-
-France Télécom édite un annuaire universel sous forme imprimée et électronique et fournit un service universel de
-renseignements.
-
-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et télécommunications,
-détermine les modalités d'application du présent article. Il précise notamment les garanties à mettre en oeuvre pour assurer
-la confidentialité des données, compte tenu des intérêts commerciaux des opérateurs, et la protection de la vie privée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 19 () JORF 28 juillet 2001
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Arrêté du 18 novembre 2009 - art. (V)
-	  - Arrêté du 6 décembre 2012 - art. (V)
-	  - Code des postes et des communications électroni... - art. L35-1 (V)
-	  - Code des postes et des communications électroni... - art. R10-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L35-5
-
-Les services obligatoires comprennent une offre, sur l'ensemble du territoire, d'accès au réseau numérique à intégration de
-services, de liaisons louées, de commutation de données par paquet, de services avancés de téléphonie vocale et de service
-télex.
-
-Le cahier des charges d'un opérateur chargé du service universel détermine ceux des services obligatoires qu'il est tenu
-d'assurer et les conditions de leur fourniture.
-
-France Télécom assure la fourniture de tous les services obligatoires.
-
-Les opérateurs de services de télécommunications sont tenus de permettre l'accès par les autorités judiciaires, les services
-de la police et de la gendarmerie nationales, les services d'incendie et de secours et les services d'aide médicale urgente,
-agissant dans le cadre de missions judiciaires ou d'interventions de secours, à leurs listes d'abonnés et d'utilisateurs,
-complètes, non expurgées et mises à jour.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Code des postes et des communications électroni... - art. L35 (V)
-	  - Code des postes et des communications électroni... - art. R20-30 (V)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-	  - Code des postes et des communications électronique - art. D98-7 (V)
-	  - Code des postes et des communications électronique - art. R10-2 (MMN)
-
-	**Modifié par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 74 () JORF 19 mars 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Code des postes et télécommunications L35-1
 
 
 ###### Article L35-6
-
-Les opérateurs autorisés en application des articles L. 33-1 et L. 34-1 mettent en place et assurent la mise en oeuvre des
-moyens nécessaires aux interceptions justifiées par les nécessités de la sécurité publique. [Dispositions déclarées non
-conformes à la Constitution par décision du Conseil constitutionnel n° 2000-441 DC du 28 décembre 2000.]
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-441 DC du 28 décembre
-2000.]
 
 Les prescriptions exigées par la défense et la sécurité publique et les garanties d'une juste rémunération des prestations
 assurées à ce titre, à la demande de l'Etat, par les opérateurs autorisés en application des articles L. 33-1 et L. 34-1,
 sont déterminées par leur cahier des charges.
 
 L'enseignement supérieur dans le domaine des télécommunications relève de la responsabilité de l'Etat et est placé sous la
-tutelle du ministre chargé des télécommunications. Il est à la charge de l'Etat à compter de l'exercice budgétaire 1997, dans
-les conditions prévues par les lois de finances. Il bénéficie, de sa part et dans les conditions prévues par les lois de
-finances, des moyens lui garantissant une haute qualité.
+tutelle du ministre chargé des télécommunications. Il est à la charge de l'Etat, dans les conditions prévues par les lois de
+finances. Il bénéficie, de sa part et dans les conditions prévues par les lois de finances, des moyens lui garantissant une
+haute qualité.
 
 Les missions de recherche publique et de développement dans le domaine des télécommunications sont exercées par l'Etat ou
 pour le compte de l'Etat et sous sa responsabilité dans le cadre de contrats qui définissent les programmes et en précisent
@@ -3248,7 +2970,7 @@ les modalités de réalisation ainsi que de financement.
 
 	**Modifié par**:
 
-	  - Loi - art. 48 (V) JORF 31 décembre 2000
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Codifié par**:
 
@@ -3263,41 +2985,6 @@ les modalités de réalisation ainsi que de financement.
 	**Cite**:
 
 	  - Code des postes et télécommunications L33-1, L34-1
-
-
-###### Article L35-7
-
-Au moins une fois tous les quatre ans à compter de la date de publication de la présente loi, un rapport sur l'application du
-présent chapitre est, après consultation publique et avis de l'Autorité de régulation des télécommunications et de la
-Commission supérieure du service public des postes et télécommunications, remis par le Gouvernement au Parlement. Il propose,
-le cas échéant, pour tenir compte de l'évolution des technologies et services de télécommunications et des besoins de la
-société, l'inclusion de nouveaux services dans le champ du service universel et la révision de la liste des services
-obligatoires ou de leurs modalités d'exécution.
-
-Le premier rapport remis en application de l'alinéa précédent comporte un bilan de la couverture du territoire par les
-réseaux de radiotéléphonie mobile. Il propose les modifications nécessaires à apporter au présent chapitre pour assurer, à un
-terme rapproché, la couverture des zones faiblement peuplées du territoire, ainsi que des routes nationales et des autres
-axes routiers principaux, par au moins un service de radiotéléphonie mobile terrestre ou satellitaire. Il précise également
-les moyens nécessaires pour atteindre cet objectif dans le respect du principe d'égalité de concurrence entre opérateurs,
-notamment les modalités d'un investissement commun aux opérateurs ou d'une combinaison des différentes technologies
-disponibles dans les zones à faible densité de population non couvertes à la date de remise du rapport.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Code des postes et des communications électroni... - art. L35-8 (Ab)
-	  - Code des postes et des communications électronique - art. D576 (V)
-	  - Code des postes et des communications électronique - art. D96-7 (T)
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
 
 
 #### CHAPITRE IV : La régulation des télécommunications
@@ -3582,9 +3269,9 @@ résultat motivé de la procédure de sélection qu'elle conduit ;
 sont applicables en vertu du présent code et des autorisations dont ils bénéficient et sanctionne les manquements constatés
 dans les conditions prévues aux articles L. 36-10 et L. 36-11 ;
 
-4° Propose au ministre chargé des télécommunications, selon les principes et les méthodes élaborés dans les conditions
-prévues à l'article L. 35-3, les montants des contributions au financement des obligations de service universel et assure la
-surveillance des mécanismes de ce financement ;
+4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
+contributions au financement des obligations de service universel et assure la surveillance des mécanismes de ce
+financement ;
 
 5° Emet un avis public sur les tarifs et les objectifs tarifaires pluriannuels du service universel ainsi que sur les tarifs
 des services pour lesquels il n'existe pas de concurrents sur le marché, préalablement, lorsqu'ils y sont soumis, à leur
@@ -3657,9 +3344,7 @@ services sur le marché.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 13 () JORF 28 juillet 2001 rectificatif JORF 20 octobre 2001
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 13
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 24
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cite**:
 
@@ -6097,6 +5782,407 @@ la tranquillité de l'appelé, s'opposer à l'identification par l'appelé de so
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+#### Chapitre III : Les obligations de service public.
+
+###### Article L35
+
+Les obligations de service public sont assurées dans le respect des principes d'égalité, de continuité et d'adaptabilité.
+Elles comprennent :
+
+a) Le service universel des communications électroniques défini, fourni et financé dans les conditions fixées aux articles L.
+35-1 à L. 35-4 ;
+
+b) Les services obligatoires de communications électroniques offerts dans les conditions fixées à l'article L. 35-5 ;
+
+c) Les missions d'intérêt général dans le domaine des communications électroniques, en matière de défense et de sécurité, de
+recherche publique et d'enseignement supérieur, assurées dans les conditions fixées à l'article L. 35-6.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (M)
+	  - Code des postes et des communications électronique - art. D288 (M)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L35-5 (M)
+	  - Code des postes et des communications électronique - art. L35-6 (M)
+	  - Code des postes et des communications éléctroniques L35-1 à L35-4, L35-5, L35-6
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L74
+	  - Loi n°1850-11-29 art. 1 al. 2
+	  - Loi n°1861-07-03 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-1
+
+Le service universel des communications électroniques fournit à tous :
+
+1° Un service téléphonique de qualité à un prix abordable. Ce service assure l'acheminement des communications téléphoniques,
+des communications par télécopie et des communications de données à des débits suffisants pour permettre l'accès à Internet,
+en provenance ou à destination des points d'abonnement, ainsi que l'acheminement gratuit des appels d'urgence.
+
+Les conditions tarifaires incluent le maintien, pendant une année, en cas de défaut de paiement, d'un service restreint
+comportant la possibilité de recevoir des appels ainsi que d'acheminer des appels téléphoniques aux services gratuits ou aux
+services d'urgence au bénéfice du débiteur saisi en application de la loi n° 91-650 du 9 juillet 1991 portant réforme des
+procédures civiles d'exécution et du débiteur qui fait l'objet de mesures prévues aux articles L. 331-1 et suivants du code
+de la consommation.
+
+Toute personne obtient, sur sa demande, l'abonnement au service d'un opérateur chargé du service universel dans les
+conditions prévues par le présent code. Le propriétaire d'un immeuble ou son mandataire ne peut s'opposer à l'installation de
+la ligne d'abonné demandée par son locataire ou occupant de bonne foi ;
+
+2° Un service de renseignements et un annuaire d'abonnés, sous formes imprimée et électronique, conformément aux dispositions
+de l'article L. 35-4 ;
+
+3° L'accès à des cabines téléphoniques publiques installées sur le domaine public ;
+
+4° Des mesures particulières en faveur des utilisateurs finaux handicapés afin d'assurer, d'une part, un accès aux services
+mentionnés aux 1°, 2° et 3° qui soit équivalent à l'accès dont bénéficient les autres utilisateurs finaux et, d'autre part,
+le caractère abordable de ces services.
+
+Le service universel est fourni dans des conditions tarifaires et techniques prenant en compte les difficultés particulières
+rencontrées dans l'accès au service téléphonique par certaines catégories de personnes, en raison notamment de leur niveau de
+revenu et en proscrivant toute discrimination fondée sur la localisation géographique de l'utilisateur.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
+électroniques, précise les modalités d'application du présent article et le contenu de chacune des composantes du service
+universel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-650 1991-07-09
+	  - Code de la consommation - art. L331-1 (M)
+	  - Code des postes et des communications électronique - art. L35-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cité par**:
+
+	  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
+	  - Arrêté du 18 novembre 2009 - art. 1 (V)
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 14 février 2012 - art. (V)
+	  - Arrêté du 14 février 2012 - art. 1 (V)
+	  - Arrêté du 6 décembre 2012 - art. (V)
+	  - Arrêté du 6 décembre 2012 - art. 1 (V)
+	  - Arrêté du 31 octobre 2013 - art. (V)
+	  - Arrêté du 31 octobre 2013 - art. 1 (V)
+	  - Décret n°2013-1331 du 31 décembre 2013 (V)
+	  - Décret n°2016-1870 du 26 décembre 2016 (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. L135 (V)
+	  - Code des postes et des communications électroni... - art. L35 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L35-2-1 (M)
+	  - Code des postes et des communications électroni... - art. L35-3 (M)
+	  - Code des postes et des communications électroni... - art. L35-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-30 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-10 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-11 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-12 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-13 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-3 (Ab)
+	  - Code des postes et des communications électroni... - art. R20-30-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+	  - Code des postes et des communications électroni... - art. R20-31 (V)
+	  - Code des postes et des communications électroni... - art. R20-33 (V)
+	  - Code des postes et des communications électroni... - art. R20-38 (V)
+	  - Code des postes et des communications électronique - art. R10-8 (MMN)
+	  - Code des postes et des communications électronique - art. R20-36 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-3
+
+I. - Les coûts nets imputables aux obligations de service universel sont évalués sur la base d'une comptabilité appropriée
+tenue par les opérateurs désignés pour assurer ces obligations et auditée, à leurs frais, par un organisme indépendant
+désigné par l'Autorité de tes régulation des télécommunications. L'évaluation de ces coûts nets prend en compte l'avantage
+sur le marché que les opérateurs soumis à des obligations de service universel retirent, le cas échéant, de ces obligations.
+Les coûts nets pris en compte en application du III ne peuvent être supérieurs aux engagements pris, le cas échéant, dans le
+cadre des appels à candidatures prévus à l'article L. 35-2, par les opérateurs désignés pour assurer les obligations du
+service universel.
+
+II. - La contribution de chaque opérateur au financement du service universel est calculée au prorata de son chiffre
+d'affaires réalisé au titre des services de communications électroniques, à l'exclusion de celui réalisé au titre des
+prestations d'interconnexion et d'accès faisant l'objet des conventions définies au I de l'article L. 34-8 et des autres
+prestations réalisées ou facturées pour le compte d'opérateurs tiers.
+
+Toutefois, les opérateurs dont le chiffre d'affaires est inférieur à un montant fixé par le décret en Conseil d'Etat prévu au
+IV du présent article sont exonérés de contribution au financement du service universel.
+
+Si un opérateur accepte de fournir des prestations de service universel, dans des conditions tarifaires et techniques
+spécifiques à certaines catégories d'abonnés telles que mentionnées à l'article L. 35-1, ou l'un des éléments de l'offre
+mentionnée au 2° du même article, le coût net de cette offre est déduit de sa contribution.
+
+Les trois alinéas précédents s'appliquent à l'évaluation définitive réalisée au titre de l'année 2002 et aux suivantes.
+L'évaluation définitive au titre de l'année 2002 est réalisée au plus tard le 2 novembre 2004.
+
+III. - Un fonds de service universel des communications électroniques assure le financement des coûts nets des obligations du
+service universel définis au I. Toutefois, quand les coûts nets d'un opérateur soumis à des obligations de service universel
+ne représentent pas une charge excessive pour cet opérateur, aucun versement ne lui est dû.
+
+Le montant des contributions nettes dont les opérateurs sont redevables au fonds en application du II et le montant des
+sommes dues par le fonds aux opérateurs désignés pour assurer les obligations du service universel sont déterminés par
+l'Autorité de régulation des télécommunications.
+
+La gestion comptable et financière du fonds est assurée par la Caisse des dépôts et consignations dans un compte spécifique.
+Les frais de gestion exposés par la caisse sont imputés sur le fonds. Les contributions des opérateurs sont recouvrées par la
+caisse, selon les modalités prévues pour le recouvrement des créances de cet établissement.
+
+En cas de défaut de versement de sa contribution par un opérateur, l'Autorité de régulation des télécommunications prononce
+une des sanctions prévues à l'article L. 36-11. En cas de nouvelle défaillance, elle peut prononcer l'interdiction
+d'exploiter un réseau ouvert au public ou de fournir au public des services de communications électroniques. Si les sommes
+dues ne sont pas recouvrées dans un délai d'un an, elles sont imputées sur le fonds lors de l'exercice suivant.
+
+IV. - Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des
+communications électroniques, fixe les modalités d'application du présent article. Il précise notamment les conditions
+d'attribution, les méthodes de l'évaluation qui répondent à des exigences de transparence et de publicité, de la compensation
+et du partage des coûts nets du service universel, ainsi que des modalités de gestion du fonds de service universel des
+communications électroniques. Il détermine également les catégories d'activités pour lesquelles, en raison de leur nature,
+les opérateurs ne sont pas tenus de participer au financement des coûts imputables aux obligations de service universel. Ces
+activités comprennent notamment l'acheminement et la diffusion de services de radio et de télévision.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 19 décembre 1997 - art. ANNEXE (V)
+	  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Loi n°2009-1572 du 17 décembre 2009 - art. 24 (V)
+	  - Arrêté du 23 décembre 2010 - art. (V)
+	  - Arrêté du 14 février 2012 - art. (V)
+	  - Arrêté du 6 décembre 2012 - art. (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-31 (V)
+	  - Code des postes et des communications électroni... - art. R20-33 (V)
+	  - Code des postes et des communications électroni... - art. R20-37-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-39 (V)
+	  - Code des postes et des communications électronique - art. R20-36 (M)
+	  - Code des postes et des communications électronique - art. R20-41 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-8 (M)
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+	  - Code des postes et des communications électronique - art. L36-11 (M)
+
+
+###### Article L35-4
+
+Au moyen d'un annuaire universel, présenté sous forme imprimée et électronique, et d'un service universel de renseignements,
+le public a accès, sous réserve de la protection des droits des personnes, aux noms ou raisons sociales, aux numéros
+téléphoniques et aux adresses de tous les abonnés aux réseaux ouverts au public, ainsi qu'à la mention de leur profession
+pour ceux qui le souhaitent. Il peut avoir accès, sous cette même réserve, aux adresses électroniques des abonnés qui le
+souhaitent.
+
+Tout annuaire universel doit respecter des modalités de présentation et des caractéristiques techniques fixées par voie
+réglementaire. Toute personne qui édite un annuaire universel ou fournit un service universel de renseignements traite et
+présente de façon non discriminatoire les informations qui lui sont communiquées à cette fin.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
+électroniques, détermine les modalités d'application du présent article. Il précise notamment les garanties à mettre en
+oeuvre pour assurer la confidentialité des données, compte tenu des intérêts commerciaux des opérateurs, et la protection de
+la vie privée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 18 novembre 2009 - art. (V)
+	  - Arrêté du 6 décembre 2012 - art. (V)
+	  - Code des postes et des communications électroni... - art. L35-1 (V)
+	  - Code des postes et des communications électroni... - art. R10-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-5
+
+Les services obligatoires comprennent une offre, sur l'ensemble du territoire, d'accès au réseau numérique à intégration de
+services, de liaisons louées, de commutation de données par paquet et de services avancés de téléphonie vocale.
+
+Le cahier des charges d'un opérateur chargé du service universel détermine ceux des services obligatoires qu'il est tenu
+d'assurer et les conditions de leur fourniture.
+
+Les opérateurs de services de communications électroniques sont tenus de permettre l'accès par les autorités judiciaires, les
+services de la police et de la gendarmerie nationales, les services d'incendie et de secours et les services d'aide médicale
+urgente, agissant dans le cadre de missions judiciaires ou d'interventions de secours, à leurs listes d'abonnés et
+d'utilisateurs, complètes, non expurgées et mises à jour.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Code des postes et des communications électroni... - art. L35 (V)
+	  - Code des postes et des communications électroni... - art. R20-30 (V)
+	  - Code des postes et des communications électronique - art. D98-1 (M)
+	  - Code des postes et des communications électronique - art. D98-7 (V)
+	  - Code des postes et des communications électronique - art. R10-2 (MMN)
+
+	**Modifié par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-7
+
+Après consultation publique et avis de l'Autorité de régulation des télécommunications et de la Commission supérieure du
+service public des postes et des communications électroniques, le Gouvernement remet au Parlement avant le 1er mars 2005,
+puis tous les trois ans, un rapport sur l'application du présent chapitre. Il comporte une analyse et une évaluation
+détaillée pour chaque catégorie d'usagers du coût de l'ensemble des services de communications électroniques, y compris ceux
+non mentionnés dans ce chapitre comme la téléphonie mobile et l'accès à Internet. Il évalue les sommes dépensées par les
+ménages pour avoir accès aux technologies de l'information. Il fait des propositions pour faire baisser le montant de la
+facture téléphonique des ménages ainsi que pour enrichir le contenu du service universel eu égard aux évolutions
+technologiques, aux besoins de la société et de l'aménagement équilibré du territoire.
+
+Le premier de ces rapports comporte un bilan de la couverture du territoire par les réseaux de radiotéléphonie mobile et de
+l'accès à Internet à haut débit et évalue les conditions de couverture du territoire national en bornes multimédias selon les
+conditions définies à l'article 6 du cahier des charges figurant en annexe au décret n° 96-1225 du 27 décembre 1996 portant
+approbation du cahier des charges de France Télécom. Il définit dans quelles conditions techniques et économiques les
+prestations de base de téléphonie mobile peuvent être incluses dans le service universel. Il examine également l'intérêt et
+la possibilité d'étendre le service universel à l'accès à Internet à haut débit.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Code des postes et des communications électroni... - art. L35-8 (Ab)
+	  - Code des postes et des communications électronique - art. D576 (V)
+	  - Code des postes et des communications électronique - art. D96-7 (T)
+
+	**Cite**:
+
+	  - Décret n°96-1225 1996-12-27 annexe
+
+	**Modifié par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-8
+
+Une fois remis le rapport prévu par l'article L. 35-7, le ministre chargé des communications électroniques décide de
+l'opportunité de relancer les appels à candidatures prévus à l'article L. 35-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Code des postes et des communications électroni... - art. R20-30-12 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L35-2
+	  - Code des postes et des communications électroniques - art. L35-7
 
 
 #### Chapitre V : Dispositions pénales.
