@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -6610,6 +6610,41 @@ décret du 9 janvier 1852.
 
 	  - Code des postes, télégraphes et téléphones L149
 	  - Loi n°1884-12-20 art. 15
+
+
+### TITRE VI : Services radioélectriques
+
+#### Chapitre Ier : Dispositions générales.
+
+###### Article L96-1
+
+Toute personne qui exploite, sur le territoire d'une commune, une ou plusieurs installations radio-électriques est tenue de
+transmettre au maire de cette commune, sur sa demande, un dossier établissant l'état des lieux de cette ou de ces
+installations. Le contenu et les modalités de transmission de ce dossier sont définis par l'arrêté conjoint des ministres
+chargés des communications électroniques, de la communication, de la santé et de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 80 () JORF 11 août 2004
+
+	**Cité par**:
+
+	  - Arrêté du 4 août 2006 - art. 1 (V)
+	  - Arrêté du 12 octobre 2016 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2011-1012 du 24 août 2011 - art. 55
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. L34-9-2 (Ab)
 
 
 ### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.
