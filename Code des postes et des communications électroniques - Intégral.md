@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-07-29
+Version Consolidée au 1993-08-05
 
 # Partie législative
 
@@ -9342,6 +9342,32 @@ mise en oeuvre de l'interdiction d'émettre des chèques sont applicables aux ce
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+
+###### Article R52-11
+
+Les actes relatifs aux cessions, aux saisies conservatoires et aux saisies-attribution pratiquées à l'encontre des titulaires
+de comptes courants postaux sont notifiés au centre de chèques postaux où sont tenus les comptes faisant l'objet de ces
+actes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-977 du 31 juillet 1993 - art. 12 () JORF 5 août 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R652-2 (V)
+	  - Code rural et de la pêche maritime - art. R725-12 (M)
 
 
 ## LIVRE IV : L'organisation financière
@@ -21788,35 +21814,6 @@ exonérées de la taxe d'affranchissement.
 	**Abrogé par**:
 
 	  - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
-
-
-###### Article D522
-
-Les règles des saisies-arrêts et oppositions ès mains des fonctionnaires publics s'appliquent au service des chèques postaux.
-Les exploits doivent être signifiés au chef de centre de chèques postaux où sont tenus les comptes courants.
-
-**Nota:**
-
-[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
-décret n° 91-70 du 17 janvier 1991. *]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L178
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°93-977 1993-07-31 art. 5 JORF 5 août 1993
 
 
 #### (en vigueur jusqu'au 31 décembre 2005).
