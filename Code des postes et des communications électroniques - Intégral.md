@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2002-11-13
+Version Consolidée au 2003-01-01
 
 # Partie législative
 
@@ -1755,6 +1755,12 @@ Un décret, pris après avis de la Commission supérieure du service public des 
 clauses énumérées ci-dessus qui doivent être conformes à des clauses types dont il détermine le contenu. Les dispositions du
 projet de décret relatives à la clause mentionnée au m sont soumises pour avis au Conseil de la concurrence.
 
+B. - Pour les services de communication électronique utilisant des antennes paraboliques bidirectionnelles d'une puissance de
+transmission inférieure ou égale à 2 watts, les redevances de mise à disposition et de gestion des fréquences
+radioélectriques dues par les exploitants de réseaux de télécommunications par satellite ouverts au public sont établies
+respectivement sur une base forfaitaire métropolitaine ou régionale, par décret pris après avis de l'Autorité de régulation
+des télécommunications.
+
 II. - Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des télécommunications supérieur à un seuil fixé
 par arrêté des ministres chargés des télécommunications et de l'économie sont tenus d'individualiser sur le plan comptable
 l'activité autorisée.
@@ -1896,9 +1902,7 @@ L'allocation des fréquences doit dans tous les cas permettre d'assurer des cond
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 21 () JORF 28 juillet 2001
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 28 () JORF 28 juillet 2001
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 8 () JORF 28 juillet 2001
+	  - Loi - art. 16 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Codifié par**:
 
