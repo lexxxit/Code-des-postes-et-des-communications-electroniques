@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-07-15
+Version Consolidée au 1997-10-02
 
 # Partie législative
 
@@ -8543,6 +8543,144 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L78
+
+
+##### SECTION 5 : Contrôles.
+
+###### Article R11-10
+
+Un arrêté du ministre chargé des télécommunications habilite, parmi les fonctionnaires et agents placés sous son autorité,
+celle du président de l'Autorité de régulation des télécommunications ou celle du directeur général de l'Agence nationale des
+fréquences, ayant les connaissances techniques et juridiques nécessaires, après avis du procureur de la République auprès du
+tribunal de grande instance de leur résidence administrative, les personnes qui peuvent rechercher et constater par procès-
+verbal les infractions entrant dans le champ d'application de l'article L. 40 du code des postes et télécommunications.
+
+Le président de l'Autorité de régulation des télécommunications et le directeur général de l'Agence nationale des fréquences
+désignent, à cet effet, les personnes placées sous leur autorité qu'ils souhaitent faire habiliter.
+
+L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
+l'agent a vocation à rechercher et constater les infractions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L40
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications R20-44-1
+
+	**Créé par**:
+
+	  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
+
+	**Transféré par**:
+
+	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-11
+
+Les fonctionnaires et agents habilités par arrêté du ministre chargé des télécommunications au titre de l'article R. 11-10
+prêtent serment devant le tribunal de grande instance de leur résidence administrative.
+
+La formule du serment est la suivante :
+
+"Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
+jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-10
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications R20-44-2
+
+	**Créé par**:
+
+	  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
+
+	**Transféré par**:
+
+	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-12
+
+L'habilitation prévue à l'article R. 11-10 est retirée par arrêté du ministre chargé des télécommunications, le cas échéant à
+la demande du président de l'Autorité de régulation des télécommunications ou du directeur général de l'Agence nationale des
+fréquences, pour les personnes placées sous leur autorité, lorsque cette mesure est justifiée par les nécessités du service
+ou compte tenu du comportement du fonctionnaire ou de l'agent dans l'exercice de ses fonctions, après, dans ce dernier cas,
+que l'intéressé a été mis à même de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-10
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications R20-44-3
+
+	**Créé par**:
+
+	  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
+
+	**Transféré par**:
+
+	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-13
+
+Une carte professionnelle portant mention de l'habilitation, de son objet et de sa durée est délivrée, ou son renouvellement
+assuré, par le ministre chargé des télécommunications, par le président de l'Autorité de régulation des télécommunications ou
+par le directeur général de l'Agence nationale des fréquences, chacun pour ce qui le concerne, aux fonctionnaires et agents
+placés sous leur autorité mentionnés à l'article R. 11-10.
+
+Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance.
+
+Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-10
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications R20-44-4
+
+	**Créé par**:
+
+	  - Décret n°97-890 du 25 septembre 1997 - art. 1 () JORF 2 octobre 1997
+
+	**Transféré par**:
+
+	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 #### CHAPITRE III : Téléphone.
