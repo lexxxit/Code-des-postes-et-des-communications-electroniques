@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1992-05-23
+Version Consolidée au 1992-12-31
 
 # Partie législative
 
@@ -6148,7 +6148,98 @@ résultant du décret 89-989 du 29 décembre 1989*] par formule utilisée ou par
 
 ## LIVRE II : Les télécommunications
 
-### TITRE Ier : Services de télécommunications
+### TITRE Ier : Les services de télécommunications
+
+#### CHAPITRE Ier : Service relevant de l'article L. 34-2.
+
+###### Article R*9
+
+Toute personne physique ou morale disposant de la capacité juridique peut présenter une demande d'autorisation en vue de
+fournir au public un service-support relevant de l'article L. 34-2.
+
+Cette demande est adressée au ministre chargé des télécommunications (direction de la réglementation générale) et comporte
+les éléments suivants :
+
+- l'identité du demandeur ;
+
+- la nature, les caractéristiques et la zone de couverture géographique du service ;
+
+- les conditions de permanence, de disponibilité et de qualité du service ;
+
+- l'engagement du demandeur de respecter les conditions générales de fourniture des services-supports mentionnés à l'article
+R. 9-1.
+
+Il est accusé réception de la demande.
+
+La décision intervient dans un délai de quatre mois suivant la réception de la demande.
+
+Les modifications envisagées par le demandeur postérieurement à la délivrance de l'autorisation et concernant les points
+figurant dans la demande d'autorisation doivent être portées à la connaissance du ministre chargé des télécommunications
+(direction de la réglementation générale) qui peut, par décision motivée, indiquer à l'intéressé qu'il y a lieu de présenter
+une nouvelle demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-2, R9-1
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L217
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 et 2 JORF 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+
+	**Cité par**:
+
+	  - Décret n°2010-1207 du 12 octobre 2010 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R*9-1
+
+I. - Le ministre chargé des télécommunications précise par arrêtés pris après avis de la commission consultative des services
+de télécommunications les conditions générales que doivent respecter les fournisseurs de services-supports en application de
+l'alinéa 3 de l'article L. 34-2.
+
+Ces arrêtés sont publiés au Journal officiel.
+
+Le cahier des charges annexé à chaque autorisation de fourniture de services-supports mentionne expressément celles des
+obligations résultant de ces arrêtés qui sont applicables au bénéficiaire de l'autorisation.
+
+II. - Lorsque des prescriptions techniques sont nécessaires pour assurer le respect d'exigences essentielles mentionnées à
+l'article L. 32, les arrêtés visés au I ci-dessus précisent les cas dans lesquels les fournisseurs conservent, dans le
+respect de ces exigences, la possibilité d'offrir également leurs services selon des normes techniques qui leur sont
+particulières, dès lors que l'accès à ces services est ouvert, selon les prescriptions techniques imposées, dans des
+conditions de coût et de qualité équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-2, L32
+
+	**Créé par**:
+
+	  - Décret n°1992-12-30 art. 2 JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
 
 #### CHAPITRE II : Dispositions pénales.
 
@@ -6213,10 +6304,6 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 	  - Loi n°78-17 du 6 janvier 1978 - art. 16 (M)
 	  - Code des postes et télécommunications L33-4
 
-	**Modifié par**:
-
-	  - Décret n°91-1205 du 26 novembre 1991 - art. 1 () JORF 30 novembre 1991
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°91-1205 du 26 novembre 1991 - art. 2 (V)
@@ -6237,6 +6324,10 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 	  - Code des postes et des communications électroni... - art. R10-8 (V)
 	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
 	  - Code des postes et des communications électronique - art. D98-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6261,12 +6352,8 @@ extraites desdits annuaires concernant les personnes mentionnées à l'alinéa p
 
 	**Cite**:
 
-	  - Code des postes et télécommunications D284 et D317
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Code des postes et télécommunications D284 et D317
 
 	**Codifié par**:
 
@@ -6278,6 +6365,10 @@ extraites desdits annuaires concernant les personnes mentionnées à l'alinéa p
 	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
 	  - Code des postes et des communications électroni... - art. R10-11 (V)
 	  - Code des postes et des communications électronique - art. R11 (T)
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 
 ###### Article R10-2
@@ -6305,10 +6396,6 @@ télécopie, de l'amende prévue pour les contraventions de la 3e classe.
 
 	  - Loi n°89-1008 1989-12-31 art. 10
 
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
@@ -6319,6 +6406,10 @@ télécopie, de l'amende prévue pour les contraventions de la 3e classe.
 	  - Code des postes et des communications électronique - art. D98-1 (M)
 	  - Code des postes et des communications électronique - art. R10-10 (MMN)
 	  - Code des postes et des communications électronique - art. R11 (MMN)
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 
 ###### Article R11
@@ -6334,21 +6425,228 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. R10-11 (V)
+
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L78
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
-	**Nouveaux textes**:
 
-	  - Code des postes et des communications électronique - art. R10-11 (V)
+#### CHAPITRE III : Les services relevant de l'article L. 34-5
+
+###### Article R11-1
+
+On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
+capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
+l'exclusion de toute commutation contrôlée par cet utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-2
+
+Lorsque, pour offrir des services relevant de l'article L. 34-5, l'exploitant public affecte spécialement à cet usage ses
+propres liaisons ou des liaisons dont il s'est assuré la disposition, il est soumis aux règles résultant du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-3
+
+Le ministre chargé des télécommunications définit par arrêté pris après avis de la commission consultative des services de
+télécommunications les prescriptions techniques auxquelles sont soumis les services relevant de l'article L. 34-5, lorsque de
+telles prescriptions sont nécessaires pour assurer le respect des exigences essentielles définies à l'article L. 32.
+
+Ces arrêtés précisent les cas dans lesquels les fournisseurs conservent, dans le respect des exigences essentielles, la
+possibilité d'offrir également leurs services selon des normes techniques qui leur sont particulières, dès lors que l'accès à
+ces services est ouvert, selon les prescriptions techniques imposées, dans des conditions de coût et de qualité équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5, L32
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
+
+
+###### Article R11-4
+
+Les services de télécommunications relevant de l'article L. 34-5 et utilisant des liaisons louées sont classés en deux
+catégories.
+
+Sont classés en catégorie I l'ensemble des services de télécommunications utilisant des liaisons louées dont la taille,
+mesurée par leur capacité globale d'accès, est inférieure à un seuil fixé par arrêté du ministre chargé des
+télécommunications.
+
+Sont classés en catégorie II les autres services.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-5
+
+Est soumise à déclaration préalable auprès du ministre chargé des télécommunications l'offre de services relevant de la
+catégorie I mentionnée à l'article R. 11-4.
+
+Cette déclaration est faite par le fournisseur de services et comporte :
+
+- l'identité du fournisseur ;
+
+- la description sommaire des services offerts et la taille des liaisons louées utilisées à cet effet.
+
+Les modifications apportées aux éléments figurant dans la déclaration doivent être portées à la connaissance du ministre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-4
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-6
+
+Est soumise à autorisation préalable du ministre chargé des télécommunications l'offre de services relevant de la catégorie
+II mentionnée à l'article R. 11-4.
+
+La demande d'autorisation est adressée au directeur de la réglementation générale et comporte les éléments mentionnés à
+l'alinéa 2 de l'article R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n° 83-1025 du 28
+novembre 1983.
+
+Le ministre accorde l'autorisation sollicitée lorsque les services sont offerts dans des conditions qui respectent les
+exigences essentielles définies à l'article L. 32, telles qu'elles sont précisées, le cas échéant, par les prescriptions
+techniques mentionnées à l'article R. 11-3, et lorsque ces services ne constituent pas des services supports.
+
+A défaut de décision expresse dans un délai de quatre mois suivant la réception de la demande, l'autorisation est réputée
+accordée.
+
+Les modifications apportées aux éléments figurant dans la demande d'autorisation doivent être portées à la connaissance du
+ministre qui peut, par décision motivée, inviter l'intéressé à présenter une nouvelle demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-4, R11-5, L32, R11-3
+	  - Décret n°83-1025 1983-11-28
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-7
+
+Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
+
+- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5, et utilisant un ensemble de
+liaisons louées dont la taille est inférieure au seuil fixé par arrêté du ministre chargé des télécommunications, sans avoir
+fait la déclaration prévue à l'article R. 11-5 ;
+
+- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5 dans les conditions non
+conformes aux prescriptions techniques mentionnées à l'article R. 11-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5, R11-5, R11-3
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 #### CHAPITRE IV : Téléphone.
@@ -6397,7 +6695,7 @@ téléphonique installé à sa résidence de Paris d'un département de la métr
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6433,7 +6731,7 @@ imputées au compteur.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6458,7 +6756,7 @@ aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la rede
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6492,7 +6790,7 @@ tarifaires accordées en application des articles R. 15 à R. 20.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6521,7 +6819,7 @@ ministre chargé de l'information.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6552,7 +6850,7 @@ de communications payables à l'arrivée. Il doit être certifié conforme par l
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6577,7 +6875,7 @@ applicable en vertu des textes en vigueur à la location des liaisons télégrap
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6606,7 +6904,7 @@ finances, le ministre chargé des postes et télécommunications et le ministre 
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6639,7 +6937,7 @@ téléphonique de chaque bénéficiaire.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -6683,7 +6981,7 @@ Le secrétariat de la commission est assuré par un agent des services de l'info
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 	**Codifié par**:
 
@@ -9010,201 +9308,6 @@ télécommunications.
 	  - Code des postes et télécommunications L89
 
 	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-## LIVRE II : Le service des télécommunications
-
-### TITRE Ier : Dispositions générales
-
-#### CHAPITRE II : Dispositions pénales.
-
-##### CHAPITRE III : Services relevant de l'article L. 34-5
-
-###### Article R11-5
-
-Est soumise à déclaration préalable auprès du ministre chargé des télécommunications l'offre de services relevant de la
-catégorie I mentionnée à l'article R. 11-4.
-
-Cette déclaration est faite par le fournisseur de services et comporte :
-
-- l'identité du fournisseur ;
-
-- la description sommaire des services offerts et la taille des liaisons louées utilisées à cet effet.
-
-Les modifications apportées aux éléments figurant dans la déclaration doivent être portées à la connaissance du ministre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R11-4
-
-	**Créé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE III : Services relevant de l'article L. 34-5
-
-###### Article R11-1
-
-On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
-capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
-l'exclusion de toute commutation contrôlée par cet utilisateur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Cité par**:
-
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-2
-
-Lorsque, pour offrir des services relevant de l'article L. 34-5, l'exploitant public affecte spécialement à cet usage ses
-propres liaisons ou des liaisons dont il s'est assuré la disposition, il est soumis aux règles résultant du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5
-
-	**Créé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-3
-
-Le ministre chargé des télécommunications définit par arrêté pris après avis de la commission consultative des services de
-télécommunications les prescriptions techniques auxquelles sont soumis les services relevant de l'article L. 34-5, lorsque de
-telles prescriptions sont nécessaires pour assurer le respect des exigences essentielles définies à l'article L. 32.
-
-Ces arrêtés précisent les cas dans lesquels les fournisseurs conservent, dans le respect des exigences essentielles, la
-possibilité d'offrir également leurs services selon des normes techniques qui leur sont particulières, dès lors que l'accès à
-ces services est ouvert, selon les prescriptions techniques imposées, dans des conditions de coût et de qualité équivalentes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5, L32
-
-
-###### Article R11-4
-
-Les services de télécommunications relevant de l'article L. 34-5 et utilisant des liaisons louées sont classés en deux
-catégories.
-
-Sont classés en catégorie I l'ensemble des services de télécommunications utilisant des liaisons louées dont la taille,
-mesurée par leur capacité globale d'accès, est inférieure à un seuil fixé par arrêté du ministre chargé des
-télécommunications.
-
-Sont classés en catégorie II les autres services.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5
-
-	**Créé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-6
-
-Est soumise à autorisation préalable du ministre chargé des télécommunications l'offre de services relevant de la catégorie
-II mentionnée à l'article R. 11-4.
-
-La demande d'autorisation est adressée au directeur de la réglementation générale et comporte les éléments mentionnés à
-l'alinéa 2 de l'article R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n° 83-1025 du 28
-novembre 1983.
-
-Le ministre accorde l'autorisation sollicitée lorsque les services sont offerts dans des conditions qui respectent les
-exigences essentielles définies à l'article L. 32, telles qu'elles sont précisées, le cas échéant, par les prescriptions
-techniques mentionnées à l'article R. 11-3, et lorsque ces services ne constituent pas des services supports.
-
-A défaut de décision expresse dans un délai de quatre mois suivant la réception de la demande, l'autorisation est réputée
-accordée.
-
-Les modifications apportées aux éléments figurant dans la demande d'autorisation doivent être portées à la connaissance du
-ministre qui peut, par décision motivée, inviter l'intéressé à présenter une nouvelle demande d'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R11-4, R11-5, L32, R11-3
-	  - Décret n°83-1025 1983-11-28
-
-	**Créé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-7
-
-Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
-
-- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5, et utilisant un ensemble de
-liaisons louées dont la taille est inférieure au seuil fixé par arrêté du ministre chargé des télécommunications, sans avoir
-fait la déclaration prévue à l'article R. 11-5 ;
-
-- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5 dans les conditions non
-conformes aux prescriptions techniques mentionnées à l'article R. 11-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5, R11-5, R11-3
-
-	**Créé par**:
 
 	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
