@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1992-02-06
+Version Consolidée au 1992-03-29
 
 # Partie législative
 
@@ -6243,12 +6243,6 @@ En cas de récidive, le contrevenant sera puni de l'amende prévue pour la réci
 	  - Décret n°62-274 1962-03-12
 
 
-## LIVRE II : Le service des télécommunications
-
-### TITRE Ier : Dispositions générales
-
-#### CHAPITRE II : Dispositions pénales.
-
 ###### Article R10-1
 
 Les personnes physiques ayant souscrit un abonnement dans les conditions prévues aux articles D. 317 et D. 284 peuvent, en
@@ -6272,7 +6266,7 @@ extraites desdits annuaires concernant les personnes mentionnées à l'alinéa p
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6311,9 +6305,9 @@ télécopie, de l'amende prévue pour les contraventions de la 3e classe.
 
 	  - Loi n°89-1008 1989-12-31 art. 10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-638 du 9 juillet 1991 - art. 1 () JORF 11 juillet 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6346,7 +6340,7 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6401,17 +6395,13 @@ téléphonique installé à sa résidence de Paris d'un département de la métr
 
 	  - Code des postes, télégraphes et téléphones L213
 
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-	**Modifié par**:
-
-	  - Décret n°68-274 1968-03-23 art. 1 JORF 26 mars 1968
 
 
 ###### Article R*13
@@ -6432,14 +6422,6 @@ imputées au compteur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 	**Cite**:
 
 	  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
@@ -6448,6 +6430,14 @@ imputées au compteur.
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L214
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ###### Article R*14
@@ -6468,7 +6458,7 @@ aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la rede
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6502,7 +6492,7 @@ tarifaires accordées en application des articles R. 15 à R. 20.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6529,13 +6519,13 @@ ministre chargé de l'information.
 
 	  - Code des postes, télégraphes et téléphones R45
 
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*17
@@ -6562,7 +6552,7 @@ de communications payables à l'arrivée. Il doit être certifié conforme par l
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6585,13 +6575,13 @@ applicable en vertu des textes en vigueur à la location des liaisons télégrap
 
 	  - Code des postes, télégraphes et téléphones R47
 
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*18-1
@@ -6614,9 +6604,9 @@ finances, le ministre chargé des postes et télécommunications et le ministre 
 	  - Code des postes et télécommunications R15 al. 2
 	  - Loi n°76-1233 1976-12-29 art. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-1221 1977-11-08 art. 1 JORF 9 novembre 1977
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6649,15 +6639,11 @@ téléphonique de chaque bénéficiaire.
 
 	**Modifié par**:
 
-	  - Décret n°77-1221 1977-11-08 art. 2 JORF 9 novembre 1977
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article R*20
@@ -6695,16 +6681,116 @@ Le secrétariat de la commission est assuré par un agent des services de l'info
 
 	  - Code des postes, télégraphes et téléphones R49
 
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 
 ### TITRE II : Prérogatives et servitudes
+
+#### CHAPITRE Ier : Régime juridique
+
+##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.
+
+###### Article R20-15
+
+Les dossiers et la correspondance se rapportant aux procédures visées à la présente section sont rédigés en langue française.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### SECTION 5 : Admission des installateurs.
+
+###### Article R20-25
+
+La commission d'admission des installateurs comprend des représentants de l'Etat, des installateurs, des constructeurs
+d'équipements terminaux et des exploitants de réseaux de télécommunications ou de radiocommunications.
+
+Elle comporte deux sections, compétentes respectivement pour les installateurs en télécommunications et pour les
+installateurs en radiocommunications.
+
+Un arrêté du ministre chargé des télécommunications précise la composition, les attributions et les conditions de
+fonctionnement de cette commission.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-26 (V)
+	  - Code des postes et des communications électroni... - art. R20-27 (V)
+	  - Code des postes et des communications électroni... - art. R20-3 (V)
+
+
+##### SECTION 6 : Dispositions pénales.
+
+###### Article R20-29
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque met sur le marché un équipement
+terminal susceptible d'être raccordé au réseau ouvert au public mais non destiné à une telle utilisation, qui n'a pas fait
+l'objet de la déclaration visée au 1° de l'article R. 20-14 ou sur lequel n'est pas apposé le marquage prévu au 4° de
+l'article R. 20-14.
+
+En cas de condamnation, le tribunal peut ordonner la confiscation des équipements terminaux de télécommunications concernés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-14
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-30
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque fait usage de la qualité
+d'installateur admis en télécommunications ou en radiocommunications, en violation des dispositions de l'article R. 20-24.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-24
+
 
 #### CHAPITRE Ier : Etablissement et entretien des lignes et des installations de télécommunications
 
@@ -6735,9 +6821,9 @@ figurant sur une liste publiée au Journal officiel des communautés européenne
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6805,9 +6891,9 @@ France, au sens de l'article R. 20-1. A ce titre, il reçoit les demandes d'agr�
 
 	  - Code des postes et télécommunications R20-7, R20-9, R20-14, R20-1, R20-4, R20-5, R20-6
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6842,12 +6928,12 @@ dispositions de la section III du présent chapitre.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L32
 	  - Décret n°84-74 du 26 janvier 1984 - art. 12 (M)
+	  - Code des postes et télécommunications L32
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6868,9 +6954,9 @@ responsabilités incombant au titulaire de l'agrément.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6901,9 +6987,9 @@ normes et spécifications techniques relatives à la protection du spectre radio
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6944,9 +7030,9 @@ au demandeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -6978,9 +7064,9 @@ b) Il met en oeuvre un système approuvé de qualité de la production dans les 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7017,9 +7103,9 @@ inspections et visites sur place du respect par le demandeur des obligations ré
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7060,9 +7146,9 @@ le fabricant des obligations du système d'assurance de qualité complète appro
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7107,9 +7193,9 @@ réglementation générale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7154,9 +7240,9 @@ télécommunications.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7187,9 +7273,9 @@ l'agrément par une décision motivée, notifiée au titulaire de cet agrément.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7222,9 +7308,9 @@ numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7256,29 +7342,14 @@ ministre chargé des télécommunications.
 
 	  - Code des postes et télécommunications R20-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Cité par**:
 
 	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
 	  - Code des postes et des communications électroni... - art. R20-20 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-15
-
-Les dossiers et la correspondance se rapportant aux procédures visées à la présente section sont rédigés en langue française.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
 
 	**Codifié par**:
 
@@ -7292,9 +7363,9 @@ techniques des équipements terminaux soumis à agrément sont publiées au Jour
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7310,9 +7381,9 @@ fabricant ou le fournisseur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7344,9 +7415,9 @@ une liste publiée au Journal officiel des communautés européennes.
 
 	  - Code des postes et télécommunications R20-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7364,9 +7435,9 @@ connecté à un réseau ouvert au public, sans être destiné à une telle utili
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7397,9 +7468,9 @@ celles-ci.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7414,9 +7485,9 @@ documentation établie par un organisme pertinent de ce pays.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7465,9 +7536,13 @@ connectés ces terminaux de suspendre la fourniture du service à l'utilisateur 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Code des postes et télécommunications R20-13, R20-19, R20-23
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7476,10 +7551,6 @@ connectés ces terminaux de suspendre la fourniture du service à l'utilisateur 
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. D375 (Ab)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-13, R20-19, R20-23
 
 
 ##### SECTION 5 : Admission des installateurs.
@@ -7523,9 +7594,9 @@ motivés et notifiés à l'entreprise concernée.
 
 	  - Code des postes et télécommunications R20-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7542,9 +7613,9 @@ l'inscription sur la liste, des installateurs qui auront manqué gravement à le
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7553,34 +7624,6 @@ l'inscription sur la liste, des installateurs qui auront manqué gravement à le
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. R20-30 (M)
-
-
-###### Article R20-25
-
-La commission d'admission des installateurs comprend des représentants de l'Etat, des installateurs, des constructeurs
-d'équipements terminaux et des exploitants de réseaux de télécommunications ou de radiocommunications.
-
-Elle comporte deux sections, compétentes respectivement pour les installateurs en télécommunications et pour les
-installateurs en radiocommunications.
-
-Un arrêté du ministre chargé des télécommunications précise la composition, les attributions et les conditions de
-fonctionnement de cette commission.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-26 (V)
-	  - Code des postes et des communications électroni... - art. R20-27 (V)
-	  - Code des postes et des communications électroni... - art. R20-3 (V)
 
 
 ##### SECTION 6 : Dispositions pénales.
@@ -7603,9 +7646,9 @@ En cas de condamnation, le tribunal peut ordonner la confiscation des équipemen
 
 	  - Code des postes et télécommunications R20-2, R20-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7624,9 +7667,9 @@ sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 2
 
 	  - Code des postes et télécommunications R20-2, R20-18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7646,13 +7689,9 @@ ou de la décision approuvant sa connexion au réseau mentionnée au 1° de l'ar
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des postes et télécommunications R20-13, R20-19, L40, R20-2, R20-18
-
-	**Créé par**:
-
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7662,54 +7701,9 @@ ou de la décision approuvant sa connexion au réseau mentionnée au 1° de l'ar
 
 	  - Code des postes et des communications électronique - art. R20-30-1 (M)
 
-
-###### Article R20-29
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque met sur le marché un équipement
-terminal susceptible d'être raccordé au réseau ouvert au public mais non destiné à une telle utilisation, qui n'a pas fait
-l'objet de la déclaration visée au 1° de l'article R. 20-14 ou sur lequel n'est pas apposé le marquage prévu au 4° de
-l'article R. 20-14.
-
-En cas de condamnation, le tribunal peut ordonner la confiscation des équipements terminaux de télécommunications concernés.
-
-**Liens relatifs à cet article**
-
 	**Cite**:
 
-	  - Code des postes et télécommunications R20-14
-
-	**Créé par**:
-
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-30
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque fait usage de la qualité
-d'installateur admis en télécommunications ou en radiocommunications, en violation des dispositions de l'article R. 20-24.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-116 du 4 février 1992 - art. 1 () JORF 6 février 1992
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-24
+	  - Code des postes et télécommunications R20-13, R20-19, L40, R20-2, R20-18
 
 
 #### CHAPITRE II : Servitudes radio-électriques
@@ -7736,7 +7730,7 @@ radionavigation d'émission ou de réception.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7792,7 +7786,7 @@ recoupent pas mutuellement.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7823,7 +7817,7 @@ delà des deux limites de ce secteur.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7866,7 +7860,7 @@ imposer.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Cité par**:
 
@@ -7894,7 +7888,7 @@ desquelles les agents qualifiés sont autorisés à procéder à une étude pré
 dans les propriétés non closes de murs ou de clôtures équivalentes situées sur le territoire de ces communes.
 
 Après achèvement de l'enquête visée au premier alinéa du présent article, le plan des servitudes qui en résulte est approuvé
-par décret pris sous le contreseing du ministre dont les services exploitent le centre ou exrcent la tutelle sur lui, sur
+par décret pris sous le contreseing du ministre dont les services exploitent le centre ou exercent la tutelle sur lui, sur
 avis du comité de coordination des télécommunications ainsi que sous le contreseing du ministre de la construction.
 
 L'accord préalable du ministre du développement industriel et scientifique et du ministre de l'agriculture est requis dans
@@ -7911,21 +7905,21 @@ l'enquête.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R*24 (V)
+
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L100
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R*24 (V)
 
 
 ###### Article R*26
@@ -7957,7 +7951,7 @@ mobiles dans un secteur de dégagement.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -7988,7 +7982,7 @@ la zone de protection, une zone de garde radioélectrique.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8033,7 +8027,7 @@ mutuellement.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8062,7 +8056,7 @@ ministre dont les services exploitent le centre ou exercent la tutelle sur lui.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Cité par**:
 
@@ -8123,7 +8117,7 @@ l'enquête.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8148,7 +8142,7 @@ en vigueur et, notamment, les textes concernant la protection de la radiodiffusi
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8176,7 +8170,7 @@ dévolus aux différents ministres intéressés et les décrets d'application po
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8205,7 +8199,7 @@ lesquelles interviennent les autorisations prévues aux articles L. 60 et R. 30 
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8230,7 +8224,7 @@ lieu à autorisation préalable à la mise en service.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8258,7 +8252,7 @@ prévues à l'article 4 de la loi du 15 juin 1906.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8286,7 +8280,7 @@ ministres intéressés ou de l'exploitant public.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8318,7 +8312,7 @@ b) Etre mis en service sur l'ensemble du territoire même hors des zones de serv
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8345,7 +8339,7 @@ Les modalités de cette action sont établies par le comité de coordination des
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8361,13 +8355,9 @@ par arrêté du ministre intéressé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L107
-
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8378,6 +8368,10 @@ par arrêté du ministre intéressé.
 	  - Code de l'urbanisme - art. (V)
 	  - Code des postes et des communications électroni... - art. R*28 (V)
 	  - Code des postes et des communications électroni... - art. R*33 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L107
 
 
 ##### SECTION 3 : Dispositions pénales.
@@ -8403,7 +8397,7 @@ intéressé ou de son délégué.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8427,7 +8421,7 @@ la loi du 15 juin 1906.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Cité par**:
 
@@ -8462,7 +8456,7 @@ des centres de réception radioélectriques.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8512,9 +8506,9 @@ d'absence de réponse du service dans le délai d'un mois prévu à l'alinéa 3.
 	  - Code des postes et télécommunications R44-1
 	  - Décret n°91-1147 1991-10-14 annexe IV, annexe VIII
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1147 du 14 octobre 1991 - art. 17 () JORF 9 novembre 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8527,7 +8521,7 @@ d'absence de réponse du service dans le délai d'un mois prévu à l'alinéa 3.
 
 Sans préjudice de l'application des dispositions de l'article L. 66 du présent code, quiconque, de quelque manière que ce
 soit, détériore ou dégrade une installation du réseau aérien des télécommunications de l'Etat ou de l'exploitant public ou
-compromet le fonctionnement de ce réseau [*infraction*] sera puni [*sanction*] d'une amende de 160 à 2 000 F.
+compromet le fonctionnement de ce réseau [*infraction*] sera puni [*sanction*] d'une amende de 160 à 2000 F.
 
 **Nota:**
 
@@ -8545,7 +8539,11 @@ compromet le fonctionnement de ce réseau [*infraction*] sera puni [*sanction*] 
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -8568,7 +8566,11 @@ La contravention prévue à l'article précédent est poursuivie et jugée comme
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -8596,7 +8598,11 @@ compris, avant la date de début des travaux.
 
 	**Modifié par**:
 
-	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -8629,7 +8635,11 @@ des travaux d'une lettre de rappel confirmant son intention d'entreprendre les t
 
 	**Modifié par**:
 
-	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -8646,9 +8656,13 @@ lors de la reprise de ceux-ci.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -8662,9 +8676,13 @@ la commune en cas de dégradation d'un ouvrage ou de toute autre anomalie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -8680,12 +8698,15 @@ la commune en cas de dégradation d'un ouvrage ou de toute autre anomalie.
 ###### Article R45
 
 Est puni [*sanction*] d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et d'un
-emprisonnement de un à cinq jours [*durée résultant du décret 80-567 du 18 juillet 1980*] quiconque s'est refusé à exhiber
-les pièces nécessaires pour rédiger les procès-verbaux prévus à l'article L. 79.
+emprisonnement de un à cinq jours [*durée résultant du décret 80-567 du 18 juillet 1980 - caduc*] quiconque s'est refusé à
+exhiber les pièces nécessaires pour rédiger les procès-verbaux prévus à l'article L. 79.
 
 **Nota:**
 
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.
+
+L'article 464 du code pénal, dans sa rédaction issue de le loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme peines de
+police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -8699,7 +8720,11 @@ les pièces nécessaires pour rédiger les procès-verbaux prévus à l'article 
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-913 1993-07-19
 
 	**Codifié par**:
 
@@ -8731,7 +8756,7 @@ des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mil
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8749,8 +8774,7 @@ des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mil
 
 ###### Article R47
 
-Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et peut être
-puni d'un emprisonnement de dix jours à un mois [*durée résultant du décret n° 80-569 du 18 juillet 1980*] :
+Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois :
 
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart de mille nautique d'un câble sous-marin,
 dont il est en mesure de connaître la position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
@@ -8766,7 +8790,10 @@ des bouées destinées à indiquer la position des câbles sous-marins.
 
 **Nota:**
 
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal.
+
+NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
+peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -8776,20 +8803,24 @@ des bouées destinées à indiquer la position des câbles sous-marins.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-913 193-07-19
+
 
 ###### Article R48
 
-Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois  :
+Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois :
 
 1° Toute personne qui, par négligence coupable et notamment dans les cas visés par les articles R. 46 et R. 47, rompt un
 câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
-les télécommunications ;
+les télécommunications [*infraction*] ;
 
 2° Le capitaine de tout bâtiment qui, occupé à la pose ou à la réparation d'un câble sous-marin, est cause, par
 l'inobservation des règles sur les signaux adoptés en vue de prévenir les abordages, de la rupture ou de la détérioration
@@ -8797,7 +8828,10 @@ d'un câble commise par tout autre navire.
 
 **Nota:**
 
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.
+
+NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
+peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -8811,7 +8845,11 @@ d'un câble commise par tout autre navire.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-913 1993-07-19
 
 	**Codifié par**:
 
@@ -8820,8 +8858,7 @@ d'un câble commise par tout autre navire.
 
 ###### Article R49
 
-Est punie [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et peut être
-punie d'un emprisonnement de dix jours à un mois [*durée*] :
+Est punie d'une amende de 3 000 à 6 000 F et peut être punie d'un emprisonnement de dix jours à un mois :
 
 1° Toute personne qui fabrique, détient hors de son domicile, met en vente, embarque ou fait embarquer des instruments ou
 engins servant exclusivement à couper ou à détruire des câbles sous-marins [*infraction*] ;
@@ -8830,7 +8867,10 @@ engins servant exclusivement à couper ou à détruire des câbles sous-marins [
 
 **Nota:**
 
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+NOTA : Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal.
+
+NOTA : L'article 464 du code pénal, dans sa rédaction issue de la loi n° 93-913 du 19 juillet 1993, ne prévoit plus comme
+peines de police que l'amende et la confiscation d'objets saisis, et ce, dès la date de publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -8840,7 +8880,11 @@ engins servant exclusivement à couper ou à détruire des câbles sous-marins [
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-913 1993-07-19
 
 	**Codifié par**:
 
@@ -8871,7 +8915,7 @@ dispositions de l'article L. 67.
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8890,9 +8934,17 @@ l'article L. 72.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code des postes et télécommunications L72 et L81 al. 3
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L150 al. 3
+
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8901,14 +8953,6 @@ l'article L. 72.
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R52 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L72 et L81 al. 3
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L150 al. 3
 
 
 ###### Article R52
@@ -8935,7 +8979,7 @@ qui précèdent, il a été rendu contre le contrevenant un jugement définitif 
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -8967,7 +9011,202 @@ télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°92-116 du 4 février 1992 - art. 2 (V) JORF 6 février 1992
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+## LIVRE II : Le service des télécommunications
+
+### TITRE Ier : Dispositions générales
+
+#### CHAPITRE II : Dispositions pénales.
+
+##### CHAPITRE III : Services relevant de l'article L. 34-5
+
+###### Article R11-5
+
+Est soumise à déclaration préalable auprès du ministre chargé des télécommunications l'offre de services relevant de la
+catégorie I mentionnée à l'article R. 11-4.
+
+Cette déclaration est faite par le fournisseur de services et comporte :
+
+- l'identité du fournisseur ;
+
+- la description sommaire des services offerts et la taille des liaisons louées utilisées à cet effet.
+
+Les modifications apportées aux éléments figurant dans la déclaration doivent être portées à la connaissance du ministre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-4
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+#### CHAPITRE III : Services relevant de l'article L. 34-5
+
+###### Article R11-1
+
+On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
+capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
+l'exclusion de toute commutation contrôlée par cet utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-2
+
+Lorsque, pour offrir des services relevant de l'article L. 34-5, l'exploitant public affecte spécialement à cet usage ses
+propres liaisons ou des liaisons dont il s'est assuré la disposition, il est soumis aux règles résultant du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-3
+
+Le ministre chargé des télécommunications définit par arrêté pris après avis de la commission consultative des services de
+télécommunications les prescriptions techniques auxquelles sont soumis les services relevant de l'article L. 34-5, lorsque de
+telles prescriptions sont nécessaires pour assurer le respect des exigences essentielles définies à l'article L. 32.
+
+Ces arrêtés précisent les cas dans lesquels les fournisseurs conservent, dans le respect des exigences essentielles, la
+possibilité d'offrir également leurs services selon des normes techniques qui leur sont particulières, dès lors que l'accès à
+ces services est ouvert, selon les prescriptions techniques imposées, dans des conditions de coût et de qualité équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5, L32
+
+
+###### Article R11-4
+
+Les services de télécommunications relevant de l'article L. 34-5 et utilisant des liaisons louées sont classés en deux
+catégories.
+
+Sont classés en catégorie I l'ensemble des services de télécommunications utilisant des liaisons louées dont la taille,
+mesurée par leur capacité globale d'accès, est inférieure à un seuil fixé par arrêté du ministre chargé des
+télécommunications.
+
+Sont classés en catégorie II les autres services.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-6
+
+Est soumise à autorisation préalable du ministre chargé des télécommunications l'offre de services relevant de la catégorie
+II mentionnée à l'article R. 11-4.
+
+La demande d'autorisation est adressée au directeur de la réglementation générale et comporte les éléments mentionnés à
+l'alinéa 2 de l'article R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n° 83-1025 du 28
+novembre 1983.
+
+Le ministre accorde l'autorisation sollicitée lorsque les services sont offerts dans des conditions qui respectent les
+exigences essentielles définies à l'article L. 32, telles qu'elles sont précisées, le cas échéant, par les prescriptions
+techniques mentionnées à l'article R. 11-3, et lorsque ces services ne constituent pas des services supports.
+
+A défaut de décision expresse dans un délai de quatre mois suivant la réception de la demande, l'autorisation est réputée
+accordée.
+
+Les modifications apportées aux éléments figurant dans la demande d'autorisation doivent être portées à la connaissance du
+ministre qui peut, par décision motivée, inviter l'intéressé à présenter une nouvelle demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R11-4, R11-5, L32, R11-3
+	  - Décret n°83-1025 1983-11-28
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R11-7
+
+Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
+
+- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5, et utilisant un ensemble de
+liaisons louées dont la taille est inférieure au seuil fixé par arrêté du ministre chargé des télécommunications, sans avoir
+fait la déclaration prévue à l'article R. 11-5 ;
+
+- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5 dans les conditions non
+conformes aux prescriptions techniques mentionnées à l'article R. 11-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L34-5, R11-5, R11-3
+
+	**Créé par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
 
 	**Codifié par**:
 
@@ -18048,38 +18287,6 @@ l'article D. 363, est arrondi au nombre entier multiple de trois immédiatement 
 
 #### CHAPITRE  V : Services particuliers des télécommunications
 
-##### SECTION 1 : Dispositions générales.
-
-###### Article D368
-
-Des liaisons de télécommunications peuvent être mises à la disposition des usagers. Ces liaisons se subdivisent en deux
-catégories :
-
-- les liaisons spécialisées ;
-
-- les lignes d'intérêt privé.
-
-Une ligne d'intérêt privé n'est accordée que dans le cas où la liaison demandée par l'usager ne peut être assurée par la mise
-à sa disposition d'une liaison spécialisée.
-
-Il appartient à l'administration des postes et télécommunications de déterminer de quelle manière satisfaction peut être
-donnée au demandeur, eu égard à l'intérêt général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
 ##### SECTION 2 : Liaisons spécialisées
 
 ##### Paragraphe 1er : Régime général.
@@ -18112,6 +18319,59 @@ autorisée à titre exceptionnel et moyennant, le cas échéant, des prescriptio
 	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
 
 
+###### Article D370
+
+Les contrats de location de liaisons louées ont une durée minimale de trois mois. A l'échéance de la durée initialement
+prévue, ils sont tacitement reconduits de mois en mois. Toutefois, la durée du contrat peut être inférieure à trois mois en
+cas de circonstances exceptionnelles, pour des liaisons louées à l'occasion de manifestations importantes ou pour des
+liaisons louées de presse définies à l'article D. 377.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D377
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D371 (V)
+	  - Code des postes et des communications électronique - art. D379 (Ab)
+
+
+###### Article D371
+
+Les contrats de location de liaisons louées sont résiliés à la demande du contractant à condition que cette demande soit
+présentée par écrit quinze jours au moins [*délai*] avant l'expiration du contrat.
+
+Les dispositions de l'article D. 341 sont applicables à ces contrats.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D341
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D379 (Ab)
+
+
 ###### Article D372
 
 L'administration des postes et télécommunications peut exercer sur les liaisons spécialisées un contrôle par les moyens
@@ -18137,6 +18397,25 @@ entraîner la reprise immédiate de la liaison sans indemnité et sans rembourse
 	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
 
 
+###### Article D373
+
+Les spécifications techniques générales de transmission et d'exploitation des liaisons louées sont fixées par l'exploitant
+public et font l'objet d'une publication.
+
+L'exploitant public peut, à la demande du client, établir des liaisons louées répondant à des spécifications techniques
+particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+
+
 ###### Article D377
 
 Les liaisons dites "de presse" sont des liaisons télégraphiques ou téléphoniques louées aux journaux paraissant au moins six
@@ -18155,13 +18434,22 @@ parlé.
 	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
-###### Article D381
+###### Article D378
 
-Plusieurs liaisons spécialisées peuvent être aboutées dans les locaux de l'un des contractants. Celui-ci est tenu d'en faire
-déclaration à l'administration des télécommunications à peine de suspension d'office de la liaison.
+Les liaisons louées dites "de sécurité publique" sont des liaisons louées louées aux services publics ou aux concessionnaires
+de service public et reconnues nécessaires pour assurer la sécurité publique.
 
-La responsabilité de l'administration ne peut être mise en cause à raison de la qualité de la transmission sur des liaisons
-spécialisées ainsi aboutées.
+Il s'agit :
+
+a) Des liaisons louées louées aux entrepreneurs de distribution d'énergie électrique et reconnues nécessaires pour assurer la
+sécurité de leur exploitation en exécution des lois et règlements en vigueur ;
+
+b) Des liaisons louées reliant les locaux de services publics aux services d'alerte de la police ou aux services de
+pompiers ;
+
+c) Des liaisons louées demandées par des services publics ou des concessionnaires de service public pour raccorder des
+installations simples de télécommande, télésignalisation ou télémesure (relais, sirène, horloge, sonnerie, indicateur de
+niveau d'eau, etc.) dont la commande est effectuée par courant continu ou par courant alternatif à très basse fréquence.
 
 **Liens relatifs à cet article**
 
@@ -18171,11 +18459,54 @@ spécialisées ainsi aboutées.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+
+
+###### Article D379
+
+L'exploitant public peut établir des liaisons louées aboutissant à un service particulier proposé par elle, qui nécessite
+l'accès à des équipements de commutation, de diffusion ou de concentration situés dans ses locaux.
+
+Par l'intermédiaire de ces équipements, ces liaisons sont destinées à permettre notamment :
+
+a) La mise en relation permanente d'une installation terminale principale avec des installations terminales secondaires. Ces
+liaisons sont appelées "liaisons louées multipoints" ;
+
+b) La réception de signaux horaires ou de la fréquence étalon ou de tout autre message destiné au public ou à des catégories
+particulières de clients ;
+
+c) Le prolongement d'une ligne d'abonnement jusqu'à un commutateur public de rattachement exceptionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+
+
+###### Article D380
+
+Une liaison louée peut être connectée à des lignes d'abonnement ou à des liaisons louées dans les locaux du contractant. Dans
+ce cas, l'intéressé doit respecter les normes de transmission et de trafic applicables aux lignes d'abonnement ou aux
+liaisons louées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
 
 	**Abrogé par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
+	  - Décret n°93-961 1993-07-28 art. 3 JORF 29 juillet 1993
 
 
 ###### Article D382
@@ -18200,404 +18531,6 @@ considérée comme une liaison individuelle de même catégorie.
 	**Abrogé par**:
 
 	  - Décret n°93-961 1993-07-28 art. 3 JORF 29 juillet 1993
-
-
-##### Paragraphe 2 : Régime des réseaux télématiques ouverts à des tiers.
-
-###### Article D385-1
-
-Les conditions dans lesquelles une personne morale peut, en dérogation aux dispositions des articles D. 369, D. 370 et D.
-380, utiliser des liaisons spécialisées pour constituer ou étendre un réseau télématique ouvert à des tiers sont définies aux
-articles ci-après.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D369, D370 et D380
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-2
-
-Un réseau télématique ouvert à des tiers est   l'ensemble des moyens informatiques et de communication gérés par une même
-personne morale, qui offre à des tiers des services associant le transport et, pour une part majoritaire, le traitement
-informatique de données.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-3
-
-Les réseaux télématiques ouverts à des tiers sont classés en deux catégories : I et II.
-
-Sont classés en catégorie II les réseaux dont la taille, mesurée par la capacité pondérée des accès externes, est supérieure
-à un seuil N1. Ce seuil est plus élevé (N2) dans le cas où le réseau n'offre que des services spécifiques, c'est-à-dire :
-
-- soit des services relatifs à l'automatisation d'une même fonction auprès de l'ensemble des utilisateurs ;
-
-- soit des services destinés exclusivement à un ensemble d'utilisateurs exerçant des activités professionnelles identiques ou
-complémentaires.
-
-Sont classés en catégorie I tous les autres réseaux.
-
-Les accès externes à un réseau sont ceux qui ne sont pas réservés à l'usage interne du gestionnaire du réseau. Leur capacité
-pondérée est obtenue en additionnant les débits nominaux de chacun des accès externes.
-
-Les seuils N1 et N2, qui ne peuvent être inférieurs, respectivement, à la valeur de 3,5 mégabits par seconde et à la valeur
-de 5 mégabits par seconde, sont fixés par arrêté du ministre chargé des télécommunications. Ils peuvent être progressivement
-augmentés par arrêté du même ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-4
-
-La personne morale exploitant un réseau télématique ouvert à des tiers ne peut utiliser ce réseau pour transporter des
-signaux vocaux entre tiers. Elle doit respecter pour chaque service offert sur le réseau, entre le montant des charges
-d'exploitation annuelles correspondant à l'activité de transport des données et le montant du chiffre d'affaires annuel total
-correspondant à l'exploitation du service télématique, un rapport au plus égal à un pourcentage déterminé. Ce pourcentage,
-qui ne peut être inférieur à 15 p. 100, est fixé par arrêté du ministre chargé des télécommunications. Il peut être
-progressivement augmenté par arrêté du même ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-5
-
-Une personne morale peut prendre en location des liaisons spécialisées en vue de la constitution ou de l'extension d'un
-réseau de catégorie I si elle a fait une déclaration préalable auprès du ministre chargé des télécommunications.
-
-Cette déclaration, qui doit être mise à jour chaque année, indique :
-
-- la dénomination ou la raison sociale de la personne morale, le nom de son représentant légal et, s'il s'agit d'une société,
-la composition de son capital ;
-
-- la liste des services offerts par le réseau et les catégories d'utilisateurs auxquels sont destinés ces services ;
-
-- l'architecture du réseau, et notamment la description et le débit des liaisons spécialisées utilisées, y compris des
-liaisons internationales ; le cas échéant, les interconnexions avec d'autres réseaux télématiques ouverts à des tiers ainsi
-que les connexions avec les réseaux étrangers ;
-
-- le nombre, le type et le débit nominal des accès internes et externes ;
-
-- les procédures proposées aux utilisateurs pour l'accès aux services offerts par le réseau.
-
-Le contrat conclu par la personne morale déclarée avec l'administration des télécommunications pour la location des liaisons
-spécialisées constituant le réseau doit comporter des prescriptions spéciales interdisant le transport de signaux vocaux
-entre tiers, rappelant l'obligation visée à l'article D. 385-4 et assurant le contrôle du respect de ces prescriptions. Il
-mentionne également les obligations auxquelles est soumis le réseau en application des articles D. 385-9 et D. 385-10.
-
-Le ministre chargé des télécommunications tient régulièrement informée la Commission nationale de la communication et des
-libertés des déclarations qu'il reçoit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D385-4, D385-9 et D385-10
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-6
-
-Une personne morale peut prendre en location des liaisons spécialisées en vue de la constitution d'un réseau de catégorie II
-si elle a obtenu une autorisation préalable délivrée par le ministre chargé des télécommunications après avis de la
-Commission nationale de la communication et des libertés. La durée maximale de cette autorisation est de douze ans.
-
-La demande d'autorisation contient tous les éléments mentionnés au second alinéa de l'article D. 385-5. La mise à jour de ces
-éléments est portée chaque année à la connaissance du ministre chargé des télécommunications.
-
-En sus des prescriptions spéciales et mentions énoncées à l'article D. 385-5, le contrat conclu par la personne morale
-autorisée avec l'administration des télécommunications pour la location des liaisons spécialisées constituant le réseau doit
-comporter l'engagement de la personne morale de facturer de manière distincte auprès des utilisateurs du réseau le coût du
-transport des données et le coût de leur traitement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D385-5
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-7
-
-La personne morale exploitant un réseau de catégorie I ne peut apporter à ce réseau une modification ayant pour effet de le
-classer en catégorie II sans avoir obtenu au préalable une autorisation dans les mêmes conditions que celles énoncées à
-l'article D. 385-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D385-6
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-8
-
-Lorsque les liaisons spécialisées constituant un réseau télématique ouvert à des tiers sont prises en location non par une
-personne morale unique, mais par plusieurs sociétés appartenant à un même groupe, la déclaration prévue à l'article D. 385-5
-ou la demande d'autorisation prévue à l'article D. 385-6 est faite, pour l'ensemble du réseau et pour le compte de sociétés
-appartenant au groupe, par l'une de ces sociétés désignée par le groupe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D385-5 et D385-6
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-9
-
-La personne morale exploitant un réseau télématique ouvert à des tiers dont la taille, mesurée par la capacité pondérée des
-accès externes définie à l'article D. 385-3, est supérieure à un seuil N3 ou, dans le cas où le réseau n'offre que des
-services spécifiques décrits à l'article D. 385-3, à un seuil plus élevé N4, est tenue de proposer l'accès aux services
-offerts sur le réseau selon des prescriptions techniques définies par arrêté du ministre chargé des télécommunications. Cette
-obligation doit être respectée au plus tard dans le délai d'un an après la publication des prescriptions techniques et à des
-conditions, d'une part de prix et d'autre part de performance, au moins équivalentes à celles pratiquées pour l'accès aux
-mêmes services suivant les procédures particulières au gestionnaire du réseau.
-
-Les seuils N3 et N4, qui ne peuvent être supérieurs, respectivement, à la valeur de 3,5 mégabits par seconde et à la valeur
-de 5 mégabits par seconde, sont fixés par arrêté du ministre chargé des télécommunications. Ils peuvent être progressivement
-diminués par arrêté du même ministre.
-
-Les prescriptions techniques visées au premier alinéa du présent article sont définies par arrêté du ministre chargé des
-télécommunications après consultation de la commission consultative instituée à l'article D. 96-2 du code des postes et
-télécommunications. Elles sont fondées sur les normes, avis ou recommandations des instances européennes et internationales,
-et tendent notamment à promouvoir progressivement l'utilisation exclusive des normes O.S.I. au fur et à mesure de leur
-élaboration.
-
-Pour l'accès aux services auxquels s'appliquent ces prescriptions techniques, le ministre chargé des télécommunications peut,
-après avis de la commission consultative instituée à l'article D. 96-2 du code des postes et télécommunications, prescrire
-l'abandon dans un délai déterminé des procédures particulières aux gestionnaires des réseaux. Ce délai ne peut être inférieur
-à deux ans.
-
-Le ministre chargé des télécommunications soumet chaque année à l'examen de la commission consultative instituée à l'article
-D. 96-2 du code des postes et télécommunications les procédures particulières aux gestionnaires des réseaux dont l'abandon
-est susceptible d'être prescrit en application de l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D385-3, D96-2
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 2 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-10
-
-La personne morale exploitant un réseau télématique ouvert à des tiers est tenue de mettre à la disposition de toute personne
-qui en ferait la demande les spécifications techniques détaillées d'utilisation du réseau.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-11
-
-L'administration des télécommunications peut exercer sur les liaisons spécialisées louées en application de l'article D.
-385-5 ou de l'article D. 385-6 un contrôle par les moyens qu'elle juge utile d'employer pour s'assurer que les prescriptions
-réglementaires ou contenues dans le contrat de location sont appliquées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D385-5 et D385-6
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-12
-
-Le contrat conclu en application de l'article D. 385-5 ou de l'article D. 385-6 peut être suspendu ou résilié à la demande du
-contractant dans les conditions prévues à l'article D. 371.
-
-Dans le cas où le réseau constitué ne serait pas conforme à la déclaration faite en application de l'article D. 385-5 ou à
-l'autorisation obtenue en application de l'article D. 385-6, ainsi que dans le cas où la personne morale exploitant le réseau
-ne respecterait pas les prescriptions imposées par les articles D. 385-4 à D. 385-10, le contrat [*sanction*] peut être
-suspendu par l'administration des télécommunications pour une durée maximale de trois mois. Cette suspension [*procédure*] ne
-peut intervenir qu'après mise en demeure non suivie d'effet dans le délai de trois mois et dans le respect des garanties
-prévues à l'article D. 385-13.
-
-Si, au terme de la période de suspension, la personne morale exploitant le réseau ne s'est pas conformée à la mise en
-demeure, le ministre chargé des télécommunications peut retirer le droit d'exploiter le réseau. Ce retrait intervient après
-avis de la Commission nationale de la communication et des libertés, lorsque le réseau a été autorisé en application de
-l'article D. 385-6. Il entraîne, dans tous les cas, la résiliation des contrats conclus en application des articles D. 385-5
-et D. 385-6 et la reprise des lignes, sans indemnité ni remboursement des sommes versées au titre de la location.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D371, D385-4, D385-5, D385-6, D385-10 et D385-13
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
-
-
-###### Article D385-14
-
-Le prix de location des liaisons spécialisées constituant un réseau télématique ouvert aux tiers et utilisées en amont des
-points d'accès externe peut, pour tenir compte des charges propres aux réseaux publics faire l'objet d'une majoration fixée
-en application de l'article R. 56. Cette majoration, calculée en fonction de la capacité pondérée des accès externes que
-comporte le réseau, ne peut excéder 30 p. 100 du prix normal de location des liaisons spécialisées.
-
-Les dispositions du présent article ne s'appliquent pas aux liaisons spécialisées dont l'une des extrémités est située hors
-du territoire français, qui sont soumises à une tarification particulière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R56
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 3 () JORF 29 mars 1992
 
 
 ##### SECTION 3 : Lignes d'intérêt privé
@@ -21311,78 +21244,6 @@ d'accepter les communications du navire en cause, sauf les communications de dé
 
 ##### Paragraphe 1er : Régime général.
 
-###### Article D370
-
-Les contrats de location de liaisons spécialisées ont une durée minimale de trois mois. A l'échéance de la durée initialement
-prévue, ils sont tacitement reconduits de mois en mois. Toutefois, la durée du contrat peut être inférieure à trois mois en
-cas de circonstances exceptionnelles, pour des liaisons louées à l'occasion de manifestations importantes ou pour des
-liaisons spécialisées de presse définies à l'article D. 377.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D371 (V)
-	  - Code des postes et des communications électronique - art. D379 (Ab)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D377
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D371
-
-Les contrats de location de liaisons spécialisées sont résiliés à la demande du contractant à condition que cette demande
-soit présentée par écrit quinze jours au moins [*délai*] avant l'expiration du contrat.
-
-Les dispositions de l'article D. 341 sont applicables à ces contrats.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D341
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D379 (Ab)
-
-
-###### Article D373
-
-Les spécifications techniques générales de transmission et d'exploitation des liaisons spécialisées sont fixées par
-l'administration des télécommunications et font l'objet d'une publication.
-
-L'administration des télécommunications peut, à la demande du client, établir des liaisons spécialisées répondant à des
-spécifications techniques particulières.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
 ###### Article D374
 
 **Nota:**
@@ -21460,84 +21321,6 @@ spécifications techniques particulières.
 	**Abrogé par**:
 
 	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
-
-
-###### Article D378
-
-Les liaisons spécialisées dites "de sécurité publique" sont des liaisons spécialisées louées aux services publics ou aux
-concessionnaires de service public et reconnues nécessaires pour assurer la sécurité publique.
-
-Il s'agit :
-
-a) Des liaisons spécialisées louées aux entrepreneurs de distribution d'énergie électrique et reconnues nécessaires pour
-assurer la sécurité de leur exploitation en exécution des lois et règlements en vigueur ;
-
-b) Des liaisons spécialisées reliant les locaux de services publics aux services d'alerte de la police ou aux services de
-pompiers ;
-
-c) Des liaisons spécialisées demandées par des services publics ou des concessionnaires de service public pour raccorder des
-installations simples de télécommande, télésignalisation ou télémesure (relais, sirène, horloge, sonnerie, indicateur de
-niveau d'eau, etc.) dont la commande est effectuée par courant continu ou par courant alternatif à très basse fréquence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D379
-
-L'administration des télécommunications peut établir des liaisons spécialisées aboutissant à un service particulier proposé
-par elle, qui nécessite l'accès à des équipements de commutation, de diffusion ou de concentration situés dans ses locaux.
-
-Par l'intermédiaire de ces équipements, ces liaisons sont destinées à permettre notamment :
-
-a) La mise en relation permanente d'une installation terminale principale avec des installations terminales secondaires. Ces
-liaisons sont appelées "liaisons spécialisées multipoints" ;
-
-b) La réception de signaux horaires ou de la fréquence étalon ou de tout autre message destiné au public ou à des catégories
-particulières de clients ;
-
-c) Le prolongement d'une ligne d'abonnement jusqu'à un commutateur public de rattachement exceptionnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D380
-
-Une liaison spécialisée peut être connectée à une de ses extrémités à une ligne d'abonnement dans les locaux du contractant.
-Dans ce cas, l'intéressé doit respecter les normes de transmission et de trafic applicables à la ligne d'abonnement. En
-outre, la liaison spécialisée ne doit être, à l'autre extrémité, ni connectée, ni connectable, directement ou indirectement,
-aux réseaux publics commutés.
-
-Les dispositions de l'article D. 372 sont applicables pour le contrôle du respect des prescriptions du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D372
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
 ## LIVRE III : Les services financiers
