@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2002-01-10
+Version Consolidée au 2002-02-21
 
 # Partie législative
 
@@ -21872,6 +21872,93 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
+###### Article D406-1-1
+
+Le Conseil supérieur de la télématique comprend :
+
+1. Un conseiller d'Etat, en activité ou honoraire, président ;
+
+2. Un magistrat de la Cour de cassation, en activité ou honoraire, vice-président ;
+
+3. Un magistrat, juge des enfants ou ayant exercé les fonctions de juge des enfants ;
+
+4. Douze représentants de professionnels, dont :
+
+a) Cinq personnes désignées sur proposition des principaux groupements ou syndicats de fournisseurs ou d'éditeurs de services
+télématiques ;
+
+b) Deux représentants de la presse désignés sur proposition des principaux syndicats représentatifs ;
+
+c) Cinq représentants des fournisseurs de moyens télématiques et des opérateurs, dont un représentant de l'opérateur public
+chargé du service universel, un représentant des fournisseurs de moyens télématiques et trois représentants désignés sur
+proposition des principaux groupements ou syndicats d'opérateurs ;
+
+5. Sept représentants des utilisateurs de services télématiques, dont :
+
+a) Trois personnes désignées sur proposition des principales associations familiales ;
+
+b) Quatre personnes désignées sur proposition des principaux groupements, associations, ou syndicats de consommateurs
+intéressés ;
+
+6. Deux représentants de l'Etat, dont un représentant du ministère chargé des communications électroniques et un représentant
+du ministère chargé de la communication.
+
+Un suppléant est désigné pour chacun des membres titulaires mentionnés aux 4, 5 et 6. Les membres du conseil ainsi que les
+suppléants sont nommés pour trois ans, par arrêté conjoint des ministres chargés de la justice, des communications
+électroniques et de la communication.
+
+Lorsqu'un membre titulaire ou suppléant cesse ses fonctions ou perd la qualité en raison de laquelle il a été nommé, un
+nouveau membre est nommé pour la durée restant à courir jusqu'au renouvellement du conseil.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°2002-219 du 20 février 2002 - art. 1 () JORF 21 février 2002
+
+
+###### Article D406-1-2
+
+Le Conseil supérieur de la télématique est chargé de formuler des recommandations de nature déontologique, visant notamment à
+la protection de la jeunesse, applicables aux services offerts par les accès télématiques anonymes écrits ou vocaux et à
+leurs conditions d'accès ; ces recommandations prennent en particulier la forme de propositions concernant les contrats types
+souscrits par les opérateurs entre eux ou avec les fournisseurs de services et, le cas échéant, avec les fournisseurs de
+moyens télématiques.
+
+Le Conseil supérieur de la télématique peut être saisi pour avis par les opérateurs de ces projets de contrats types ainsi
+que de leurs projets de modification. Il peut être saisi par chacun de ses membres de propositions de modification de ces
+mêmes contrats. Les avis rendus par le Conseil supérieur de la télématique à cette occasion sont publics.
+
+Le Conseil supérieur de la télématique peut être consulté par le ministre chargé des communications électroniques sur toutes
+questions ayant trait aux conditions générales de développement de la télématique.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications électroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°2002-219 du 20 février 2002 - art. 2 () JORF 21 février 2002
+
+
 ###### Article D406-1-3
 
 Le Conseil supérieur de la télématique peut recevoir de tout intéressé des réclamations portant sur le respect des
@@ -22001,6 +22088,52 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Code des postes et des communications électronique - art. R54-1 (Ab)
 
 
+###### Article D406-2-2
+
+Le comité de la télématique anonyme peut être saisi, par l'une ou l'autre des parties au contrat, en cas de différend
+relatif :
+
+A. - Au respect des recommandations de nature déontologique applicables aux services offerts sur les accès télématiques
+anonymes, écrits ou vocaux, et à leurs conditions d'accès ;
+
+B. - Aux clauses des contrats conclus entre les opérateurs et les fournisseurs de services ou de moyens télématiques ayant
+une incidence déontologique.
+
+Il peut être consulté par un opérateur avant que celui-ci ne décide la résiliation ou la suspension d'un contrat passé avec
+un fournisseur de services télématiques et, éventuellement, un centre serveur, sauf dans le cas où cette décision est prise à
+la requête de l'autorité judiciaire ou dans le cas de non-exécution de clauses strictement commerciales.
+
+Il peut être consulté par un opérateur sur le raccordement d'un service à une catégorie d'accès télématique anonyme. Il peut
+être saisi, pour avis, par un fournisseur de services auquel a été refusé le bénéfice d'un accès télématique anonyme, écrit
+ou vocal, professionnel ou grand public.
+
+Après avoir recueilli les observations écrites des parties, le comité de la télématique anonyme émet un avis dans un délai de
+deux mois à compter de sa saisine. En cas d'urgence, ce délai est ramené à quinze jours.
+
+Lorsqu'il constate une violation des recommandations visées à l'article D. 406-1-2, le comité recommande les mesures de
+nature à y mettre fin, notamment la suspension ou la résiliation du contrat. Ces avis sont motivés et notifiés au fournisseur
+de service télématique intéressé, à l'opérateur concerné ainsi qu'au président du Conseil supérieur de la télématique. Ils
+sont publics, à l'exception de toute mention relative à l'identité du fournisseur de service.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D406-1-2
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°2002-219 du 20 février 2002 - art. 3 () JORF 21 février 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+
 ###### Article D406-2-3
 
 Le président du Conseil supérieur de la télématique approuve le règlement intérieur du comité de la télématique anonyme
@@ -22024,6 +22157,33 @@ Lors des votes, en cas de partage égal des voix, celle du président du comité
 	**Abrogé par**:
 
 	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+
+###### Article D406-3
+
+Le Conseil supérieur de la télématique et le comité de la télématique anonyme disposent d'un secrétariat commun, placé sous
+l'autorité du président et du vice-président du Conseil supérieur de la télématique.
+
+Les présidents du conseil et du comité peuvent faire appel à des experts.
+
+Les moyens de fonctionnement du Conseil supérieur de la télématique, du comité de la télématique anonyme et de leur
+secrétariat sont assurés par le ministère chargé des communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
+communications électroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°2002-219 du 20 février 2002 - art. 4 () JORF 21 février 2002
 
 
 ###### Article D406-4
@@ -23824,142 +23984,6 @@ de régulation des télécommunications.
 	**Modifié par**:
 
 	  - Décret n°2001-727 du 31 juillet 2001 - art. 1 (V) JORF 5 août 2001
-
-
-#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.
-
-###### Article D406-1-1
-
-Le Conseil supérieur de la télématique comprend :
-
-1. Un conseiller d'Etat, en activité ou honoraire, président ;
-
-2. Un magistrat de la Cour de cassation, en activité ou honoraire, vice-président ;
-
-3. Un magistrat, juge des enfants ou ayant exercé les fonctions de juge des enfants ;
-
-4. Neuf représentants des professionnels, dont :
-
-a) Quatre représentants désignés sur proposition des principaux groupements ou syndicats de fournisseurs ou d'éditeurs de
-services télématiques ;
-
-b) Trois représentants de la presse désignés sur proposition de la Fédération nationale de la presse française ;
-
-c) Un représentant des fournisseurs de moyens télématiques ;
-
-d) Un représentant désigné sur proposition du président du conseil d'administration de France Télécom ;
-
-5. Cinq représentants des utilisateurs de services télématiques, dont :
-
-a) Deux représentants sur proposition des principales associations familiales ;
-
-b) Trois représentants sur proposition des principaux groupements, associations ou syndicats de consommateurs intéressés ;
-
-6. Deux représentants de l'Etat, dont un représentant du ministère chargé des télécommunications et un représentant du
-ministère chargé de la communication.
-
-Un suppléant est désigné pour chacun des membres titulaires mentionnés aux 4, 5 et 6. Les membres du conseil ainsi que les
-suppléants sont nommés pour trois ans, par arrêté conjoint des ministres chargés de la justice, des télécommunications et de
-la communication.
-
-Lorsqu'un membre titulaire ou suppléant cesse ses fonctions ou perd la qualité en raison de laquelle il a été nommé, un
-nouveau membre est nommé pour la durée restant à courir jusqu'au renouvellement du conseil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-
-###### Article D406-1-2
-
-Le Conseil supérieur de la télématique est chargé de formuler des recommandations de nature déontologique, visant notamment à
-la protection de la jeunesse, applicables aux services offerts par les accès télématiques anonymes écrits ou vocaux et à
-leurs conditions d'accès ; ces recommandations prennent en particulier la forme de propositions concernant les contrats types
-souscrits entre l'exploitant public, le fournisseur de service et, éventuellement, le fournisseur de moyens télématiques.
-
-Le Conseil supérieur de la télématique est saisi pour avis par France Télécom de ces projets de contrats types ainsi que de
-leurs projets de modification. Il peut être saisi par chacun de ses membres de propositions de modification de ces mêmes
-contrats. Les avis rendus par le Conseil supérieur de la télématique à cette occasion sont publics.
-
-Le Conseil supérieur de la télématique peut être consulté par le ministre chargé des télécommunications sur toutes questions
-ayant trait aux conditions générales de développement de la télématique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-
-###### Article D406-2-2
-
-Le comité de la télématique anonyme veille au respect par les parties des recommandations visées à l'article D. 406-1-2 et
-des clauses non strictement commerciales des contrats conclus entre elles.
-
-Le comité peut être saisi par l'une ou l'autre des parties au contrat en cas de différend relatif au respect des
-recommandations de nature déontologique applicables aux services offerts sur les accès télématiques anonymes, écrits ou
-vocaux et à leurs conditions d'accès.
-
-Il est consulté par l'exploitant public avant toute décision de résiliation ou de suspension d'un contrat passé avec un
-fournisseur de services télématiques et, éventuellement, un centre serveur, sauf dans le cas où cette décision est prise à la
-requête de l'autorité judiciaire ou dans le cas de non-exécution de clauses strictement commerciales.
-
-Il peut être consulté par l'exploitant public sur le raccordement d'un service à une catégorie d'accès télématique anonyme.
-Il peut être saisi, pour avis, par un fournisseur de services auquel a été refusé le bénéfice d'un accès télématique anonyme,
-écrit ou vocal, professionnel ou grand public.
-
-Après avoir recueilli les observations écrites des parties, le comité de la télématique anonyme émet un avis dans un délai de
-deux mois à compter de sa saisine. En cas d'urgence, ce délai est ramené à quinze jours.
-
-Lorsqu'il constate une violation des recommandations visées à l'article D. 406-1-2, le comité recommande les mesures de
-nature à y mettre fin, notamment la suspension ou la résiliation du contrat. Ces avis sont motivés et notifiés au fournisseur
-de service télématique intéressé, à l'exploitant public ainsi qu'au président du Conseil supérieur de la télématique. Ils
-sont publics, à l'exception de toute mention relative à l'identité du fournisseur de service.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D406-1-2
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
-
-
-###### Article D406-3
-
-Le Conseil supérieur de la télématique et le comité de la télématique anonyme disposent d'un secrétariat commun, placé sous
-l'autorité du président et du vice-président du Conseil supérieur de la télématique.
-
-Les présidents du conseil et du comité peuvent faire appel à des experts, notamment de l'exploitant public.
-
-Les moyens de fonctionnement du Conseil supérieur de la télématique, du comité de la télématique anonyme et de leur
-secrétariat sont assurés par le ministère chargé des télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
 
 
 ## LIVRE III : Les services financiers
