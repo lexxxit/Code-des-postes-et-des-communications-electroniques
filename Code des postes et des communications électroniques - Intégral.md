@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1995-05-04
+Version Consolidée au 1996-03-20
 
 # Partie législative
 
@@ -13339,507 +13339,104 @@ objet par le destinataire.
 	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
-### TITRE IV : Franchise postale et dispense d'affranchissement
-
-#### CHAPITRE Ier : Courrier officiel.
-
-###### Article D58
-
-Est admise à circuler en franchise par la poste, dans les conditions fixées ci-après, la correspondance exclusivement
-relative au service de l'Etat, échangée entre fonctionnaires chefs d'un service d'une administration de l'Etat, ainsi que la
-correspondance de même nature adressée par ces fonctionnaires aux chefs de service des établissements publics à caractère
-administratif.
-
-La liste de ces bénéficiaires est établie par arrêté du ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°67-24 1967-01-02 art. 1 JORF 8 janvier 1967
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D59
-
-Les dérogations aux dispositions de l'article D. 58 ainsi que les exceptions prévues dans le présent chapitre sont fixées par
-arrêté conjoint du ministre des postes et télécommunications et du ministre des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D58
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°67-24 1967-01-02 art. 1 JORF 8 janvier 1967
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D60
-
-La correspondance de service peut être accompagnée des documents imprimés ou manuscrits qui en constituent l'annexe
-indispensable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D61
-
-La correspondance de service doit [*condition*], pour être admise en franchise, porter la mention des fonctions tant de
-l'expéditeur que du destinataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D62
-
-Sauf les exceptions autorisées par l'arrêté prévu à l'article D. 59, les fonctionnaires ne bénéficient de la franchise qu'au
-siège de leur résidence officielle.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D59
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D63
-
-Sauf exceptions prévues par le ministre chargé des postes et télécommunications, les envois expédiés en franchise sont soumis
-aux mêmes conditions d'admission que les autres objets de même nature confiés au service postal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°81-256 1981-03-13 art. 1 JORF 20 mars 1981
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D64
-
-Sauf exceptions prévues par la réglementation, les envois expédiés en franchise sont obligatoirement déposés au guichet du
-bureau de poste de la résidence officielle du fonctionnaire expéditeur. Lorsqu'ils sont déposés à la boîte, ils sont traités
-comme des correspondances non affranchies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D65
-
-Les envois en franchise sont distribués à la résidence officielle du fonctionnaire destinataire. Par exception, certains
-fonctionnaires peuvent obtenir l'autorisation de retirer leur correspondance au guichet avant la distribution générale.
-
-Les "paquets-poste" qui, bien que susceptibles d'être transportés isolément, ne peuvent exceptionnellement, soit en raison de
-leur nombre, soit en raison du volume ou du poids des autres correspondances, être portés à la résidence officielle du
-fonctionnaire destinataire, sont distribués au guichet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D66
-
-Sauf les exceptions justifiées par la nature de la correspondance et qui sont fixées par l'arrêté prévu à l'article D. 59,
-l'administration des postes et télécommunications est autorisée, au cas de suspicion de fraude, à requérir l'ouverture, par
-l'expéditeur ou le destinataire, des envois expédiés en franchise dans les relations autorisées.
-
-Le cas échéant, les lettres ou documents étrangers au service de l'Etat sont saisis.
-
-L'ouverture d'un pli donne lieu à l'établissement d'un procès-verbal.
-
-En cas de refus d'ouverture par l'expéditeur, l'envoi est acheminé sur le destinataire. Lorsque celui-ci refuse également de
-procéder à l'ouverture dans les conditions ci-dessus mentionnées, l'envoi est versé en rebut.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D59
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D67
-
-Les plis expédiés dans les relations où la franchise postale ne peut s'exercer, ainsi que ceux ne comportant pas les mentions
-prévues à l'article D. 61, sont traités comme objets non affranchis.
-
-Par exception, les correspondances adressées par les ministres, les secrétaires d'Etat et certains fonctionnaires ou
-magistrats désignés à l'arrêté mentionné à l'article D. 59 à des personnes vis-à-vis desquelles ils ne bénéficient pas de la
-franchise postale, ne donnent lieu à la perception sur le destinataire que de la simple taxe d'affranchissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D59 et D61
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D68
-
-Tout fonctionnaire recevant, sous pli en franchise, une correspondance destinée à un tiers doit remettre l'envoi au bureau de
-poste pour qu'il soit soumis à la taxe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D69
-
-Les envois valablement échangés en franchise entre fonctionnaires publics peuvent être soumis, sans perception de droits, à
-la formalité de la recommandation sur réquisition écrite du fonctionnaire expéditeur. Cette facilité ne s'étend pas à l'avis
-de réception.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D70
-
-Les fonctionnaires bénéficiant de la franchise peuvent, sur réquisition écrite et exclusivement dans les cas prévus par
-l'arrêté mentionné à l'article D. 59, obtenir l'expédition comme "pli chargé" sans perception de droits pour certains envois
-contenant des valeurs. L'exemption de taxe ne s'étend pas à l'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D59
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D71
-
-Sauf les exceptions autorisées par l'arrêté prévu à l'article D. 59, il est interdit d'insérer dans les envois recommandés ou
-chargés en franchise de l'or, de l'argent, des bijoux ou objets précieux, des billets de banque ou des valeurs de toute
-nature payables au porteur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D59
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
-
-###### Article D72
-
-L'administration des postes et télécommunications n'est tenue à aucune responsabilité pour l'avarie, la spoliation ou la
-perte d'un envoi recommandé ou chargé expédié en franchise postale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
-
+### TITRE IV : Franchise postale
 
 ###### Article D73
 
-Par exception aux dispositions des articles D. 58 et D. 59, sont admises en exemption de taxe :
+Sont admises en franchise :
 
-1° Les correspondances ordinaires ou recommandées expédiées ou reçues par le Président de la République et par le ministre
-des postes et télécommunications ;
+1° Les correspondances ordinaires reçues par le Président de la République ;
 
-2° Les correspondances non recommandées adressées par toute personne indistinctement aux ministres, aux secrétaires d'Etat et
-à certains fonctionnaires, magistrats ou autorités désignés à l'arrêté mentionné à l'article D. 59 ;
-
-3° Les correspondances pour lesquelles des lois ou décrets qui sont énumérés à l'arrêté mentionné à l'article D. 59 prévoient
-l'admission en exemption de taxe.
+2° Les correspondances pour lesquelles des traités ou des lois prévoient ce régime.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications D58 et D59
-
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°96-212 du 19 mars 1996 - art. 1 () JORF 20 mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D74
 
-Les conditions dans lesquelles le budget général rembourse au budget annexe des postes et télécommunications la valeur
-d'affranchissement des plis admis en franchise postale sont fixées par arrêté conjoint du ministre des postes et
-télécommunications et du ministre des finances.
+Les prestations effectuées par La Poste au titre de la franchise sont rémunérées par l'Etat selon les modalités définies à
+l'article 38 du cahier des charges de La Poste.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-#### CHAPITRE II : Correspondance des militaires.
-
-###### Article D76
-
-Les militaires et marins de tous grades des armées de terre, de l'air et de mer, en campagne, bénéficient des franchises
-suivantes :
-
-1° Franchise pour les lettres simples de caractère familial, expédiées ou reçues par ces militaires et marins ;
-
-2° Franchise pour deux paquets non recommandés de cinq kilogrammes par mois à l'adresse de ces militaires et marins.
-
-En dehors du cas visé ci-dessus, les paquets expédiés à ces militaires et marins bénéficient du tarif spécial prévu pour les
-envois à l'adresse des troupes en campagne.
-
-Les modalités d'application de ces dispositions sont fixées par arrêté du ministre des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 	**Modifié par**:
 
-	  - Décret n°81-256 1981-03-13 art. 2 JORF 20 mars 1981
+	  - Décret n°96-212 du 19 mars 1996 - art. 1 () JORF 20 mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-#### CHAPITRE III : Sécurité sociale et mutualité sociale agricole.
+###### Article D75
 
-###### Article D77
-
-Un arrêté du ministre du travail, du ministre des postes et télécommunications et du ministre des finances fixe les
-conditions dans lesquelles peuvent bénéficier de la dispense d'affranchissement les correspondances relatives à l'application
-de la législation du régime général et des régimes particuliers de sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D78
-
-Un arrêté du ministre de l'agriculture, du ministre des finances et du ministre des postes et télécommunications fixe les
-conditions dans lesquelles peuvent bénéficier de la dispense d'affranchissement les correspondances relatives à l'application
-de la législation des régimes de mutualité sociale agricole.
+Les envois expédiés en franchise sont soumis aux mêmes conditions d'admission que les autres objets de même nature confiés au
+service postal, sous réserve de modalités particulières d'admission fixées par arrêté du ministre chargé des postes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code des postes, télégraphes et téléphones L42
+	  - Code des postes, télégraphes et téléphones L40 et L41
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°96-212 du 19 mars 1996 - art. 1 () JORF 20 mars 1996
 
 	**Abrogé par**:
 
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
-#### CHAPITRE IV : Avis et avertissements des administrations financières.
+###### Article D76
 
-###### Article D79
+A l'exception des correspondances visées au 1° de l'article D. 73 du présent code, les envois expédiés en franchise sont
+obligatoirement déposés au guichet d'un point d'accueil de La Poste. A défaut, ils sont traités comme des objets de
+correspondance non affranchis, selon les modalités prévues à l'article D. 45 du présent code.
 
-Les frais d'affranchissement des avertissements et des avis émanant des administrations financières à l'adresse des
-contribuables sont remboursés forfaitairement par le budget général au budget annexe des postes et télécommunications.
+**Liens relatifs à cet article**
 
-Ce forfait est déterminé annuellement sur la base du trafic correspondant de l'année précédente et en fonction des tarifs
-postaux en vigueur.
+	**Cite**:
+
+	  - Code des postes et télécommunications D73, D45
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°96-212 du 19 mars 1996 - art. 1 () JORF 20 mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
+
+
+###### Article D77
+
+La Poste est fondée, lors du dépôt de l'envoi au guichet d'un point d'accueil de La Poste, à demander à l'expéditeur d'un
+envoi en franchise d'apporter la preuve de ce droit.
 
 **Liens relatifs à cet article**
 
@@ -13847,13 +13444,13 @@ postaux en vigueur.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°96-212 du 19 mars 1996 - art. 1 () JORF 20 mars 1996
 
 	**Abrogé par**:
 
-	  - Décret n°96-212 du 19 mars 1996 - art. 2 () JORF 20 mars 1996
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ### TITRE V : Colis postaux.
