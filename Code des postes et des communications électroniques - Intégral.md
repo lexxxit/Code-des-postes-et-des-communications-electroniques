@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1989-10-14
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -569,6 +569,46 @@ télécommunications devient le code des postes et des communications électroni
 
 
 ### TITRE VIII : Dispositions pénales.
+
+###### Article L17
+
+Toute personne qui, en récidive, effectue un transport de correspondances en infraction aux dispositions de l'article L. 1
+est punie d'une amende de 6 000 F à 15 000 F [*taux résultant de la loi 89-469 du 10 juillet 1989*]. Il y a récidive
+[*définition*] lorsque le contrevenant a subi [*délai*] dans les trois années qui précèdent une condamnation pour infraction
+aux dispositions de l'article L. 1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 27 prairial an IX art. 5
+	  - Code des postes, télégraphes et téléphones L3
+	  - Loi n°1854-06-22 art. 22
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 9 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L18 (VD)
+	  - Code des postes et des communications électroni... - art. L19 (VD)
+	  - Code des postes et des communications électroni... - art. L5-1 (VD)
+	  - Code des postes et des communications électronique - art. L24 (Ab)
+	  - Code des postes et des communications électronique - art. L28 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L1
+
 
 ###### Article L18
 
@@ -4691,6 +4731,48 @@ d'amortissement et de paiement des intérêts sont déterminés par arrêté du 
 
 ### TITRE VIII : Dispositions pénales.
 
+###### Article R1
+
+Toute personne qui, en infraction aux dispositions de l'article L. 1, effectue un transport de correspondance sera punie
+[*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*].
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement à un nombre d'exemplaires qui ne peut excéder
+cinquante, le tout aux frais du contrevenant.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Arrêté du 31 octobre 2008 - art. 1 (V)
+	  - Arrêté du 2 janvier 2009 - art. 1 (V)
+	  - Code des postes et des communications électroni... - art. D2 (VD)
+	  - Code des postes et des communications électronique - art. R5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L1
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L3 al.1 et L7
+
+
 ###### Article R2
 
 Les contraventions aux dispositions des articles L. 3 et L. 4 sont passibles des peines prévues à l'article R. 1.
@@ -4716,6 +4798,55 @@ Les contraventions aux dispositions des articles L. 3 et L. 4 sont passibles des
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R3
+
+Sera punie [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] :
+
+1° L'insertion de billets de banque français ou étrangers ou d'autres valeurs au porteur dans les envois ordinaires ou
+simplement recommandés [*infraction*].
+
+La peine ne sera pas encourue lorsque l'insertion de tels billets et valeurs dans les lettres recommandées n'excède pas le
+montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux de garantie choisi par l'expéditeur au moment
+de l'envoi.
+
+2° L'insertion de matières d'or ou d'argent, de bijoux ou autres objets précieux dans les envois ordinaires ou simplement
+recommandés ainsi que dans les lettres avec valeur déclarée.
+
+La peine ne sera pas encourue lorsque l'insertion de telles matières, bijoux ou objets dans les paquets recommandés n'excède
+pas une valeur égale au montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux de garantie choisi par
+l'expéditeur au moment de l'envoi.
+
+3° L'insertion de pièces de monnaie françaises ou étrangères ayant cours légal dans tout envoi autre qu'une boîte avec valeur
+déclarée.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L65
+
+	**Modifié par**:
+
+	  - Décret n°79-466 1979-06-07 art. 1 JORF 15 juin 1979
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R4 (Ab)
 
 
 ###### Article R4
@@ -4777,6 +4908,35 @@ Des marchandises soumises à des droits de douane, de régie, ainsi que des marc
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
+###### Article R6
+
+Seront punis [*sanction*] d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] :
+
+1° Ceux qui auront fait usage d'un timbre-poste ou d'une empreinte d'affranchissement ayant déjà été utilisé [*infraction*] ;
+
+2° Ceux qui auront inséré dans un envoi en franchise postale ou en dispense d'affranchissement une lettre, un document, un
+imprimé ou tout autre objet pour lequel ce mode d'expédition n'est pas prévu par la réglementation en vigueur.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°73-385 1973-03-14 art. 1 JORF 3 avril 1973
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
 ###### Article R7
 
 Les dispositions de l'article R. 5229, premier alinéa, du code de la santé publique, s'appliquent aux infractions visées par
@@ -4808,6 +4968,43 @@ NOTA : l'article R. 5229 du code de la santé publique a été abrogé.
 
 	  - Code des postes et des communications électronique - art. L31 (M)
 	  - Code de la santé publique R5229 al. 1
+
+
+###### Article R8
+
+Est interdit, pour toutes opérations effectuées sans l'intermédiaire de l'administration des postes et télécommunications,
+l'usage des formules mises à la disposition du public par cette administration ou d'imprimés reproduisant ou limitant
+lesdites formules [*infraction*].
+
+Est interdite également la distribution de tout document, de quelque nature qu'il soit, revêtu de vignettes, de timbres,
+d'empreintes ou de mentions lui donnant faussement l'apparence d'objet de correspondance ayant transité par le service
+postal.
+
+Toute infraction aux dispositions de deux alinéas précédents est punie [*sanction*] d'une amende de 600 à 1 300 F [*taux
+résultant du décret 89-989 du 29 décembre 1989*] par formule utilisée ou par document mis en distribution.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L70
+
+	**Modifié par**:
+
+	  - Décret n°63-238 1963-03-04 art. 1 JORF    mars 1963
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ## LIVRE II : Le service des télécommunications
@@ -6046,6 +6243,39 @@ des centres de réception radioélectriques.
 
 #### CHAPITRE II : Dispositions pénales.
 
+###### Article R43
+
+Sans préjudice de l'application des dispositions de l'article L. 66 du présent code, quiconque, de quelque manière que ce
+soit, détériore ou dégrade une installation du réseau aérien des télécommunications de l'Etat ou compromet le fonctionnement
+de ce réseau [*infraction*] sera puni [*sanction*] d'une amende de 160 à 2 000 F.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L66
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L124
+
+	**Modifié par**:
+
+	  - Décret n°78-1249 1978-12-28 art. 1 JORF 30 décembre 1978
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
 ###### Article R44
 
 La contravention prévue à l'article précédent est poursuivie et jugée comme en matière de grande voirie.
@@ -6153,6 +6383,198 @@ constat contradictoire.
 
 #### CHAPITRE II : Dispositions pénales
 
+##### SECTION 1 : Dispositions applicables aux eaux non territoriales.
+
+###### Article R45
+
+Est puni [*sanction*] d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et d'un
+emprisonnement de un à cinq jours [*durée résultant du décret 80-567 du 18 juillet 1980*] quiconque s'est refusé à exhiber
+les pièces nécessaires pour rédiger les procès-verbaux prévus à l'article L. 79.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L79
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L138
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R50 (V)
+
+
+###### Article R46
+
+Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] :
+
+1° Le capitaine d'un bâtiment qui, occupé à la réparation ou à la pose d'un câble sous-marin, n'observe pas les règles sur
+les signaux adoptés en vue de prévenir les abordages [*infraction*] ;
+
+2° Le capitaine ou patron de tout bâtiment qui, apercevant ou étant en mesure d'apercevoir ces signaux, ne se retire pas ou
+ne se tient pas éloigné d'un mille nautique au moins du bâtiment occupé à la pose ou à la réparation d'un câble sous-marin ;
+
+3° Le capitaine ou patron de tout bâtiment qui, voyant ou étant en mesure de voir les bouées destinées à indiquer la position
+des câbles, ne se tient pas éloigné de la ligne des bouées d'un quart de mille nautique au moins.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R48 (V)
+	  - Code des postes et des communications électroni... - art. R52 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L140
+
+
+###### Article R47
+
+Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et peut être
+puni d'un emprisonnement de dix jours à un mois [*durée résultant du décret n° 80-567 du 18 juillet 1980*] :
+
+1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart de mille nautique d'un câble sous-marin,
+dont il est en mesure de connaître la position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
+destinée à indiquer la position du câble [*infraction*], sauf les cas de force majeure ;
+
+2° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un mille nautique au moins du bâtiment occupé à
+la pose, à la réparation d'un câble sous-marin ; toutefois, les bateaux de pêche qui aperçoivent ou sont en mesure
+d'apercevoir le bâtiment portant les signaux adoptés ont, pour se conformer à l'avertissement, le délai nécessaire pour
+terminer l'opération en cours, sans que ce délai puisse dépasser vingt-quatre heures ;
+
+3° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un quart de mille nautique au moins de la ligne
+des bouées destinées à indiquer la position des câbles sous-marins.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L141
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R48
+
+Est puni d'une amende de 3 000 à 6 000 F et peut être puni d'un emprisonnement de dix jours à un mois :
+
+1° Toute personne qui, par négligence coupable et notamment dans les cas visés par les articles R. 46 et R. 47, rompt un
+câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
+les télécommunications [*infraction*] ;
+
+2° Le capitaine de tout bâtiment qui, occupé à la pose ou à la réparation d'un câble sous-marin, est cause, par
+l'inobservation des règles sur les signaux adoptés en vue de prévenir les abordages, de la rupture ou de la détérioration
+d'un câble commise par tout autre navire.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R46 et R47
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L142
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R49
+
+Est punie [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*] et peut être
+punie d'un emprisonnement de dix jours à un mois [*durée*] :
+
+1° Toute personne qui fabrique, détient hors de son domicile, met en vente, embarque ou fait embarquer des instruments ou
+engins servant exclusivement à couper ou à détruire des câbles sous-marins [*infraction*] ;
+
+2° Toute personne qui fait usage des mêmes instruments ou engins.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L143
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
 ##### SECTION 2 : Dispositions spéciales aux eaux territoriales.
 
 ###### Article R50
@@ -6182,6 +6604,43 @@ dispositions de l'article L. 67.
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R51
+
+Dans le cas prévu au troisième alinéa de l'article L. 81, l'auteur de la rupture ou de la détérioration est tenu, sous peine
+d'une amende de 1 300 à 3 000 F [*taux résultant du décret 89-989 du 29 décembre 1989*], de faire la déclaration prévue à
+l'article L. 72.
+
+**Nota:**
+
+[*Dispositions prises par décret en Conseil d'Etat en application de l'article R.25 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L72 et L81 al. 3
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L150 al. 3
+
+	**Modifié par**:
+
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R52 (V)
 
 
 ###### Article R52
