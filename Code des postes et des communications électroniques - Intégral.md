@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2004-11-30
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -15227,9 +15227,9 @@ ont un caractère industriel et commercial ou pour le compte de ceux-ci sont tax
 
 ###### Article D19-2
 
-Les journaux et publications de périodicité au maximum hebdomadaire remplissant les conditions prévues à l'article D. 18 et
-présentant un caractère d'information politique et générale bénéficient, sur leur demande, d'un abattement sur le tarif de
-presse urgent, non urgent ou contact. Le montant de cet abattement est fixé par décret.
+Les journaux et publications de périodicité au maximum bimensuelle remplissant les conditions prévues à l'article D. 18 et
+présentant un caractère d'information politique et générale paient le tarif de presse réduit d'un montant forfaitaire à
+l'exemplaire financé par l'Etat.
 
 Pour être considérées comme présentant le caractère d'information politique et générale, les publications doivent réunir les
 caractéristiques suivantes :
@@ -15242,8 +15242,8 @@ et des commentaires tendant à éclairer le jugement des citoyens ;
 3° Présenter un intérêt dépassant d'une façon manifeste les préoccupations d'une catégorie de lecteurs ;
 
 En outre, les quotidiens nationaux à faibles ressources publicitaires au sens du décret n° 86-616 du 12 mars 1986 et les
-quotidiens régionaux, départementaux et locaux au sens du décret n° 89-528 du 28 juillet 1989 bénéficient d'une réfaction
-supplémentaire.
+quotidiens régionaux, départementaux et locaux au sens du décret n° 89-528 du 28 juillet 1989 paient le tarif de presse
+réduit d'un montant forfaitaire majoré à l'exemplaire financé par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -15256,10 +15256,6 @@ supplémentaire.
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
 
 	**Cité par**:
 
@@ -15278,11 +15274,15 @@ supplémentaire.
 	  - Code des postes et des communications électroni... - art. D19-3 (VD)
 	  - Code des postes et des communications électroni... - art. D27-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+
 
 ###### Article D19-3
 
 Pour bénéficier des tarifs de presse, du tarif spécifique ou du tarif des publications administratives, ou encore des
-abattements sur les tarifs de presse, les journaux et écrits périodiques doivent avoir reçu un certificat d'inscription
+réductions prévues à l'article D. 19-2, les journaux et écrits périodiques doivent avoir reçu un certificat d'inscription
 délivré par la commission paritaire des publications et agences de presse ou l'une de ses sous-commissions et être classés
 dans l'une des catégories visées aux articles D. 18, D. 19 ou D. 19-1. En outre, le certificat d'inscription mentionne si la
 publication bénéficie de l'abattement prévu à l'article D. 19-2. Les journaux et écrits périodiques doivent en outre,
@@ -15301,18 +15301,21 @@ Cet enregistrement est gratuit.
 
 	**Modifié par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article D19-4
 
-Les dépôts de publications sont accompagnés d'une déclaration indiquant la catégorie dans laquelle la commission paritaire
-des publications et agences de presse ou une des sous-commissions a classé les publications à expédier. Cette déclaration
-précise s'il s'agit d'une parution normale ou d'un supplément ou d'un numéro hors série ainsi que la présence de pages
-spéciales. Elle comporte également le poids des publications déposées.
+Les dépôts de publications font l'objet d'une déclaration indiquant le numéro d'inscription et la catégorie dans laquelle la
+commission paritaire des publications et agences de presse ou une de ses sous-commissions a classé les publications à
+expédier. Cette déclaration précise s'il s'agit d'une parution normale ou d'un supplément ou d'un numéro hors série ainsi que
+la présence de pages spéciales.
 
-En outre, l'éditeur ou son mandataire certifie dans la déclaration que les publications déposées répondent aux conditions de
-leur classement.
+Elle comporte également le poids unitaire de l'exemplaire de chaque édition et le nombre d'exemplaires de la publication
+autorisée au tarif de presse ainsi que le niveau de préparation technique réalisée et tout autre élément contractuel
+nécessaire à l'établissement de sa facturation.
+
+L'éditeur ou son mandataire certifie l'exactitude des mentions portées dans la déclaration.
 
 **Liens relatifs à cet article**
 
@@ -15320,9 +15323,9 @@ leur classement.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -15331,26 +15334,24 @@ leur classement.
 
 ###### Article D19-5
 
-Si la déclaration prévue à l'article précédent se révèle ne pas correspondre à la réalité, La Poste applique le tarif
-correspondant à la réalité de l'envoi, assorti d'une majoration de 50 %.
-
-En cas de nouvelle déclaration inexacte dans le délai d'une année, la majoration est fixée :
-
-- pour la première réitération à 100 % ;
-
-- pour la seconde à 150 % ;
-
-- pour les réitérations subséquentes à 200 %.
-
-La Poste notifie à l'éditeur un document par lequel elle lui fait connaître les inexactitudes relevées dans les
-renseignements devant figurer dans la déclaration, le tarif appliqué ainsi que la majoration prévue.
+Lorsque les informations fournies par l'éditeur en vertu du premier alinéa de l'article D. 19-4 sont inexactes, La Poste
+notifie à l'éditeur les inexactitudes relevées dans la déclaration ainsi que le tarif et la majoration qui sont susceptibles
+de s'appliquer en conséquence. La Poste adresse à la commission paritaire des publications et agences de presse copie de
+cette notification. 
 
 Le déclarant dispose d'un délai d'un mois franc à compter de la notification pour contester devant la commission paritaire
-des publications et agences de presse le tarif et la majoration appliqués.
+des publications et agences de presse le tarif et la majoration dont l'application est envisagée. 
 
-Après avoir recueilli les observations écrites des parties, la commission paritaire des publications et agences de presse se
+Après avoir recueilli les observations écrites du déclarant, la commission paritaire des publications et agences de presse se
 prononce, dans un délai d'un mois à compter de sa saisine, sur le caractère inexact des renseignements figurant dans la
-déclaration et le bien-fondé du tarif et de la majoration appliqués.
+déclaration. Si ce caractère inexact est avéré, La Poste applique le tarif correspondant à la réalité de l'envoi assorti
+d'une majoration de 50 %. 
+
+Le recours devant la commission paritaire a un effet suspensif. La Poste ne peut procéder au recouvrement des sommes dues à
+raison de l'inexactitude de la déclaration qu'à l'expiration du délai de recours. 
+
+Lorsque les informations fournies par l'éditeur en vertu du deuxième alinéa de l'article D. 19-4 sont inexactes, La Poste
+applique le tarif correspondant à la réalité de l'envoi majoré, le cas échéant, de pénalités contractuelles.
 
 **Liens relatifs à cet article**
 
@@ -15358,9 +15359,13 @@ déclaration et le bien-fondé du tarif et de la majoration appliqués.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. D19-4 (V)
 
 
 ###### Article D19-6
@@ -15446,34 +15451,6 @@ faveur des objets de même catégorie.
 	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 
-###### Article D22
-
-Pour l'application des taxes, les journaux sont classés en routés, semi-routés et autres journaux selon le degré de la
-préparation des envois effectuée par l'expéditeur préalablement à la remise au service postal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°81-11 1981-01-09 art. 1 JORF 10 janvier 1981
-
-	**Cité par**:
-
-	  - Décret n°2001-1090 du 20 novembre 2001 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
-
-
 ###### Article D23
 
 Les journaux et écrits périodiques peuvent, sans supplément de taxe, comporter des annotations manuscrites ou imprimées
@@ -15492,26 +15469,6 @@ autorisées par arrêté du ministre des postes et des communications électroni
 	**Abrogé par**:
 
 	  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
-
-
-###### Article D24
-
-Les journaux et écrits périodiques "routés" ou "hors sac" expédiés en paquets par les éditeurs ou leurs mandataires à des
-dépositaires ou revendeurs bénéficient d'une réduction de 50 p. 100 sur le tarif qui leur serait normalement applicable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article D25
@@ -15568,8 +15525,8 @@ rattache.
 
 Le supplément ne peut pas être vendu isolément, ni faire l'objet d'un abonnement séparé.
 
-Lorsque le supplément n'est pas déposé dans le même bureau de poste que la publication principale à laquelle il se rattache,
-il est taxé séparément.
+Lorsque le supplément n'est pas déposé dans le même établissement que la publication principale à laquelle il se rattache, il
+est taxé séparément.
 
 **Liens relatifs à cet article**
 
@@ -15579,7 +15536,7 @@ il est taxé séparément.
 
 	**Modifié par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -15607,30 +15564,6 @@ avec le contenu habituel de la publication principale.
 	**Créé par**:
 
 	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
-
-
-###### Article D27-2
-
-Les suppléments et hors-séries d'une publication qui bénéficie de l'abattement sur les tarifs de presse prévu à l'article D.
-19-2 se voient accorder de plein droit cet avantage.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D19-2
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article D28
