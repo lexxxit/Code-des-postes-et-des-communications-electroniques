@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1973-09-07
+Version Consolidée au 1974-05-21
 
 # Partie législative
 
@@ -9102,6 +9102,45 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°68-904 1968-10-14 art. 2 JORF 22 octobre 1968
 
 
+###### Article D82
+
+Dans les relations entre la France continentale (y compris les îles du littoral) et les territoires d'outre-mer ainsi que
+dans les relations internationales, l'échange des colis postaux s'effectue dans les conditions fixées par les arrangements de
+l'Union postale universelle concernant les colis postaux et les envois contre remboursement, leurs protocoles finals et leurs
+règlements d'exécution ou selon les dispositions des arrangements conclus avec les pays qui n'adhèrent pas aux actes
+précités. L'échange des colis postaux avec la Corse et les départements d'outre-mer est soumis aux mêmes conditions lorsqu'il
+n'y est pas dérogé par des dispositions particulières édictées par le ministre des postes et des communications
+électroniques. Ces dernières ne peuvent viser les quotes-parts de toute nature ainsi que les taxes principales et accessoires
+revenant au budget annexe des postes et communications électroniques et qui restent assujetties aux règles prévues par les
+arrangements précités.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+	  - Décret n°74-506 1974-05-17 art. 2 JORF 21 mai 1974
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D85 (Ab)
+	  - Code des postes et des communications électroni... - art. D87 (Ab)
+
+
 ###### Article D83
 
 Les conditions d'exécution du service par les transporteurs terrestres, maritimes et aériens et les responsabilités qu'ils
@@ -9129,31 +9168,6 @@ spéciales.
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. D86 (Ab)
-
-
-###### Article D84
-
-**Nota:**
-
-[*(Abrogé par décret n° 74-506 du 17 mai 1974, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L44
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°74-506 1974-05-17 art. 1 JORF 21 mai 1974
 
 
 ###### Article D84-1
@@ -9255,6 +9269,40 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Cite**:
 
 	  - Code des postes et des communications électronique - art. D83 (V)
+
+
+###### Article D87
+
+Les dispositions réglementaires des arrangements de l'Union postale universelle concernant les colis postaux et les envois
+contre remboursement sont applicables aux colis postaux dans les régimes intérieurs du département de la Corse et des
+départements d'outre-mer lorsque aucune disposition particulière n'a été édictée par le ministre des postes et des
+communications électroniques. Comme celles prévues à l'article D. 82, ces dispositions particulières ne peuvent viser les
+quotes-parts de toute nature ainsi que les taxes principales et accessoires.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+	  - Décret n°74-506 1974-05-17 art. 2 JORF 21 mai 1974
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D82 (M)
 
 
 ###### Article D88
