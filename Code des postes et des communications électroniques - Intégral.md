@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1999-03-09
+Version Consolidée au 1999-06-29
 
 # Partie législative
 
@@ -11,17 +11,24 @@ Version Consolidée au 1999-03-09
 
 ###### Article L1
 
-Le transport des lettres ainsi que des paquets et papiers n'excédant pas le poids de 1 kilogramme est exclusivement confié à
-La Poste.
+Le service universel postal concourt à la cohésion sociale et au développement équilibré du territoire. Il est assuré dans le
+respect des principes d'égalité, de continuité et d'adaptabilité en recherchant la meilleure efficacité économique et
+sociale. Il garantit à tous les usagers, de manière permanente et sur l'ensemble du territoire national, des services postaux
+répondant à des normes de qualité déterminées. Ces services sont offerts à des prix abordables pour tous les utilisateurs.
 
-Il est en conséquence interdit à tout entrepreneur de transports, ainsi qu'à toute personne étrangère à La Poste, de
-s'immiscer dans ce transport.
+Il comprend des offres de services nationaux et transfrontières d'envois postaux d'un poids inférieur ou égal à 2
+kilogrammes, de colis postaux jusqu'à 20 kilogrammes, d'envois recommandés et d'envois à valeur déclarée.
+
+Les services de levée et de distribution relevant du service universel postal sont assurés tous les jours ouvrables, sauf
+circonstances exceptionnelles.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+	  - Arrêté 27 prairial an IX art. 1
+	  - Code des postes, télégraphes et téléphones L1
+	  - Loi n°1878-04-06 art. 8
 
 	**Cité par**:
 
@@ -31,6 +38,7 @@ s'immiscer dans ce transport.
 	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 12 (VD)
 	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 11 (VD)
 	  - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
+	  - Décret n°2016-1523 du 10 novembre 2016 - art. 2
 	  - Code de l'environnement - art. L541-10-1 (VD)
 	  - Code des postes et des communications électroni... - art. L135 (V)
 	  - Code des postes et des communications électroni... - art. L2-1 (VD)
@@ -38,7 +46,6 @@ s'immiscer dans ce transport.
 	  - Code des postes et des communications électroni... - art. L7 (VD)
 	  - Code des postes et des communications électroni... - art. L8 (VD)
 	  - Code des postes et des communications électronique - art. R1 (M)
-	  - Décret n°2016-1523 du 10 novembre 2016 - art. 2
 	  - Code général des impôts, CGI. - art. 261 (V)
 	  - Code monétaire et financier - art. R152-6 (VD)
 	  - Code monétaire et financier - art. R721-3 (VD)
@@ -46,11 +53,9 @@ s'immiscer dans ce transport.
 	  - Code monétaire et financier - art. R761-6 (VD)
 	  - Code monétaire et financier - art. R771-1 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 27 prairial an IX art. 1
-	  - Code des postes, télégraphes et téléphones L1
-	  - Loi n°1878-04-06 art. 8
+	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
 
 	**Codifié par**:
 
@@ -59,15 +64,21 @@ s'immiscer dans ce transport.
 
 ###### Article L2
 
-Sont exceptés de cette prohibition :
+La Poste est le prestataire du service universel postal. Au titre des prestations relevant de ce service, elle est soumise à
+des obligations en matière de qualité des services, d'accessibilité à ces services, de traitement des réclamations des
+utilisateurs et, pour des prestations déterminées, de dédommagement, en cas de perte, de vol, de détérioration ou de non-
+respect des engagements de qualité du service. Elle est également soumise à des obligations comptables et d'information
+spécifiques.
 
-1° Les sacs de procédure ;
+Les services nationaux et transfrontières d'envois de correspondance, que ce soit par courrier accéléré ou non, y compris le
+publipostage, d'un poids inférieur à 350 grammes et dont le prix est inférieur à cinq fois le tarif applicable à un envoi de
+correspondance du premier échelon de poids de la catégorie normalisée la plus rapide, sont réservés à La Poste.
 
-2° Les papiers uniquement relatifs au service personnel des entrepreneurs de transports ;
+Le service des envois recommandés dont l'utilisation est prescrite par un texte légal ou réglementaire est réservé à La Poste
+qui est soumise à ce titre à des obligations.
 
-3° Les journaux, recueils, annales, mémoires et bulletins périodiques, ainsi que tous les imprimés, quel que soit leur poids,
-à la condition qu'ils soient expédiés soit sous bande mobile ou sous enveloppe ouverte, soit en paquet non cachetés faciles à
-vérifier.
+Les dispositions d'application du présent chapitre sont fixées par décret en Conseil d'Etat après avis de la Commission
+supérieure du service public des postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
@@ -92,13 +103,13 @@ vérifier.
 	  - Code des transports - art. R3211-5 (VD)
 	  - Code général des impôts, CGI. - art. 261 (V)
 
+	**Modifié par**:
+
+	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 
 ###### Article L3
@@ -280,13 +291,14 @@ nature de ceux visés au présent article. Il ne peut, en aucun cas, être port�
 
 ###### Article L7
 
-La Poste n'est tenue à aucune indemnité pour perte d'objet de correspondance ordinaire.
+La Poste n'est tenue à aucune indemnité pour perte d'objet de correspondance ordinaire sans préjudice des dispositions de
+l'article L. 2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
+	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
 
 	**Codifié par**:
 
@@ -300,6 +312,10 @@ La Poste n'est tenue à aucune indemnité pour perte d'objet de correspondance o
 	  - Code des postes et des communications électroni... - art. R1-2-6 (V)
 	  - Code des postes et des communications électroni... - art. R2-1 (V)
 	  - Code des postes et des communications électroni... - art. R2-2 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L2 (M)
 
 	**Anciens textes**:
 
@@ -599,9 +615,9 @@ télécommunications devient le code des postes et des communications électroni
 
 ###### Article L17
 
-Toute personne qui, en récidive, effectue un transport de correspondances en infraction aux dispositions de l'article L. 1
+Toute personne qui, en récidive, effectue un transport de correspondances en infraction aux dispositions de l'article L. 2
 est punie de 25000 F d'amende [* taux *]. Il y a récidive lorsque le contrevenant a subi dans les trois années qui précèdent
-une condamnation pour infraction aux dispositions de l'article L. 1.
+une condamnation pour infraction aux dispositions de l'article L. 2.
 
 **Liens relatifs à cet article**
 
@@ -611,13 +627,13 @@ une condamnation pour infraction aux dispositions de l'article L. 1.
 	  - Code des postes, télégraphes et téléphones L3
 	  - Loi n°1854-06-22 art. 22
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+	**Modifié par**:
+
+	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
 
 	**Codifié par**:
 
@@ -633,7 +649,7 @@ une condamnation pour infraction aux dispositions de l'article L. 1.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L1
+	  - Code des postes et télécommunications L2
 
 
 ###### Article L18
@@ -694,11 +710,17 @@ contre ceux-ci ou contre toute personne du fait de laquelle l'infraction résult
 
 ###### Article L20
 
-Pour l'exécution des dispositions de l'article L. 1, les fonctionnaires assermentés de l'administration des postes et
-télécommunications, les employés des douanes aux frontières, la gendarmerie nationale, ainsi que tous agents de l'autorité
-ayant qualité pour constater les délits et contraventions, peuvent opérer les saisies et perquisitions sur toutes personnes
-qui, à raison de leur profession ou de leur commerce, font habituellement des transports d'un lieu à un autre. Ils peuvent, à
-cet effet, se faire assister, s'ils le jugent nécessaire, de la force armée.
+Pour l'exécution des dispositions de l'article L. 2, les fonctionnaires assermentés de l'administration des postes et
+communications électroniques, les employés des douanes aux frontières, la gendarmerie nationale, ainsi que tous agents de
+l'autorité ayant qualité pour constater les délits et contraventions, peuvent opérer les saisies et perquisitions sur toutes
+personnes qui, à raison de leur profession ou de leur commerce, font habituellement des transports d'un lieu à un autre. Ils
+peuvent, à cet effet, se faire assister, s'ils le jugent nécessaire, de la force armée.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
+"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -708,22 +730,22 @@ cet effet, se faire assister, s'ils le jugent nécessaire, de la force armée.
 	  - Code des postes, télégraphes et téléphones L5
 	  - Loi n°1854-06-22 art. 20
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des postes et télécommunications L1
+	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R1-2-14 (V)
 	  - Code des postes et des communications électronique - art. L24 (Ab)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L2 (M)
 
 
 ###### Article L21
@@ -929,17 +951,24 @@ Les dispositions de l'article précédent sont applicables aux colis postaux.
 
 ###### Article L28
 
-Le ministre des postes et télécommunications exerce la poursuite des infractions aux dispositions des articles L. 1, L. 3, L.
-4 et L. 17 relatives au monopole postal ainsi qu'à celles concernant l'insertion, dans les envois, de valeurs prohibées ou
-l'usage de timbres-poste ayant déjà été utilisés.
+Le ministre des postes et communications électroniques exerce la poursuite des infractions aux dispositions des articles L.
+2, L. 3, L. 4 et L. 17 relatives au monopole postal ainsi qu'à celles concernant l'insertion, dans les envois, de valeurs
+prohibées ou l'usage de timbres-poste ayant déjà été utilisés.
 
-Le ministre des postes et télécommunications est autorisé à transiger dans ces matières.
+Le ministre des postes et communications électroniques est autorisé à transiger dans ces matières.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
 	**Cite**:
 
-	  - Code des postes et télécommunications L1, L3, L4 et L17
+	  - Code des postes et des communications électronique - art. L17 (M)
+	  - Code des postes et des communications électronique - art. L2 (M)
+	  - Code des postes et des communications électronique - art. L3 (M)
+	  - Code des postes et des communications électronique - art. L4 (Ab)
 
 	**Anciens textes**:
 
@@ -949,13 +978,9 @@ Le ministre des postes et télécommunications est autorisé à transiger dans c
 	  - Loi n°72-437 1972-05-30 art. 2
 	  - Ordonnance 1843-02-19
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-273 1962-03-12
-
-	**Créé par**:
-
-	  - Loi n°72-437 1972-05-30 art. 2 JORF 31 mai 1972
+	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
 
 
 ###### Article L29
