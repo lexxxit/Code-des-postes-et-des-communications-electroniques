@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1988-12-22
+Version Consolidée au 1988-12-23
 
 # Partie législative
 
@@ -13542,29 +13542,6 @@ attendent pour faire usage de ce poste.
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 3 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
-##### 3. : Modification d'une demande de communication.
-
-###### Article D296
-
-**Nota:**
-
-[*(Abrogé par décret n° 88-1140 du 21 décembre 1988, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°88-1140 1988-12-21 art. 1 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
-
-
 ##### 4. : Communication refusée.
 
 ###### Article D297
@@ -13678,6 +13655,95 @@ La demande de récépissé doit être formulée au moment du versement du prix.
 	  - Code des postes et des communications électroni... - art. D303 (V)
 
 
+##### 4. : Communication non facturée par le demandeur ou à facturation différée.
+
+###### Article D304
+
+Le service dénommé "Numéro vert" est un service d'établissement automatique de communications téléphoniques dont le prix est
+payé par le destinataire [*définition*].
+
+Ce service permet à tout usager du service téléphonique d'appeler en franchise un numéro, dit "numéro traduit", d'un abonné
+du service "Numéro vert" par l'intermédiaire d'un numéro d'appel spécial.
+
+L'abonnement à ce service peut être ordinaire ou temporaire. Dans ce dernier cas, une convention est conclue entre l'abonné
+et l'administration, définissant les conditions particulières dans lesquelles ce service est offert et tarifé.
+
+A la demande de l'abonné, l'utilisation d'un numéro vert peut être suspendue pendant une durée maximale d'un an. Les
+redevances mensuelles d'abonnement sont perçues normalement pendant la période de suspension.
+
+Sauf avis contraire de l'abonné, les numéros de ce service font l'objet d'une inscription sur une liste spéciale publiée dans
+les annuaires des abonnés au service téléphonique ainsi que d'une inscription dans les listes alphabétiques et
+professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. D302 (V)
+	  - Code des postes et des communications électroni... - art. D303 (V)
+
+
+###### Article D305
+
+Tout abonné peut, dans les conditions fixées par l'administration, demander à participer au service de la carte Pastel. Ce
+service lui permet de faire imputer sur son compte téléphonique les prix des communications téléphoniques, télex et des
+télégrammes déposés avec cette carte depuis la France à destination :
+
+- soit de tout poste national ou international ;
+
+- soit de tout poste appartenant au territoire métropolitain ;
+
+- soit de numéros convenus à l'avance (numéros nationaux ou internationaux).
+
+Les communications téléphoniques peuvent être obtenues directement à partir de postes téléphoniques à fréquences vocales ou
+équipés de lecteurs de cartes, ou à partir de n'importe quel autre poste par l'intermédiaire d'un opérateur des services
+manuels. Les communications télex doivent être demandées à partir d'un poste public télex.
+
+Les télégrammes doivent être déposés dans un centre télégraphique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 1 JORF 15 septembre 1970
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. D302 (V)
+	  - Code des postes et des communications électroni... - art. D303 (V)
+	  - Code des postes et des communications électroni... - art. D306 (V)
+
+
 ##### 6. : Communication avec un véhicule.
 
 ###### Article D307
@@ -13763,6 +13829,33 @@ préalablement choisie.
 	  - Code des postes et des communications électroni... - art. D307 (V)
 
 
+##### 3. : Service du "Mémo-Appel".
+
+###### Article D310
+
+Le service "Mémo-Appel" par opérateur est supprimé lorsque le service "Mémo-Appel" automatique est accessible à tous les
+abonnés d'une même zone de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D308 (V)
+
+
 ##### 5. : Renseignements.
 
 ###### Article D312
@@ -13792,55 +13885,7 @@ Le prix de l'accès au service et de certains renseignements sont fixés par dé
 	  - Code des postes et des communications électronique - art. D314 (V)
 
 
-##### 6. : Mise en relation directe.
-
-###### Article D313
-
-**Nota:**
-
-[*(Abrogé par décret n° 88-1140 du 21 décembre 1988, art. 2)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°88-1140 1988-12-21 art. 1 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
-
-
 ##### 7. : Communications en dehors des heures normales d'ouverture du service.
-
-###### Article D314
-
-**Nota:**
-
-[*(Abrogé par décret n° 88-1140 du 21 décembre 1988, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-	**Abrogé par**:
-
-	  - Décret n°88-1140 1988-12-21 art. 1 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
-
 
 ###### Article D315
 
@@ -14123,6 +14168,40 @@ faisceau de lignes principales desservant une même installation.
 
 ##### 5. : Abonnements spéciaux.
 
+###### Article D328
+
+Des abonnements peuvent être demandés par un département, une commune ou une association syndicale autorisée à cet effet par
+la municipalité, en vue de mettre un poste téléphonique à la disposition du public. De tels postes sont appelés "postes
+d'abonnement public" et leur titulaire bénéficie d'une réduction de 50 p. 100 sur le montant de la redevance d'abonnement
+principal ordinaire.
+
+Les postes d'abonnement public doivent répondre à un intérêt collectif réel, être accessibles au public dans des conditions
+normales et présenter des garanties de discrétion suffisantes. Ils doivent être signalés sur la voie publique par un
+panonceau dont les caractéristiques sont définies par l'administration des postes et télécommunications. Sauf dérogation
+accordée par l'administration des postes et télécommunications, ces postes sont situés à une distance d'au moins un kilomètre
+mesurée par les voies classées les plus directes d'un autre poste semblable ou d'un poste public.
+
+Les postes installés dans des bornes fournies par les municipalités pour permettre l'appel des taxis sont assimilés du point
+de vue tarifaire à des postes d'abonnement public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°64-422 1964-05-14 art. 1 JORF 16 mai 1964 rectificatif JORF 11 juillet 1964
+	  - Décret n°70-811 1970-09-09 art. 1 JORF 15 septembre 1970
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
 ###### Article D329
 
 Sont également considérés comme abonnements spéciaux les abonnements concédés dans les conditions prévues aux articles R. 12
@@ -14141,6 +14220,34 @@ et R. 13.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+###### Article D330
+
+L'abonnement au service de radiotéléphonie publique permet à l'utilisateur d'un poste téléphonique mobile, soit installé dans
+un véhicule, soit portable ou portatif, d'être mis en relation avec le réseau téléphonique commuté public lorsque ce poste
+mobile se trouve dans la zone de couverture radioélectrique du système.
+
+La concession des abonnements pour des postes radiotéléphoniques est subordonnée à autorisation spéciale prévue par l'article
+L. 89.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L89
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
 ###### Article D331
@@ -14328,6 +14435,41 @@ téléphonique pendant l'absence de l'abonné.
 
 	  - Décret n°72-324 1972-04-28 art. 1 JORF 29 avril 1972 rectificatif JORF 18 mai 1972
 	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+
+
+##### Paragraphe 5 : Abonnements temporaires.
+
+###### Article D336
+
+Des abonnements principaux ordinaires et des abonnements supplémentaires peuvent être consentis :
+
+a) Soit à l'occasion de manifestations diverses (conférences, expositions, foires, marchés, congrès, réunions sportives,
+etc.) pour la durée de ces manifestations ;
+
+b) Soit pour des chantiers en activité pour la durée de ces chantiers ;
+
+c) Soit à toute autre occasion, pour une durée maximale de trois mois.
+
+Les abonnements temporaires ne donnent pas droit à l'inscription à l'annuaire et ne peuvent être transformés en abonnements
+permanents.
+
+Les abonnements ayant une durée inférieure à cinq jours sont dispensés du paiement des redevances correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 2 JORF 15 septembre 1970
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
 ##### Paragraphe 6 : Suspension et résiliation des abonnements.
@@ -16033,6 +16175,1009 @@ concerné.
 
 	  - Décret n°88-687 1988-05-06 art. 1 et 2 JORF 8 mai 1988
 	  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+
+
+###### Article D406-4
+
+Selon des conditions par elle définies et sous réserve du droit des tiers, l'administration chargée des télécommunications
+met à la disposition des fournisseurs de service ou de leurs mandataires des codes d'accès aux services Télétel.
+
+Deux catégories de codes d'accès sont offertes :
+
+Les codes d'accès de catégorie I permettant l'accès aux services Télétel par une double numérotation :
+
+- numérotation téléphonique à quatre chiffres permettant d'aboutir à un point d'accès Télétel ;
+
+- numérotation par un code alphanumérique appelé code de service ;
+
+Les codes d'accès de catégorie 2 correspondant à des numéros téléphoniques à huit chiffres de la forme 36PQ MCDU, dont les
+quatre derniers chiffres permettent l'accès direct à un service Télétel.
+
+Cette mise à disposition de code d'accès donne lieu au paiement de frais et redevances perçus auprès des fournisseurs de
+service ou de leurs mandataires dûment désignés.
+
+Les conditions d'émission de la facture et le paiement des sommes dues sont celles prévues pour les abonnements
+téléphoniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+### TITRE II : Etablissement des lignes
+
+#### CHAPITRE Ier : Etablissement des lignes
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article D407
+
+Les lignes de télécommunications empruntant la voie publique ou une propriété tierce sont établies obligatoirement par
+l'administration des postes et télécommunications qui en détermine seule le tracé.
+
+Toutefois, les lignes étrangères au réseau général des télécommunications qui ne présentent aucun intérêt au point de vue de
+ce réseau peuvent, après autorisation spéciale et approbation de leur tracé, être construites et entretenues par les
+permissionnaires.
+
+C'est le cas, en particulier :
+
+Des lignes établies par la Société nationale des chemins de fer français ou certaines autres compagnies de chemin de fer sur
+leurs emprises ;
+
+Des voies de télécommunications "de sécurité" constituées par les entrepreneurs de distribution d'énergie électrique sur leur
+réseau haute tension.
+
+Lorsque les lignes de télécommunications empruntent la voie publique, l'autorité responsable de la voie donne, dans le cadre
+de la concertation prévue à l'article L. 47-1 du code des postes et télécommunications, son avis sur leur tracé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L47-1
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+	  - Décret n°73-526 1973-06-12 art. 1 JORF 15 juin 1973
+	  - Décret n°86-1064 1986-09-20 art. 2 et 8 JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D407-1
+
+Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
+dispositifs de connexion placés dans chaque logement conformément à l'article 13 du décret n° 69-596 du 14 juin 1969.
+L'administration des postes et télécommunications procède au contrôle des travaux et de la qualité des installations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Cite**:
+
+	  - Décret n°69-596 1969-06-14 art. 13
+
+	**Créé par**:
+
+	  - Décret n°73-526 1973-06-12 art. 1 JORF 15 juin 1973
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D407-2 (V)
+
+
+###### Article D407-2
+
+En dehors du cas visé à l'article précédent, les lignes de télécommunications intérieures à une propriété privée ne sont
+construites par la direction générale des télécommunications que s'il existe des gaines techniques et des passages
+horizontaux permettant la pose des câbles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D407-1
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°73-526 1973-06-12 art. 1 JORF 15 juin 1973
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D407-3
+
+Les lignes construites par l'administration des postes et télécommunications restent la propriété exclusive de cette
+administration qui se borne à en concéder l'usage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°73-526 1973-06-12 art. 1 JORF 15 juin 1973
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D408
+
+Avant toute exécution, un tracé de la ligne de télécommunications projetée, indiquant les propriétés privées où il doit être
+placé des supports ou des conduits, est déposé par l'administration des postes et télécommunications pendant trois jours à la
+mairie de la commune où ces propriétés sont situées.
+
+Ce délai de trois jours [*computation*] court à dater de l'avertissement qui est donné aux parties intéressées de prendre
+communication du tracé déposé à la mairie.
+
+Cet avertissement est affiché à la porte de la mairie et inséré dans l'un des journaux publiés dans l'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L89
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D409
+
+Le maire ouvre un procès-verbal pour recevoir les observations ou réclamations. A l'expiration du délai, il transmet ce
+procès-verbal au préfet qui arrête le tracé définitif et autorise toutes les opérations que comportent l'établissement,
+l'entretien et la surveillance de la ligne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L90
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D410
+
+L'arrêté préfectoral détermine les travaux à effectuer. Il est notifié individuellement aux intéressés. Les travaux peuvent
+commencer trois jours après cette notification.
+
+Ce délai ne s'applique pas aux travaux d'entretien.
+
+Si les travaux ne sont pas commencés dans les quinze jours de l'avertissement, celui-ci doit étre renouvelé.
+
+Lorsque, pour des raisons d'ordre et de sécurité publique, il y a urgence à établir ou rétablir une ligne télégraphique ou
+téléphonique, le préfet, par un arrêté motivé, peut prescrire l'exécution immédiate des travaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L91
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D411
+
+Les notifications et avertissements prévus ci-dessus peuvent être donnés au locataire, fermier, gardien ou régisseur de la
+propriété.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L92
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D412
+
+Les fils de télécommunications, autres que ceux des lignes d'intérêt général, ne peuvent être établis dans les égouts
+appartenant aux communes qu'après avis des conseils municipaux et moyennant une redevance si les conseils municipaux
+l'exigent.
+
+Le taux de cette redevance est déterminé par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L85 al. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D413
+
+Lorsque le tribunal administratif, appelé à régler l'indemnité visée à l'article L. 51, croit devoir ordonner une expertise,
+il y est procédé par un seul expert qui est désigné d'office par le tribunal, à défaut par les parties de l'avoir nommé
+d'accord dans le délai qui leur a été imparti.
+
+L'expert désigné d'office ne peut être un agent de l'administration des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L51
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L93 al. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D414
+
+Les participations aux frais d'établissement des lignes de télécommunications sont dans tous les cas définitivement acquises
+à l'administration des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D416
+
+L'administration des postes et télécommunications reste étrangère à tout litige pouvant naître entre l'occupant d'un local ou
+le locataire et le propriétaire à l'occasion de la réalisation d'une installation de télécommunication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D417
+
+La [*frais - charge*] réparation des dommages de toute nature pouvant résulter de l'installation téléphonique ou
+télégraphique incombe au locataire, à l'occupant ou au copropriétaire, selon le cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D419
+
+Le titulaire d'un poste d'abonnement d'une ligne d'intérêt privé ou d'une liaison spécialisée doit accorder aux agents de
+l'administration des postes et télécommunications chargés du service des télécommunications, qui justifient de leur qualité,
+l'accès, à des heures convenables, des locaux où sont installés la ligne et le poste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).
+
+###### Article D420
+
+L'établissement de toute ligne terminale d'abonnement principal téléphonique ou télex ou d'une liaison spécialisée donne lieu
+au paiement de frais forfaitaires d'accès au réseau.
+
+Une contribution supplémentaire peut être demandée à l'abonné lorsque l'établissement de la ligne présente des difficultés
+exceptionnelles, soit en raison de la situation de l'immeuble à raccorder, soit en raison des modalités de sa construction ou
+de son aménagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D317 (Ab)
+
+
+###### Article D421
+
+La ligne terminale d'une liaison spécialisée présentant des caractéristiques particulières peut être constituée, selon les
+cas, soit à l'aide d'une ou plusieurs paires de fils, soit à l'aide d'un câble spécial répondant à des normes particulières.
+
+Lorsque la ligne terminale est constituée par plusieurs paires de fils, les redevances prévues à l'article D. 420 sont
+applicables autant de fois qu'il y a de paires.
+
+Lorsque cette ligne terminale doit être construite selon des normes particulières, son établissement donne lieu au
+remboursement intégral des dépenses faites majorées forfaitairement pour dépenses annexes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D420
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D425
+
+Les lignes ou sections de ligne de télécommunications sont normalement établies suivant le parcours direct, par les voies
+classées praticables et dans les conditions fixées par l'administration des postes et télécommunications.
+
+Lorsque, dans l'intérêt du service, le parcours emprunté est plus long que le parcours direct, les parts contributives à
+mettre à la charge des abonnés doivent être calculées en considérant le tracé direct, par les voies classées praticables,
+qu'il eût été possible d'adopter.
+
+Par contre, lorsque les lignes ou sections de ligne sont, sur la demande expresse des usagers, établies suivant un parcours
+ou dans des conditions autres que celles fixées par l'administration des postes et télécommunications, l'établissement de ces
+lignes ou sections de ligne est à leur charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+##### SECTION 3 : Lignes de télécommunications étrangères au réseau de l'Etat, dites "lignes d'intérêt privé".
+
+###### Article D427
+
+L'établissement de toutes lignes d'intérêt privé demeure à la charge exclusive des permissionnaires respectifs et reste
+subordonné aux autorisations locales ou particulières nécessaires pour la traversée des voies publiques ou des propriétés
+privées.
+
+Ces autorisations sont obtenues par les soins des permissionnaires dès lors que les lignes d'intérêt privé ont été dûment
+autorisées par l'administration des P.T.T.
+
+En conséquence, sont à la charge exclusive du permissionnaire :
+
+- les redevances dues aux communes pour occupation de leurs égouts ;
+
+- les indemnités réclamées par les propriétaires intéressés pour préjudice résultant des travaux d'établissement ou
+d'entretien des lignes ;
+
+- les frais pouvant résulter du déplacement des lignes par suite de clôture, réparation, surélévation, etc., effectuées par
+des propriétaires en vertu de l'article L. 49 du code des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L49
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°84-313 1984-04-26 art. 2 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+#### CHAPITRE II : Entretien des lignes
+
+##### SECTION 1 : Dispositions générales.
+
+###### Article D431
+
+Les lignes de télécommunications établies par l'administration des postes et télécommunications sont obligatoirement
+entretenues par elle.
+
+L'administration des postes et télécommunications assure également, dans les immeubles groupant plusieurs logements,
+l'entretien des réseaux téléphoniques intérieurs établis en application de l'article 13 du décret n° 69-596 du 14 juin 1969.
+
+Lorsqu'une redevance d'entretien est exigible, elle est calculée d'après la distance ayant servi de base pour le calcul des
+parts contributives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Cite**:
+
+	  - Décret n°69-596 1969-06-14 art. 13
+
+	**Modifié par**:
+
+	  - Décret n°73-526 1973-06-12 art. 2 JORF 15 juin 1973
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+#### CHAPITRE III : Fourniture et entretien des installations de télécommunications.
+
+###### Article D440
+
+Les appareils et installations de télécommunications desservant une ligne d'abonnement, une voie radioélectrique, une liaison
+spécialisée ou une ligne d'intérêt privé peuvent être fournis soit par l'administration des postes et télécommunications,
+soit par l'usager. Toutefois, les appareils installés dans les centres de télécommunications sont obligatoirement fournis par
+l'administration des postes et télécommunications.
+
+L'abonné doit accorder aux agents de l'administration des postes et télécommunications, qui justifient de leur qualité,
+l'accès à des heures convenables des locaux où sont installés lesdits appareils et installations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D277 (Ab)
+
+
+###### Article D441
+
+Les appareils et installations fournis par l'administration des postes et télécommunications sont obligatoirement mis en
+place et entretenus par elle et restent sa propriété.
+
+L'administration des postes et télécommunications peut vendre des matériels de télécommunications.
+
+Les matériels vendus par l'administration des postes et télécommunications sont considérés, au sens du présent code, comme
+étant fournis par l'usager.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°85-336 1985-03-12 art. 1 JORF 15 mars 1985
+	  - Décret n°87-888 1987-10-30 art. 1 JORF 31 octobre 1987
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D442
+
+Les appareils et installations fournis par l'utilisateur sont soumis à une autorisation préalable de mise en service donnée
+par la direction générale des télécommunications.
+
+Toutefois, cette autorisation n'est pas exigée pour les matériels de péritéléphonie répondant aux conditions définies par la
+direction générale des télécommunications. Elle peut être donnée, a posteriori, dans des conditions fixées par arrêté, pour
+les installations téléphoniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°85-336 1985-03-12 art. 2 JORF 15 mars 1985
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D443
+
+Les appareils et installations télégraphiques fournis par l'utilisateur sont installés et entretenus aux frais de celui-ci
+par un installateur admis par la direction générale des télécommunications, à l'exception des appareils téléimprimeurs
+desservant une ligne d'abonnement télex qui doivent être installés par la direction générale des télécommunications et
+entretenus soit par celle-ci, soit par un installateur admis.
+
+Les appareils et installations télégraphiques et télex fournis par l'utilisateur doivent être d'un type agréé par la
+direction générale des télécommunications et estampillés par celle-ci avant mise en service.
+
+Ils peuvent être assujettis à un contrôle périodique effectué par la direction générale des télécommunications aux frais de
+l'utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D444
+
+Les postes, appareils et installations téléphoniques fournis par l'abonné doivent être agréés par l'administration des postes
+et télécommunications. Ils sont, suivant le type et la capacité du matériel choisi, mis en place et entretenus soit par
+l'administration des postes et télécommunications, soit par un installateur admis par elle, soit par l'usager.
+
+L'entretien par l'administration des postes et télécommunications est exclusif de la fourniture de pièces de rechange et des
+générateurs d'électricité. Toutefois, l'administration fournit gratuitement les générateurs d'électricité nécessaires au
+fonctionnement des postes simples, principaux et supplémentaires, à condition que ces postes ne puissent être utilisés que
+pour des communications avec le réseau général, à l'exclusion de toute communication intérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°85-336 1985-03-12 art. 3 JORF 15 mars 1985
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D445
+
+Les postes radiotéléphoniques visés à l'article D. 330 fournis par l'usager sont installés et entretenus aux frais de celui-
+ci par un installateur admis par l'administration des postes et télécommunications.
+
+Ils doivent être conformes aux prototypes agréés par l'administration des postes et télécommunications et être plombés avant
+mise en service. Ils peuvent être assujettis à un contrôle périodique effectué par l'administration des postes et
+télécommunications aux frais de l'usager.
+
+Les matériels de radiocommunications des stations radioélectriques privées subordonnées à l'autorisation administrative
+prévue à l'article L. 89 (1er alinéa) du présent code sont installés et entretenus aux frais de l'usager par un installateur
+admis par l'administration des postes et télécommunications. Cette obligation ne s'applique pas aux stations radioélectriques
+privées des 2e et 3e catégories définies à l'article D. 464.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L89, D330 et D464
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+	  - Décret n°80-607 1980-07-31 art. 1 JORF 1er août 1980
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D446
+
+L'abonné est responsable du matériel mis à sa disposition. En cas de mise hors d'usage, provenant de son fait, ou en cas de
+perte pour quelque cause que ce soit, l'abonné doit rembourser le prix de remplacement de ce matériel, au cours en vigueur au
+moment du remplacement, y compris les majorations forfaitaires pour dépenses annexes.
+
+L'abonné est responsable des accidents qui résulteraient pendant ou après l'exécution des travaux de pose de son
+installation, de contacts avec les canalisations dissimulées de toute nature (gaz, eau, électricité, etc.) ou de la proximité
+de ces canalisations dont il n'aurait pas, au préalable, fait connaître le parcours ou même la simple existence aux
+représentants de l'administration des postes et télécommunications.
+
+L'abonné supporte les risques de toute nature inhérents aux installations et assume personnellement, vis-à-vis des tiers la
+responsabilité des dommages qui pourraient provenir du fonctionnement de ces installations.
+
+De même, la réparation des dérangements ou des détériorations qui ne sont pas le fait de l'usage normal des appareils est à
+la charge de l'abonné qui doit rembourser le montant des dépenses faites en matériel et en main-d'oeuvre, y compris les
+majorations forfaitaires pour dépenses annexes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D447
+
+L'abonné qui fournit un appareil ou une installation prend l'engagement de les faire remplacer ou modifier à ses frais et
+selon les indications de l'administration des postes et télécommunications si les changements apportés par cette dernière
+dans les conditions d'exploitation du réseau rendent nécessaire ce remplacement ou cette modification. Toutefois, lorsqu'un
+changement dans les conditions d'exploitation du réseau rend nécessaire le remplacement d'une installation, le service des
+télécommunications informe l'abonné de ce changement dix-huit mois à l'avance [*délai*], faute de quoi il ne peut être mis à
+la charge définitive de l'abonné qu'une partie des frais proportionnelle à la durée effective du préavis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D448
+
+Le ou les postes ou installations de télécommunications sont établis à l'endroit désigné par le titulaire dans les locaux
+qu'il occupe.
+
+Ce dernier doit prendre à sa charge les diverses réparations qu'entraînerait l'établissement ou la suppression des
+installations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D449
+
+Dans le cas où l'installation est mise en place par l'administration des postes et télécommunications, le titulaire ne peut
+obtenir, à partir du moment où les travaux sont commencés, l'installation du ou des postes en un endroit autre que celui
+primitivement désigné, s'il ne s'engage à acquitter les frais qu'exigerait ce changement aux conditions fixées par l'article
+D. 453.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D453
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D450
+
+La fourniture, l'installation, la location-entretien des appareils et des organes des postes et installations par
+l'administration des postes et télécommunications, l'entretien par cette administration des appareils et organes des postes
+et installations fournis par les abonnés, la vérification des installations réalisées par les installateurs privés donnent
+lieu au paiement de taxes fixées par décret.
+
+Toutefois, pour les matériels ou les services d'un type nouveau mis à l'essai, les redevances peuvent être fixées ou
+modifiées par arrêté pendant la durée de l'essai.
+
+Lorsqu'aucun prix spécifique n'est prévu, les prestations annexes effectuées par la direction générale des télécommunications
+donnent lieu au remboursement des dépenses réelles, majorées forfaitairement pour dépenses annexes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D451
+
+Lorsque le contrôle des installations de télécommunications exige un matériel spécial, l'usager est tenu de pourvoir aux
+frais d'acquisition, d'installation et d'entretien des appareils nécessaires pour assurer ce contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D452
+
+Dans les réseaux où les prix des communications téléphoniques sont imputés au compteur de l'abonné demandeur et si
+l'équipement du centre de rattachement le permet, les abonnés sont autorisés à faire équiper leurs lignes téléphoniques de
+compteurs d'impulsions installés près des postes d'abonnement. Ces compteurs sont fournis et entretenus par l'industrie
+privée et doivent être d'un modèle agréé par l'administration des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D453
+
+Les changements d'installation effectués par l'administration des postes et télécommunications à la demande des abonnés,
+ainsi que les réparations et remplacements de pièces intéressant des installations entretenues par elle et non consécutifs à
+l'usure normale des appareils, donnent lieu, soit au versement des taxes forfaitaires fixées par décret, soit au
+remboursement des dépenses faites y compris la majoration forfaitaire pour dépenses annexes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D454
+
+Lorsque des organes sont ajoutés à une installation de télécommunications à la demande d'un abonné, les lignes associées à
+ces organes sont établies et entretenues contre remboursement des dépenses faites, y compris les majorations forfaitaires
+pour dépenses annexes. Il en est de même en ce qui concerne les lignes nécessaires pour les communications internes dans les
+installations d'intercommunication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-1140 1988-12-21 art. 2 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
+
+
+###### Article D455
+
+Les abonnements relatifs à la location-entretien des appareils, postes et installations téléphoniques ont une durée minimum
+de six mois, exceptions faites :
+
+- des matériels fournis à titre temporaire ;
+
+- et des installations téléphoniques complexes ; pour ces dernières, la durée minimale variable selon le type de matériel,
+est fixée par arrêté du ministre chargé des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°88-1140 1988-12-21 art. 2 et 4 JORF 22 décembre 1988 en vigueur le 23 décembre 1988
 
 
 ### TITRE IV : Police des liaisons et des installations du réseau de télécommunications
