@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1996-11-30
+Version Consolidée au 1996-12-26
 
 # Partie législative
 
@@ -16066,6 +16066,194 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	**Transféré par**:
 
 	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+
+
+##### Paragraphe 7 : Autorité de régulation des télécommunications
+
+###### Article D97-4
+
+L'Autorité de régulation des télécommunications adopte son règlement intérieur, qui fixe notamment les modalités de
+délibération ainsi que les règles de procédure applicables devant elle.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D288 (V)
+	  - Code des postes et télécommunications électroniques D288
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+
+###### Article D97-5
+
+Le président de l'Autorité de régulation des télécommunications peut faire appel, avec l'accord des ministres intéressés, aux
+services de l'Etat dont le concours est nécessaire à l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D289
+	  - Code des postes et des communications électronique - art. D289 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+
+###### Article D97-6
+
+Le président de l'Autorité de régulation des télécommunications est habilité à passer des conventions, à titre gracieux ou
+onéreux, avec toute personne publique ou privée.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D290
+	  - Code des postes et des communications électronique - art. D290 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+
+###### Article D97-7
+
+Le président de l'Autorité de régulation des télécommunications est ordonnateur des dépenses et des recettes de l'Autorité de
+régulation des télécommunications.
+
+Des régies de recettes et de dépenses peuvent être créées auprès de l'Autorité de régulation des télécommunications, par
+décision du président, dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes
+et d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D291
+	  - Code des postes et des communications électronique - art. D291 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Cite**:
+
+	  - Décret n°92-681 1992-07-20
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+
+###### Article D97-8
+
+Les services de l'Autorité de régulation des télécommunications sont dirigés, sous l'autorité du président, par un directeur
+général.
+
+Le directeur général est nommé par le président de l'Autorité. Le directeur général et les collaborateurs qu'il désigne
+assistent aux délibérations de l'Autorité de régulation des télécommunications et en assurent l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D292
+	  - Code des postes et des communications électronique - art. D292 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+
+###### Article D97-9
+
+Le président de l'Autorité de régulation des télécommunications nomme aux autres emplois de l'autorité.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D293
+	  - Code des postes et des communications électronique - art. D293 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+
+
+###### Article D97-10
+
+Le président de l'Autorité de régulation des télécommunications peut donner délégation, pour signer tous actes relatifs au
+fonctionnement de l'Autorité ou à l'exécution de ses décisions, au directeur général et, dans la limite de ses attributions,
+à tout autre agent de l'autorité.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D294
+	  - Code des postes et des communications électronique - art. D294 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°96-1138 du 23 décembre 1996 - art. 1 () JORF 26 décembre 1996
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
 
 
 #### CHAPITRE III : Télégraphe
