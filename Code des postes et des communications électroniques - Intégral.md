@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-05-04
 
 # Partie législative
 
@@ -7062,6 +7062,62 @@ Le secrétariat de la commission est assuré par un agent des services de l'info
 
 #### CHAPITRE Ier : Régime juridique
 
+##### SECTION 1 : Définitions.
+
+###### Article R20-1
+
+On entend par << équipement terminal >> tout équipement défini au 10° de l'article L. 32. On considère qu'un terminal est
+connecté indirectement à un réseau lorsque, par l'intermédiaire d'un autre réseau ou d'un autre terminal, il fonctionne avec
+le réseau.
+
+On entend par << exigences essentielles >> les exigences définies au 12° de l'article L. 32. La compatibilité
+électromagnétique et, le cas échéant, l'utilisation efficace de la ressource orbitale sont au nombre des facteurs à prendre
+en considération pour apprécier si l'exigence de bonne utilisation du spectre radioélectrique est satisfaite.
+
+On entend par << spécification technique >> la définition des caractéristiques requises d'un produit, telles que les niveaux
+de qualité ou de propriété d'emploi, la sécurité, les dimensions, y compris les prescriptions applicables au produit en ce
+qui concerne la terminologie, les symboles, les essais et méthodes d'essai, l'emballage, le marquage et l'étiquetage.
+
+On entend par << réglementations techniques communes >> les spécifications techniques communautaires mettant en oeuvre les
+exigences essentielles visées ci-dessus, à l'exception de celles relatives à la sécurité des usagers et du personnel des
+exploitants de réseaux de télécommunications. Leur respect est rendu obligatoire par la législation communautaire dans
+l'ensemble des Etats membres de la Communauté européenne ou de tout autre Etat partie à l'accord instituant l'Espace
+économique européen. Leurs références sont publiées au Journal officiel des communautés européennes.
+
+On entend par << organisme notifié >> un organisme établi dans la Communauté européenne ou dans l'Espace économique européen,
+désigné par un des Etats membres de la Communauté européenne ou de tout autre Etat partie à l'accord instituant l'Espace
+économique européen pour certifier la conformité aux exigences essentielles des équipements terminaux lors de leur
+commercialisation et figurant sur une liste publiée au Journal officiel des communautés européennes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-511 du 27 avril 1995 - art. 1 () JORF 4 mai 1995
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. D133-19-10 (V)
+	  - Code des postes et des communications électroni... - art. R20-13 (M)
+	  - Code des postes et des communications électroni... - art. R20-13-1 (T)
+	  - Code des postes et des communications électroni... - art. R20-21 (V)
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-9 (V)
+	  - Code des postes et des communications électronique - art. D406-11 (V)
+	  - Code des postes et des communications électronique - art. D485 (T)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32
+
+
 ##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.
 
 ###### Article R20-15
@@ -7240,62 +7296,6 @@ d'installateur admis en télécommunications ou en radiocommunications, en viola
 
 
 #### CHAPITRE Ier : Etablissement et entretien des lignes et des installations de télécommunications
-
-##### SECTION 1 : Définitions.
-
-###### Article R20-1
-
-On entend par équipement terminal tout équipement défini au 10° de l'article L. 32. On considère qu'un terminal est connecté
-indirectement à un réseau lorsque, par l'intermédiaire d'un autre réseau ou d'un autre terminal, il fonctionne avec le
-réseau.
-
-On entend par exigences essentielles les exigences définies au 12° de l'article L. 32. La compatibilité électromagnétique est
-au nombre des facteurs qui sont à prendre en considération pour apprécier si l'exigence de bonne utilisation du spectre
-radioélectrique est satisfaite.
-
-On entend par spécification technique la définition des caractéristiques requises d'un produit, telles que les niveaux de
-qualité ou de propriété d'emploi, la sécurité, les dimensions, y compris les prescriptions applicables au produit en ce qui
-concerne la terminologie, les symboles, les essais et méthodes d'essai, l'emballage, le marquage et l'étiquetage.
-
-On entend par réglementations techniques communes les spécifications techniques communautaires mettant en oeuvre les
-exigences essentielles visées ci-dessus, à l'exception de celles relatives à la sécurité des usagers et du personnel des
-exploitants de réseaux de télécommunications. Leur respect est rendu obligatoire par la législation communautaire dans
-l'ensemble des Etats membres de la Communauté européenne ou de tout autre Etat partie à l'accord instituant l'Espace
-économique européen. Leurs références sont publiées au Journal officiel des communautés européennes.
-
-On entend par organisme notifié un organisme établi dans la Communauté européenne ou dans l'Espace économique européen,
-désigné par un des Etats membres de la Communauté européenne ou de tout autre Etat partie à l'accord instituant l'Espace
-économique européen. pour certifier la conformité aux exigences essentielles des équipements terminaux lors de leur
-commercialisation et figurant sur une liste publiée au Journal officiel des communautés européennes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. D133-19-10 (V)
-	  - Code des postes et des communications électroni... - art. R20-13 (M)
-	  - Code des postes et des communications électroni... - art. R20-13-1 (T)
-	  - Code des postes et des communications électroni... - art. R20-21 (V)
-	  - Code des postes et des communications électroni... - art. R20-5 (V)
-	  - Code des postes et des communications électroni... - art. R20-6 (V)
-	  - Code des postes et des communications électroni... - art. R20-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-9 (V)
-	  - Code des postes et des communications électronique - art. D406-11 (V)
-	  - Code des postes et des communications électronique - art. D485 (T)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L32
-
 
 ##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.
 
