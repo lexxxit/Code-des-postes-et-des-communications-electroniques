@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1980-07-30
+Version Consolidée au 1980-08-01
 
 # Partie législative
 
@@ -12920,6 +12920,26 @@ la voie télégraphique prolongeant la ligne terminale donne lieu au paiement de
 	  - Décret n°70-23 1970-01-08 art. 1 JORF 10 janvier 1970
 
 
+###### Article D281
+
+La ligne terminale d'abonnement télex est établie ou transférée moyennant paiement des frais forfaitaires d'accès au réseau
+fixés par les décrets de taxes pour les opérations de cette nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°80-607 1980-07-31 art. 1 JORF 1er août 1980
+
+
 ###### Article D282
 
 Du point de vue de la tarification, certains commutateurs téléphoniques peuvent, en raison de leur situation, être désignés
@@ -13994,27 +14014,6 @@ titulaire de l'abonnement dont la transformation est demandée des conditions fi
 	**Abrogé par**:
 
 	  - Décret n°84-313 1984-04-26 art. 1 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D354
-
-**Nota:**
-
-[*(Abrogé par décret n° 80-607 du 31 juillet 1980)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°80-607 1980-07-31 art. 1 JORF 1er août 1980
 
 
 ###### Article D355
