@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1964-10-01
+Version Consolidée au 1965-01-13
 
 # Partie législative
 
@@ -7185,27 +7185,6 @@ dépositaires ou revendeurs bénéficient d'une réduction de 50 p. 100 sur le t
 	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
 
 
-###### Article D25
-
-**Nota:**
-
-[*(Abrogé par le décret n° 65-18 du 12 janvier 1965)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°65-18 1965-01-12 art. 4 JORF 13 janvier 1965
-
-
 ###### Article D26
 
 Le lieu de publication, au point de vue de l'application de la taxe, est celui où le journal est imprimé.
@@ -12120,29 +12099,6 @@ D. 328.
 	**Abrogé par**:
 
 	  - Décret n°79-440 1979-06-07 art. 1 JORF 8 juin 1979 rectificatif JORF 12 juillet 1979
-
-
-##### 3. : Droit de timbre.
-
-###### Article D361
-
-**Nota:**
-
-[*(Abrogé par décret n° 65-20 du 12 janvier 1965)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°65-20 1965-01-12 art. 2 JORF 13 janvier 1965 rectificatif JORF 21 janvier 1965
 
 
 ##### SECTION 4 : Dispositions particulières au service international.
