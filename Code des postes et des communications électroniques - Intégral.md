@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1975-01-04
+Version Consolidée au 1975-08-08
 
 # Partie législative
 
@@ -12544,6 +12544,35 @@ et la station centrale, ces communications sont passibles d'un prix téléphoniq
 
 
 ##### Paragraphe 4 : Services spéciaux
+
+##### 1. : Service de réception et de traitement d'appels.
+
+###### Article D308
+
+Dans la mesure où les équipements de télécommunications et les moyens d'exploitation de l'administration des postes et
+télécommunications le permettent, tout abonné titulaire d'un abonnement téléphonique principal peut participer à des services
+de réception et de traitements d'appels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D307 (V)
+	  - Code des postes et des communications électroni... - art. D310 (V)
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 1 JORF 15 septembre 1970
+	  - Décret n°72-915 1972-09-26 art. 1 JORF 8 août 1975
+
 
 ##### 4. : Service de l'heure.
 
