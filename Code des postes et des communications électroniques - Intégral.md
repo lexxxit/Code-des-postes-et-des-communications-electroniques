@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-10-09
+Version Consolidée au 2003-12-20
 
 # Partie législative
 
@@ -5454,16 +5454,12 @@ Les poursuites ont lieu à la diligence du ministère public, sans préjudice du
 
 ###### Article L79
 
-Les procès-verbaux dressés conformément à l'article 10 de la convention du 14 mars 1884 ne sont point soumis à
-l'affirmation ; ils font foi jusqu'à l'inscription de faux.
+Les procès-verbaux dressés conformément à l'article 10 de la convention du 14 mars 1884 font foi jusqu'à l'inscription de
+faux.
 
 A défaut de procès-verbaux ou en cas d'insuffisance de ces actes, les infractions peuvent être prouvées par témoins.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
 
 	**Codifié par**:
 
@@ -5477,6 +5473,10 @@ A défaut de procès-verbaux ou en cas d'insuffisance de ces actes, les infracti
 
 	  - Code des postes, télégraphes et téléphones L137
 	  - Loi n°1884-12-20 art. 3
+
+	**Modifié par**:
+
+	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 16 () JORF 20 décembre 2003
 
 
 ###### Article L80
@@ -5650,8 +5650,7 @@ appliquées à la rébellion, suivant les distinctions établies au code pénal.
 
 ###### Article L86
 
-Les procès-verbaux dressés par les officiers commandant les navires de guerre français ne sont point soumis à l'affirmation ;
-ils font foi jusqu'à inscription de faux.
+Les procès-verbaux dressés par les officiers commandant les navires de guerre français font foi jusqu'à inscription de faux.
 
 Les procès-verbaux dressés par tous autres agents ayant qualité à cet effet, aux termes de l'article précédent, ont la force
 probante et sont soumis aux formalités réglées par les lois spéciales, notamment l'article L. 70 et les articles 17 et 20 du
@@ -5669,13 +5668,13 @@ décret du 9 janvier 1852.
 	  - Code des postes, télégraphes et téléphones L149
 	  - Loi n°1884-12-20 art. 15
 
+	**Modifié par**:
+
+	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 16 () JORF 20 décembre 2003
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
 
 
 ### TITRE VI : Services radioélectriques
@@ -13466,12 +13465,6 @@ le décret n° 92-681 du 20 juillet 1992.
 
 	  - Décret n°62-274 1962-03-12
 
-
-## LIVRE II : Les télécommunications
-
-### TITRE II : Prérogatives et servitudes
-
-#### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes
 
 ## LIVRE III : Les services financiers
 
