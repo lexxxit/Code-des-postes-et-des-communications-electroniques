@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1985-08-01
+Version Consolidée au 1985-10-01
 
 # Partie législative
 
@@ -777,6 +777,36 @@ La mise en service de machines à affranchir sans l'autorisation de l'administra
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L26
+
+Toute déclaration frauduleuse de valeurs supérieures à la valeur réellement insérée dans une lettre [*infraction*] est punie
+[*sanction*] d'un emprisonnement [*durée*] d'un mois à un an et d'une amende [*taux*] de 60 F à 15 000 F [*taux résultant de
+la loi 85-835 du 7 août 1985*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L64 al. 1
+	  - Loi n°1859-06-04 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. L27 (Ab)
 
 
 ###### Article L27
@@ -2166,6 +2196,32 @@ représentant de l'Etat dans le département demande l'avis de cette collectivit
 
 #### CHAPITRE II : Dispositions pénales.
 
+###### Article L66
+
+Toute personne qui, par la rupture des fils, par la dégradation des appareils ou par tout autre moyen, cause volontairement
+l'interruption des télécommunications [*infraction*], est punie d'un emprisonnement de trois mois à deux ans et d'une amende
+de 360 F à 15 000 F [*taux résultant de la loi 85-835 du 7 août 1985*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L125
+	  - Décret-loi 1851-12-27 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
 ###### Article L67
 
 Sont punis de la détention criminelle à temps de dix à vingt ans et d'une amende de 3 600 F à 30 000 F, sans préjudice des
@@ -2363,6 +2419,36 @@ il se serait rendu coupable.
 
 #### CHAPITRE II : Dispositions pénales.
 
+###### Article L73
+
+A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de 120
+F à 15 000 F [*taux résultant de la loi 85-835 du 7 août 1985*] et, éventuellement, d'un emprisonnement de douze jours à
+quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L72
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L150
+	  - Loi n°1884-12-20 art. 16
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
 ###### Article L74
 
 En cas de récidive, [*sanction*] le maximum des peines édictées ci-dessus est prononcé, ce maximum peut être élevé jusqu'au
@@ -2536,6 +2622,42 @@ est punie [*sanction*] des peines appliquées à la rébellion, suivant les dist
 	**Créé par**:
 
 	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L81
+
+Est punie d'une amende de 1 080 F à 15 000 F [*taux résultant de la loi 85-835 du 7 août 1985*] et d'un emprisonnement de
+trois mois à cinq ans : toute personne qui rompt volontairement un câble sous-marin ou lui cause une détérioration qui
+pourrait interrompre ou entraver, en tout ou partie, les télécommunications [*infraction*].
+
+Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits.
+
+Toutefois, ces dispositions ne s'appliquent pas aux personnes qui auraient été contraintes de rompre un câble sous-marin ou
+de lui causer une détérioration par la nécessité actuelle de protéger leur vie ou d'assurer la sécurité de leur navire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L144
+	  - Loi n°1884-12-20 art. 10
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L74 (Ab)
+	  - Code des postes et des communications électroni... - art. R51 (V)
 
 
 ##### SECTION 2 : Dispositions spéciales aux eaux territoriales.
