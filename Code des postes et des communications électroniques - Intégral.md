@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1962-12-19
+Version Consolidée au 1963-02-23
 
 # Partie législative
 
@@ -12365,6 +12365,31 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 
 
 ##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).
+
+###### Article D422
+
+**Nota:**
+
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+
+	**Abrogé par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
 
 ###### Article D424
 
