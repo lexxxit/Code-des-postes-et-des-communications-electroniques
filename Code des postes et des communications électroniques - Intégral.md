@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-01-14
+Version Consolidée au 1993-02-07
 
 # Partie législative
 
@@ -17922,6 +17922,422 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
+### TITRE VI : Les services radioélectriques
+
+#### CHAPITRE Ier : Dispositions générales.
+
+###### Article D457
+
+Les installations et réseaux radioélectriques sont définis au 11° de l'article L. 32.
+
+Les termes définis dans la constitution et la convention de l'Union internationale des télécommunications ainsi que dans le
+règlement des radiocommunications ont, lorsqu'ils sont utilisés dans le présent titre, le sens qui leur est donné dans les
+constitution, convention et règlement susvisés, sauf disposition expresse contraire.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D406-5
+	  - Code des postes et des communications électronique - art. D406-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32 (M)
+
+
+###### Article D458
+
+En matière de radiocommunications, le ministre chargé des communications électroniques :
+
+1° Centralise toutes les affaires concernant l'application des dispositions de la constitution et de la convention de l'Union
+internationale des télécommunications, des règlements administratifs qui les complètent et des accords internationaux conclus
+dans le cadre desdits constitution, convention et règlements ;
+
+2° Assure les relations administratives avec les divers organismes de l'Union internationale des télécommunications et avec
+les administrations étrangères ;
+
+3° Contrôle l'application, par les exploitants des installations radioélectriques établies à terre, des dispositions visées
+au 1°.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D406-6
+	  - Code des postes et des communications électronique - art. D406-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
+#### CHAPITRE II : Installations et réseaux radioélectriques indépendants.
+
+###### Article D459
+
+Les installations et réseaux utilisant des fréquences radioélectriques, visés à l'article L. 32-2 et au premier alinéa de
+l'article L. 89, sont classés en cinq catégories :
+
+1° Réseaux dont l'utilisation est justifiée par l'exercice d'une activité à caractère professionnel, économique ou social ;
+
+2° Installations expérimentales destinées à des essais d'ordre technique, à des études scientifiques ou à des démonstrations
+de matériel radioélectrique et ne pouvant servir qu'à l'échange des signaux et communications de réglage ;
+
+3° Installations des radioamateurs, c'est-à-dire du service d'amateur et du service d'amateur par satellite définis au
+règlement des radiocommunications, ayant pour objet l'instruction individuelle, l'intercommunication et les études
+techniques, effectuées par des amateurs qui sont des personnes dûment autorisées s'intéressant à la technique de la
+radioélectricité à titre uniquement personnel et sans intérêt pécuniaire ; ces transmissions doivent se faire en langage
+clair et se limiter à des messages d'ordre technique ayant trait aux essais ;
+
+4° Postes émetteurs-récepteurs fonctionnant sur les canaux banalisés (bande 26,960-27,410 MHz), dits postes C.B., destinés à
+établir des communications à courte distance ;
+
+5° Autres installations telles que les radiocommunications de loisir, dont les installations employées dans l'aéromodélisme
+ou le vol libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D406-7 (V)
+	  - Code des postes et télécommunications électroniques D406-7
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R*52-1 (T)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32-2, L89
+
+
+###### Article D460
+
+Les conditions d'autorisation et les conditions techniques et d'exploitation des réseaux radioélectriques indépendants sont
+déterminées par arrêté du ministre chargé des communications électroniques ainsi que par les conditions particulières de
+l'autorisation.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
+
+
+###### Article D461
+
+L'autorisation fixe les conditions techniques et d'exploitation de chaque réseau radioélectrique en tenant compte des besoins
+exprimés par le demandeur et des dispositions applicables en matière de radiocommunications.
+
+Ces conditions peuvent faire l'objet de restrictions à tout moment dans l'intérêt de la sécurité publique et de la défense
+nationale.
+
+Les conditions techniques et d'exploitation d'un réseau radioélectrique indépendant peuvent être modifiées dans l'intérêt de
+la gestion générale du spectre et du bon fonctionnement des autres réseaux ou services de radiocommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
+
+
+###### Article D462
+
+Les réseaux radioélectriques doivent être à tout moment conformes aux conditions techniques et d'exploitation ainsi
+déterminées.
+
+Toute modification des conditions techniques et d'exploitation des réseaux radioélectriques ne peut intervenir qu'après
+accord du ministre chargé des communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
+
+
+###### Article D463
+
+Les autorisations visées à l'article L. 33-2 ne comportent aucun privilège ou exclusivité et ne peuvent faire obstacle à ce
+que des autorisations de même nature soient accordées ultérieurement à un autre exploitant.
+
+Ces installations ou réseaux radioélectriques ne doivent entraîner aucune gêne vis-à-vis des autres utilisateurs de
+fréquences.
+
+Les autorisations sont délivrées sans garantie contre les perturbations causées par le fonctionnement d'autres utilisateurs
+de fréquences radioélectriques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-2
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L160
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 9 () JORF 30 avril 2005
+
+
+#### CHAPITRE V : Radiocommunications du service maritime.
+
+###### Article D483
+
+Les réseaux de radiocommunications maritimes ouverts au public sont établis dans les conditions fixées à l'article L. 33-1.
+Les services de radiocommunications sont fournis par l'intermédiaire des stations côtières de l'exploitant public ou par
+celles autorisées par le ministère chargé des communications électroniques.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D406-9 (V)
+	  - Code des postes et télécommunications électroniques D406-9
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
+###### Article D484
+
+Les stations côtières établies par les services de la marine nationale du ministère chargé de la défense, ainsi que celles de
+l'exploitant public, sont autorisées à acheminer les radiotélégrammes échangés avec les navires de guerre français.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D406-10
+	  - Code des postes et des communications électronique - art. D406-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
+###### Article D485
+
+Les installations radioélectriques établies à bord des navires de commerce, de pêche ou de plaisance doivent être agréées par
+le ministre chargé des communications électroniques, conformément aux articles L. 34-9, R. 20-1 et suivants.
+
+Dans le cadre des dispositions du règlement des radiocommunications et des conventions ou accords internationaux,
+l'exploitant du réseau de radiocommunications maritimes ouvert au public participe à la définition des caractéristiques
+techniques et des conditions d'exploitation des installations radiomaritimes établies à bord des navires de commerce, de
+pêche ou de plaisance.
+
+L'exploitant du réseau radiomaritime s'assure de la conformité de ces installations aux caractéristiques susvisées. Il est
+consulté sur les demandes d'autorisation temporaire d'usage d'installations déjà existantes à bord des navires. Lorsque
+l'installation d'un navire n'est pas conforme aux dispositions du présent article, l'exploitant du réseau peut refuser
+d'accepter les communications entre ses stations côtières et le navire en cause, à l'exception des communications de détresse
+et d'aide médicale.
+
+Il délivre la licence prévue par le règlement des radiocommunications.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D406-11 (V)
+	  - Code des postes et télécommunications électroniques D406-11
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-9 (M)
+	  - Code des postes et des communications électronique - art. R20-1 (M)
+
+
+###### Article D486
+
+Les installations radioélectriques à bord des navires relèvent de l'autorité des capitaines. En aucun cas et pour aucun
+motif, une station de bord ne peut faire usage d'un indicatif d'appel autre que celui qui lui a été assigné.
+
+La manoeuvre des installations de radiocommunications maritimes est effectuée par l'intermédiaire d'opérateurs titulaires du
+certificat visé à l'article L. 42-4.
+
+Les opérateurs d'installations radiomaritimes doivent respecter le secret des correspondances conformément à l'article L.
+32-3.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D406-12 (V)
+	  - Code des postes et télécommunications électroniques D406-12
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L42-4, L32-3
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
+###### Article D487
+
+Les navires étrangers stationnant dans les ports français sont soumis aux dispositions du présent chapitre dans la limite des
+règlements internationaux en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications électroniques D406-13
+	  - Code des postes et des communications électronique - art. D406-13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Transféré par**:
+
+	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
 ## LIVRE II : Les télécommunications
 
 ### TITRE Ier : Dispositions générales
@@ -20077,428 +20493,7 @@ En cas de récidive, les surtaxes précitées sont doublées.
 	  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
 
 
-### TITRE VI : Services radioélectriques
-
-#### CHAPITRE Ier : Dispositions générales.
-
-###### Article D457
-
-Toutes les stations radioélectriques sont exploitées par l'administration des postes et télécommunications ou relèvent de son
-autorité, à l'exception :
-
-1° Des stations relevant des départements de la guerre, de l'air et de la marine ;
-
-2° Des stations spéciales aux services des phares et balises ;
-
-3° Des stations installées par le département chargé de l'aviation civile pour les besoins de la navigation aérienne ;
-
-4° Des stations installées par le département de l'intérieur ;
-
-5° Des stations de radiodiffusion.
-
-Toute dérogation à cette règle doit faire l'objet d'un accord préalable entre les ministères intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-5 (V)
-
-
-###### Article D458
-
-Toutes les stations établies, entretenues et exploitées par d'autres administrations que celle des postes et
-télécommunications peuvent être ouvertes à la correspondance privée, après entente avec cette administration.
-
-Les départements autorisés à exploiter les stations définies à l'article D. 457 peuvent faire établir et entretenir à leurs
-frais et exploiter par leur personnel les lignes de télécommunications, ainsi que les tubes pneumatiques ou tous autres
-moyens de liaison nécessaires pour relier leurs services à ces stations ou pour assurer la manipulation ou la réception des
-signaux à distance.
-
-Les départements qui exploitent ces installations sont exemptés de toute redevance à l'administration des postes et
-télécommunications lorsqu'ils utilisent les installations ci-dessus pour des radiocommunications officielles.
-
-Une redevance est, au contraire, due à l'administration des postes et télécommunications :
-
-- pour les radiocommunications non officielles ;
-
-- pour les radiocommunications officielles, lorsqu'il est fait usage de lignes ou de tubes appartenant en totalité ou en
-partie à cette administration, ou desservis, au moins à une de leurs extrémités, par son personnel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications D457
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-6 (V)
-
-
-###### Article D459-1
-
-En matière de radiocommunications, l'administration des postes et télécommunications est chargée :
-
-1° De centraliser toutes les affaires concernant l'application des dispositions de la convention internationale des
-télécommunications, des règlements administratifs qui la complètent et des accords internationaux conclus dans le cadre de
-ladite convention et desdits règlements ;
-
-2° D'assurer les relations administratives avec les divers organismes de l'Union internationale des télécommunications et
-avec les administrations étrangères ;
-
-3° De contrôler l'application, par les stations à terre et par les stations établies à bord des navires et des aéronefs, des
-dispositions visées au 1°.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D459-2
-
-Les termes définis dans la convention internationale de télécommunications et dans le règlement des radiocommunications
-conservent, lorsqu'ils sont utilisés dans le présent titre, le sens qui leur est donné dans ladite convention et dans ledit
-règlement, à moins de contradiction avec le contexte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D460
-
-L'administration des postes et télécommunications est chargée de la délivrance des certificats d'aptitude professionnelle aux
-emplois d'opérateur des stations de navire et d'aéronef, prévus par le règlement des radiocommunications.
-
-Un arrêté du ministre des postes et télécommunications détermine les conditions dans lesquelles les certificats sont
-délivrés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D461
-
-Au moment de la remise des certificats, les opérateurs prêtent serment devant un fonctionnaire des services radioélectriques
-de l'administration des postes et télécommunications.
-
-Les opérateurs doivent se conformer aux règles de service en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D462
-
-Le service de la station de bord est placé sous l'autorité du commandant du navire ou de l'aéronef. Le commandant est soumis
-à l'obligation du secret des correspondances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-#### CHAPITRE III : Stations radioélectriques privées.
-
-###### Article D463
-
-Un arrêté du ministre des postes et télécommunications détermine les conditions techniques et d'exploitation des stations
-radioélectriques privées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L160
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D464
-
-Les stations radioélectriques privées sont classées en trois catégories :
-
-1° Stations destinées à l'établissement de communications privées ;
-
-2° Stations expérimentales destinées à des essais d'ordre technique, à des études scientifiques ou à des démonstrations de
-matériel radio-électrique et ne pouvant servir qu'à l'échange des signaux et communications de réglage ;
-
-3° Stations d'amateurs servant exclusivement à des communications utiles au fonctionnement des appareils, à l'exclusion de
-toute correspondance ayant un caractère d'utilité actuelle et personnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L156
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D465
-
-L'installation de stations radioélectriques privées est autorisée par l'administration des postes et télécommunications dans
-les conditions fixées par les articles L. 87 et suivants. Les licences d'exploitation ne sont accordées qu'à titre
-temporaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L87
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D466
-
-Les autorisations accordées ne comportent aucun privilège et ne peuvent faire obstacle à ce que des autorisations de même
-nature soient accordées ultérieurement à un pétitionnaire quelconque.
-
-Elles sont délivrées sans garantie contre la gêne mutuelle qui serait la conséquence du fonctionnement simultané d'autres
-stations. Elles ne peuvent être transférées à des tiers.
-
-Toutes les autorisations sont révocables à tout moment, sans indemnité, par le ministre des postes et télécommunications et,
-notamment, dans les cas suivants :
-
-1° Si le permissionnaire n'observe pas les conditions particulières qui lui ont été imposées pour l'établissement et
-l'utilisation de sa ou ses stations ;
-
-2° S'il commet une infraction aux règlements intérieurs ou internationaux sur le fonctionnement et l'exploitation des
-stations radio-électriques ;
-
-3° S'il utilise sa ou ses stations à d'autres fins que celles qui ont été prévues dans l'autorisation, notamment s'il capte
-indûment des correspondances qu'il n'est pas autorisé à recevoir ou s'il viole le secret de celles qu'il a captées
-fortuitement ;
-
-4° S'il apporte un trouble quelconque au fonctionnement des radiocommunications des services publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L163
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D467
-
-En principe, il n'est pas accordé de licence d'exploitation de stations privées de radiocommunications lorsque les services
-projetés peuvent être assurés par les moyens normaux des services de télécommunications de l'administration des postes et
-télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D468
-
-Les conditions techniques et d'exploitation des stations radio-électriques privées sont fixées après appréciation des besoins
-exprimés par le pétitionnaire, en tenant compte des dispositions applicables en matière de radiocommunications tant sur le
-plan international que sur le plan intérieur. Ces conditions peuvent d'ailleurs être soumises à tout moment aux restrictions
-nécessitées par les besoins et le bon fonctionnement des stations de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D469
-
-Les caractéristiques techniques auxquelles le matériel doit satisfaire sont vérifiées préalablement à la délivrance de la
-licence d'exploitation et lors des visites de contrôle ultérieures.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D470
-
-La modification des conditions techniques et d'exploitation des stations radioélectriques privées, le remplacement du
-matériel ayant fait l'objet d'un contrôle initial ne peuvent intervenir qu'après autorisation de l'administration des postes
-et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D471
-
-L'exploitation des stations radioélectriques privées ne devra apporter aucune gêne au fonctionnement d'autres stations
-radioélectriques. En cas de gêne causée par les stations radioélectriques privées l'administration des postes et
-télécommunications pourra prescrire toutes dispositions techniques qu'elle jugera utiles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
-
-###### Article D472
-
-Les stations radioélectriques privées ne peuvent être transférées sans une autorisation de l'administration des postes et
-télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
-
+### TITRE VI : Les services radioélectriques
 
 #### CHAPITRE IV : Radiocommunications du service aérien
 
@@ -20526,7 +20521,7 @@ aérien ou par des particuliers pour assurer les communications nécessaires à 
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
 
 	**Nouveaux textes**:
 
@@ -20553,7 +20548,11 @@ concertée du ministre chargé de l'aviation civile et du ministre des postes et
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ##### SECTION 2 : Stations installées par les services officiels de l'aéronautique civile.
@@ -20575,7 +20574,11 @@ radiocommunications.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D474-3
@@ -20595,7 +20598,11 @@ aéronautiques (services mobile et de radionavigation) pouvant résulter de la m
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ##### SECTION 3 : Stations aéronautiques des aéro-clubs.
@@ -20622,7 +20629,11 @@ aéronautiques.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D474-5
@@ -20645,7 +20656,11 @@ Les conditions d'exploitation de ces stations sont déterminées par le ministre
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D474-6
@@ -20662,7 +20677,11 @@ choisies dans la bande des ondes métriques réservées pour les besoins de l'a�
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D474-7
@@ -20678,7 +20697,11 @@ qualité ne sera reconnue qu'à l'issue d'une enquête administrative.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D474-8
@@ -20707,7 +20730,11 @@ Pour chaque station, la taxe de contrôle réglementaire est perçue par le mini
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D474-9
@@ -20729,7 +20756,11 @@ juge utiles.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ##### SECTION 4 : Stations aéronautiques, stations fixes aéronautiques, stations de radiophare installées par des entreprises de transport aérien ou des particuliers.
@@ -20763,7 +20794,11 @@ Les taxes réglementaires applicables sont perçues par le ministre des postes e
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D476
@@ -20783,7 +20818,11 @@ internationaux, et délivrés par le ministre des postes et télécommunications
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D477
@@ -20799,7 +20838,11 @@ ministre des postes et télécommunications chargés d'effectuer toutes visites 
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ##### SECTION 5 : Stations installées à bord des aéronefs.
@@ -20823,7 +20866,11 @@ télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D479
@@ -20849,7 +20896,11 @@ Les itinéraires sur lesquels l'enregistrement des communications est obligatoir
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D480
@@ -20867,7 +20918,11 @@ radionavigant, délivrée par le ministre chargé de l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D481
@@ -20890,7 +20945,11 @@ Certificat de radiotélégraphiste de 1re ou 2e classe valable pour la radiotél
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-1
@@ -20916,7 +20975,11 @@ Les caractéristiques techniques de ces équipements sont fixées comme il est d
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-2
@@ -20941,7 +21004,11 @@ après accord du ministre chargé de l'aviation civile.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-3
@@ -20963,7 +21030,11 @@ télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-4
@@ -20979,7 +21050,11 @@ ministre chargé de l'aviation civile et dont l'installation à bord est conform
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-5
@@ -20996,7 +21071,11 @@ fixées par le ministre chargé de l'aviation civile pour chaque type d'aéronef
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-6
@@ -21014,7 +21093,11 @@ L'exploitant de tout aéronef doit admettre à bord, gratuitement, ces agents pe
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-7
@@ -21034,7 +21117,11 @@ chargé de l'aviation civile :
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-8
@@ -21056,7 +21143,11 @@ Ces documents seront transmis au ministre des postes et télécommunications par
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ##### SECTION 6 : Dispositions diverses.
@@ -21079,7 +21170,11 @@ Les autorisations accordées peuvent être retirées en cas d'infraction aux dis
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ###### Article D482-10
@@ -21097,141 +21192,11 @@ applicables sont perçues par le ministre des postes et télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°93-179 du 5 février 1993 - art. 1 () JORF 7 février 1993
 
+	**Abrogé par**:
 
-#### CHAPITRE V : Radiocommunications du service maritime.
-
-###### Article D483
-
-Les réseaux de radiocommunications maritimes ouverts au public sont établis dans les conditions fixées à l'article L. 33-1.
-Les services de radiocommunications sont fournis par l'intermédiaire des stations côtières de l'exploitant public ou par
-celles autorisées par le ministère chargé des télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-9 (V)
-
-
-###### Article D484
-
-Les stations côtières établies par les services de la marine nationale du ministère chargé de la défense, ainsi que celles de
-l'exploitant public, sont autorisées à acheminer les radiotélégrammes échangés avec les navires de guerre français.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-10 (V)
-
-
-###### Article D485
-
-Les installations radioélectriques établies à bord des navires de commerce, de pêche ou de plaisance doivent être agréées par
-le ministre chargé des télécommunications, conformément aux articles L. 34-9, R. 20-1 et suivants.
-
-Dans le cadre des dispositions du règlement des radiocommunications et des conventions ou accords internationaux,
-l'exploitant du réseau de radiocommunications maritimes ouvert au public participe à la définition des caractéristiques
-techniques et des conditions d'exploitation des installations radiomaritimes établies à bord des navires de commerce, de
-pêche ou de plaisance.
-
-L'exploitant du réseau radiomaritime s'assure de la conformité de ces installations aux caractéristiques susvisées. Il est
-consulté sur les demandes d'autorisation temporaire d'usage d'installations déjà existantes à bord des navires. Lorsque
-l'installation d'un navire n'est pas conforme aux dispositions du présent article, l'exploitant du réseau peut refuser
-d'accepter les communications entre ses stations côtières et le navire en cause, à l'exception des communications de détresse
-et d'aide médicale.
-
-Il délivre la licence prévue par le règlement des radiocommunications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-9, R20-1
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-11 (V)
-
-
-###### Article D486
-
-Les installations radioélectriques à bord des navires relèvent de l'autorité des capitaines. En aucun cas et pour aucun
-motif, une station de bord ne peut faire usage d'un indicatif d'appel autre que celui qui lui a été assigné.
-
-La manoeuvre des installations de radiocommunications maritimes est effectuée par l'intermédiaire d'opérateurs titulaires du
-certificat visé à l'article L. 90.
-
-Les opérateurs d'installations radiomaritimes doivent respecter le secret des correspondances conformément à l'article L.
-32-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L90, L32-3
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-12 (V)
-
-
-###### Article D487
-
-Les navires étrangers stationnant dans les ports français sont soumis aux dispositions du présent chapitre dans la limite des
-règlements internationaux en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-44 du 12 janvier 1993 - art. 1 () JORF 14 janvier 1993
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D406-13 (V)
+	  - Décret n°94-911 1994-10-13 art. 2 JORF 22 octobre 1994
 
 
 ## LIVRE II : Le service des télécommunications
