@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-11-01
+Version Consolidée au 1988-03-09
 
 # Partie législative
 
@@ -7602,6 +7602,30 @@ comptes.
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R80-1
+
+La comptabilité matière des cartes prépayées utilisées dans les publiphones est tenue par un comptable justiciable de la Cour
+des comptes.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-221 1988-03-07 art. 1 JORF 9 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 1 (V) JORF 29 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 #### CHAPITRE II : Agence comptable.
