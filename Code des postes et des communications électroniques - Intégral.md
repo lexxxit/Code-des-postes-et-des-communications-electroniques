@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1975-10-05
+Version Consolidée au 1975-12-30
 
 # Partie législative
 
@@ -12871,6 +12871,33 @@ heures d'ouverture, la qualité du service fourni et la taxation des communicati
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+##### Paragraphe 4 : Abonnements supplémentaires permanents.
+
+###### Article D335
+
+**Nota:**
+
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°75-1275 1975-12-26 art. 1 JORF 30 décembre 1975
+
+	**Abrogé par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
 ##### Paragraphe 6 : Suspension et résiliation des abonnements.
