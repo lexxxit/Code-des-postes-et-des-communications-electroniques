@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1987-10-31
+Version Consolidée au 1987-11-01
 
 # Partie législative
 
@@ -11787,6 +11787,31 @@ Un télégramme est considéré comme valablement remis lorsqu'il est délivré 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
+###### Article D118
+
+La remise des télégrammes est assurée par les moyens de télécommunications, soit directement à partir des commutateurs
+électroniques de messages, soit à partir des centres télégraphiques selon des procédures adaptées à l'équipement terminal de
+télécommunications des clients.
+
+En cas d'échec de ces procédures, ils sont remis par les moyens habituels du service postal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°64-422 1964-05-14 art. 1 JORF 16 mai 1964 rectificatif JORF 11 juillet 1964
+	  - Décret n°87-888 1988-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
 ###### Article D121
 
 Les télégrammes adressés à des abonnés au téléphone ou à des abonnés au service télex sont téléphonés ou télexés aux
@@ -11806,6 +11831,27 @@ destinataires, quel que soit le service particulier demandé sauf opposition de 
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+
+
+###### Article D122
+
+Lorsqu'un télégramme n'a pu être remis, l'expéditeur en est avisé par la voie postale s'il a fait connaître son adresse au
+centre ou au bureau télégraphique d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°87-326 du 13 mai 1987 - art. 1 () JORF 14 mai 1987 en vigueur le 15 mai 1987
+	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur 1er novembre 1987
 
 
 ##### Paragraphe 6 : Perception des tarifs.
@@ -11879,6 +11925,47 @@ Les prix des télégrammes sont facturés à l'expéditeur. Ils sont :
 	**Modifié par**:
 
 	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+##### Paragraphe 7 : Télégrammes spéciaux.
+
+###### Article D129
+
+Sont considérés comme télégrammes spéciaux :
+
+- les télégrammes relatifs à la sécurité de la vie humaine ;
+
+- les télégrammes de presse ;
+
+- les phototélégrammmes ;
+
+- les télégrammes urgents du régime international ;
+
+- les télégrammes illustrés ;
+
+- les télégrammes à dépôt anticipé ;
+
+- les télégrammes avec accusé de réception ;
+
+- les télégrammes R.C.T. du régime international ;
+
+- les radiotélégrammes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°64-422 1964-05-14 art. 1 JORF 16 mai 1964 rectificatif JORF 11 juillet 1986
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
 
 
 ##### Paragraphe 8 : Définitions et caractéristiques des divers télégrammes spéciaux
@@ -12014,31 +12101,6 @@ Les télégrammes de presse bénéficient de tarifs spéciaux.
 
 ##### 3. : Télégrammes des services postaux financiers.
 
-###### Article D138
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-888 du 30 octobre 1987, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
-
-
 ###### Article D139
 
 L'expéditeur peut écrire sur la formule de dépôt une communication particulière à l'adresse du destinataire.
@@ -12055,56 +12117,6 @@ conventionnelle enregistrée.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D140
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-888 du 30 octobre 1987, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
-
-
-###### Article D141
-
-**Nota:**
-
-[*(Abrogé par décret n° 87-888 du 30 octobre 1987, art. 1er)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
 
 
 ##### 4. : Phototélégrammes.
@@ -12451,6 +12463,37 @@ remise des lettres radiomaritimes.
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
+
+
+##### Paragraphe 9 : Dispositions diverses se rapportant à l'exécution de services particuliers
+
+##### 1. : Communication au guichet de l'original d'un télégramme.
+
+###### Article D228
+
+Moyennant le paiement des montants réglementaires, toute personne justifiant de sa qualité d'expéditeur, de destinataire ou
+de fondé de pouvoir de l'un d'eux peut demander, pendant le délai de conservation des archives, la communication :
+
+- d'une copie ;
+
+- d'une photocopie.
+
+Cette demande peut être déposée par tout moyen de la poste et des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 2 () JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+	  - Décret n°87-888 1987-10-30 art. 1 et 5 JORF 31 octobre 1987 en vigueur le 1er novembre 1987
 
 
 ##### Paragraphe 10 : Télégrammes officiels
