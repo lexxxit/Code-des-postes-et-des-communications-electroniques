@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1997-07-15
 
 # Partie législative
 
@@ -10553,17 +10553,533 @@ ou de notification à cette Autorité en cas de défaillance d'un opérateur.
 	  - Décret n°62-274 1962-03-12
 
 
-#### CHAPITRE II : Servitudes radio-électriques
+#### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes
 
-##### SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.
+##### SECTION 1 : Droits de passage.
+
+###### Article R20-45
+
+La permission de voirie prévue par le premier alinéa de l'article L. 47 est délivrée par le préfet sur les autoroutes non
+concédées et les routes nationales, les sociétés concessionnaires sur les autoroutes concédées, le président de la
+collectivité territoriale de Corse sur les routes relevant de cette collectivité, le président du conseil général sur les
+routes départementales et le maire sur les voies communales.
+
+La délivrance de ces permissions de voirie s'effectue conformément au principe de non-discrimination dans le traitement des
+demandes émanant des opérateurs autorisés, notamment lorsque le gestionnaire du domaine public a des intérêts dans les
+réseaux ou services de télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code de la voirie routière - art. R*113-2 (V)
+	  - Code de la voirie routière - art. R*122-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L47
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21 Rec. Lebon
+
+
+###### Article R20-46
+
+L'autorité compétente délivre la permission de voirie, dès lors que celle-ci est compatible avec la destination du domaine
+public routier, l'intégrité des ouvrages et la sécurité des utilisateurs.
+
+Sont notamment incompatibles avec l'affectation routière les implantations :
+
+a) Qui réduisent, après l'exécution du chantier, l'emprise des voies de circulation normale ;
+
+b) Dont les travaux ne peuvent être exécutés dans le respect des règlements de voirie ;
+
+c) Qui, sauf coordination avec des travaux programmés, font obstacle à la circulation sur autoroute ou route express.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-47
+
+La demande de permission de voirie relative à l'installation et à l'utilisation d'infrastructures de télécommunications sur
+le domaine public, présentée par un opérateur autorisé en vertu de l'article L. 33-1 indique l'objet et la durée de
+l'occupation. Elle est accompagnée d'un dossier technique qui comprend :
+
+1° Le plan du réseau présentant les modalités de passage et d'ancrage des installations. Le plan fixe les charges ou les
+cotes altimétriques de l'installation de télécommunication dont la marge d'approximation ne doit pas être supérieure à 10
+centimètres. Il est présenté sur un fond de plan répondant aux conditions définies, le cas échéant, par le gestionnaire en
+fonction des nécessités qu'imposent les caractéristiques du domaine ;
+
+2° Les données techniques nécessaires à l'appréciation de la possibilité d'un éventuel partage des installations existantes ;
+
+3° Les schémas détaillés d'implantation sur les ouvrages d'art et les carrefours ;
+
+4° Les conditions générales prévisionnelles d'organisation du chantier ainsi que le nom et l'adresse du coordonnateur de
+sécurité désigné par le pétitionnaire en application de la loi ;
+
+5° Les modalités de remblaiement ou de reconstitution des ouvrages ;
+
+6° Un échéancier de réalisation des travaux faisant état de la date de leur commencement et de leur durée prévisible ;
+
+Lorsque la demande concerne un domaine dont la gestion est confiée à une autorité différente de celle compétente pour
+délivrer l'autorisation, une copie du dossier est adressée, à titre confidentiel, au gestionnaire.
+
+L'autorité compétente traite la demande dans le respect du secret des affaires et y répond dans un délai maximal de deux mois
+à compter de l'accusé de réception de toute demande accompagnée du dossier complet mentionné à l'alinéa 1er du présent
+article. A défaut de réponse explicite au terme de ce délai, la permission de voirie est réputée accordée selon les termes de
+la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-47 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33-1
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+
+###### Article R20-48
+
+Lorsque la satisfaction de la demande d'un opérateur conduit à réserver l'usage, à son profit, de l'ensemble des capacités
+d'occupation du domaine public disponibles, le gestionnaire du domaine subordonne l'octroi de la permission de voirie à la
+réalisation de travaux permettant le partage ultérieur des installations et rend publiques les conditions d'accès à ces
+installations.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-49
+
+Outre les cas dans lesquels, à la suite d'incidents ou d'accidents, une intervention est nécessaire pour des raisons de force
+majeure, le gestionnaire peut, dans l'intérêt du domaine occupé, demander le déplacement ou la modification de
+l'installation. Il informe, dès qu'il en a connaissance, l'occupant de la date de déplacement ou de la modification demandée
+et respecte un préavis suffisant pour permettre la continuité de l'exploitation de l'activité autorisée, qui ne peut être
+inférieur à deux mois, sauf travaux d'urgence.
+
+Sont présumés être faits dans l'intérêt du domaine occupé, les travaux effectués en vue de permettre le partage
+d'installations entre opérateurs.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-50
+
+Si l'autorité compétente constate, conformément à l'article L. 47, que le droit de passage de l'opérateur peut être assuré
+par l'utilisation d'installations existantes, elle invite les parties concernées à se rapprocher en vue d'une utilisation
+partagée des installations en cause et le notifie aux intéressés dans un délai d'un mois à compter du dépôt de la demande de
+permission de voirie par l'opérateur.
+
+En cas d'échec des négociations de partage des installations constaté par l'une des deux parties dans un délai maximal de
+trois mois, le cas échéant prolongé jusqu'à la décision de l'autorité de régulation des télécommunications si cette dernière
+est saisie, à compter de l'invitation à partager les installations prévues au premier alinéa du présent article, l'opérateur
+peut confirmer à l'autorité compétente sa demande de permission de voirie, en précisant les raisons pour lesquelles il n'a
+pas été possible d'utiliser les installations existantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L47
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-51
+
+Le produit des redevances relatives à l'occupation du domaine public est versé au gestionnaire ou au concessionnaire du
+domaine occupé, dans les conditions fixées par la permission de voirie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-52 (V)
+	  - Code des postes et des communications électroni... - art. R20-54 (V)
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+
+###### Article R20-52
+
+Le montant annuel des redevances est fixé selon les modalités suivantes :
+
+1° Dans le cas d'une utilisation du sous-sol, pour chaque canalisation ou câble enterré, la valeur maximale de la redevance
+exprimée en kilomètre linéaire et en francs s'élève à 20 000 pour les autoroutes situées en zone de montagne, 10 000 pour les
+autres autoroutes ;
+
+2° Pour les routes nationales, les routes départementales et les voies communales, la valeur maximale de la redevance
+exprimée en kilomètre linéaire et en francs s'élève à 150 pour chaque artère.
+
+On entend par artère :
+
+a) Dans le cas d'une utilisation du sous-sol, un tube de protection contenant ou non des câbles, ou un câble en pleine
+terre ;
+
+b) Dans les autres cas, l'ensemble des câbles tirés entre deux supports ;
+
+3° Dans le cas d'installation de stations radioélectriques, la valeur maximale de la redevance exprimée en francs et par
+installation de plus de 12 mètres est de 1 000 pour des antennes et de 2 000 pour des pylônes ;
+
+4° S'agissant des autres installations, la valeur maximale de la redevance exprimée en francs par mètre carré au sol est de
+100. L'emprise des supports liés aux artères mentionnées au 2° ne donne toutefois pas lieu à redevance.
+
+Les redevances maximales mentionnées au présent article évoluent au 1er janvier de chaque année proportionnellement à
+l'évolution de l'indice du coût de la construction mesuré au cours des douze mois précédant la dernière publication de
+l'indice connu au 1er janvier.
+
+En cas d'autorisation tacite, la redevance est due sur la base du barème applicable et des éléments techniques figurant dans
+le dossier de demande.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-53
+
+La barème figurant à l'article précédent est un barème maximum. Il s'applique en l'absence de détermination de montants
+inférieurs par le ministre chargé du domaine pour les redevances dues à raison de l'occupation du domaine public de l'Etat et
+par l'organe délibérant des collectivités territoriales pour les redevances dues à raison de l'occupation de leur domaine
+public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-52
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-54
+
+Saisi d'une demande d'occupation, le maître de l'ouvrage routier peut négocier une convention avec le pétitionnaire aux
+termes de laquelle l'investissement est partagé entre les parties.
+
+L'utilisation de l'ouvrage de télécommunication fait dans ce cas l'objet de dispositions conventionnelles, notamment sur la
+répartition des produits résultant d'un partage futur de l'installation avec un ou plusieurs opérateurs. Dans ce cas, le
+montant de la redevance est fixé, selon les modalités déterminées à l'article R. 20-53, en tenant compte de l'intérêt de
+l'investissement pour le gestionnaire du domaine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-53
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### SECTION 2 : Servitudes.
+
+###### Article R*20-60
+
+L'identité des agents mandatés par l'opérateur autorisé ou par une société mandatée par celui-ci pour l'exécution des travaux
+et la date de commencement des travaux sont indiqués sur une liste portée à la connaissance du propriétaire ou de son
+mandataire ou, en cas de copropriété, du syndic par le bénéficiaire de la servitude huit jours au moins avant la date prévue
+de la première intervention. Elle est établie par le bénéficiaire de la servitude et transmise au propriétaire.
+
+Toute modification de la liste des agents mandatés est notifiée par le bénéficiaire de la servitude au propriétaire ou à son
+mandataire ou, en cas de copropriété, au syndic.
+
+Les agents des opérateurs autorisés doivent être munis d'une attestation signée par le bénéficiaire de la servitude et de
+l'entreprise à laquelle appartient cet agent pour accéder à l'immeuble, au lotissement ou à la propriété non bâtie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R*20-61
+
+L'arrêté instituant la servitude est périmé de plein droit si l'exécution des travaux n'a pas commencé dans les douze mois
+suivant sa publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R*20-62
+
+Le schéma des installations après la réalisation des travaux est adressé par le bénéficiaire de la servitude au propriétaire
+ou à son mandataire ou, en cas de copropriété, au syndicat représenté par le syndic.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-55
+
+Lorsqu'il demande l'institution de la servitude prévue à l'article L. 45-1, l'opérateur autorisé en vertu de l'article L.
+33-1 adresse au maire de la commune dans laquelle est située la propriété sur laquelle il envisage d'établir l'ouvrage, en
+autant d'exemplaires qu'il y a de propriétaires ou, en cas de copropriété, de syndics concernés plus trois, un dossier
+indiquant :
+
+1° La localisation cadastrale de l'immeuble, du groupe d'immeubles ou de la propriété non bâtie, accompagnée de la liste des
+propriétaires concernés ;
+
+2° Les motifs qui justifient le recours à la servitude ;
+
+3° L'emplacement des installations, à l'aide notamment d'un schéma. Une notice précise les raisons pour lesquelles, en vue de
+respecter la qualité esthétique des lieux et d'éviter d'éventuelles conséquences dommageables pour la propriété, ces
+modalités ont été retenues ; elle précise éventuellement si l'utilisation d'installations existantes est souhaitée ou, à
+défaut, les raisons pour lesquelles il a été jugé préférable de ne pas utiliser ou emprunter les infrastructures existantes.
+Un échéancier prévisionnel de réalisation indique la date de commencement des travaux et leur durée prévisible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-56 (VD)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L45-1, L33-1
+
+
+###### Article R20-56
+
+Le maire notifie dans un délai d'un mois au propriétaire ou, en cas de copropriété, au syndic identifié, en tant que de
+besoin, dans les conditions prévues par l'article R. 11-19 du code de l'expropriation pour cause d'utilité publique, ou à
+toute personne habilitée à recevoir la notification au nom des propriétaires, le nom ou la raison sociale de l'opérateur qui
+sollicite le bénéfice de la servitude. Cette notification est accompagnée du dossier constitué par le demandeur de la
+servitude prévu à l'article R. 20-55.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-55
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-19 (V)
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-57
+
+Dans le mois à compter de la réception de la demande, le maire invite, le cas échéant, le demandeur à se rapprocher du
+propriétaire d'installations existantes, auquel il notifie cette invitation simultanément.
+
+En cas d'échec des négociations de partage des installations constaté par une partie, l'opérateur peut confirmer au maire sa
+demande initiale dans un délai maximal de trois mois, le cas échéant prolongé jusqu'à la décision de l'autorité de régulation
+des télécommunications si cette dernière est saisie, à compter de l'invitation à partager les installations prévues, en
+précisant les raisons pour lesquelles il n'a pas été possible d'utiliser les installations existantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-58
+
+Dans le mois suivant l'expiration du délai mentionné au deuxième alinéa de l'article L. 48 du code des postes et
+télécommunications, qui ne peut être supérieur à quatre mois, et au vu des observations qui ont été présentées, le maire
+agissant au nom de l'Etat institue la servitude. Cet arrêté spécifie les opérations que comportent la réalisation et
+l'exploitation des installations et mentionne les motifs qui justifient l'institution de la servitude et le choix de
+l'emplacement.
+
+Aux frais du pétitionnaire, l'arrêté du maire est notifié au propriétaire ou, en cas de copropriété, au syndic et affiché à
+la mairie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-59 (V)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L48
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-59
+
+Les travaux ne peuvent commencer qu'après que l'arrêté du maire a été notifié et publié dans les conditions prévues à
+l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-58
+
+	**Créé par**:
+
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### SECTION 3 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.
 
 ###### Article R*21
 
-Autour de chaque station émettrice ou réceptrice d'ondes radio-électriques utilisant des aériens directifs, ainsi qu'autour
+Autour de chaque station émettrice ou réceptrice d'ondes radioélectriques utilisant des aériens directifs, ainsi qu'autour
 des laboratoires et centres de recherches radioélectriques, il peut être créé deux zones de servitudes respectivement dites
 "zone primaire de dégagement" et "zone secondaire de dégagement".
 
-Entre deux centres assurant une liaison radio-électrique par ondes de fréquence supérieure à 30 mégahertz (c'est-à-dire de
+Entre deux centres assurant une liaison radioélectrique par ondes de fréquence supérieure à 30 mégahertz (c'est-à-dire de
 longueur d'onde inférieure à 10 mètres), il peut être créé une zone de servitudes dite "zone spéciale de dégagement".
 
 Il peut également être créé une zone de servitudes dite "secteur de dégagement" autour des stations de radiorepérage ou de
@@ -10577,7 +11093,7 @@ radionavigation d'émission ou de réception.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10621,10 +11137,6 @@ limite de chacun de ces îlots.
 Les différentes zones ainsi déterminées peuvent faire l'objet d'un seul décret de servitudes même lorsqu'elles ne se
 recoupent pas mutuellement.
 
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 54 et suivants.*]
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10633,7 +11145,7 @@ recoupent pas mutuellement.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10652,10 +11164,6 @@ La largeur d'un secteur de dégagement protégeant une station de radiorepérage
 largeur du secteur angulaire exploré par la station, augmenté, s'il y a lieu, d'une marge de sécurité d'un degré au plus au-
 delà des deux limites de ce secteur.
 
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 54 et suivants.*]
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10664,7 +11172,7 @@ delà des deux limites de ce secteur.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10691,10 +11199,6 @@ Dans les zones boisées, l'établissement des centres projetés est subordonné 
 l'agriculture constatant que le maintien de l'état boisé n'est pas reconnu indispensable dans le périmètre des servitudes à
 imposer.
 
-**Nota:**
-
-[*Dispositions prises en Conseil d'Etat pour l'exécution des articles L. 54 et suivants.*]
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -10707,7 +11211,7 @@ imposer.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Cité par**:
 
@@ -10758,7 +11262,7 @@ l'enquête.
 
 	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 4 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10798,20 +11302,20 @@ mobiles dans un secteur de dégagement.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
 
-##### SECTION 2 : Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques.
+##### SECTION 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.
 
 ###### Article R*28
 
 Aux abords de tout centre de réception classé comme il vient d'être dit à l'article R. 27, il est institué une zone de
-protection radioélectrique. De plus, pour les centres de première et de deuxième catégorie, il est institué, à l'intérieur de
-la zone de protection, une zone de garde radioélectrique.
+protection radioélectrique. De plus, pour les centres de première et de deuxième catégories, il est institué, à l'intérieur
+de la zone de protection, une zone de garde radioélectrique.
 
 **Nota:**
 
@@ -10829,7 +11333,7 @@ la zone de protection, une zone de garde radioélectrique.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10838,7 +11342,7 @@ la zone de protection, une zone de garde radioélectrique.
 
 ###### Article R*29
 
-La distance séparant les limites d'un centre de réception radio-électrique et le périmètre des zones de servitudes ne peut
+La distance séparant les limites d'un centre de réception radioélectrique et le périmètre des zones de servitudes ne peut
 excéder :
 
 - dans le cas d'un centre de 3e catégorie : 200 mètres ;
@@ -10874,7 +11378,7 @@ mutuellement.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10903,7 +11407,7 @@ ministre dont les services exploitent le centre ou exercent la tutelle sur lui.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Cité par**:
 
@@ -10963,7 +11467,7 @@ l'enquête.
 
 	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 4 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -10988,7 +11492,7 @@ en vigueur et, notamment, les textes concernant la protection de la radiodiffusi
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11016,7 +11520,7 @@ dévolus aux différents ministres intéressés et les décrets d'application po
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11045,7 +11549,7 @@ lesquelles interviennent les autorisations prévues aux articles L. 60 et R. 30 
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11070,7 +11574,7 @@ lieu à autorisation préalable à la mise en service.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11098,7 +11602,7 @@ prévues à l'article 4 de la loi du 15 juin 1906.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11126,7 +11630,7 @@ ministres intéressés ou de l'exploitant public.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11158,7 +11662,7 @@ b) Etre mis en service sur l'ensemble du territoire même hors des zones de serv
 
 	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 4 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11185,7 +11689,7 @@ Les modalités de cette action sont établies par l'Agence nationale des fréque
 
 	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 4 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11207,7 +11711,7 @@ ministre intéressé.
 
 	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 4 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11220,7 +11724,7 @@ ministre intéressé.
 	  - Code des postes et des communications électroni... - art. R*33 (V)
 
 
-##### SECTION 3 : Dispositions pénales.
+##### SECTION 5 : Dispositions pénales.
 
 ###### Article R*42
 
@@ -11243,7 +11747,7 @@ intéressé ou de son délégué.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11267,7 +11771,7 @@ la loi du 15 juin 1906.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Cité par**:
 
@@ -11302,7 +11806,7 @@ des centres de réception radioélectriques.
 
 	**Modifié par**:
 
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 	**Codifié par**:
 
@@ -11315,218 +11819,23 @@ des centres de réception radioélectriques.
 
 #### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications
 
-##### SECTION 1 : Dispositions générales.
-
 ###### Article R42-1
 
-Toute personne physique ou morale de droit public ou de droit privé qui envisage la réalisation de travaux énumérés à
-l'annexe IV du décret en date du 14 octobre 1991 relatif à l'exécution de travaux à proximité de certains ouvrages
-souterrains, aériens ou subaquatiques de transport ou de distribution doit, lorsque les travaux projetés se situent dans une
-zone définie dans le plan déposé à cet effet par le service des télécommunications auprès de la mairie de la commune
-territorialement concernée, se renseigner, au stade de l'élaboration de ces projets, sur l'existence et les zones
-d'implantation éventuelles des ouvrages du réseau des télécommunications auxquels l'exécution des travaux serait de nature à
-porter atteinte. Cette demande de renseignements doit être effectuée au moyen d'un imprimé conforme au modèle déterminé par
-un arrêté interministériel pris en application du décret en date du 14 octobre 1991 susmentionné. Elle est effectuée par le
-maître d'ouvrage ou le maître d'oeuvre s'il en existe un auprès du service territorialement compétent. L'adresse du service
-est obtenue auprès de la mairie de la commune sur le territoire de laquelle sont prévus les travaux.
+Afin de prévenir les dommages aux installations de télécommunications, l'emplacement des installations est porté à la
+connaissance des tiers par les opérateurs dans les conditions fixées par le décret n° 91-1147 du 14 octobre 1991 relatif à
+l'exécution de travaux à proximité de certains ouvrages souterrains, aériens ou subaquatiques de transport ou de
+distribution.
 
-Sont toutefois dispensées de la demande de renseignements les personnes qui envisagent des travaux de faible ampleur ne
-comportant pas de fouille du sol, tels que ceux qui sont mentionnés à l'annexe VIII du décret en date du 14 octobre 1991
-susvisé. Cette disposition ne dispense pas du respect des obligations définies à l'article R. 44-1.
-
-Le service est tenu de répondre dans le délai d'un mois à compter de la date de réception de la demande au moyen d'un
-récépissé conforme au modèle déterminé par l'arrêté interministériel mentionné au premier alinéa.
-
-Si la déclaration d'intention de commencement de travaux prévue à l'article R. 44-1 n'est pas effectuée dans le délai de six
-mois à compter de la demande de renseignements, cette dernière doit être renouvelée.
-
-Cette consultation exonère des obligations prévues à l'article R. 44-1 dès lors que la réponse du service fait apparaître que
-les travaux envisagés n'entrent pas dans le champ d'application de l'annexe IV susmentionnée et que les travaux sont
-entrepris six mois au plus tard après la demande de renseignements mentionnée au premier alinéa. Il en est de même en cas
-d'absence de réponse du service dans le délai d'un mois prévu à l'alinéa 3.
+Ce dépôt constitue une modalité d'information des tiers au sens de l'alinéa 3 de l'article L. 65.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications R44-1
-	  - Décret n°91-1147 1991-10-14 annexe IV, annexe VIII
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 2 : Dispositions pénales.
-
-###### Article R43
-
-Sans préjudice de l'application des dispositions de l'article L. 66 du présent code, quiconque, de quelque manière que ce
-soit, détériore ou dégrade une installation du réseau aérien des télécommunications de l'Etat ou de l'exploitant public ou
-compromet le fonctionnement de ce réseau [*infraction*] sera puni [*sanction*] d'une amende de 160 à 2000 F.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L66
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L124
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R44
-
-La contravention prévue à l'article précédent est poursuivie et jugée comme en matière de grande voirie.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R43
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R44-1
-
-Pour l'application des dispositions du troisième alinéa de l'article L. 69-1 du présent code ainsi que de celles du décret en
-date du 14 octobre 1991 relatif à l'exécution de travaux à proximité de certains ouvrages souterrains, aériens ou
-subaquatiques de transport ou de distribution, la déclaration d'intention de commencement de travaux au voisinage des
-ouvrages souterrains, subaquatiques ou aériens du réseau des télécommunications est adressée, par la personne physique ou
-morale chargée de l'exécution des travaux au service des télécommunications.
-
-Cette déclaration, établie sur un imprimé conforme au modèle déterminé par un arrêté interministériel pris en application du
-décret mentionné ci-dessus, doit être reçue par le service chargé des télécommunications dix jours au moins, jours fériés non
-compris, avant la date de début des travaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L69-1
+	  - Code des postes et télécommunications L65
 	  - Décret n°91-1147 1991-10-14
 
 	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R44-2
-
-Le service chargé des télécommunications répond à cette déclaration au moyen d'un récépissé conforme au modèle annexé à
-l'arrêté interministériel mentionné à l'article précédent.
-
-Cette réponse doit être reçue par l'exécutant des travaux au plus tard neuf jours, jours fériés non compris, après la date de
-réception de la déclaration.
-
-Le service communique au moyen de ce récépissé, sous sa responsabilité et avec le maximum de précisions possible, tous les
-renseignements en sa possession sur l'emplacement des ouvrages existant dans la zone où se situent les travaux projetés et y
-joint les recommandations techniques applicables à l'exécution des travaux à proximité desdits ouvrages.
-
-Si les travaux, en raison de leurs conditions de réalisation telles que celles-ci sont précisées dans la déclaration
-souscrite par l'exécutant, rendent nécessaire le repérage, préalable et en commun, de l'emplacement sur le sol des ouvrages,
-le service en avise, au moyen du même récépissé, l'exécutant des travaux afin de coordonner les dispositions à prendre.
-
-Les travaux ne peuvent être entrepris qu'après la communication des indications et recommandations fournies par le service en
-application du présent article, sauf en cas d'urgence justifiée par la sécurité, la continuité du service public ou la
-sauvegarde des personnes ou des biens, ou en cas de force majeure. A défaut de réponse du service dans le délai fixé à
-l'alinéa 2 ci-dessus, les travaux peuvent être entrepris trois jours, jours fériés non compris, après l'envoi par l'exécutant
-des travaux d'une lettre de rappel confirmant son intention d'entreprendre les travaux.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R44-3
-
-Si les travaux annoncés par la déclaration d'intention de commencement de travaux ne sont pas entrepris dans le délai de deux
-mois à compter de la date du récépissé, le déclarant doit déposer une nouvelle déclaration.
-
-En cas d'interruption des travaux supérieure à deux mois, le déclarant doit aviser le service chargé des télécommunications
-lors de la reprise de ceux-ci.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R44-4
-
-L'exécutant des travaux ou son représentant est tenu d'aviser le service chargé des télécommunications ainsi que le maire de
-la commune en cas de dégradation d'un ouvrage ou de toute autre anomalie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Abrogé par**:
 
 	  - Décret n°97-683 du 30 mai 1997 - art. 2 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
