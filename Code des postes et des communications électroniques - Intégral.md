@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1981-10-16
+Version Consolidée au 1982-03-02
 
 # Partie législative
 
@@ -8408,6 +8408,150 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 ##### Section 4 : Journaux et écrits périodiques.
 
+###### Article D18
+
+Sous réserve de l'application des dispositions des articles D. 19, D. 19-1, D. 19-2 et D. 19-3 ci-dessous, les journaux et
+écrits périodiques peuvent bénéficier du tarif de presse.
+
+Pour être considérées comme journaux et écrits périodiques du point de vue de l'application de ce tarif, ces publications
+doivent remplir les conditions suivantes :
+
+1° Avoir un caractère d'intérêt général quant à la diffusion de la pensée : instruction, éducation, information, récréation
+du public ;
+
+2° Satisfaire aux obligations de la loi sur la presse, notamment :
+
+a) Porter l'indication du nom et du domicile de l'imprimeur (ces indications doivent se rapporter à l'imprimeur qui imprime
+réellement la publication) ;
+
+b) Avoir un directeur de la publication dont le nom sera imprimé sur tous les exemplaires ;
+
+c) Avoir fait l'objet du dépôt prévu aux articles 7 et 10 de la loi du 29 juillet 1881 ;
+
+3° Paraître régulièrement au moins une fois par trimestre.
+
+4° Etre habituellement offertes au public ou aux organes de presse à un prix marqué ou par abonnement sans que la livraison
+du journal ou périodique considéré soit accompagnée de la fourniture gratuite ou payante de marchandises ou de prestations de
+services n'ayant aucun lien avec l'objet principal de la publication et constituant en réalité une forme particulière de
+publicité ;
+
+5° Avoir au plus les deux tiers de leur surface consacrés à des réclames ou annonces ;
+
+6° N'être assimilables malgré l'apparence de journaux ou de revues qu'elles pourraient présenter à aucune des publications
+visées sous les catégories suivantes :
+
+a) Feuilles d'annonces, prospectus, catalogues, almanachs ;
+
+b) Ouvrages publiés par livraison et dont la publication embrasse une période de temps limitée ou qui constituent le
+complément ou la mise à jour d'ouvrages déjà parus ; toutefois, ce complément ou cette mise à jour peut bénéficier du tarif
+de presse pour la partie qui, au cours d'une année, n'accroît pas le nombre de pages que comportait l'ouvrage au 31 décembre
+de l'année précédente ;
+
+c) Publications ayant pour objet principal la recherche ou le développement des transactions d'entreprises commerciales,
+industrielles, bancaires, d'assurances ou d'autre nature, dont elles sont en réalité les instruments de publicité ou de
+réclame ;
+
+d) Publications ayant pour objet principal la publication d'horaires de programmes, de modèles, plans ou dessins ou de
+cotations, à l'exception des cotes de valeurs mobilières ;
+
+e) Publications qui constituent des organes de documentation administrative ou corporative, de défense syndicale ou de
+propagande pour des associations, groupements ou sociétés ;
+
+f) Publications dont le prix est compris dans une cotisation à une association ou à un groupement quelconque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-11 1981-01-09 art. 1 JORF 10 janvier 1981
+	  - Décret n°82-212 1982-03-01 art. 1 JORF 2 mars 1982
+
+	**Cité par**:
+
+	  - Décret n°97-1065 du 20 novembre 1997 - art. 7 (V)
+	  - Arrêté du 22 novembre 2012 - art. 2 (V)
+	  - Décret n°2015-1428 du 5 novembre 2015 - art. (V)
+	  - Décret n°2016-1161 du 26 août 2016 - art. 21
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 9 (V)
+	  - Code des postes et des communications électroni... - art. D19 (V)
+	  - Code des postes et des communications électroni... - art. D19-2 (V)
+	  - Code des postes et des communications électroni... - art. D19-3 (VD)
+	  - Code des postes et des communications électroni... - art. D20 (V)
+	  - Code des postes et des communications électroni... - art. D27 (V)
+	  - Code des postes et des communications électroni... - art. D27-1 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D19, D19-1, D19-2 et D19-3
+	  - Loi n°1881-07-29 art. 7 et 10
+
+
+###### Article D19
+
+A titre exceptionnel, à la condition toutefois qu'elles ne servent pas directement ou indirectement à la défense d'intérêts
+commerciaux ou professionnels, peuvent bénéficier du tarif de presse les publications suivantes, sous réserve de l'avis
+favorable du ministre compétent :
+
+1. Les publications d'anciens combattants, mutilés ou victimes de guerre ;
+
+2. Les publications ayant pour objet principal l'insertion à titre d'information des programmes des émissions
+radiophoniques ;
+
+3. Les publications syndicales ou corporatives présentant un caractère d'intérêt social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°81-11 1981-01-09 art. 1 JORF 10 janvier 1981
+	  - Décret n°82-212 1982-03-01 art. 2 JORF 2 mars 1982
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D19-3 (V)
+
+
+###### Article D19-1
+
+Les journaux scolaires publiés ou imprimés sous la direction et la responsabilité des instituteurs ou des professeurs dans le
+but d'éduquer les enfants et de renseigner sur la vie et le travail de l'école, les parents d'élèves et les écoles
+correspondantes sont assimilés, au regard du tarif applicable, aux publications visées à l'article D. 18.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D18
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°81-11 1981-01-09 art. 2 JORF 10 janvier 1981
+
+	**Modifié par**:
+
+	  - Décret n°82-212 1982-03-01 art. 3 JORF 2 mars 1982
+
+
 ###### Article D19-2
 
 Les publications éditées par l'administration de l'Etat ou par les établissements publics ou pour leur compte sont taxées au
@@ -8439,6 +8583,34 @@ tarif des publications administratives.
 	  - Décret n°2016-2013 du 30 décembre 2016 - art. 9 (V)
 	  - Code des postes et des communications électroni... - art. D19-3 (VD)
 	  - Code des postes et des communications électroni... - art. D27-2 (V)
+
+
+###### Article D19-3
+
+Pour bénéficier du tarif de presse ou du tarif des publications administratives, les journaux et écrits périodiques doivent
+avoir reçu un certificat d'inscription délivré par la commission paritaire des publications et agences de presse et être
+classés par cette commission dans l'une des catégories visées aux articles D. 18, D. 19 et D. 19-2. Les journaux et écrits
+périodiques édités par les organismes à but non lucratif et à gestion désintéressée font également l'objet d'un classement
+particulier. Les journaux et écrits périodiques doivent en outre, préalablement à toute expédition, être enregistrés à la
+direction départementale des postes dont relève le bureau de dépôt. Cet enregistrement est gratuit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D18, D19 et D19-2
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°81-11 1981-01-09 art. 2 JORF 10 janvier 1981
+
+	**Modifié par**:
+
+	  - Décret n°82-212 1982-03-01 art. 4 JORF 2 mars 1982
 
 
 ###### Article D20
