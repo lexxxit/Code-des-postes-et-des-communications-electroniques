@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2002-02-21
+Version Consolidée au 2002-09-10
 
 # Partie législative
 
@@ -1997,14 +1997,17 @@ pour la réception, les téléphones mobiles de tous types dans l'enceinte des s
 Les salles de spectacles sont tout lieu dont l'aménagement spécifique est destiné à permettre la représentation ou la
 diffusion au public d'une oeuvre de l'esprit.
 
-Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus sont déterminées dans les conditions
-prévues à l'article L. 36-6 ;
+7° Les installations radioélectriques permettant de rendre inopérants dans l'enceinte des établissements pénitentiaires, tant
+pour l'émission que pour la réception, les appareils de télécommunication mobiles de tous types.
+
+Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus, à l'exception de celles prévues au 7°,
+sont déterminées dans les conditions prévues à l'article L. 36-6.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 26 () JORF 18 juillet 2001
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 47 () JORF 10 septembre 2002
 
 	**Cité par**:
 
