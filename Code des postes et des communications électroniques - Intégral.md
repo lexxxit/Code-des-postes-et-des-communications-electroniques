@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-02-01
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -21,6 +21,9 @@ kilogrammes, de colis postaux jusqu'à 20 kilogrammes, d'envois recommandés et 
 
 Les services de levée et de distribution relevant du service universel postal sont assurés tous les jours ouvrables, sauf
 circonstances exceptionnelles.
+
+Hormis les envois de correspondance en nombre, les services postaux constituant le secteur réservé sont proposés au même
+tarif de base sur l'ensemble du territoire national.
 
 **Liens relatifs à cet article**
 
@@ -55,7 +58,7 @@ circonstances exceptionnelles.
 
 	**Modifié par**:
 
-	  - Loi n°99-533 du 25 juin 1999 - art. 19 () JORF 29 juin 1999
+	  - Loi n°2005-157 du 23 février 2005 - art. 104 () JORF 24 février 2005
 
 	**Codifié par**:
 
