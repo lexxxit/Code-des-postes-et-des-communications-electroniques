@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1989-08-24
+Version Consolidée au 1989-10-14
 
 # Partie législative
 
@@ -4818,43 +4818,23 @@ NOTA : l'article R. 5229 du code de la santé publique a été abrogé.
 
 ###### Article R10
 
-Est interdit l'usage, pour le démarchage en vue de la publication de tous documents autres que les annuaires officiels édités
-par l'administration des postes et télécommunications, qu'il s'agisse d'ouvrages destinés à la vente ou la distribution
-gratuite [*infraction*] :
+La publication de listes d'abonnés ou d'utilisateurs déclarés par les abonnés des réseaux de télécommunication est soumise à
+autorisation préalable du ministre chargé des télécommunications.
 
-1° D'exemplaires originaux, de copies ou d'extraits des annuaires officiels ci-après :
+Cette autorisation peut être refusée lorsque la publication envisagée est de nature à nuire au bon fonctionnement du service
+public des télécommunications et des services autorisés en application des dispositions de l'article L. 33 du présent code.
 
-- annuaire officiel des abonnés au téléphone ;
+Elle peut, le cas échéant, être assortie de conditions visant, notamment, à éviter toute confusion entre ces publications et
+les annuaires de l'administration des télécommunications.
 
-- annuaire officiel des adresses télégraphiques enregistrées ;
-
-- annuaire officiel des abonnés au service télex,
-
-notamment sous forme de placard découpé ou de reproduction obtenue par un moyen quelconque des inscriptions, grossissements,
-annonces publicitaires, titres et, plus généralement, de toute indication entrant dans la composition des annuaires précités
-et de leurs suppléments ;
-
-2° De formules reproduisant ou imitant les imprimés, bordereaux, papiers à en-tête, utilisés par les concessionnaires de la
-publicité dans les annuaires officiels pour recueillir les souscriptions de publicité à insérer dans les annuaires officiels
-précités.
-
-Toute personne qui contrevient aux dispositions qui précèdent est punie [*sanction*] d'une amende [*taux*] de 80 à 160 F par
-inscription, grossissement, placard de publicité, titre, indication ou imprimé utilisé ou reproduit.
-
-Est également interdite la publication, sans autorisation de l'administration des postes et télécommunications, de tous
-documents, qu'il s'agisse d'ouvrages destinés à la vente ou à la distribution gratuite, comportant des listes d'abonnés au
-téléphone, aux adresses télégraphiques enregistrées ou au service télex. Ladite autorisation peut être assortie, par
-l'administration, de conditions visant notamment les mesures à prendre pour éviter toute ressemblance de présentation entre
-les documents officiels et la publication autorisée.
-
-Toute personne qui contrevient aux dispositions qui précèdent est punie d'une amende de 80 à 160 F par exemplaire mis en
-circulation.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+Toute personne qui contreviendra aux dispositions qui précèdent sera punie, pour chaque exemplaire mis en circulation, de
+l'amende prévue pour les contraventions de la 1re classe [*première*] .
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°89-738 du 12 octobre 1989 - art. 1 () JORF 14 octobre 1989
 
 	**Cité par**:
 
@@ -4877,22 +4857,59 @@ circulation.
 
 	  - Décret n°62-274 1962-03-12
 
+	**Cite**:
+
+	  - Code des postes et télécommunications L33
+
+
+###### Article R10-1
+
+Les personnes physiques ayant souscrit un abonnement dans les conditions prévues aux articles D. 317 et D. 284 peuvent, en
+application de l'article 26 de la loi n° 78-17 du 6 janvier 1978, demander, sans redevance supplémentaire, à ne pas figurer
+sur les listes extraites des annuaires et commercialisées par l'administration des télécommunications [*fichiers
+nominatifs*].
+
+Est interdit l'usage par quiconque, à des fins commerciales ou de diffusion dans le public, des informations nominatives
+extraites desdits annuaires concernant les personnes mentionnées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D284 et D317
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
+
 	**Créé par**:
 
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+	  - Décret n°89-738 du 12 octobre 1989 - art. 2 () JORF 14 octobre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-738 du 12 octobre 1989 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R48-1 (VT)
+	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-11 (V)
+	  - Code des postes et des communications électronique - art. R11 (T)
 
 
 ###### Article R11
 
-Est interdit l'usage de prospectus, affiches, tracts, etc., imitant les formules d'arrivée des télégrammes et les cartes
-pneumatiques utilisées par l'administration des postes et télécommunications [*infraction*].
+Est interdit l'usage de tout document imitant ceux utilisés par l'administration des télécommunications dans ses rapports
+avec ses abonnés, notamment les factures ;
 
-Toute personne qui contrevient aux dispositions qui précèdent est punie [*sanction*] d'une amende [*taux*] de 300 à 600 F par
-exemplaire mis en circulation, en contravention aux dispositions du présent article.
+Est également interdit l'usage de tout document imitant ceux utilisés par les concessionnaires de publicité dans les
+annuaires de l'administration des télécommunications, pour recueillir des souscriptions de publicité à insérer dans lesdits
+annuaires.
 
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+Toute personne qui contreviendra aux dispositions qui précèdent sera punie, pour chaque exemplaire mis en circulation, de
+l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sanction*].
 
 **Liens relatifs à cet article**
 
@@ -4900,13 +4917,13 @@ exemplaire mis en circulation, en contravention aux dispositions du présent art
 
 	  - Code des postes, télégraphes et téléphones L78
 
+	**Modifié par**:
+
+	  - Décret n°89-738 du 12 octobre 1989 - art. 3 () JORF 14 octobre 1989
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
 
 	**Nouveaux textes**:
 
