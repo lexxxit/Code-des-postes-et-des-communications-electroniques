@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1993-03-03
+Version Consolidée au 1993-03-28
 
 # Partie législative
 
@@ -6799,10 +6799,10 @@ tarifaires accordées en application des articles R. 15 à R. 20.
 
 ###### Article R*16
 
-Cette réduction de tarif [*champ d'application*] s'applique aux communications téléphoniques interurbaines, à destination des
-journaux d'information paraissant au moins six jours par semaine et des agences téléphoniques de presse, demandées par les
-correspondants de presse, par voie manuelle ou automatique, pour transmettre des informations destinées à être publiées dans
-ces journaux.
+Cette réduction de tarif s'applique aux communications téléphoniques interurbaines, à destination des journaux d'information
+paraissant au moins six jours par semaine, des hebdomadaires régionaux et locaux d'information générale et politique et des
+agences télégraphiques de presse, demandées par les correspondants de presse, par voie manuelle ou automatique, pour
+transmettre des informations destinées à être publiées dans ces journaux.
 
 Son taux est fixé par décret contresigné par le ministre des finances, le ministre des postes et télécommunications et le
 ministre chargé de l'information.
@@ -6819,7 +6819,7 @@ ministre chargé de l'information.
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°93-531 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Codifié par**:
 
