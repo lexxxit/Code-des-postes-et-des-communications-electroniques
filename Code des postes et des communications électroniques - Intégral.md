@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1977-04-01
+Version Consolidée au 1977-06-08
 
 # Partie législative
 
@@ -3839,6 +3839,44 @@ de la loi de finances pour 1991, n° 90-1168 du 29 décembre 1990, à compter du
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°90-1168 1990-12-29 art. 65
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+### TITRE IV : Dispositions financières
+
+#### CHAPITRE Ier : Emprunts.
+
+###### Article L127
+
+Pour subvenir aux dépenses imputées sur la deuxième section du budget annexe des postes et télécommunications, le ministre
+des finances est autorisé à émettre, dans la limite fixée chaque année par la loi de finances, des bons ou obligations
+amortissables dans un délai maximum de trente ans.
+
+Le taux et l'époque des émissions, la nature, la forme et le mode de transfert des titres, le mode et les époques
+d'amortissement et de paiement des intérêts sont déterminés par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L218
+	  - Loi n°1923-06-30 art. 75, 77 al. 2
+	  - Loi n°1929-12-29 art. 27
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 13 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+	**Abrogé par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
 
 	**Codifié par**:
 
