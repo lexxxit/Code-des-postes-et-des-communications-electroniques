@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-02-02
 
 # Partie législative
 
@@ -16363,6 +16363,32 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Code des postes et des communications électronique - art. L35 (M)
 
 
+###### Article D289
+
+Pour la détermination du prix des communications téléphoniques, le réseau public est organisé en circonscriptions tarifaires.
+
+L'étendue et le chef-lieu de chaque circonscription tarifaire sont définis par l'exploitant et transmis pour homologation au
+ministre chargé des communications électroniques et au ministre chargé de l'économie, conformément à l'article 33 du cahier
+des charges de France Télécom. Il en est de même pour toute modification de la circonscription tarifaire. A défaut de
+décision notifiée dans le délai d'un mois suivant cette transmission, l'homologation est réputée acquise.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°94-91 du 31 janvier 1994 - art. 1 () JORF 2 février 1994
+
+
 ##### SECTION 2 : Des communications téléphoniques
 
 ##### Paragraphe 1er : Dispositions générales.
@@ -16382,6 +16408,30 @@ d'abonnement d'un montant particulier pour chaque ligne exploitée en service re
 	**Modifié par**:
 
 	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1301 du 26 novembre 2004 - art. 2 () JORF 30 novembre 2004
+
+
+###### Article D293
+
+Les communications téléphoniques entre points fixes relevant du régime intérieur sont tarifées selon leur durée, l'heure
+d'appel et, sauf pour les communications locales, selon la distance qui sépare les chefs-lieux des circonscriptions
+tarifaires.
+
+La facturation est effectuée à partir du comptage des impulsions enregistrées par l'exploitant public au compteur de
+l'abonné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°94-91 du 31 janvier 1994 - art. 3 () JORF 2 février 1994
 
 	**Abrogé par**:
 
@@ -18808,112 +18858,6 @@ Les frais résultant de la prolongation d'ouverture sont, dans ce dernier cas, s
 
 
 #### CHAPITRE IV : Téléphone
-
-##### SECTION 1 : Dispositions générales.
-
-###### Article D289
-
-Pour la taxation des communications, le réseau téléphonique est organisé en circonscriptions tarifaires.
-
-La composition et le chef-lieu de chaque circonscription tarifaire sont fixés par arrêté.
-
-La circonscription tarifaire est constituée de [*définition*] l'ensemble des postes téléphoniques rattachés à un ou plusieurs
-centres téléphoniques qui en assurent la desserte. Chacun de ces postes ne peut appartenir qu'à une seule circonscription
-tarifaire. Un des centres téléphoniques est érigé en chef-lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-##### SECTION 2 : Des communications téléphoniques
-
-##### Paragraphe 1er : Dispositions générales.
-
-###### Article D290
-
-Les communications téléphoniques du régime intérieur sont appelées   : 
-
-1° De circonscription, quand elles sont établies entre deux installations situées dans une même circonscription tarifaire
-téléphonique ; 
-
-2° De voisinage ou à moyenne et grande distance dans les autres cas. 
-
-Les conditions de détermination de la zone de voisinage sont fixées par les décrets tarifaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°94-91 du 31 janvier 1994 - art. 2 (V) JORF 2 février 1994
-
-
-###### Article D291
-
-L'unité Télécom du service des télécommunications est   le prix applicable à chaque impulsion enregistrée au compteur de
-l'abonné. Elle est fixée par un décret tarifaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-	**Abrogé par**:
-
-	  - Décret n°94-91 du 31 janvier 1994 - art. 2 (V) JORF 2 février 1994
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D366 (Ab)
-
-
-###### Article D293
-
-Les communications téléphoniques du régime intérieur sont tarifées selon leur durée, l'heure d'appel, la distance qui sépare
-les chefs-lieux de circonscription tarifaire pour les relations de voisinage ou les chefs-lieux de département pour les
-relations à moyenne et grande distance.
-
-Cette tarification peut être selon les conditions techniques d'exécution du service :
-
-1. Soit un comptage par impulsion périodique, qui est le mode de tarification applicable aux communications établies en
-service automatique.
-
-Ces communications donnent lieu à l'enregistrement au compteur de l'abonné d'impulsions envoyées à intervalles réguliers et,
-éventuellement, à l'enregistrement d'impulsions correspondant aux tarifs propres à certaines communications ou certains
-services ;
-
-2. Soit une tarification par minute indivisible qui est le mode de comptage applicable aux communications établies par
-l'intermédiaire du personnel opérateur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
 
 ##### SECTION 4 : Dispositions particulières au service international.
 
