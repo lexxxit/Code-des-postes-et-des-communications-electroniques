@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -7100,6 +7100,33 @@ lorsque celui-ci ne les a pas réclamées dans un délai d'un an courant à comp
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+## DISPOSITIONS FINALES
+
+### (en vigueur jusqu'au 31 décembre 2005).
+
+###### Article L129
+
+Le présent code est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 46 () JORF 13 juillet 2001
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L141 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
