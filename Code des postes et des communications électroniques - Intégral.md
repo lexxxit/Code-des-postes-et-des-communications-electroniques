@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-08-28
+Version Consolidée au 1994-10-06
 
 # Partie législative
 
@@ -18629,14 +18629,14 @@ règlements internationaux en vigueur.
 
 ###### Article D96-1
 
-La commission consultative des radio- communications est composée de quinze membres nommés par arrêté du ministre chargé des
-télécommunications. Elle comprend :
+La commission consultative des radiocommunications est composée de vingt et un membres nommés par arrêté du ministre chargé
+des télécommunications. Elle comprend :
 
-- cinq représentants des fournisseurs de services radioélectriques ;
+- sept représentants des fournisseurs de services radioélectriques ;
 
-- cinq représentants des utilisateurs de ces services ;
+- sept représentants des utilisateurs de ces services ;
 
-- cinq personnalités qualifiées.
+- sept personnalités qualifiées.
 
 La commission des radiocommunications est saisie sur tout projet visant à définir les procédures d'autorisation, à fixer ou à
 modifier les conditions techniques et d'exploitation des réseaux indépendants radioélectriques visés à l'article L. 33-2 du
@@ -18669,8 +18669,8 @@ services radioélectriques et peut formuler toute recommandation à cet effet. E
 président et avec l'accord de la majorité de ses membres, de se saisir de toute question entrant dans son domaine de
 compétence. Dans ce cas, elle en informe le ministre chargé des télécommunications.
 
-Le ministre chargé des télécommunications transmet à la commission supérieure du service public des postes et télé-
-communications les conclusions de la commission des radio- communications sur les questions qui lui sont soumises en
+Le ministre chargé des télécommunications transmet à la commission supérieure du service public des postes et
+télécommunications les conclusions de la commission des radiocommunications sur les questions qui lui sont soumises en
 application des alinéas 2, 3 et 4 du présent article. Les avis de la commission des radiocommunications peuvent être publiés
 par le ministre chargé des télécommunications. La commission peut, également, décider, à l'initiative de son président et
 avec l'accord de la majorité de ses membres, de rendre publics ses avis. Dans ce cas, elle en informe le ministre chargé des
@@ -18686,9 +18686,9 @@ télécommunications.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°94-860 du 29 septembre 1994 - art. 1 () JORF 6 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -18699,15 +18699,15 @@ télécommunications.
 
 ###### Article D96-2
 
-La commission consultative des services de télécommunications est composée de dix-huit membres nommés par arrêté du ministre
-chargé des télécommunications. Elle comprend :
+La commission consultative des services de télécommunications est composée de vingt et un membres nommés par arrêté du
+ministre chargé des télécommunications. Elle comprend :
 
-- six représentants des fournisseurs des services supports et des services à valeur ajoutée visés aux articles L. 34-2 et L.
+- sept représentants des fournisseurs des services supports et des services à valeur ajoutée visés aux articles L. 34-2 et L.
 34-5 du code des postes et télécommunications ;
 
-- six représentants des utilisateurs de ces services ;
+- sept représentants des utilisateurs de ces services ;
 
-- six personnalités qualifiées.
+- sept personnalités qualifiées.
 
 La commission consultative des services de télécommunications est saisie par le ministre chargé des télécommunications des
 projets visant à définir les procédures d'autorisations, à fixer ou à modifier les conditions techniques et d'exploitation
@@ -18743,17 +18743,14 @@ l'initiative de son président et avec l'accord de la majorité de ses membres, 
 domaine de compétence. Dans ce cas, elle en informe le ministre chargé des télécommunications.
 
 Le ministre chargé des télécommunications transmet à la commission supérieure du service public des postes et
-télécommunications les conclusions de la commission consultative des services de télécommunications sur les questions qui lui
-sont soumises en application des alinéas 2 et 3 du présent article. Les avis de la commission des services de
-télécommunications peuvent être publiés par le ministre chargé des télécommunications. La commission peut, également,
-décider, à l'initiative de son président et avec l'accord de la majorité de ses membres, de rendre publics ses avis. Dans ce
-cas, elle en informe le ministre chargé des télécommunications.
+télécommunications les conclusions de la commission consultative des services de
+
+télécommunications sur les questions qui lui sont soumises en application des alinéas 2 et 3 du présent article. Les avis de
+la commission des services de télécommunications peuvent être publiés par le ministre chargé des télécommunications. La
+commission peut, également, décider, à l'initiative de son président et avec l'accord de la majorité de ses membres, de
+rendre publics ses avis. Dans ce cas, elle en informe le ministre chargé des télécommunications.
 
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. D571 (V)
 
 	**Cite**:
 
@@ -18763,9 +18760,13 @@ cas, elle en informe le ministre chargé des télécommunications.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°94-860 du 29 septembre 1994 - art. 2 () JORF 6 octobre 1994 rectificatif JORF 3 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. D571 (V)
 
 
 ##### Paragraphe 3 : Organisation et fonctionnement des commissions consultatives.
@@ -18792,8 +18793,9 @@ experts.
 Les membres des commissions veillent à garantir la confidentialité des faits, informations, ou documents dont ils ont
 connaissance dans l'exercice ou à l'occasion de leurs fonctions au sein de ces dernières.
 
-Le secrétariat de chacune des commissions est assuré par la direction de la réglementation générale du ministère chargé des
-télécommunications.
+Le secrétariat de chacune des commissions est assuré par le service de la régulation des télécommunications de la direction
+générale des postes et télécommunications du ministère de l'industrie, des postes et télécommunications et du commerce
+extérieur.
 
 **Liens relatifs à cet article**
 
@@ -18801,9 +18803,9 @@ télécommunications.
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Décret n°94-860 du 29 septembre 1994 - art. 3 () JORF 6 octobre 1994
 
 	**Nouveaux textes**:
 
