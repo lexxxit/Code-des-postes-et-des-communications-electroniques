@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1983-04-01
+Version Consolidée au 1983-07-23
 
 # Partie législative
 
@@ -1416,6 +1416,77 @@ destinées à l'échange des correspondances sont effectuées dans les condition
 
 	  - Code des postes, télégraphes et téléphones L84
 	  - Loi n°1885-07-28 art. 1
+
+
+###### Article L47
+
+L'Etat peut exécuter sur le sol ou le sous-sol des chemins publics et de leurs dépendances tous travaux nécessaires à la
+construction et à l'entretien des lignes de télécommunications.
+
+Dans le cas des voies des départements et des communes, les conditions de réalisation de ces travaux sont soumises aux
+dispositions prévues par les articles 119 à 122 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier
+1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L85
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07
+	  - Loi n°83-663 1983-07-22 art. 119 à 122
+
+	**Modifié par**:
+
+	  - Loi n°83-663 1983-07-22 art. 123 JORF 23 juillet 1983 rectificatif JORF 25 septembre 1983
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code des postes et des communications électroni... - art. L32-1 (M)
+	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L47-1 (V)
+	  - Code des postes et des communications électroni... - art. L51 (V)
+	  - Code des postes et des communications électroni... - art. R*20-45 (V)
+	  - Code des postes et des communications électroni... - art. R20-50 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article L47-1
+
+Les lignes de télécommunications empruntant la voie publique sont établies ou autorisées par l'administration des postes et
+télécommunications qui en détermine le tracé après concertation avec l'autorité responsable de la voie. Les travaux
+nécessaires à l'établissement et à l'entretien des lignes et ouvrages des télécommunications sont établis en se conformant
+aux règlements de voirie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-663 1983-07-22 art. 123 JORF 23 juillet 1983 rectificatif JORF 25 septembre 1983
+
+	**Cité par**:
+
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ###### Article L48
