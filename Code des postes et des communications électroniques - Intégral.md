@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1988-05-08
+Version Consolidée au 1988-12-22
 
 # Partie législative
 
@@ -15878,6 +15878,161 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+
+#### CHAPITRE VI : Services télétel et services offerts sur les kiosques télématiques ou téléphoniques.
+
+###### Article D406-1
+
+Il est créé auprès du ministre chargé des télécommunications un comité consultatif des kiosques télématiques et
+téléphoniques. Les membres de ce comité, présidé par un membre ou ancien membre du Conseil d'Etat ou des juridictions
+administratives ou judiciaires, sont nommés par arrêté du ministre chargé des télécommunications pour une durée [*mandat*] de
+deux ans.
+
+Le comité siège en deux formations. L'une est compétente pour les affaires concernant les kiosques télématiques ; l'autre est
+compétente pour les affaires concernant les kiosques téléphoniques.
+
+Le comité, dans sa formation Kiosque télématique comprend quatorze membres. Outre le président du comité consultatif, cette
+formation se compose de :
+
+1. Deux personnalités choisies en raison de leur compétence en matière de télématique ;
+
+2. Quatre représentants des organismes de presse ;
+
+3. Quatre représentants des associations, groupements ou syndicats d'éditeurs ou de fournisseurs de services télématiques ;
+
+4. Deux représentants des syndicats ou des associations d'utilisateurs de services télématiques ;
+
+5. Un représentant des associations de fournisseurs de moyens télématiques.
+
+Les personnalités prévues aux 2, 3, 4 et 5 sont proposées par les organismes ou les institutions auxquels elles
+appartiennent. La liste de ces organismes ou institutions est arrêtée par le ministre chargé des télécommunications.
+
+Le comité, dans sa formation Kiosque téléphonique, comprend douze membres. Outre le président du comité consultatif, cette
+formation se compose de :
+
+1. Deux personnalités choisies en raison de leur compétence en matière de télécommunications ;
+
+2. Trois représentants des organismes de presse ;
+
+3. Trois représentants de fournisseurs offrant des services sur les kiosques téléphoniques ;
+
+4. Trois représentants des syndicats ou des associations d'utilisateurs de services kiosques téléphoniques.
+
+Les personnalités prévues aux 2, 3 et 4 sont proposées par les organismes ou les institutions auxquels elles appartiennent.
+La liste de ces organismes ou institutions est arrêtée par le ministre chargé des télécommunications.
+
+Un suppléant de chacun des membres du comité est désigné dans les mêmes conditions que les membres titulaires.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+L'administration des télécommunications désigne auprès du comité son représentant qui assure les fonctions de rapporteur des
+dossiers sans voix délibérative.
+
+Le comité consultatif peut recourir au conseil de personnalités extérieures, qui peuvent être invitées à participer aux
+travaux sans voix délibérative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-687 1988-05-06 art. 1 et 2 JORF 8 mai 1988
+	  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+
+
+###### Article D406-2
+
+Le comité consultatif des kiosques télématiques et téléphoniques a pour mission de veiller au respect, par les fournisseurs
+offrant des services sur les kiosques télématiques et téléphoniques, des engagements souscrits dans les conventions qu'ils
+concluent en application de l'article R. 54-1 avec l'administration des télécommunications.
+
+Il garantit notamment :
+
+- le caractère professionnel ou d'information spécialisée des services télématiques interactifs offerts sur les kiosques
+télématiques professionnels ;
+
+- le respect des conditions d'accès au kiosque télématique grand public par les fournisseurs de service ;
+
+- le respect des conditions d'accès aux kiosques téléphoniques par les fournisseurs de service.
+
+Il est consulté par l'administration des télécommunications :
+
+- avant toute décision de résiliation d'une convention passée avec un fournisseur des services télématiques et éventuellement
+un centre serveur, sauf dans le cas où cette résiliation résulte du non-paiement, par le fournisseur de services ou
+éventuellement le centre serveur, des factures dues à l'administration des télécommunications ;
+
+- avant toute décision de résiliation d'une convention passée avec un fournisseur offrant des services sur les kiosques
+téléphoniques, sauf dans le cas où cette résiliation résulte du non-paiement, par le fournisseur de services, des factures
+dues à l'administration des télécommunications, de l'emploi de matériel non agréé, ou du non-respect des fonctions pour
+lesquelles les matériels sont prévus ;
+
+- avant toute décision suspendant l'exécution de la convention passée avec un fournisseur de services et éventuellement un
+centre serveur, sauf dans le cas où cette décision est prononcée à titre provisoire à l'invitation de l'autorité judiciaire.
+
+Il peut être consulté par l'administration des télécommunications pour l'accès ou le maintien d'un service aux kiosques
+télématiques ou téléphoniques ; à cet effet, il examine notamment :
+
+- le caractère professionnel ou d'information spécialisée du service proposé par un fournisseur de services demandant le
+bénéfice d'un kiosque professionnel ou l'incidence sur ce caractère des demandes de modifications de la convention passée
+entre le fournisseur de services et l'administration des télécommunications ;
+
+- le respect des conditions permettant de bénéficier du kiosque télématique grand public ;
+
+- le respect des conditions permettant de bénéficier d'un kiosque téléphonique.
+
+Il peut être saisi, pour avis, par un fournisseur de service auquel a été refusé le bénéfice de l'un des kiosques
+télématiques ou téléphoniques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R54-1
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
+
+	**Modifié par**:
+
+	  - Décret n°87-1156 1987-12-31 art. 1 JORF 3 janvier 1988
+	  - Décret n°88-687 1988-05-06 art. 3 JORF 8 mai 1988
+	  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
+
+
+###### Article D406-3
+
+Le comité consultatif émet son avis dans un délai de deux mois à compter de la date de sa saisine.
+
+L'avis est notifié au ministre chargé des télécommunications. Une copie est également notifiée au fournisseur de services
+concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°87-860 1987-10-24 art. 1 JORF 27 octobre 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-687 1988-05-06 art. 1 et 2 JORF 8 mai 1988
+	  - Décret n°88-1140 1988-12-21 art. 1 JORF 22 décembre 1988
 
 
 ### TITRE IV : Police des liaisons et des installations du réseau de télécommunications
