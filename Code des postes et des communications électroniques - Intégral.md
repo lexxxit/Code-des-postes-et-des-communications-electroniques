@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-03-04
+Version Consolidée au 1997-03-19
 
 # Partie législative
 
@@ -7334,6 +7334,157 @@ classe par formule utilisée ou par document mis en distribution.
 
 ## LIVRE II : Les communications électroniques
 
+### TITRE Ier : Dispositions générales
+
+#### Chapitre II : Régime juridique.
+
+##### SECTION 2 : Services
+
+###### Article R*9-1
+
+Toute demande d'autorisation relevant du 2° de l'article L. 34-3 du présent code est adressée pour instruction à l'Autorité
+de régulation des télécommunications. Elle comporte les éléments suivants :
+
+- l'identité du demandeur, la composition de son actionnariat ou l'identité de ses partenaires éventuels ;
+
+- la nature, les caractéristiques et la zone de couverture géographique du service ;
+
+- le calendrier de déploiement et de mise en service ;
+
+- les prévisions de marché ;
+
+- les prévisions du compte d'exploitation ;
+
+- les conditions de permanence, de disponibilité et de qualité du service ;
+
+- les fréquences déjà assignées qui seront utilisées pour l'exploitation du service ;
+
+- les conditions financières et techniques d'utilisation des fréquences ;
+
+- les normes utilisées.
+
+Dès réception de la demande d'autorisation, l'Autorité de régulation des télécommunications sollicite l'accord de l'autorité
+assignant les fréquences.
+
+Les modifications concernant des éléments figurant dans la demande, envisagées par le demandeur postérieurement à la
+délivrance de l'autorisation, doivent être portées à la connaissance de l'Autorité de régulation des télécommunications qui
+peut, par décision motivée, indiquer à l'intéressé qu'il y a lieu de présenter une nouvelle demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 2 () JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-3 (M)
+
+
+###### Article R*9-2
+
+La déclaration préalable prévue à l'article L. 34-4 est adressée à l'Autorité de régulation des télécommunications.
+
+Cette déclaration comporte les éléments suivants :
+
+- l'identité du fournisseur de services ;
+
+- la description des services offerts ;
+
+- la description des installations utilisées ;
+
+- les conditions techniques d'utilisation du réseau câblé ;
+
+- une copie de l'acte par lequel la commune ou le groupement de communes concerné a été informé par le demandeur de son
+projet.
+
+Les modifications concernant les éléments figurant dans la déclaration doivent être portées à la connaissance de l'Autorité
+de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 2 () JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-4 (M)
+
+
+###### Article R*9-3
+
+Des arrêtés du ministre chargé des communications électroniques, pris après avis de l'Autorité de régulation des
+télécommunications, précisent les prescriptions techniques nécessaires au respect des exigences essentielles définies à
+l'article L. 32 que doivent respecter les prestataires des services mentionnés aux articles R. 9-1 et R. 9-2.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 2 () JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32 (M)
+	  - Code des postes et des communications électroniques L32, R9-1, R9-2
+
+
+###### Article R*9-4
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait :
+
+- de fournir à un usager un service de communications électroniques relevant de l'article L. 34-3 sans l'autorisation prévue
+à l'article R. 9-1 ;
+
+- de fournir à un usager un service de communications électroniques relevant de l'article L. 34-4 sans avoir fait la
+déclaration prévue à l'article R. 9-2.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 2 () JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2005-605 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-3 (M)
+	  - Code des postes et des communications électronique - art. L34-4 (M)
+	  - Code des postes et des communications électroniques L34-3, R9-1, L34-4, R9-2
+
+
 ### TITRE VI : Services radioélectriques
 
 #### CHAPITRE Ier : Dispositions générales.
@@ -8048,33 +8199,38 @@ le décret n° 92-681 du 20 juillet 1992.
 
 ### TITRE Ier : Les services de télécommunications
 
-#### CHAPITRE Ier : Service relevant de l'article L. 34-2.
+#### CHAPITRE III : Les services relevant de l'article L. 34-5
+
+###### Article R11-1
+
+On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
+capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
+l'exclusion de toute commutation contrôlée par cet utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+### TITRE Ier : Dispositions générales
+
+#### CHAPITRE Ier : Définitions et principes.
 
 ###### Article R*9
 
-Toute personne physique ou morale disposant de la capacité juridique peut présenter une demande d'autorisation en vue de
-fournir au public un service-support relevant de l'article L. 34-2.
-
-Cette demande est adressée au ministre chargé des télécommunications (direction générale des postes et télécommunications) et
-comporte les éléments suivants :
-
-- l'identité du demandeur ;
-
-- la nature, les caractéristiques et la zone de couverture géographique du service ;
-
-- les conditions de permanence, de disponibilité et de qualité du service ;
-
-- l'engagement du demandeur de respecter les conditions générales de fourniture des services-supports mentionnés à l'article
-R. 9-1.
-
-Il est accusé réception de la demande.
-
-La décision intervient dans un délai de quatre mois suivant la réception de la demande.
-
-Les modifications envisagées par le demandeur postérieurement à la délivrance de l'autorisation et concernant les points
-figurant dans la demande d'autorisation doivent être portées à la connaissance du ministre chargé des télécommunications
-(direction générale des postes et télécommunications) qui peut, par décision motivée, indiquer à l'intéressé qu'il y a lieu
-de présenter une nouvelle demande d'autorisation.
+On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
+capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
+l'exclusion de toute commutation contrôlée par cet utilisateur.
 
 **Liens relatifs à cet article**
 
@@ -8082,13 +8238,9 @@ de présenter une nouvelle demande d'autorisation.
 
 	  - Code des postes et télécommunications L34-2, R9-1
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L217
-
 	**Modifié par**:
 
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
+	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
 
 	**Cité par**:
 
@@ -8099,138 +8251,9 @@ de présenter une nouvelle demande d'autorisation.
 	  - Décret n°62-274 1962-03-12
 
 
-###### Article R*9-1
+#### CHAPITRE II : Régime juridique
 
-I. - Le ministre chargé des télécommunications précise par arrêtés pris après avis de la commission consultative des services
-de télécommunications les conditions générales que doivent respecter les fournisseurs de services-supports en application de
-l'alinéa 3 de l'article L. 34-2.
-
-Ces arrêtés sont publiés au Journal officiel.
-
-Le cahier des charges annexé à chaque autorisation de fourniture de services-supports mentionne expressément celles des
-obligations résultant de ces arrêtés qui sont applicables au bénéficiaire de l'autorisation.
-
-II. - Lorsque des prescriptions techniques sont nécessaires pour assurer le respect d'exigences essentielles mentionnées à
-l'article L. 32, les arrêtés visés au I ci-dessus précisent les cas dans lesquels les fournisseurs conservent, dans le
-respect de ces exigences, la possibilité d'offrir également leurs services selon des normes techniques qui leur sont
-particulières, dès lors que l'accès à ces services est ouvert, selon les prescriptions techniques imposées, dans des
-conditions de coût et de qualité équivalentes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-2, L32
-
-	**Créé par**:
-
-	  - Décret n°1992-12-30 art. 2 JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE II : Dispositions pénales.
-
-###### Article R10
-
-Au sens du présent article, on entend par " utilisateur d'un réseau de télécommunications " l'abonné au service de
-télécommunications ou le tiers déclaré utilisateur du service par le titulaire de l'abonnement.
-
-En vertu de l'article L. 33-4 du présent code, la mise à disposition du public, à titre gratuit ou onéreux, de listes
-d'utilisateurs des réseaux de télécommunications ouverts au public est soumise à déclaration préalable.
-
-Ne sont notamment pas soumis à déclaration les répertoires ou annuaires destinés à l'usage interne des membres d'un
-groupement de personnes, dès lors qu'ils sont directement associés à l'objet du groupement ou que les numéros du service de
-télécommunications n'y figurent qu'à titre accessoire.
-
-La déclaration prévue à l'article L. 33-4 du code des postes et télécommunications est effectuée pour chaque nouvelle édition
-de la publication par l'éditeur de la publication ou, annuellement, par le responsable du service en cas d'accès par voie
-télématique à la liste d'utilisateurs.
-
-Elle précise :
-
-1. Le nom ou la raison sociale, l'objet social, le domicile ou le siège social du déclarant ;
-
-2. La dénomination de la publication et des services de télécommunications fournis aux utilisateurs figurant dans cette
-liste ;
-
-3. L'origine et les modalités de collecte des informations recueillies auprès des utilisateurs démarchés ou de tiers en vue
-de leur publication dans la liste déclarée ;
-
-4. Les caractéristiques de présentation de cette liste et les types d'informations qui y figureront ;
-
-5. Les conditions de la mise à disposition du public de la liste d'utilisateurs.
-
-Elle est accompagnée :
-
-1. D'un exemplaire de la liste d'utilisateurs ; pour les listes accessibles par voie télématique, le déclarant met à la
-disposition de la direction générale des postes et télécommunications du ministère chargé des télécommunications un accès
-permanent et gratuit au service télématique ;
-
-2. D'une copie de l'acte réglementaire pris en application de l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés ou du récépissé de déclaration délivré par la Commission nationale de
-l'informatique et des libertés en application de son article 16.
-
-3. De l'engagement de l'éditeur de la publication ou du responsable du service télématique de ne pas utiliser à des fins
-autres que l'édition de la liste d'utilisateurs les informations nominatives figurant sur cette liste.
-
-La déclaration est effectuée auprès de la direction générale des postes et télécommunications du ministère chargé des
-télécommunications.
-
-Il est délivré un récépissé de la déclaration à la réception du dossier complet.
-
-Tout changement portant sur un des éléments énumérés aux paragraphes 1 à 5 du présent article fait l'objet d'une déclaration
-selon les modalités prévues ci-dessus.
-
-Toute personne qui, sans avoir fait la déclaration préalable prévue au présent article, aura mis à la disposition du public
-une liste d'utilisateurs d'un réseau de télécommunications ouvert au public sera punie de la peine d'amende prévue pour les
-contraventions de la cinquième classe.
-
-En cas de récidive, le contrevenant sera puni de l'amende prévue pour la récidive des contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 16 (M)
-	  - Code des postes et télécommunications L33-4
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°91-1205 du 26 novembre 1991 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°94-373 du 6 mai 1994 - art. 1 () JORF 14 mai 1994
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Arrêté du 18 novembre 2009 (V)
-	  - Arrêté du 18 novembre 2009 - art. (V)
-	  - Arrêté du 6 décembre 2012 - art. (V)
-	  - Code des postes et des communications électroni... - art. D98-5 (V)
-	  - Code des postes et des communications électroni... - art. D98-7 (V)
-	  - Code des postes et des communications électroni... - art. R10-1 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-3 (V)
-	  - Code des postes et des communications électroni... - art. R10-4 (V)
-	  - Code des postes et des communications électroni... - art. R10-5 (V)
-	  - Code des postes et des communications électroni... - art. R10-7 (V)
-	  - Code des postes et des communications électroni... - art. R10-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
+##### SECTION 3 : Dispositions communes
 
 ###### Article R10-1
 
@@ -8256,7 +8279,7 @@ peuvent être utilisées ou communiquées aux seules fins d'édition des listes 
 
 	**Modifié par**:
 
-	  - Décret n°94-373 du 6 mai 1994 - art. 2 () JORF 14 mai 1994
+	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
 
 	**Codifié par**:
 
@@ -8295,6 +8318,10 @@ télécopie, de l'amende prévue pour les contraventions de la 3e classe.
 
 	  - Loi n°89-1008 1989-12-31 art. 10
 
+	**Modifié par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
@@ -8305,10 +8332,6 @@ télécopie, de l'amende prévue pour les contraventions de la 3e classe.
 	  - Code des postes et des communications électronique - art. D98-1 (M)
 	  - Code des postes et des communications électronique - art. R10-10 (MMN)
 	  - Code des postes et des communications électronique - art. R11 (MMN)
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
 
 
 ###### Article R11
@@ -8324,6 +8347,14 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
 	**Nouveaux textes**:
 
 	  - Code des postes et des communications électronique - art. R10-11 (V)
@@ -8332,227 +8363,8 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 
 	  - Code des postes, télégraphes et téléphones L78
 
-	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE III : Les services relevant de l'article L. 34-5
-
-###### Article R11-1
-
-On entend par liaison louée la mise à disposition par l'exploitant public dans le cadre d'un contrat de location, d'une
-capacité de transmission, entre des points de terminaison déterminés du réseau public, au profit d'un utilisateur, à
-l'exclusion de toute commutation contrôlée par cet utilisateur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-2
-
-Lorsque, pour offrir des services relevant de l'article L. 34-5, l'exploitant public affecte spécialement à cet usage ses
-propres liaisons ou des liaisons dont il s'est assuré la disposition, il est soumis aux règles résultant du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-3
-
-Le ministre chargé des télécommunications définit par arrêté pris après avis de la commission consultative des services de
-télécommunications les prescriptions techniques auxquelles sont soumis les services relevant de l'article L. 34-5, lorsque de
-telles prescriptions sont nécessaires pour assurer le respect des exigences essentielles définies à l'article L. 32.
-
-Ces arrêtés précisent les cas dans lesquels les fournisseurs conservent, dans le respect des exigences essentielles, la
-possibilité d'offrir également leurs services selon des normes techniques qui leur sont particulières, dès lors que l'accès à
-ces services est ouvert, selon les prescriptions techniques imposées, dans des conditions de coût et de qualité équivalentes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5, L32
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
-
-
-###### Article R11-4
-
-Les services de télécommunications relevant de l'article L. 34-5 et utilisant des liaisons louées sont classés en deux
-catégories.
-
-Sont classés en catégorie I l'ensemble des services de télécommunications utilisant des liaisons louées dont la taille,
-mesurée par leur capacité globale d'accès, est inférieure à un seuil fixé par arrêté du ministre chargé des
-télécommunications.
-
-Sont classés en catégorie II les autres services.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-5
-
-Est soumise à déclaration préalable auprès du ministre chargé des télécommunications l'offre de services relevant de la
-catégorie I mentionnée à l'article R. 11-4.
-
-Cette déclaration est faite par le fournisseur de services et comporte :
-
-- l'identité du fournisseur ;
-
-- la description sommaire des services offerts et la taille des liaisons louées utilisées à cet effet.
-
-Les modifications apportées aux éléments figurant dans la déclaration doivent être portées à la connaissance du ministre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R11-4
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-6
-
-Est soumise à autorisation préalable du ministre chargé des télécommunications l'offre de services relevant de la catégorie
-II mentionnée à l'article R. 11-4.
-
-La demande d'autorisation est adressée au directeur général des postes et télécommunications et comporte les éléments
-mentionnés à l'alinéa 2 de l'article R. 11-5. Il en est accusé réception dans les conditions prévues par le décret n° 83-1025
-du 28 novembre 1983.
-
-Le ministre accorde l'autorisation sollicitée lorsque les services sont offerts dans des conditions qui respectent les
-exigences essentielles définies à l'article L. 32, telles qu'elles sont précisées, le cas échéant, par les prescriptions
-techniques mentionnées à l'article R. 11-3, et lorsque ces services ne constituent pas des services supports.
-
-A défaut de décision expresse dans un délai de quatre mois suivant la réception de la demande, l'autorisation est réputée
-accordée.
-
-Les modifications apportées aux éléments figurant dans la demande d'autorisation doivent être portées à la connaissance du
-ministre qui peut, par décision motivée, inviter l'intéressé à présenter une nouvelle demande d'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R11-4, R11-5, L32, R11-3
-	  - Décret n°83-1025 1983-11-28
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R11-7
-
-Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
-
-- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5, et utilisant un ensemble de
-liaisons louées dont la taille est inférieure au seuil fixé par arrêté du ministre chargé des télécommunications, sans avoir
-fait la déclaration prévue à l'article R. 11-5 ;
-
-- quiconque aura fourni au public un service de télécommunications relevant de l'article L. 34-5 dans les conditions non
-conformes aux prescriptions techniques mentionnées à l'article R. 11-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-5, R11-5, R11-3
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-#### CHAPITRE IV : Téléphone.
+#### CHAPITRE III : Téléphone.
 
 ###### Article R*12
 
@@ -8584,7 +8396,7 @@ De 100 à 200 kilomètres : 550 taxes de base par mois ;
 Plus de 200 kilomètres : 625 taxes de base par mois.
 
 Ledit régime est applicable, au choix de chaque membre des assemblées, de chaque ministre ou secrétaire d'Etat, au poste
-téléphonique installé à sa résidence de Paris d'un département de la métropole ou d'un département d'outre-mer.
+téléphonique installé à sa résidence de Paris, d'un département de la métropole ou d'un département d'outre-mer.
 
 **Nota:**
 
@@ -8592,13 +8404,21 @@ téléphonique installé à sa résidence de Paris d'un département de la métr
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications R20-30
+
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L213
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Transféré par**:
+
+	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
 
 	**Codifié par**:
 
@@ -8623,6 +8443,18 @@ imputées au compteur.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°97-475 du 13 mai 1997 - art. 2 (V) JORF 14 mai 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
 	**Cite**:
 
 	  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
@@ -8631,14 +8463,6 @@ imputées au compteur.
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L214
-
-	**Modifié par**:
-
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
 
 
 ###### Article R*14
@@ -8653,13 +8477,21 @@ aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la rede
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des postes et télécommunications R20-30-1
+
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L216
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Transféré par**:
+
+	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
 
 	**Codifié par**:
 
@@ -8693,7 +8525,11 @@ accordées en application des articles R. 15 à R. 20.
 
 	**Modifié par**:
 
-	  - Décret n°96-1225 du 27 décembre 1996 - art. 1 (Ab) JORF 31 décembre 1996
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
@@ -8722,7 +8558,11 @@ ministre chargé de l'information.
 
 	**Modifié par**:
 
-	  - Décret n°93-531 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
@@ -8753,7 +8593,11 @@ communications payables à l'arrivée. Il doit être certifié conforme par le d
 
 	**Modifié par**:
 
-	  - Décret n°96-1225 du 27 décembre 1996 - art. 1 (Ab) JORF 31 décembre 1996
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
@@ -8778,7 +8622,11 @@ applicable en vertu des textes en vigueur à la location des liaisons télégrap
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
@@ -8807,7 +8655,11 @@ finances, le ministre chargé des postes et télécommunications et le ministre 
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
@@ -8840,7 +8692,11 @@ téléphonique de chaque bénéficiaire.
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
@@ -8852,7 +8708,7 @@ téléphonique de chaque bénéficiaire.
 La commission prévue à l'article R. 19 est présidée par un membre du Conseil d'Etat désigné par le vice-président du Conseil
 d'Etat.
 
-Elle comprend [*composition*], outre son président :
+Elle comprend, outre son président :
 
 - un représentant du ministre des finances ;
 
@@ -8884,7 +8740,11 @@ Le secrétariat de la commission est assuré par un agent des services de l'info
 
 	**Modifié par**:
 
-	  - Décret n°1992-12-30 art. 1 JORF 31 décembre 1992
+	  - Décret n°97-245 du 12 mars 1997 - art. 3 (V) JORF 19 mars 1997
+
+	**Abrogé par**:
+
+	  - Décret n°98-376 du 14 mai 1998 - art. 1 (V) JORF 16 mai 1998
 
 	**Codifié par**:
 
