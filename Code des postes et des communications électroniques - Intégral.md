@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1997-03-29
+Version Consolidée au 1997-04-11
 
 # Partie législative
 
@@ -8994,6 +8994,532 @@ commercialisation et figurant sur une liste publiée au Journal officiel des com
 
 ##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.
 
+###### Article R20-2
+
+1° Tout équipement terminal destiné à être connecté, directement ou indirectement, à un réseau ouvert au public ne peut être
+mis sur le marché qu'après l'obtention d'une attestation de conformité. La destination de l'équipement est indiquée par le
+fabricant ou le fournisseur. Une attestation de conformité est également exigée préalablement à la mise sur le marché de tout
+équipement terminal radioélectrique, quelle que soit sa destination.
+
+La procédure d'attestation de conformité a pour objet de garantir le respect des exigences essentielles.
+
+Au choix du fabricant ou de son mandataire établi dans la Communauté européenne ou dans l'Espace économique européen,
+l'attestation de conformité est délivrée à l'issue :
+
+a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R. 20-5 et R. 20-6, suivi de la déclaration de
+conformité au type prévue à l'article R. 20-7 (a), assortie ou non d'un système approuvé de qualité de la production,
+mentionné à l'article R. 20-7 (b).
+
+Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de réglementations techniques
+nationales, le choix de la procédure décrite à l'alinéa ci-dessus peut être fait pour toute personne à même d'assurer les
+responsabilités incombant au titulaire de l'attestation de conformité.
+
+b) Soit d'une procédure de certification de la conformité du processus de conception et de fabrication à un système
+d'assurance de qualité complète, suivie d'une déclaration de conformité dans les conditions définies à l'article R. 20-9.
+
+Lorsque l'évaluation de la conformité est effectuée exclusivement au regard des normes harmonisées ou de réglementations
+techniques communes, les examens de type et déclarations de conformité mentionnés aux a et b ci-dessus sont qualifiés
+respectivement d'examens C.E. de type et de déclarations C.E. de conformité.
+
+2° Tout autre équipement terminal susceptible d'être connecté à un réseau ouvert au public, mais non destiné à une telle
+utilisation, ne peut être mis sur le marché qu'après une déclaration souscrite dans les conditions prévues à l'article R.
+20-14.
+
+L'Autorité de régulation des télécommunications est l'organisme notifié compétent en France, au sens de l'article R. 20-1. A
+ce titre, il reçoit les demandes d'une attestation de conformité et les déclarations mentionnées aux 1° et 2° du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-7, R20-9, R20-14, R20-1, R20-4, R20-5, R20-6
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 1 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D375 (Ab)
+
+
+###### Article R20-3
+
+La conformité d'un équipement terminal de télécommunications aux exigences essentielles est évaluée :
+
+a) S'agissant des exigences prévues au 12° de l'article L. 32 qui sont relatives à la sécurité des usagers et du personnel
+des exploitants des réseaux de télécommunications, au regard des normes nationales transposant les normes harmonisées
+pertinentes ou, à défaut, des normes nationales ;
+
+b) S'agissant des autres exigences essentielles prévues au même 12° de l'article L. 32, au regard des réglementations
+techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des réglementations techniques des
+autres Etats membres de la Communauté européenne ou des autres Etats parties à l'accord instituant l'Espace économique
+européen reconnues équivalentes par l'Autorité de régulation des télécommunications.
+
+Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 modifié, les réglementations techniques
+nationales sont adoptées par arrêté du ministre chargé des télécommunications.
+
+L'évaluation de la conformité des équipements terminaux aux normes harmonisées et aux réglementations techniques communes,
+effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant
+l'Espace économique européen, est reconnue en France conformément aux dispositions de la section III du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32
+	  - Décret n°84-74 du 26 janvier 1984 - art. 12 (M)
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-28 (M)
+
+
+###### Article R20-4
+
+La demande d'une attestation de conformité est présentée à l'Autorité de régulation des télécommunications par le fabricant
+de l'équipement ou son mandataire établi dans la Communauté européenne ou dans l'espace économique européen, ci-après dénommé
+le demandeur. Le demandeur doit avoir la personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au
+regard de normes nationales ou de réglementations techniques nationales, la demande d'attestation de conformité peut être
+présentée par toute personne à même d'assurer les responsabilités incombant au titulaire de l'attestation de conformité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 3 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-17 (M)
+	  - Code des postes et des communications électroni... - art. R20-18 (V)
+	  - Code des postes et des communications électroni... - art. R20-20 (V)
+	  - Code des postes et des communications électroni... - art. R20-21 (V)
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+
+
+###### Article R20-5
+
+Lorsque le demandeur décide de solliciter l'attestation de conformité selon la procédure prévue au a du 1° de l'article R.
+20-2, il constitue un dossier d'attestation de conformité.
+
+Un arrêté du ministre chargé des télécommunications précise la composition de ce dossier, qui doit permettre à l'Autorité de
+régulation des télécommunications d'évaluer la conformité du produit aux exigences essentielles qui lui sont applicables. Le
+dossier comporte un justificatif du paiement des frais de dossier. Un ou plusieurs exemplaires représentatifs de l'équipement
+terminal objet de la demande d'attestation de conformité sont tenus à la disposition de l'Autorité de régulation des
+télécommunications.
+
+Un arrêté du ministre chargé des télécommunications fixe la procédure simplifiée d'attestation de conformité applicable aux
+catégories d'équipements terminaux radioélectriques dont la conformité aux exigences essentielles n'est appréciée qu'au
+regard des normes et spécifications techniques relatives à la protection du spectre radioélectrique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 3 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-10 (V)
+	  - Code des postes et des communications électroni... - art. R20-13 (V)
+	  - Code des postes et des communications électroni... - art. R20-21 (M)
+	  - Code des postes et des communications électroni... - art. R20-25 (V)
+	  - Code des postes et des communications électroni... - art. R20-4 (M)
+	  - Code des postes et des communications électroni... - art. R20-6 (M)
+	  - Code des postes et des communications électroni... - art. R20-7 (M)
+	  - Code des postes et des communications électroni... - art. R20-8 (M)
+	  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-2
+
+
+###### Article R20-6
+
+1° A réception du dossier, il est délivré au demandeur un accusé de réception. Sont indiqués, le cas échéant, la ou les
+pièces manquantes ainsi que le délai fixé pour les produire.
+
+2° Les renseignements fournis sont vérifiés sur pièces ou, en tant que de besoin, sur place.
+
+3° Lorsque son dossier est complet, le demandeur peut être invité à présenter un exemplaire représentatif de l'équipement à
+un des laboratoires désignés aux fins d'essais. La demande est examinée au vu de l'ensemble des rapports d'essais.
+
+4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points de non-conformité à une ou plusieurs des
+exigences essentielles, une attestation d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par
+l'Autorité de régulation des télécommunications. Dans le cas contraire, l'attestation est refusée par une décision motivée,
+notifiée au demandeur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-20 (V)
+	  - Code des postes et des communications électroni... - art. R20-21 (M)
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-7 (M)
+	  - Code des postes et des communications électroni... - art. R20-8 (M)
+	  - Code des postes et des communications électroni... - art. R20-9-1 (V)
+
+
+###### Article R20-7
+
+Le demandeur auquel une attestation d'examen ou d'examen C.E. de type a été délivrée s'engage à fabriquer ou à commercialiser
+des équipements conformes au type décrit dans cette attestation, selon l'une ou l'autre des deux procédures suivantes :
+
+a) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il prend toutes les
+mesures nécessaires pour que le procédé de fabrication assure cette conformité.
+
+L'Autorité de régulation des télécommunications effectue ou fait effectuer des contrôles du produit à des intervalles
+aléatoires, par prélèvement dans une série de fabrication, dans les stocks de l'entreprise ou aux différents stades de la
+distribution. Le demandeur ne peut s'opposer à ces examens.
+
+b) Il met en oeuvre un système approuvé de qualité de la production dans les conditions prévues à l'article R. 20-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-8
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-8 (M)
+
+
+###### Article R20-8
+
+Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la production, le fabricant ou son mandataire
+présente à l'Autorité de régulation des télécommunications une demande d'approbation de ce système, destinée à garantir la
+conformité des produits au type décrit dans l'attestation d'examen ou d'examen C.E. de type.
+
+L'Autorité de régulation des télécommunications évalue le système de qualité après une procédure d'examen sur pièces et
+éventuellement sur place.
+
+Elle notifie au demandeur une décision motivée d'évaluation du système de qualité de la production. Lorsque cette décision
+approuve le système soumis à évaluation, le demandeur s'engage à remplir les obligations découlant du système tel qu'il a été
+approuvé et à maintenir son efficacité. Il informe sans délai l'Autorité de régulation des télécommunications de tout projet
+d'adaptation de son système de qualité. Celle-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle approbation du
+système révisé.
+
+Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'approbation et de la documentation
+nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi que celles de la surveillance par
+inspections et visites sur place du respect par le demandeur des obligations résultant du système de qualité approuvé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+
+
+###### Article R20-9
+
+Lorsque le fabricant ou son mandataire décide de solliciter l'attestation de conformité selon la procédure prévue au b du 1°
+de l'article R. 20-2, il présente à l'Autorité de régulation des télécommunications une demande d'évaluation du système
+d'assurance de qualité complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles
+qui leur sont applicables.
+
+Cette demande comporte toutes les informations appropriées sur les produits concernés ainsi qu'une documentation complète
+permettant d'apprécier la qualité de la conception du produit, de sa fabrication et du contrôle de celle-ci.
+
+Après un examen sur pièces et, éventuellement, sur place, l'Autorité de régulation des télécommunications prend une décision
+motivée d'évaluation du système d'assurance de qualité complète. Lorsqu'elle estime que ce système garantit la conformité des
+équipements aux exigences essentielles, elle délivre au fabricant ou à son mandataire une déclaration ou déclaration C.E. de
+conformité.
+
+Le fabricant s'engage à remplir les obligations découlant du système d'assurance de qualité complète approuvé et à en
+maintenir l'efficacité. Il autorise l'Autorité de régulation des télécommunications à accéder, à des fins d'inspection, aux
+lieux de conception, de fabrication, d'inspection, d'essais et de stockage des matériels concernés.
+
+Le fabricant informe l'Autorité de régulation des télécommunications de tout projet d'adaptation du système d'assurance de
+qualité complète. Cette dernière fait connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle évaluation du
+système révisé.
+
+Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'évaluation du système d'assurance de
+qualité complète et de la documentation nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi
+que celles de la surveillance par inspections sur place, audits à intervalles réguliers ou visites inopinées, du respect par
+le fabricant des obligations du système d'assurance de qualité complète approuvée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 4 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-12 (V)
+	  - Code des postes et des communications électroni... - art. R20-24 (M)
+	  - Code des postes et des communications électroni... - art. R20-5 (M)
+	  - Code des postes et des communications électroni... - art. R20-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-7 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-2
+
+
+###### Article R20-10
+
+1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions d'approbation des systèmes de qualité de la
+production mentionnées aux articles R. 20-8 et R. 20-9, l'Autorité de régulation des télécommunications délivre au demandeur
+une attestation de conformité.
+
+Cette attestation de conformité atteste que l'équipement qui en est l'objet respecte les exigences essentielles. En outre,
+elle vaut autorisation de connexion à un réseau ouvert au public, sauf pour certaines catégories d'équipements terminaux
+radioélectriques non destinés à cette utilisation.
+
+La décision d'attestation de conformité précise la durée pour laquelle elle est délivrée, qui ne peut être supérieure à dix
+ans. Elle est notifiée au demandeur.
+
+La demande de renouvellement d'une attestation de conformité doit être présentée au moins quatre mois avant l'expiration de
+la durée pour laquelle l'attestation de conformité a été délivrée. La décision de renouvellement est notifiée au demandeur et
+précise la durée pour laquelle l'attestation de conformité est renouvelée.
+
+2° L'attestation de conformité est personnelle à son titulaire et ne peut être cédée à un tiers qu'avec l'accord de
+l'Autorité de régulation des télécommunications. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en
+mesure de remplir les obligations incombant au titulaire de l'attestation de conformité.
+
+3° Toute modification des conditions au vu desquelles a été délivrée l'attestation de conformité est signalée sans délai à
+l'Autorité de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 3 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 5 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-13 (V)
+	  - Code des postes et des communications électroni... - art. R20-17 (V)
+	  - Code des postes et des communications électroni... - art. R20-18 (V)
+	  - Code des postes et des communications électroni... - art. R20-22 (V)
+	  - Code des postes et des communications électroni... - art. R20-25 (V)
+	  - Code des postes et des communications électroni... - art. R20-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-7-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-8 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-7, R20-8, R20-9
+
+
+###### Article R20-11
+
+L'attestation de conformité des installations radioélectriques destinées à être connectées aux réseaux radioélectriques de
+l'Etat visés au 1° de l'article L. 33 du code des postes et télécommunications est délivré dans les conditions du présent
+article.
+
+Les spécifications techniques relatives à la protection du spectre radioélectrique, au vu desquelles est appréciée la
+conformité des installations radioélectriques raccordées aux réseaux établis pour les besoins de la défense nationale ou de
+la sécurité publique, sont communiquées en temps utile au ministre chargé des télécommunications par le ministre intéressé.
+Par dérogation aux dispositions de l'article R. 20-16, ces spécifications ne sont pas publiées lorsque leur publication
+aurait pour effet de porter atteinte aux exigences de la défense et de la sécurité publique.
+
+Le ministre chargé de la défense et le ministre chargé de l'intérieur s'assurent, chacun pour ce qui le concerne, de la
+conformité aux spécifications techniques des installations raccordées aux réseaux susvisés.
+
+L'attestation de conformité des installations raccordées aux autres réseaux utilisant des bandes de fréquences, ou des
+fréquences attribuées par le Premier ministre à une administration pour les besoins propres de celle-ci, est délivré par le
+ministre chargé des télécommunications, après avis de l'administration concernée, et en tant que de besoin, du comité de
+coordination des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-25 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L33, R20-16
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-12
+
+Lorsque les contrôles opérés en application des articles R. 20-7 (a) ou R. 20-8 font apparaître que les équipements produits
+ne sont pas conformes au type qui a fait l'objet de l'attestation d'examen ou d'examen C.E. de type ou lorsque les contrôles
+opérés en application de l'article R. 20-9 font apparaître que les équipements produits ne respectent pas les exigences
+essentielles qui leur sont applicables, l'attestation de conformité est suspendue par l'Autorité de régulation des
+télécommunications. Cette décision est motivée et notifiée au titulaire de l'attestation de conformité, qui est invité à
+prendre les mesures de mise en conformité des appareils existants jugées nécessaires dans un délai qui ne peut être inférieur
+à trente jours.
+
+S'il n'est pas satisfait à cette demande dans le délai fixé, l'Autorité de régulation des télécommunications peut retirer
+l'attestation de conformité par une décision motivée, notifiée au titulaire de cette attestation de conformité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-13 (V)
+	  - Code des postes et des communications électroni... - art. R20-13-1 (T)
+	  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-7, R20-8, R20-9
+
+
+###### Article R20-13
+
+1° Tout équipement terminal agréé doit faire l'objet, préalablement à sa commercialisation, d'un marquage indiquant que cet
+équipement est destiné à être connecté à un réseau ouvert au public ou qu'il s'agit d'un équipement radioélectrique non
+destiné à cette utilisation. Ces marquages sont conformes à des modèles fixés par décision de l'Autorité de régulation des
+télécommunications.
+
+Lorsque l'attestation de conformité a été délivrée à l'issue soit d'un examen C.E. de type, soit d'une déclaration C.E. de
+conformité, l'équipement terminal est l'objet d'un marquage C.E., conforme à un modèle fixé par décision de l'Autorité de
+régulation des télécommunications.
+
+Ce marquage C.E. ne pourra être apposé par le fabricant ou son mandataire qu'après que celui-ci se sera également conformé
+aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
+
+2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et comporter l'indication du modèle, lot ou
+numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 9 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-14
+
+1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le fabricant ou le fournisseur auprès de l'Autorité
+de régulation des télécommunications lors de la première mise sur le marché de l'équipement terminal considéré. Le déclarant
+doit avoir la personnalité juridique.
+
+2° Cette déclaration, conforme à un modèle fixé par arrêté du ministre chargé des télécommunications, atteste que
+l'équipement concerné n'est pas destiné à être connecté à un réseau ouvert au public. Elle est accompagnée de la notice
+d'utilisation de l'équipement.
+
+3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
+Etat membre de la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen, le fabricant
+ou le fournisseur est tenu de justifier, sur demande de l'Autorité de régulation des télécommunications, que l'équipement
+correspond à la destination qu'il a déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du segment
+de marché pour lequel il est prévu.
+
+4° Préalablement à sa commercialisation, chaque équipement concerné doit faire l'objet, de la part du fabricant ou du
+fournisseur, du marquage C.E. conforme à un modèle publié par décision de l'Autorité de régulation des télécommunications et
+indiquant qu'il ne peut être connecté à un réseau ouvert au public.
+
+Ce marquage C.E. ne pourra être apposé par le fabricant ou le fournisseur qu'après que celui-ci se sera également conformé
+aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-2
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 5 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 9 () JORF 11 avril 1997
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Code des postes et des communications électroni... - art. R20-20 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
 ###### Article R20-15
 
 Les dossiers et la correspondance se rapportant aux procédures visées à la présente section sont rédigés en langue française.
@@ -9003,6 +9529,23 @@ Les dossiers et la correspondance se rapportant aux procédures visées à la pr
 	**Modifié par**:
 
 	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-16
+
+Sans préjudice de leur notification à la Commission des communautés européennes, les références des normes et spécifications
+techniques des équipements terminaux soumis à attestation de conformité sont publiées au Journal officiel de la République
+française.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
 
 	**Codifié par**:
 
@@ -9029,6 +9572,39 @@ fabricant ou le fournisseur.
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R20-18 (M)
+
+
+###### Article R20-18
+
+1° Les équipements destinés à être connectés directement ou indirectement à un réseau ouvert au public, qui ont obtenu de la
+part d'un organisme notifié d'un autre Etat membre de la Communauté européenne ou de tout autre Etat partie à l'accord
+instituant l'Espace économique européen une décision approuvant leur connexion au réseau, sont dispensés de l'attestation de
+conformité prévue au 1° de l'article R. 20-2 lorsque cette décision a été obtenue à l'issue :
+
+- soit d'un examen C.E. de type suivi d'une déclaration de conformité assortie éventuellement d'un système approuvé de
+qualité de la production ;
+
+- soit d'une déclaration C.E. de conformité assortie d'un système approuvé d'assurance de qualité complète.
+
+2° Lors de l'instruction d'une demande visant à obtenir l'attestation de conformité prévue au 1° de l'article R. 20-2, sont
+reconnus valables les résultats des essais effectués dans les laboratoires présentant des garanties d'indépendance et de
+compétence notamment sur la base des critères généraux définis par les normes de la série EN 45000, désignés comme tels par
+les autres Etats membres ou les autres Etats parties à l'accord instituant l'Espace économique européen et figurant le cas
+échéant sur une liste publiée au Journal officiel de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-2
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ###### Article R20-19
@@ -9066,6 +9642,30 @@ visé à l'article R-20-14.
 	  - Code des postes et télécommunications R-20-13, R-20-14
 
 
+###### Article R20-20
+
+Lorsqu'il estime que les normes hamonisées et réglementations techniques communes sont insuffisantes pour mettre en oeuvre
+les exigences essentielles ou vont au-delà de celles-ci, l'Autorité de régulation des télécommunications en saisit le comité
+d'approbation des équipements de télécommunications (Acte) siégeant auprès de la Commission des communautés européennes.
+
+Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté européenne ou dans un
+autre Etat partie à l'accord instituant l'Espace économique européen et utilisé conformément à sa destination, ne satisfait
+pas aux exigences essentielles, l'Autorité de régulation des télécommunications en informe sans délai la Commission des
+communautés européennes ainsi que les autres Etats membres de la Communauté européenne et les autres Etats parties à l'accord
+instituant l'Espace économique européen et précise si la non conformité résulte d'une application inadéquate des normes et
+spécifications harmonisées ou de lacunes intrinsèques de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 2 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
 ###### Article R20-21
 
 Lorsqu'un accord entre la Communauté européenne et un Etat n'appartenant pas à celle-ci a été conclu à cet effet, la
@@ -9088,7 +9688,134 @@ conformité d'un équipement terminal aux normes et spécifications techniques e
 	  - Code des postes et des communications électronique - art. R20-25 (M)
 
 
+##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.
+
+###### Article R20-22
+
+1° L'exploitant d'un réseau ouvert au public ne peut s'opposer au raccordement à son réseau, effectué dans les conditions
+prévues au paragraphe 2 du présent article, des équipements terminaux ayant fait l'objet de l'un des marquages prévus au 1°
+de l'article R. 20-13 et au 1° de l'article R. 20-19.
+
+2° Le raccordement des équipements terminaux à un point de terminaison d'un réseau ouvert au public est effectué librement.
+
+Toutefois, pour certaines catégories d'équipements agréés figurant sur une liste publiée par arrêté de l'Autorité de
+régulation des télécommunications, qui, en raison de leur complexité, peuvent interférer avec l'échange des informations de
+commande et de gestion associé au réseau, ou dont la dimension a une incidence sur l'écoulement du trafic, le raccordement au
+réseau doit être réalisé par un installateur admis, mentionné à l'article R. 20-23. Cet installateur doit, préalablement au
+raccordement, en informer l'exploitant du réseau.
+
+3° Lorsque les équipements terminaux agréés connectés à un réseau ouvert au public perturbent le bon fonctionnement du réseau
+ou des services, notamment en raison de leur sous-dimensionnement ou d'une utilisation non conforme à celle pour laquelle
+l'attestation de conformité a été délivrée, l'exploitant de ce réseau effectue, sans délai, sur demande de l'Autorité de
+régulation des télécommunications, toutes vérifications techniques nécessaires et en informe celui-ci.
+
+Pour préserver l'intégrité du réseau et le bon fonctionnement des services, l'Autorité de régulation des télécommunications
+peut adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour
+mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à
+la mise en demeure, l'Autorité de régulation des télécommunications demande à l'exploitant du réseau de mettre en place, aux
+frais de l'intéressé, les dispositifs techniques permettant de mettre fin aux perturbations constatées.
+
+En cas d'urgence ou d'impossibilité de mettre fin dans un délai raisonnable aux troubles constatés, l'exploitant du réseau
+peut, à la demande du ministre chargé des télécommunications, suspendre la fourniture du service qui utilise les terminaux à
+l'origine des perturbations.
+
+4° Lorsque des équipements non agréés sont connectés à un réseau ouvert au public, l'Autorité de régulation des
+télécommunications peut, sans préjudice d'éventuelles poursuites pénales, demander à l'exploitant du réseau auquel sont
+irrégulièrement connectés ces terminaux de suspendre la fourniture du service à l'utilisateur des équipements concernés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-13, R20-19, R20-23
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+	  - Décret n°97-328 du 9 avril 1997 - art. 6 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D375 (Ab)
+
+
 ##### SECTION 5 : Admission des installateurs.
+
+###### Article R20-23
+
+1° Les équipements terminaux de télécommunications ou de radiocommunications figurant sur la liste mentionnée au 2° de
+l'article R. 20-22 ne peuvent être raccordés, mis en service et entretenus que par une entreprise inscrite sur la liste des
+installateurs admis, selon le cas, en télécommunications ou en radiocommunications.
+
+2° La demande d'inscription peut être présentée par toute entreprise inscrite au registre des métiers ou au registre du
+commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté européenne
+ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
+
+La demande d'inscription comporte :
+
+- le nom et l'adresse de l'entreprise demanderesse ;
+
+- la liste des membres de son personnel disposant de diplômes ou qualifications dans la spécialité choisie ;
+
+- le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
+
+3° A réception du dossier complet, il est délivré une attestation d'inscription provisoire. Elle emporte le droit de procéder
+au raccordement, à la mise en service et à l'entretien des équipements figurant sur la liste mentionnée au 2° de l'article R.
+20-22.
+
+4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un an, les travaux réalisés par l'entreprise
+peuvent être vérifiés par l'Autorité de régulation des télécommunications, de sa propre initiative ou sur demande de la
+commission d'admission des installateurs.
+
+A l'issue de cette période, la capacité de l'entreprise est appréciée au regard de la compétence et de l'expérience acquises
+dans la spécialité choisie.
+
+L'Autorité de régulation des télécommunications statue, après avis de la commission d'admission des installateurs, sur
+l'inscription définitive de l'entreprise demanderesse sur la liste des installateurs admis. Les refus d'inscription sont
+motivés et notifiés à l'entreprise concernée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-22
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 7 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-24
+
+L'inscription définitive vaut autorisation d'utiliser le titre d'installateur admis en télécommunications ou en
+radiocommunications.
+
+L'Autorité de régulation des télécommunications peut, après avis de la commission d'admission et après audition des
+intéressés, suspendre ou retirer l'inscription sur la liste, des installateurs qui auront manqué gravement à leurs
+obligations professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 8 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-30 (M)
+
 
 ###### Article R20-25
 
@@ -9119,6 +9846,85 @@ fonctionnement de cette commission.
 
 
 ##### SECTION 6 : Dispositions pénales.
+
+###### Article R20-26
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque met sur le marché un équipement
+terminal qui devait faire l'objet de l'attestation de conformité prévue au 1° de l'article R. 20-2, ou d'une décision
+approuvant sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 20-18, et qui n'a pas obtenu cette
+attestation de conformité ou cette décision.
+
+En cas de condamnation, le tribunal peut ordonner la confiscation des équipements terminaux concernés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-2, R20-18
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+
+###### Article R20-27
+
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque connecte à un réseau ouvert au public
+un équipement terminal n'ayant pas fait l'objet de l'attestation de conformité prévue au 1° de l'article R. 20-2, ou d'une
+décision approuvant sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 20-18.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-2, R20-18
+
+
+###### Article R20-28
+
+Est puni de la peine d'amende prévue pour la contravention de la 4e classe quiconque met sur le marché un équipement terminal
+ayant fait l'objet du marquage visé au 1° de l'article R. 20-13 ou au 1° de l'article R. 20-19 sans être en mesure de
+produire, sur demande des agents mentionnés à l'article L. 40, la référence de l'attestation de conformité prévue au 1° de
+l'article R. 20-2, ou de la décision approuvant sa connexion au réseau mentionnée au 1° de l'article R. 20-18.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R20-13, R20-19, L40, R20-2, R20-18
+
+	**Modifié par**:
+
+	  - Décret n°97-328 du 9 avril 1997 - art. 10 () JORF 11 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-30-1 (M)
+
 
 ###### Article R20-29
 
@@ -9167,806 +9973,6 @@ d'installateur admis en télécommunications ou en radiocommunications, en viola
 	**Cite**:
 
 	  - Code des postes et télécommunications R20-24
-
-
-#### CHAPITRE Ier : Etablissement et entretien des lignes et des installations de télécommunications
-
-##### SECTION 2 : Evaluation de la conformité des équipements terminaux aux exigences essentielles.
-
-###### Article R20-2
-
-1° Tout équipement terminal destiné à être connecté, directement ou indirectement, à un réseau ouvert au public ne peut être
-mis sur le marché qu'après l'obtention d'un agrément. La destination de l'équipement est indiquée par le fabricant ou le
-fournisseur. Un agrément est également exigé préalablement à la mise sur le marché de tout équipement terminal
-radioélectrique, quelle que soit sa destination.
-
-La procédure d'agrément a pour objet de garantir le respect des exigences essentielles.
-
-Au choix du fabricant ou de son mandataire établi dans la Communauté européenne ou dans l'Espace économique européen,
-l'agrément est délivré à l'issue :
-
-a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R. 20-5 et R. 20-6, suivi de la déclaration de
-conformité au type prévue à l'article R. 20-7 (a), assortie ou non d'un système approuvé de qualité de la production,
-mentionné à l'article R. 20-7 (b).
-
-Lorsque l'évaluation de la conformité est effectuée au regard de normes nationales ou de réglementations techniques
-nationales, le choix de la procédure décrite à l'alinéa ci-dessus peut être fait pour toute personne à même d'assurer les
-responsabilités incombant au titulaire de l'agrément.
-
-b) Soit d'une procédure de certification de la conformité du processus de conception et de fabrication à un système
-d'assurance de qualité complète, suivie d'une déclaration de conformité dans les conditions définies à l'article R. 20-9.
-
-Lorsque l'évaluation de la conformité est effectuée exclusivement au regard des normes harmonisées ou de réglementations
-techniques communes, les examens de type et déclarations de conformité mentionnés aux a et b ci-dessus sont qualifiés
-respectivement d'examens C.E. de type et de déclarations C.E. de conformité.
-
-2° Tout autre équipement terminal susceptible d'être connecté à un réseau ouvert au public, mais non destiné à une telle
-utilisation, ne peut être mis sur le marché qu'après une déclaration souscrite dans les conditions prévues à l'article R.
-20-14.
-
-Le ministre chargé des télécommunications (direction générale des postes et télécommunications) est l'organisme notifié
-compétent en France, au sens de l'article R. 20-1. A ce titre, il reçoit les demandes d'agrément et les déclarations
-mentionnées aux 1° et 2° du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D375 (Ab)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-7, R20-9, R20-14, R20-1, R20-4, R20-5, R20-6
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-3
-
-La conformité d'un équipement terminal de télécommunications aux exigences essentielles est évaluée :
-
-a) S'agissant des exigences prévues au 12° de l'article L. 32 qui sont relatives à la sécurité des usagers et du personnel
-des exploitants des réseaux de télécommunications, au regard des normes nationales transposant les normes harmonisées
-pertinentes ou, à défaut, des normes nationales ;
-
-b) S'agissant des autres exigences essentielles prévues au même 12° de l'article L. 32, au regard des réglementations
-techniques communes ou, à défaut, des réglementations techniques nationales, ainsi que des réglementations techniques des
-autres Etats membres de la Communauté européenne ou des autres Etats parties à l'accord instituant l'Espace économique
-européen reconnues équivalentes par le directeur général des postes et télécommunications.
-
-Sous réserve des dispositions de l'article 12 du décret n° 84-74 du 26 janvier 1984 modifié, les réglementations techniques
-nationales sont adoptées par arrêté du ministre chargé des télécommunications.
-
-L'évaluation de la conformité des équipements terminaux aux normes harmonisées et aux réglementations techniques communes,
-effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant
-l'Espace économique européen, est reconnue en France conformément aux dispositions de la section III du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°84-74 du 26 janvier 1984 - art. 12 (M)
-	  - Code des postes et télécommunications L32
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-28 (M)
-
-
-###### Article R20-4
-
-La demande d'agrément est présentée au directeur général des postes et télécommunications par le fabricant de l'équipement ou
-son mandataire établi dans la Communauté européenne ou dans l'espace économique européen, ci-après dénommé le demandeur. Le
-demandeur doit avoir la personnalité juridique. Lorsque l'évaluation de la conformité est effectuée au regard de normes
-nationales ou de réglementations techniques nationales, la demande d'agrément peut être présentée par toute personne à même
-d'assurer les responsabilités incombant au titulaire de l'agrément.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-17 (M)
-	  - Code des postes et des communications électroni... - art. R20-18 (V)
-	  - Code des postes et des communications électroni... - art. R20-20 (V)
-	  - Code des postes et des communications électroni... - art. R20-21 (V)
-	  - Code des postes et des communications électroni... - art. R20-5 (V)
-
-
-###### Article R20-5
-
-Lorsque le demandeur décide de solliciter l'agrément selon la procédure prévue au a du 1° de l'article R. 20-2, il constitue
-un dossier d'agrément.
-
-Un arrêté du ministre chargé des télécommunications précise la composition de ce dossier, qui doit permettre au directeur
-général des postes et télécommunications d'évaluer la conformité du produit aux exigences essentielles qui lui sont
-applicables. Le dossier comporte un justificatif du paiement des frais de dossier. Un ou plusieurs exemplaires représentatifs
-de l'équipement terminal objet de la demande d'agrément sont tenus à la disposition du directeur général des postes et
-télécommunications.
-
-Un arrêté du ministre chargé des télécommunications fixe la procédure simplifiée d'agrément applicable aux catégories
-d'équipements terminaux radioélectriques dont la conformité aux exigences essentielles n'est appréciée qu'au regard des
-normes et spécifications techniques relatives à la protection du spectre radioélectrique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. R20-10 (V)
-	  - Code des postes et des communications électroni... - art. R20-13 (V)
-	  - Code des postes et des communications électroni... - art. R20-21 (M)
-	  - Code des postes et des communications électroni... - art. R20-25 (V)
-	  - Code des postes et des communications électroni... - art. R20-4 (M)
-	  - Code des postes et des communications électroni... - art. R20-6 (M)
-	  - Code des postes et des communications électroni... - art. R20-7 (M)
-	  - Code des postes et des communications électroni... - art. R20-8 (M)
-	  - Code des postes et des communications électroni... - art. R20-9 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-2
-
-
-###### Article R20-6
-
-1° A réception du dossier, il est délivré au demandeur un accusé de réception. Sont indiqués, le cas échéant, la ou les
-pièces manquantes ainsi que le délai fixé pour les produire.
-
-2° Les renseignements fournis sont vérifiés sur pièces ou, en tant que de besoin, sur place.
-
-3° Lorsque son dossier est complet, le demandeur peut être invité à présenter un exemplaire représentatif de l'équipement à
-un des laboratoires désignés aux fins d'essais. La demande est examinée au vu de l'ensemble des rapports d'essais.
-
-4° Si l'ensemble des pièces, visées ci-dessus, ne font pas apparaître de points de non-conformité à une ou plusieurs des
-exigences essentielles, une attestation d'examen ou d'examen C.E. de type est délivrée et notifiée au demandeur par le
-directeur général des postes et télécommunications. Dans le cas contraire, l'attestation est refusée par une décision
-motivée, notifiée au demandeur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-20 (V)
-	  - Code des postes et des communications électroni... - art. R20-21 (M)
-	  - Code des postes et des communications électroni... - art. R20-5 (V)
-	  - Code des postes et des communications électroni... - art. R20-7 (M)
-	  - Code des postes et des communications électroni... - art. R20-8 (M)
-	  - Code des postes et des communications électroni... - art. R20-9-1 (V)
-
-
-###### Article R20-7
-
-Le demandeur auquel une attestation d'examen ou d'examen C.E. de type a été délivrée s'engage à fabriquer ou à commercialiser
-des équipements conformes au type décrit dans cette attestation, selon l'une ou l'autre des deux procédures suivantes :
-
-a) Il souscrit une déclaration écrite assurant que les produits fabriqués sont conformes au type et qu'il prend toutes les
-mesures nécessaires pour que le procédé de fabrication assure cette conformité.
-
-Le directeur général des postes et télécommunications effectue ou fait effectuer des contrôles du produit à des intervalles
-aléatoires, par prélèvement dans une série de fabrication, dans les stocks de l'entreprise ou aux différents stades de la
-distribution. Le demandeur ne peut s'opposer à ces examens.
-
-b) Il met en oeuvre un système approuvé de qualité de la production dans les conditions prévues à l'article R. 20-8.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-8
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-5 (V)
-	  - Code des postes et des communications électroni... - art. R20-8 (M)
-
-
-###### Article R20-8
-
-Lorsqu'il choisit de mettre en oeuvre un système approuvé de qualité de la production, le fabricant ou son mandataire
-présente au directeur général des postes et télécommunications une demande d'approbation de ce système, destinée à garantir
-la conformité des produits au type décrit dans l'attestation d'examen ou d'examen C.E. de type.
-
-Le directeur général des postes et télécommunications évalue le système de qualité après une procédure d'examen sur pièces et
-éventuellement sur place.
-
-Il notifie au demandeur une décision motivée d'évaluation du système de qualité de la production. Lorsque cette décision
-approuve le système soumis à évaluation, le demandeur s'engage à remplir les obligations découlant du système tel qu'il a été
-approuvé et à maintenir son efficacité. Il informe sans délai le directeur général des postes et télécommunications de tout
-projet d'adaptation de son système de qualité. Celui-ci lui notifie s'il y a lieu ou non de procéder à une nouvelle
-approbation du système révisé.
-
-Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'approbation et de la documentation
-nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi que celles de la surveillance par
-inspections et visites sur place du respect par le demandeur des obligations résultant du système de qualité approuvé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-5 (V)
-
-
-###### Article R20-9
-
-Lorsque le fabricant ou son mandataire décide de solliciter l'agrément selon la procédure prévue au b du 1° de l'article R.
-20-2, il présente au directeur général des postes et télécommunications une demande d'évaluation du système d'assurance de
-qualité complète qu'il met en oeuvre pour garantir la conformité de ses produits aux exigences essentielles qui leur sont
-applicables.
-
-Cette demande comporte toutes les informations appropriées sur les produits concernés ainsi qu'une documentation complète
-permettant d'apprécier la qualité de la conception du produit, de sa fabrication et du contrôle de celle-ci.
-
-Après un examen sur pièces et, éventuellement, sur place, le directeur général des postes et télécommunications prend une
-décision motivée d'évaluation du système d'assurance de qualité complète. Lorsqu'il estime que ce système garantit la
-conformité des équipements aux exigences essentielles, il délivre au fabricant ou à son mandataire une déclaration ou
-déclaration C.E. de conformité.
-
-Le fabricant s'engage à remplir les obligations découlant du système d'assurance de qualité complète approuvé et à en
-maintenir l'efficacité. Il autorise la direction générale des postes et télécommunications à accéder, à des fins
-d'inspection, aux lieux de conception, de fabrication, d'inspection, d'essais et de stockage des matériels concernés.
-
-Le fabricant informe le directeur général des postes et télécommunications                                                 de
-tout projet d'adaptation du système d'assurance de qualité complète. Ce dernier fait connaître au fabricant s'il y a lieu ou
-non de procéder à une nouvelle évaluation du système révisé.
-
-Le ministre chargé des télécommunications précise par arrêté le contenu de la demande d'évaluation du système d'assurance de
-qualité complète et de la documentation nécessaire à l'instruction de cette demande, les modalités de cette instruction ainsi
-que celles de la surveillance par inspections sur place, audits à intervalles réguliers ou visites inopinées, du respect par
-le fabricant des obligations du système d'assurance de qualité complète approuvée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-12 (V)
-	  - Code des postes et des communications électroni... - art. R20-24 (M)
-	  - Code des postes et des communications électroni... - art. R20-5 (M)
-	  - Code des postes et des communications électroni... - art. R20-6 (V)
-	  - Code des postes et des communications électroni... - art. R20-7 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-2
-
-
-###### Article R20-10
-
-1° Au vu de la déclaration mentionnée au a de l'article R. 20-7 ou des décisions d'approbation des systèmes de qualité de la
-production mentionnées aux articles R. 20-8 et R. 20-9, le directeur général des postes et télécommunications délivre au
-demandeur un agrément.
-
-Cet agrément atteste que l'équipement qui en est l'objet respecte les exigences essentielles. En outre, il vaut autorisation
-de connexion à un réseau ouvert au public, sauf pour certaines catégories d'équipements terminaux radioélectriques non
-destinés à cette utilisation.
-
-La décision d'agrément précise la durée pour laquelle elle est délivrée, qui ne peut être supérieure à dix ans. Elle est
-notifiée au demandeur.
-
-La demande de renouvellement d'un agrément doit être présentée au moins quatre mois avant l'expiration de la durée pour
-laquelle l'agrément a été délivré. La décision de renouvellement est notifiée au demandeur et précise la durée pour laquelle
-l'agrément est renouvelé.
-
-2° L'agrément est personnel à son titulaire et ne peut être cédé à un tiers qu'avec l'accord du directeur général des postes
-et télécommunications. Cet accord ne peut être refusé qu'au cas où le cessionnaire ne serait pas en mesure de remplir les
-obligations incombant au titulaire de l'agrément.
-
-3° Toute modification des conditions au vu desquelles a été délivré l'agrément est signalée sans délai au directeur général
-des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. R20-13 (V)
-	  - Code des postes et des communications électroni... - art. R20-17 (V)
-	  - Code des postes et des communications électroni... - art. R20-18 (V)
-	  - Code des postes et des communications électroni... - art. R20-22 (V)
-	  - Code des postes et des communications électroni... - art. R20-25 (V)
-	  - Code des postes et des communications électroni... - art. R20-4 (V)
-	  - Code des postes et des communications électroni... - art. R20-6 (V)
-	  - Code des postes et des communications électroni... - art. R20-7-1 (V)
-	  - Code des postes et des communications électroni... - art. R20-8 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-7, R20-8, R20-9
-
-
-###### Article R20-11
-
-L'agrément des installations radioélectriques destinées à être connectées aux réseaux radioélectriques de l'Etat visés au 1°
-de l'article L. 33 du code des postes et télécommunications est délivré dans les conditions du présent article.
-
-Les spécifications techniques relatives à la protection du spectre radioélectrique, au vu desquelles est appréciée la
-conformité des installations radioélectriques raccordées aux réseaux établis pour les besoins de la défense nationale ou de
-la sécurité publique, sont communiquées en temps utile au ministre chargé des télécommunications par le ministre intéressé.
-Par dérogation aux dispositions de l'article R. 20-16, ces spécifications ne sont pas publiées lorsque leur publication
-aurait pour effet de porter atteinte aux exigences de la défense et de la sécurité publique.
-
-Le ministre chargé de la défense et le ministre chargé de l'intérieur s'assurent, chacun pour ce qui le concerne, de la
-conformité aux spécifications techniques des installations raccordées aux réseaux susvisés.
-
-L'agrément des installations raccordées aux autres réseaux utilisant des bandes de fréquences, ou des fréquences attribuées
-par le Premier ministre à une administration pour les besoins propres de celle-ci, est délivré par le ministre chargé des
-télécommunications, après avis de l'administration concernée, et en tant que de besoin, du comité de coordination des
-télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. R20-25 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33, R20-16
-
-
-###### Article R20-12
-
-Lorsque les contrôles opérés en application des articles R. 20-7 (a) ou R. 20-8 font apparaître que les équipements produits
-ne sont pas conformes au type qui a fait l'objet de l'attestation d'examen ou d'examen C.E. de type ou lorsque les contrôles
-opérés en application de l'article R. 20-9 font apparaître que les équipements produits ne respectent pas les exigences
-essentielles qui leur sont applicables, l'agrément est suspendu par le directeur général des postes et télécommunications.
-Cette décision est motivée et notifiée au titulaire de l'agrément, qui est invité à prendre les mesures de mise en conformité
-des appareils existants jugées nécessaires dans un délai qui ne peut être inférieur à trente jours.
-
-S'il n'est pas satisfait à cette demande dans le délai fixé, le directeur général des postes et télécommunications peut
-retirer l'agrément par une décision motivée, notifiée au titulaire de cet agrément.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-1272 1993-12-01 art. 25 JORF 2 décembre 1993
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-13 (V)
-	  - Code des postes et des communications électroni... - art. R20-13-1 (T)
-	  - Code des postes et des communications électroni... - art. R20-9 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-7, R20-8, R20-9
-
-
-###### Article R20-13
-
-1° Tout équipement terminal agréé doit faire l'objet, préalablement à sa commercialisation, d'un marquage indiquant que cet
-équipement est destiné à être connecté à un réseau ouvert au public ou qu'il s'agit d'un équipement radioélectrique non
-destiné à cette utilisation. Ces marquages sont conformes à des modèles fixés par arrêté du ministre chargé des
-télécommunications.
-
-Lorsque l'agrément a été délivré à l'issue soit d'un examen C.E. de type, soit d'une déclaration C.E. de conformité,
-l'équipement terminal est l'objet d'un marquage C.E., conforme à un modèle fixé par arrêté du ministre chargé des
-télécommunications.
-
-Ce marquage C.E. ne pourra être apposé par le fabricant ou son mandataire qu'après que celui-ci se sera également conformé
-aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-2° Tout équipement terminal doit, en outre, être identifié par le fabricant, et comporter l'indication du modèle, lot ou
-numéro de série, ainsi que l'identité du fabricant ou du fournisseur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 2 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-14
-
-1° La déclaration mentionnée au 2° de l'article R. 20-2 est souscrite par le fabricant ou le fournisseur auprès du directeur
-général des postes et télécommunications lors de la première mise sur le marché de l'équipement terminal considéré. Le
-déclarant doit avoir la personnalité juridique.
-
-2° Cette déclaration, conforme à un modèle fixé par arrêté du ministre chargé des télécommunications, atteste que
-l'équipement concerné n'est pas destiné à être connecté à un réseau ouvert au public. Elle est accompagnée de la notice
-d'utilisation de l'équipement.
-
-3° Sauf dans le cas où il justifie avoir antérieurement satisfait à cette obligation auprès d'un organisme notifié d'un autre
-Etat membre de la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen , le fabricant
-ou le fournisseur est tenu de justifier, sur demande du directeur général des postes et télécommunications , que l'équipement
-correspond à la destination qu'il a déclarée, compte tenu de ses caractéristiques techniques, de ses fonctions et du segment
-de marché pour lequel il est prévu.
-
-4° Préalablement à sa commercialisation, chaque équipement concerné doit faire l'objet, de la part du fabricant ou du
-fournisseur, du marquage C.E. conforme à un modèle publié par arrêté du ministre chargé des télécommunications et indiquant
-qu'il ne peut être connecté à un réseau ouvert au public.
-
-Ce marquage C.E. ne pourra être apposé par le fabricant ou le fournisseur qu'après que celui-ci se sera également conformé
-aux obligations qui lui incombent en ce qui concerne la compatibilité électromagnétique et la sécurité électrique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-2
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 et 3 JORF 28 août 1994
-
-	**Cité par**:
-
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-	  - Code des postes et des communications électroni... - art. R20-20 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-16
-
-Sans préjudice de leur notification à la Commission des communautés européennes, les références des normes et spécifications
-techniques des équipements terminaux soumis à agrément sont publiées au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 3 : Reconnaissance en France de l'évaluation de la conformité effectuée dans d'autres Etats membres de la Communauté européenne ou dans d'autres Etats parties à l'accord instituant l'Espace économique européen.
-
-###### Article R20-18
-
-1° Les équipements destinés à être connectés directement ou indirectement à un réseau ouvert au public, qui ont obtenu de la
-part d'un organisme notifié d'un autre Etat membre ou de tout autre Etat partie à l'accord instituant l'Espace économique
-européen une décision approuvant leur connexion au réseau, sont dispensés de l'agrément prévu au 1° de l'article R. 20-2
-lorsque cette décision a été obtenue à l'issue :
-
-- soit d'un examen C.E. de type suivi d'une déclaration de conformité assortie éventuellement d'un système approuvé de
-qualité de la production ;
-
-- soit d'une déclaration C.E. de conformité assortie d'un système approuvé d'assurance de qualité complète.
-
-2° Lors de l'instruction d'une demande visant à obtenir l'agrément prévu au 1° de l'article R. 20-2, sont reconnus valables
-les résultats des essais effectués dans les laboratoires présentant des garanties d'indépendance et de compétence notamment
-sur la base des critères généraux définis par les normes de la série EN 45000, désignés comme tels par les autres Etats
-membres ou les autres Etats parties à l'accord instituant l'Espace économique européen et figurant le cas échéant sur une
-liste publiée au Journal officiel de la Communauté européenne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-2
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 et 4 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-20
-
-Lorsqu'il estime que les normes hamonisées et réglementations techniques communes sont insuffisantes pour mettre en oeuvre
-les exigences essentielles ou vont au-delà de celles-ci, le directeur de le réglementation générale en saisit le comité
-d'approbation des équipements de télécommunications (Acte) siégeant auprès de la Commission des communautés européennes.
-
-Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat membre de la Communauté européenne ou dans un
-autre Etat partie à l'accord instituant l'Espace économique européen et utilisé conformément à sa destination, ne satisfait
-pas aux exigences essentielles, le directeur général des postes et télécommunications en informe sans délai la Commission des
-communautés européennes ainsi que les autres Etats membres de la Communauté européenne et les autres Etats parties à l'accord
-instituant l'Espace économique européen et précise si la non conformation résulte d'une application inadéquate des normes et
-spécifications harmonisées ou de lacunes intrinsèques de celles-ci.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 et 6 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 4 : Raccordement des équipements terminaux aux réseaux ouverts au public.
-
-###### Article R20-22
-
-1° L'exploitant d'un réseau ouvert au public ne peut s'opposer au raccordement à son réseau, effectué dans les conditions
-prévues au paragraphe 2 du présent article, des équipements terminaux ayant fait l'objet de l'un des marquages prévus au 1°
-de l'article R. 20-13 et au 1° de l'article R. 20-19.
-
-2° Le raccordement des équipements terminaux à un point de terminaison d'un réseau ouvert au public est effectué librement.
-
-Toutefois, pour certaines catégories d'équipements agréés figurant sur une liste publiée par arrêté du ministre chargé des
-télécommunications, qui, en raison de leur complexité, peuvent interférer avec l'échange des informations de commande et de
-gestion associé au réseau, ou dont la dimension a une incidence sur l'écoulement du trafic, le raccordement au réseau doit
-être réalisé par un installateur admis, mentionné à l'article R. 20-23. Cet installateur doit, préalablement au raccordement,
-en informer l'exploitant du réseau.
-
-3° Lorsque les équipements terminaux agréés connectés à un réseau ouvert au public perturbent le bon fonctionnement du réseau
-ou des services, notamment en raison de leur sous-dimensionnement ou d'une utilisation non conforme à celle pour laquelle
-l'agrément a été délivré, l'exploitant de ce réseau effectue, sans délai, sur demande du ministre chargé des
-télécommunications, toutes vérifications techniques nécessaires et en informe celui-ci.
-
-Pour préserver l'intégrité du réseau et le bon fonctionnement des services, le ministre chargé des télécommunications peut
-adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour
-mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à
-la mise en demeure, le ministre demande à l'exploitant du réseau de mettre en place, aux frais de l'intéressé, les
-dispositifs techniques permettant de mettre fin aux perturbations constatées.
-
-En cas d'urgence ou d'impossibilité de mettre fin dans un délai raisonnable aux troubles constatés, l'exploitant du réseau
-peut, à la demande du ministre chargé des télécommunications, suspendre la fourniture du service qui utilise les terminaux à
-l'origine des perturbations.
-
-4° Lorsque des équipements non agréés sont connectés à un réseau ouvert au public, le ministre chargé des télécommunications
-peut, sans préjudice d'éventuelles poursuites pénales, demander à l'exploitant du réseau auquel sont irrégulièrement
-connectés ces terminaux de suspendre la fourniture du service à l'utilisateur des équipements concernés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-13, R20-19, R20-23
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D375 (Ab)
-
-
-##### SECTION 5 : Admission des installateurs.
-
-###### Article R20-23
-
-1° Les équipements terminaux de télécommunications ou de radiocommunications figurant sur la liste mentionnée au 2° de
-l'article R. 20-22 ne peuvent être raccordés, mis en service et entretenus que par une entreprise inscrite sur la liste des
-installateurs admis, selon le cas, en télécommunications ou en radiocommunications.
-
-2° La demande d'inscription peut être présentée par toute entreprise inscrite au registre des métiers ou au registre du
-commerce et des sociétés, ou sur une liste professionnelle équivalente dans un autre Etat membre de la Communauté européenne
-ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.
-
-La demande d'inscription comporte :
-
-- le nom et l'adresse de l'entreprise demanderesse ;
-
-- la liste des membres de son personnel disposant de diplômes ou qualifications dans la spécialité choisie ;
-
-- le cas échéant, la référence des travaux déjà réalisés dans cette spécialité.
-
-3° A réception du dossier complet, il est délivré une attestation d'inscription provisoire. Elle emporte le droit de procéder
-au raccordement, à la mise en service et à l'entretien des équipements figurant sur la liste mentionnée au 2° de l'article R.
-20-22.
-
-4° Pendant la période d'inscription provisoire, dont la durée ne peut excéder un an, les travaux réalisés par l'entreprise
-peuvent être vérifiés par la direction générale des postes et télécommunications, de sa propre initiative ou sur demande de
-la commission d'admission des installateurs.
-
-A l'issue de cette période, la capacité de l'entreprise est appréciée au regard de la compétence et de l'expérience acquises
-dans la spécialité choisie.
-
-Le ministre chargé des télécommunications statue, après avis de la commission d'admission des installateurs, sur
-l'inscription définitive de l'entreprise demanderesse sur la liste des installateurs admis. Les refus d'inscription sont
-motivés et notifiés à l'entreprise concernée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-22
-
-	**Modifié par**:
-
-	  - Décret n°94-737 1994-08-22 art. 1 JORF 28 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-24
-
-L'inscription définitive vaut autorisation d'utiliser le titre d'installateur admis en télécommunications ou en
-radiocommunications.
-
-Le ministre peut, après avis de la commission d'admission et après audition des intéressés, suspendre ou retirer
-l'inscription sur la liste, des installateurs qui auront manqué gravement à leurs obligations professionnelles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R20-30 (M)
-
-
-##### SECTION 6 : Dispositions pénales.
-
-###### Article R20-26
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque met sur le marché un équipement
-terminal qui devait faire l'objet de l'agrément prévu au 1° de l'article R. 20-2, ou d'une décision approuvant sa connexion à
-un réseau ouvert au public mentionnée au 1° de l'article R. 20-18, et qui n'a pas obtenu cet agrément ou cette décision.
-
-En cas de condamnation, le tribunal peut ordonner la confiscation des équipements terminaux concernés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-2, R20-18
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-27
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe quiconque connecte à un réseau ouvert au public
-un équipement terminal n'ayant pas fait l'objet de l'agrément prévu au 1° de l'article R. 20-2, ou d'une décision approuvant
-sa connexion à un réseau ouvert au public mentionnée au 1° de l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-2, R20-18
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-
-###### Article R20-28
-
-Est puni de la peine d'amende prévue pour la contravention de la 4e classe quiconque met sur le marché un équipement terminal
-ayant fait l'objet du marquage visé au 1° de l'article R. 20-13 ou au 1° de l'article R. 20-19 sans être en mesure de
-produire, sur demande des agents mentionnés à l'article L. 40, la référence de l'agrément prévu au 1° de l'article R. 20-2,
-ou de la décision approuvant sa connexion au réseau mentionnée au 1° de l'article R. 20-18.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-286 du 27 mars 1992 - art. 1 () JORF 29 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R20-30-1 (M)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-13, R20-19, L40, R20-2, R20-18
 
 
 #### CHAPITRE II : Servitudes radio-électriques
