@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1988-03-09
+Version Consolidée au 1988-05-08
 
 # Partie législative
 
@@ -6588,6 +6588,34 @@ L'agent comptable des P.T.T. reverse au fournisseur la part de recette qui lui r
 	  - Code des postes et des communications électronique - art. D301 (M)
 	  - Code des postes et des communications électronique - art. D315 (M)
 	  - Code des postes et des communications électronique - art. D406-2-1 (V)
+
+
+###### Article R54-3
+
+Le ministre chargé des télécommunications est autorisé à procéder au recouvrement de la rémunération due par les usagers à un
+fournisseur de services de radiomessagerie unilatérale accessible par les réseaux publics commutés, lorsqu'il a conclu avec
+ce dernier une convention en ce sens.
+
+L'agent comptable des postes et télécommunications reverse au fournisseur les sommes perçues pour son compte en application
+de cette convention.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-686 du 6 mai 1988 - art. 1 () JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 1 (V) JORF 29 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ### TITRE II : Dispositions budgétaires
