@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1970-01-10
+Version Consolidée au 1970-09-15
 
 # Partie législative
 
@@ -12365,6 +12365,32 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 
 ##### 1. : Transfert des postes d'abonnement.
 
+###### Article D343
+
+**Nota:**
+
+[*(Abrogé par décret n° 85-811 du 31 juillet 1985, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°66-560 1966-07-29 art. 1 JORF 30 juillet 1966
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
+	**Abrogé par**:
+
+	  - Décret n°85-811 1985-07-31 art. 1 JORF 1er août 1985
+
+
 ###### Article D344
 
 **Nota:**
@@ -12388,27 +12414,6 @@ peuvent être exercées contre le titulaire pour assurer le recouvrement des som
 	**Abrogé par**:
 
 	  - Décret n°84-313 1984-04-26 art. 1 et 5 JORF 28 avril 1984 en vigueur le 1er mai 1984
-
-
-###### Article D346
-
-**Nota:**
-
-[*(Abrogé par décret n° 70-811 du 9 septembre 1970)*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Abrogé par**:
-
-	  - Décret n°70-811 1970-09-09 art. 5 JORF 15 septembre 1970
 
 
 ##### 2. : Transformation des abonnements.
@@ -12921,6 +12926,58 @@ donnée au demandeur, eu égard à l'intérêt général.
 	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
 
 
+###### Article D383
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
+	**Abrogé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+
+###### Article D384
+
+**Nota:**
+
+[*(Abrogé par décret n° 87-775 du 24 septembre 1987, art. 8)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°67-896 1967-10-06 art. 3 JORF 14 octobre 1967
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
+	**Abrogé par**:
+
+	  - Décret n°87-775 1987-09-24 art. 2 et 8 JORF 25 septembre 1987
+
+
 ###### Article D385
 
 **Nota:**
@@ -13331,11 +13388,11 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 
 ##### SECTION 1 : Dispositions générales.
 
-###### Article D418
+###### Article D415
 
 **Nota:**
 
-[*(Abrogé par décret n° 70-811 du 9 septembre 1970)*]
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
 
 **Liens relatifs à cet article**
 
@@ -13347,9 +13404,13 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
+
 	**Abrogé par**:
 
-	  - Décret n°70-811 1970-09-09 art. 5 JORF 15 septembre 1970
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
 
 
 ##### SECTION 2 : Lignes de télécommunications raccordées au réseau général (Lignes d'abonnement téléphonique, lignes d'abonnement télex, lignes terminales de liaisons spécialisées).
@@ -13373,6 +13434,31 @@ d'émission ou de réception aux journaux et agences de presse pendant les heure
 	**Modifié par**:
 
 	  - Décret n°63-155 1963-02-18 art. 1 JORF 23 février 1963
+
+	**Abrogé par**:
+
+	  - Décret n°86-1064 du 29 septembre 1986 - art. 1 (V) JORF 30 septembre 1986 en vigueur le 1er octobre 1986
+
+
+###### Article D423
+
+**Nota:**
+
+[*(Abrogé par décret n° 86-1064 du 29 septembre 1986, art. 1er)*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Modifié par**:
+
+	  - Décret n°70-811 1970-09-09 art. 4 JORF 15 septembre 1970
 
 	**Abrogé par**:
 
