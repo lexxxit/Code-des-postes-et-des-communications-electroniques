@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2003-03-21
+Version Consolidée au 2003-04-13
 
 # Partie législative
 
@@ -11380,17 +11380,15 @@ Les peines encourues par les personnes morales sont :
 
 Les coûts imputables aux obligations de service universel et faisant l'objet d'une compensation sont composés :
 
-a) Du coût net des obligations tarifaires correspondant au déséquilibre résultant de la structure courante des tarifs
-téléphoniques mentionnées au 1° du II de l'article L. 35-3, évalué selon la méthode définie à l'article R. 20-32 ;
-
-b) Du coût net des obligations tarifaires correspondant aux obligations de péréquation géographique mentionnées au 1° du II
+a) Du coût net des obligations tarifaires correspondant aux obligations de péréquation géographique mentionnées au 1° du II
 de l'article L. 35-3, évalué selon la méthode définie à l'article R. 20-33 ;
 
-c) Des coûts nets de l'offre et des obligations mentionnées au deuxième alinéa du 2° du II de l'article L. 35-3. Ces coûts
+b) Des coûts nets de l'offre et des obligations mentionnées au deuxième alinéa du 2° du II de l'article L. 35-3. Ces coûts
 sont évalués selon les méthodes définies aux articles R. 20-34, R. 20-35 et R. 20-36.
 
 L'évaluation de ces coûts comprend la rémunération du capital utilisé au titre du service universel, calculée selon la
-méthode définie à l'article R. 20-37.
+méthode définie à l'article R. 20-37. Elle prend en compte, dans les conditions fixées à l'article R. 20-37-1, l'avantage sur
+le marché que les opérateurs retirent, le cas échéant, des obligations de service universel.
 
 L'obligation mentionnée à l'article L. 35-1, alinéa 1, d'acheminer gratuitement les appels d'urgence ne fait pas l'objet
 d'une compensation, l'ensemble des fournisseurs de services téléphoniques au public y étant soumis.
@@ -11399,11 +11397,11 @@ d'une compensation, l'ensemble des fournisseurs de services téléphoniques au p
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L35-3, R20-32, R20-33, R20-34, R20-35, R20-36, R20-37, L35-1
+	  - Code des postes et télécommunications L35-3, R20-33, R20-34, R20-35, R20-36, R20-37, R20-37-1, L35-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
+	  - Décret n°2003-338 du 10 avril 2003 - art. 1 () JORF 13 avril 2003
 
 	**Cité par**:
 
@@ -11413,51 +11411,6 @@ d'une compensation, l'ensemble des fournisseurs de services téléphoniques au p
 	  - Arrêté du 14 février 2012 - art. (V)
 	  - Arrêté du 6 décembre 2012 - art. (V)
 	  - Arrêté du 31 octobre 2013 - art. (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-32
-
-Jusqu'à ce qu'il soit mis fin au déséquilibre résultant de la structure courante des tarifs téléphoniques, et au plus tard à
-l'expiration de la période transitoire prévue au 3° du II de l'article L. 35-3, soit le 31 décembre 2000, le coût net des
-obligations tarifaires correspondant à ce déséquilibre est évalué selon la formule suivante :
-
-C = 12. (Pe-P). N
-
-où :
-
-Pe est le tarif d'abonnement mensuel de référence ; il est égal à 65 F hors taxes ;
-
-P est le tarif d'abonnement mensuel moyen de l'année considérée comprenant l'abonnement au service téléphonique, la
-facturation détaillée et les services permettant à un abonné de restreindre son accès au service téléphonique. P est évalué
-en tenant compte des taux de pénétration de ces prestations associées ;
-
-N représente le nombre moyen, dans l'année considérée, des abonnés de l'opérateur de service universel, à l'exclusion de ceux
-bénéficiant d'abonnements spécifiques ou d'options tarifaires qui correspondent à une résorption du déséquilibre des tarifs.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2003-338 du 10 avril 2003 - art. 2 () JORF 13 avril 2003
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Arrêté du 14 février 2012 - art. (V)
-	  - Arrêté du 31 octobre 2013 - art. (V)
-	  - Code des postes et des communications électronique - art. R20-36 (M)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L35-3
 
 	**Codifié par**:
 
@@ -11482,25 +11435,20 @@ sein desquelles elles sont définies.
 II. - Le coût net pertinent dans chacune des zones non rentables est égal au solde des recettes qui seraient perdues par
 l'opérateur et des coûts d'investissement et de fonctionnement qui ne seraient pas encourus par l'opérateur, si la zone
 n'était pas desservie, évalués à partir de la comptabilité analytique des recettes et des dépenses auditée dans les
-conditions prévues au I de l'article L. 35-3.
+conditions prévues au I de l'article L. 35-3. Ce solde prend en compte les bénéfices mentionnés aux a, b et c de l'article
+R . 20-37-1.
 
 Les recettes pertinentes comprennent les recettes fixes du réseau, les recettes tirées des communications sur le réseau
 téléphonique émises ou reçues par les abonnés de la zone et l'ensemble des recettes indirectes tirées des communications
 émises ou reçues par les abonnés de la zone, notamment les recettes des services facturés entièrement ou partiellement à
-l'appelé. Pendant la période transitoire mentionnée à l'article R. 20-32, l'Autorité de régulation des télécommunications
-évalue les recettes sur la base du tarif d'abonnement mensuel de référence et des conditions d'offres associées mentionnées à
-l'article R. 20-32.
-
-Les coûts pertinents d'investissements et de fonctionnement comprennent, d'une part, les coûts de desserte et de gestion des
-abonnés de la zone considérée et, d'autre part, les coûts de réseau de commutation et de transmission correspondant à
-l'écoulement du trafic entrant et sortant relatif à cette zone. Les coûts d'investissement sont fondés sur les coûts de
-remplacement calculés sur la base des meilleures technologies industriellement disponibles.
+l'appelé ainsi que les recettes résultant de la faculté de ne pas figurer sur les listes publiées d'abonnés ou d'utilisateurs
+prévue à l'article L. 33-4.    Les coûts pertinents d'investissements et de fonctionnement comprennent, d'une part, les coûts
+de desserte et de gestion des abonnés de la zone considérée et, d'autre part, les coûts de réseau de commutation et de
+transmission correspondant à l'écoulement du trafic entrant et sortant relatif à cette zone. Les coûts d'investissement sont
+fondés sur les coûts de remplacement calculés sur la base des meilleures technologies industriellement disponibles.
 
 III. - Le coût net pertinent des abonnés situés dans les zones rentables qui ne seraient pas desservies par un opérateur
 agissant dans les conditions du marché est évalué en utilisant la même méthode que celle décrite au II.
-
-Jusqu'à l'établissement de modèles et d'une comptabilité appropriés, les coûts nets sont fixés à 1 % du chiffre d'affaires du
-service téléphonique ouvert au public entre points fixes de l'opérateur de service universel.
 
 IV. - L'Autorité de régulation des télécommunications précise et publie les règles d'imputation comptable des coûts et des
 recettes nécessaires aux calculs prévus au II et au III et contrôle les modèles utilisés pour évaluer les coûts nets, et
@@ -11508,9 +11456,9 @@ délimiter les zones considérées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
+	  - Décret n°2003-338 du 10 avril 2003 - art. 3 () JORF 13 avril 2003
 
 	**Cité par**:
 
@@ -11526,7 +11474,7 @@ délimiter les zones considérées.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L35-3, R20-32
+	  - Code des postes et télécommunications L35-3, R20-37-1, L33-4
 
 
 ###### Article R20-34
@@ -11534,39 +11482,37 @@ délimiter les zones considérées.
 I. - Les personnes physiques qui ont droit au revenu minimum d'insertion ou qui perçoivent l'allocation de solidarité
 spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès de
 l'opérateur qui les dessert, autorisé selon les conditions fixées au III, bénéficient, sur leur demande, d'une réduction de
-leur facture téléphonique. A cette fin, elles adressent chaque année leur demande à l'organisme gestionnaire de la prestation
-au titre de laquelle le droit à réduction tarifaire leur est ouvert. Cette demande précise que l'intéressé autorise
-l'organisme à communiquer les informations personnelles suivantes aux opérateurs concernés : nom, prénom, adresse et numéro
-de téléphone. L'organisme transmet à ces opérateurs la liste de leurs abonnés ayants droit.
+leur facture téléphonique. A cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le droit à réduction
+tarifaire est ouvert leur délivre chaque année une attestation. L'intéressé transmet ladite attestation accompagnée du nom de
+l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire, chargé par les opérateurs de la gestion du
+dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les informations suivantes aux opérateurs
+concernés : nom, prénom, adresse et numéro de téléphone.
 
-Peuvent également bénéficier de cette même réduction, majorée de 25 F hors taxes par mois, les invalides de guerre cumulant
-le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre dont les
-invalidités supplémentaires sont évaluées à 10 % pour le calcul du complément de pension prévu à l'article L. 16 dudit code,
-les aveugles de guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la Résistance bénéficiaires de
-l'article L. 189 du même code.
+Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors taxes par mois, les invalides de guerre
+cumulant le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre
+dont les invalidités supplémentaires sont évaluées à 10 % pour le calcul du complément de pension prévu à l'article L. 16
+dudit code, les aveugles de guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la Résistance
+bénéficiaires de l'article L. 189 du même code.
 
 Le ministre chargé des télécommunications fixe au 1er novembre de chaque année pour l'année suivante, par arrêté, pris après
-avis de l'Autorité de régulation des télécommunications, le montant mensuel de la réduction tarifaire accordée. Le montant
-hors taxe de cette réduction est au plus égal à la moitié du tarif d'abonnement mensuel de référence défini à l'article R.
-20-32.
-
-Le montant de la compensation versée à chaque opérateur par le fonds de service universel des télécommunications est égal au
-coût net de l'offre tarifaire auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires. Le coût net de
-l'offre tarifaire est égal au produit du montant des réductions tarifaires accordées par le nombre des abonnés de l'opérateur
-qui en bénéficient.
+avis de l'Autorité de régulation des télécommunications, le montant mensuel de la réduction tarifaire accordée.    Le montant
+de la compensation versée à chaque opérateur par le fonds de service universel des télécommunications est égal au coût net de
+l'offre tarifaire auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires et par le prestataire
+chargé de la gestion du dispositif de réduction tarifaire pour le compte des opérateurs. Le coût net de l'offre tarifaire est
+égal au produit du montant des réductions tarifaires accordées par le nombre des abonnés de l'opérateur qui en bénéficient.
 
 II. - Les personnes physiques utilisant, au lieu de leur résidence principale, un service téléphonique fixe d'un opérateur
 autorisé selon les conditions fixées au III peuvent demander une aide pour assurer le paiement de leur dette téléphonique.
 Les dépenses prises en charge comprennent exclusivement l'abonnement au service téléphonique fixe et les communications
-nationales vers des abonnés au service téléphonique fixe, à l'exclusion des communications mettant en oeuvre des mécanismes
-de reversement au destinataire final de la communication.
+nationales vers des abonnés au service téléphonique fixe ou mobile, à l'exclusion des communications mettant en oeuvre des
+mécanismes de reversement au destinataire final de la communication.
 
 La décision de prise en charge de tout ou partie des dépenses mentionnées à l'alinéa précédent est prise par le préfet du
 département dans lequel est située la résidence principale du demandeur, après avis d'une commission. Cette commission, dont
 la composition est fixée par arrêté préfectoral, est présidée par le préfet et comprend notamment des représentants des
 services de l'Etat concernés, des organismes de protection sociale et des opérateurs de télécommunications.
 
-La demande de prise en charge de la dette téléphonique doit être adressée au secrétariat de la commission au plus tard quinze
+La demande de prise en charge de la dette téléphonique doit être adressée au secrétariat de la commission au plus tard trente
 jours après que l'opérateur a mis en demeure l'abonné de s'acquitter de celle-ci. Le secrétariat de la commission informe
 l'opérateur de cette saisine dans un délai de huit jours à compter de la réception de la demande. Le préfet statue sur la
 demande au plus tard soixante jours après que le secrétariat de la commission a été saisi, en prenant notamment en compte le
@@ -11576,13 +11522,13 @@ décision est notifiée au demandeur et à l'opérateur concerné.
 Les personnes qui saisissent le secrétariat de la commission mentionnée à l'alinéa précédent bénéficient, à partir du moment
 où ce secrétariat a avisé l'opérateur, d'un accès restreint au service téléphonique, comportant la possibilité de recevoir
 des appels ainsi que d'acheminer les appels aux services gratuits et d'urgence. L'obligation d'assurer cet accès restreint
-cesse après que le préfet a statué sur la demande et, au plus tard, soixante-quinze jours après la date de réception par
+cesse après que le préfet a statué sur la demande et, au plus tard, quatre-vingt dix jours après la date de réception par
 l'abonné de la mise en demeure de payer mentionnée au précédent alinéa.
 
 Un arrêté du ministre chargé des télécommunications fixe, dans chaque département, en tenant compte de la population et du
-nombre de bénéficiaires du revenu minimum d'insertion de ce département, le montant maximal des crédits disponibles pour la
-prise en charge des dettes téléphoniques. Le montant total des aides est au plus égal à 0,15 % du chiffre d'affaires du
-service téléphonique au public.
+nombre de bénéficiaires du revenu minimum d'insertion de ce département, le montant des crédits disponibles pour la prise en
+charge des dettes téléphoniques. Le montant total des aides est au plus égal à 0,15 % du chiffre d'affaires du service
+téléphonique au public.
 
 Le fonds de service universel des télécommunications assure la compensation, au profit de chaque opérateur, des dettes
 téléphoniques prises en charge. Le préfet constate trimestriellement, pour chacun des opérateurs concernés, le montant de ces
@@ -11603,7 +11549,7 @@ Le montant total des aides accordées au titre du I et du II ainsi que des frais
 
 	**Modifié par**:
 
-	  - Décret n°99-162 du 8 mars 1999 - art. 1 () JORF 9 mars 1999
+	  - Décret n°2003-338 du 10 avril 2003 - art. 4 () JORF 13 avril 2003
 
 	**Cité par**:
 
@@ -11614,16 +11560,15 @@ Le montant total des aides accordées au titre du I et du II ainsi que des frais
 	  - Code des postes et des communications électronique - art. R20-31 (M)
 	  - Code des postes et des communications électronique - art. R20-36 (M)
 
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-32
-	  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. L189 (V)
-
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L189 (V)
 
 
 ###### Article R20-35
@@ -11663,20 +11608,21 @@ prorata du trafic des cabines.
 
 ###### Article R20-36
 
-Le coût net des obligations correspondant à la fourniture d'un service de renseignements et d'un annuaire d'abonnés sous
-formes imprimée et électronique est égal à la différence des coûts et des recettes imputables à ces obligations.
+Le coût net des obligations correspondant à la fourniture du service universel de renseignements et de l'annuaire universel
+d'abonnés sous formes imprimée et électronique fourni par l'opérateur en charge du service universel est égal à la différence
+des coûts et des recettes imputables à ces obligations.
 
-Les coûts pris en compte concernent : les coûts directement affectables à l'édition, à l'impression et à la distribution des
-annuaires, ainsi que les coûts directement entraînés par la fourniture d'un service de renseignements et d'annuaire universel
-sous forme électronique, notamment les coûts relatifs aux centres de renseignements, aux équipements dédiés au service
-d'annuaire électronique, à l'accès au réseau téléphonique.
+Les coûts pris en compte concernent : les coûts d'achat des listes d'abonnés tels que prévus à l'article L. 33-4, les coûts
+directement affectables à l'édition, à l'impression et à la distribution des annuaires, ainsi que les coûts directement
+entraînés par la fourniture d'un service de renseignements et d'annuaire universel sous forme électronique, notamment les
+coûts relatifs aux centres de renseignements, aux équipements dédiés au service d'annuaire électronique, à l'accès au réseau
+téléphonique.
 
 Les recettes prises en compte concernent : les recettes tirées de la vente et de la publicité dans les annuaires imprimés, y
-compris la publicité pour les produits de France Télécom ; les recettes tirées des services de renseignements et d'annuaire
-électronique, y compris la publicité ; les recettes nettes résultant du trafic induit par la consultation des services
-d'annuaires et de renseignements ; les recettes nettes des produits dérivés, notamment celles provenant des ventes de
-fichiers et de la faculté de ne pas figurer sur les listes d'abonnés ou d'utilisateurs publiées telle que prévue à l'article
-L. 33-4.
+compris la publicité pour les produits d'un opérateur en charge du service universel ; les recettes tirées des services de
+renseignements et d'annuaire électronique, y compris la publicité ; les recettes nettes résultant du trafic induit par la
+consultation des services d'annuaires et de renseignements ; les recettes nettes des produits dérivés, notamment celles
+provenant des ventes de fichiers.
 
 Lorsque les recettes sont supérieures aux coûts, aucune compensation n'est due.
 
@@ -11686,9 +11632,9 @@ Lorsque les recettes sont supérieures aux coûts, aucune compensation n'est due
 
 	  - Code des postes et télécommunications L33-4
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
+	  - Décret n°2003-338 du 10 avril 2003 - art. 5 () JORF 13 avril 2003
 
 	**Cité par**:
 
@@ -11727,62 +11673,39 @@ supporterait un investisseur dans les activités de télécommunications en Fran
 	  - Code des postes et des communications électroni... - art. R20-31 (V)
 
 
-###### Article R20-38
+###### Article R20-37-1
 
-Durant la période transitoire prévue à l'article R. 20-32, les coûts évalués aux articles R. 20-32 et R. 20-33 sont financés
-par une rémunération additionnelle aux charges d'interconnexion.
+L'avantage mentionné au I de l'article L. 35-3 que retirent, le cas échéant, les opérateurs des obligations de service
+universel qui leur incombent comprend :
 
-La rémunération additionnelle r est évaluée par unité de temps selon la formule suivante :
+a) Le bénéfice technique et commercial résultant de l'étendue du réseau, par rapport à un opérateur agissant dans les
+conditions du marché, pour le raccordement de nouveaux abonnés ;
 
-r = (C1 + C2)/V
+b) Le bénéfice lié à l'amélioration dans le temps des capacités économiques d'abonnés bénéficiant du service universel ;
 
-où
+c) Le bénéfice tiré de l'exploitation des données relatives aux abonnés, pour la connaissance du marché ;
 
-C1 et C2 sont les coûts définis respectivement aux articles R. 20-32 et R. 20-33 ;
+d) Le bénéfice tiré de l'image de marque associée à la position d'opérateur de service universel.
 
-Le volume de trafic V représente le volume total du trafic téléphonique supporté par les boucles locales des réseaux
-téléphoniques, à l'exception des communications au départ ou à destination de réseaux exploités par des opérateurs de réseaux
-ouverts au public n'assurant pas le service téléphonique.
-
-Pour un opérateur donné, le volume de trafic est la somme des trafics téléphoniques comptabilisés au départ et à l'arrivée
-des postes d'abonnés et des cabines publiques. L'ensemble du trafic national et international est pris en compte y compris le
-trafic de cet opérateur à destination des services télématiques et celui des services avancés de télécommunications utilisant
-le réseau téléphonique.
-
-Pour les appels à destination ou en provenance des opérateurs de radiocommunications mobiles exemptés en application de
-l'article L. 35-3, la rémunération additionnelle est égale à C2/V.
-
-Le ministre chargé des télécommunications constate et rend publiques les valeurs prévisionnelles de C1, C2 et V au plus tard
-le 1er octobre de l'année précédant l'année considérée, sur proposition de l'Autorité de régulation des télécommunications
-exprimée au plus tard le 1er septembre de l'année précédant l'année considérée.
-
-Lors de chaque changement de tarifs affectant la valeur P mentionnée à l'article R. 20-32, l'Autorité de régulation des
-télécommunications révise la valeur de C1 et de r en fonction de ce seul changement de tarif. Elle notifie cette révision aux
-opérateurs et en informe le ministre chargé des télécommunications.
-
-L'Autorité de régulation des télécommunications propose, au plus tard le 15 octobre de l'année suivant l'année considérée, la
-révision des valeurs prévisionnelles de C 2 et V au ministre chargé des télécommunications qui les constate au plus tard le
-1er novembre de l'année suivant l'année considérée. L'Autorité de régulation des télécommunications notifie ces valeurs à
-chaque opérateur au plus tard le 30 novembre suivant l'année considérée.
-
-Les soldes débiteurs correspondant aux écarts entre les charges prévisionnelles effectivement facturées et les sommes qui
-auraient été dues sont versés par les opérateurs débiteurs aux opérateurs créditeurs au plus tard le 20 décembre de l'année
-suivant l'année considérée. Ces écarts portent intérêt de droit au taux interbancaire offert à Paris pour une durée de douze
-mois.
+L'avantage mentionné au d du présent article est réparti entre les composantes de coûts mentionnés aux articles R. 20-33 à R.
+20-36, au prorata du coût net de ces composantes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications R20-32, R20-33, L35-3
+	  - Code des postes et télécommunications L35-3, R20-33 à R20-36
 
 	**Créé par**:
 
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
+	  - Décret n°2003-338 du 10 avril 2003 - art. 6 () JORF 13 avril 2003
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°2003-338 du 10 avril 2003 - art. 7 () JORF 13 avril 2003
+	  - Décret n°2007-563 du 16 avril 2007 - art. 1 (V)
+	  - Décret n°2007-563 du 16 avril 2007 - art. 2 (V)
+	  - Code des postes et des communications électroni... - art. R20-31 (V)
+	  - Code des postes et des communications électronique - art. R20-33 (M)
 
 	**Codifié par**:
 
@@ -11792,18 +11715,10 @@ mois.
 ###### Article R20-39
 
 Les opérateurs qui contribuent au fonds de service universel créé par l'article L. 35-3 sont les exploitants de réseaux
-ouverts au public et les fournisseurs de services téléphoniques au public. La contribution prévisionnelle de chaque opérateur
-est calculée au prorata de son volume de trafic. Pour chaque opérateur, le trafic considéré est égal à la somme des trafics
-au départ et à l'arrivée de tous les terminaux connectés à ses réseaux ouverts au public. La contribution mentionnée à
-l'article R. 20-33, lorsqu'elle est recouvrée au travers du fonds après la période transitoire prévue à l'article R. 20-32,
+ouverts au public et les fournisseurs de services téléphoniques au public. La contribution de chaque opérateur est calculée
+au prorata de son volume de trafic. Pour chaque opérateur, le trafic considéré est égal à la somme des trafics au départ et à
+l'arrivée de tous les terminaux connectés à ses réseaux ouverts au public. La contribution mentionnée à l'article R. 20-33
 est calculée au prorata du trafic téléphonique.
-
-Le montant des contributions prévisionnelles des différents opérateurs pour l'année considérée est fixé par le ministre
-chargé des télécommunications le 1er octobre de l'année précédant l'année considérée sur proposition de l'Autorité de
-régulation des télécommunications exprimée avant le 1er septembre de l'année précédant l'année considérée. L'Autorité de
-régulation des télécommunications notifie le montant de ces contributions à la Caisse des dépôts et consignations et à chaque
-opérateur au plus tard le 15 octobre de l'année précédant l'année considérée. La Caisse des dépôts et consignations traite
-ces informations de manière confidentielle.
 
 Est porté au crédit du compte d'un opérateur donné le coût net éventuel relatif aux prestations de service universel rendues
 par cet opérateur.
@@ -11812,31 +11727,39 @@ Est portée au débit du compte d'un opérateur donné la part des coûts nets r
 par cet opérateur ainsi que sa part des frais de gestion de la Caisse des dépôts et consignations mentionnés au deuxième
 alinéa de l'article R. 20-42.
 
-Si le solde prévisionnel d'un opérateur est débiteur, cet opérateur verse le montant correspondant au fonds. Si ce solde
-prévisionnel est créditeur, le fonds lui verse le montant correspondant dans les conditions prévues à l'article R. 20-42. Les
-versements des opérateurs sont effectués au cours de l'année considérée, en trois versements d'un montant égal au tiers du
-solde prévisionnel, le 20 janvier, le 20 avril et le 20 septembre.
+Si, pour la dernière année pour laquelle ce solde a été constaté, le solde définitif d'un opérateur est débiteur, cet
+opérateur verse une contribution provisionnelle du montant correspondant au fonds. Si ce solde est créditeur, le fonds lui
+verse le montant correspondant dans les conditions prévues à l'article R. 20-42. Le cas échéant, les montants sont augmentés
+ou diminués des montants résultant de l'application de l'alinéa suivant. Les versements des opérateurs sont effectués au
+cours de l'année considérée, en deux versements d'un montant égal à la moitié des sommes dues, le 15 janvier et le 15
+septembre.
 
-Les soldes définitifs relatifs à l'année considérée sont constatés par le ministre chargé des télécommunications au plus tard
-le 15 novembre de l'année suivant l'année considérée sur proposition de l'Autorité de régulation des télécommunications,
-exprimée au plus tard le 15 octobre de cette même année. L'Autorité de régulation des télécommunications notifie ces valeurs
-à chaque opérateur et à la Caisse des dépôts et consignations au plus tard le 30 novembre de l'année suivant l'année
-considérée. Elle évalue ces soldes notamment sur la base des résultats de l'audit des comptes sociaux des opérateurs relatif
-à l'année considérée tel que décrit au I de l'article L. 35-3, et des volumes constatés pour cette même année. Les versements
-de la régularisation des contributions interviennent au plus tard le 20 décembre de l'année suivant l'année considérée.
+Si un nouvel opérateur fournit le service universel, l'Autorité de régulation des télécommunications évalue le coût
+prévisionnel de ce service à partir d'informations concernant l'année précédant l'année de fourniture du service,
+communiquées par le nouvel opérateur, au plus tard le 31 octobre de l'année précédant l'année en cause.
+
+L'Autorité de régulation des télécommunications notifie le montant des contributions provisionnelles à la Caisse des dépôts
+et consignations et à chaque opérateur au plus tard le 15 décembre de l'année précédant l'année considérée. La Caisse des
+dépôts et consignations traite ces informations de manière confidentielle.
+
+Les soldes définitifs relatifs à l'année considérée sont constatés et rendus publics par le ministre chargé des
+télécommunications au plus tard le 31 mai de la deuxième année suivant l'année considérée sur proposition de l'Autorité de
+régulation des télécommunications, exprimée au plus tard le 30 avril de la deuxième année suivant l'année considérée.
+L'Autorité de régulation des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des dépôts et
+consignations au plus tard le 30 juin de la deuxième année suivant l'année considérée. Elle évalue ces soldes notamment sur
+la base des résultats de la comptabilité auditée des opérateurs relative à l'année considérée, mentionnée au I de l'article
+L. 35-3, et des volumes constatés pour cette même année. Les versements de la régulation des contributions interviennent au
+plus tard le 20 septembre de la deuxième année suivant l'année considérée. Ceux-ci comprennent le versement d'un intérêt au
+taux de l'Euribor 12 mois qui court des dates d'échéance à la date de régularisation.
 
 En cas de défaillance d'un opérateur, et si les sommes dues par cet opérateur ne sont pas recouvrées dans un délai d'un an à
 compter de la défaillance telle que mentionnée à l'article R. 20-43, elles sont imputées lors de l'exercice suivant cette
-constatation sur les comptes des autres opérateurs au prorata de la part de chacun calculée de la manière décrite ci-dessus,
+constatation sur les comptes des autres opérateurs au prorata de la part de chacun calculée de la manière décrite ci-dessus
 et payées en même temps que le solde définitif suivant.
 
 Les reversements du fonds aux opérateurs créditeurs sont effectués selon les modalités prévues à l'article R. 20-42.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
 
 	**Cité par**:
 
@@ -11846,43 +11769,44 @@ Les reversements du fonds aux opérateurs créditeurs sont effectués selon les 
 	  - Code des postes et des communications électroni... - art. R20-40 (V)
 	  - Code des postes et des communications électroni... - art. R20-42 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2003-338 du 10 avril 2003 - art. 8 () JORF 13 avril 2003
+
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L35-3, R20-33, R20-32, R20-42, R20-43
+	  - Code des postes et télécommunications L35-3, R20-33, R20-42, R20-43
 
 
 ###### Article R20-40
 
-Les opérateurs soumis à des obligations de service universel adressent des prévisions relatives aux tarifs et aux conditions
-d'offre concernant l'année considérée au ministre chargé des télécommunications et à l'Autorité de régulation des
-télécommunications au plus tard le 15 juillet de l'année précédant l'année considérée. Ces prévisions ne sont pas rendues
-publiques.
+Les opérateurs soumis à des obligations de service universel adressent des données constatées relatives aux tarifs et aux
+conditions d'offre concernant l'année considérée au ministre chargé des télécommunications et à l'Autorité de régulation des
+télécommunications au plus tard le 15 juillet de l'année suivant l'année considérée.
 
-L'opérateur chargé du service universel fournit ses données prévisionnelles et constatées portant notamment sur les coûts,
-les recettes, les volumes de trafic et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article R.
-20-34.
+L'opérateur chargé du service universel fournit ses données constatées portant notamment sur les coûts, les recettes, les
+volumes de trafic et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article R. 20-34.
 
-Les autres opérateurs mentionnés aux articles L. 33-1 et L. 34-1 fournissent leurs données prévisionnelles et constatées de
-volume de trafic. Ceux d'entre eux qui appliquent les dispositions de l'article R. 20-34 précisent le nombre d'abonnés
-correspondants.
+Les autres opérateurs mentionnés aux articles L. 33-1 et L. 34-1 fournissent leurs données constatées de volume de trafic.
+Ceux d'entre eux qui appliquent les dispositions de l'article R. 20-34 précisent le nombre d'abonnés correspondants.
 
-L'Autorité de régulation des télécommunications évalue chaque année les coûts mentionnés aux articles R. 20-32, R. 20-33, R.
-20-34, R. 20-35, R. 20-36, R. 20-37 ; elle publie les règles employées pour l'application des méthodes mentionnées dans ces
-articles, ainsi que pour celle des articles R. 20-38 et R. 20-39.
+L'Autorité de régulation des télécommunications évalue chaque année les coûts, les bénéfices et le taux de rémunération du
+capital mentionnés aux articles R. 20-33 à R. 20-37-1 ; elle publie les règles employées pour l'application des méthodes
+mentionnées dans ces articles ainsi que pour celles de l'article R. 20-39.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications R20-34, L33-1, L34-1, R20-32, R20-33, R20-35, R20-36, R20-37, R20-38, R20-39
+	  - Code des postes et télécommunications R20-34, L33-1, L34-1, R20-33 à R20-37-1, R20-39
 
 	**Modifié par**:
 
-	  - Décret n°99-162 du 8 mars 1999 - art. 2 () JORF 9 mars 1999
+	  - Décret n°2003-338 du 10 avril 2003 - art. 9 () JORF 13 avril 2003
 
 	**Codifié par**:
 
@@ -11932,29 +11856,25 @@ comité de trois membres présidé par un magistrat de la Cour des comptes et co
 des télécommunications et un représentant de la Caisse des dépôts et consignations.
 
 Le compte spécifique retrace en charge les frais de gestion exposés par la Caisse des dépôts et consignations au titre des
-missions mentionnées à l'article R. 20-41. La Caisse des dépôts et consignations évalue au 1er janvier de chaque année le
-montant prévisionnel des frais de gestion à facturer pour l'année en cours. Ce montant doit ensuite faire l'objet d'une
-approbation du comité mentionné au premier alinéa au plus tard le 20 janvier de l'année considérée.
+missions mentionnées à l'article R. 20-41. La Caisse des dépôts et consignations évalue au 15 décembre de l'année précédente
+le montant prévisionnel des frais de gestion à facturer pour l'année en cours. Ce montant doit ensuite faire l'objet d'une
+approbation du comité mentionné au premier alinéa au plus tard le 15 janvier de l'année considérée.
 
-Le compte est alimenté par virements effectués par les opérateurs débiteurs aux échéances fixées par les articles R. 20-38 et
-R. 20-39. L'opérateur débiteur prend toutes dispositions pour que les fonds parviennent à bonne date à la Caisse des dépôts
-et consignations. Les reversements au profit des opérateurs créditeurs sont effectués le jour ouvré bancaire suivant ces
-dates.
+Le compte est alimenté par virements effectués par les opérateurs débiteurs aux échéances fixées par l'article R. 20-39.
+L'opérateur débiteur prend toutes dispositions pour que les fonds parviennent à bonne date à la Caisse des dépôts et
+consignations. Les reversements au profit des opérateurs créditeurs sont effectués dans les dix jours suivant la date
+d'échéance.
 
 A chaque échéance, le montant global des reversements effectués au profit des opérateurs créditeurs est égal aux sommes
-effectivement recouvrées par le fonds géré par la Caisse des dépôts et consignations, minorées d'une somme correspondant au
-tiers des frais prévisionnels de gestion visés au 2e alinéa du présent article. Les sommes non réglées au jour de l'échéance
-portent intérêt de droit au taux prévu au dernier alinéa de l'article R. 20-38.
+effectivement recouvrées par le fonds géré par la Caisse des dépôts et consignations, minorées d'une somme correspondant à la
+moitié des frais prévisionnels de gestion visés au 2e alinéa du présent article. Les sommes non réglées au jour de l'échéance
+portent intérêt de droit au taux de l'Euribor 12 mois du jour de l'échéance.
 
 Dans le cas où l'ensemble des sommes dues ne sont pas recouvrées, le montant reversé à chacun des opérateurs créditeurs est
 fixé au prorata du montant qu'il aurait dû percevoir en l'absence de défaillance d'un contributeur au fonds, le solde étant
 reporté sur l'exercice suivant.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-475 du 13 mai 1997 - art. 1 () JORF 14 mai 1997
 
 	**Cité par**:
 
@@ -11963,7 +11883,11 @@ reporté sur l'exercice suivant.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications R20-41, R20-38, R20-39
+	  - Code des postes et télécommunications R20-41, R20-39
+
+	**Modifié par**:
+
+	  - Décret n°2003-338 du 10 avril 2003 - art. 10 () JORF 13 avril 2003
 
 	**Codifié par**:
 
@@ -12031,331 +11955,6 @@ ou de notification à cette Autorité en cas de défaillance d'un opérateur.
 
 
 #### CHAPITRE II : Droits de passage sur le domaine public routier et servitudes
-
-##### SECTION 1 : Droits de passage.
-
-###### Article R20-45
-
-La permission de voirie prévue par le premier alinéa de l'article L. 47 est délivrée par le préfet sur les autoroutes non
-concédées et les routes nationales, les sociétés concessionnaires sur les autoroutes concédées, le président de la
-collectivité territoriale de Corse sur les routes relevant de cette collectivité, le président du conseil général sur les
-routes départementales et le maire sur les voies communales.
-
-La délivrance de ces permissions de voirie s'effectue conformément au principe de non-discrimination dans le traitement des
-demandes émanant des opérateurs autorisés, notamment lorsque le gestionnaire du domaine public a des intérêts dans les
-réseaux ou services de télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Cité par**:
-
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Code de la voirie routière - art. R*113-2 (V)
-	  - Code de la voirie routière - art. R*122-5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L47
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21 Rec. Lebon
-
-
-###### Article R20-46
-
-L'autorité compétente délivre la permission de voirie, dès lors que celle-ci est compatible avec la destination du domaine
-public routier, l'intégrité des ouvrages et la sécurité des utilisateurs.
-
-Sont notamment incompatibles avec l'affectation routière les implantations :
-
-a) Qui réduisent, après l'exécution du chantier, l'emprise des voies de circulation normale ;
-
-b) Dont les travaux ne peuvent être exécutés dans le respect des règlements de voirie ;
-
-c) Qui, sauf coordination avec des travaux programmés, font obstacle à la circulation sur autoroute ou route express.
-
-**Liens relatifs à cet article**
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-47
-
-La demande de permission de voirie relative à l'installation et à l'utilisation d'infrastructures de télécommunications sur
-le domaine public, présentée par un opérateur autorisé en vertu de l'article L. 33-1 indique l'objet et la durée de
-l'occupation. Elle est accompagnée d'un dossier technique qui comprend :
-
-1° Le plan du réseau présentant les modalités de passage et d'ancrage des installations. Le plan fixe les charges ou les
-cotes altimétriques de l'installation de télécommunication dont la marge d'approximation ne doit pas être supérieure à 10
-centimètres. Il est présenté sur un fond de plan répondant aux conditions définies, le cas échéant, par le gestionnaire en
-fonction des nécessités qu'imposent les caractéristiques du domaine ;
-
-2° Les données techniques nécessaires à l'appréciation de la possibilité d'un éventuel partage des installations existantes ;
-
-3° Les schémas détaillés d'implantation sur les ouvrages d'art et les carrefours ;
-
-4° Les conditions générales prévisionnelles d'organisation du chantier ainsi que le nom et l'adresse du coordonnateur de
-sécurité désigné par le pétitionnaire en application de la loi ;
-
-5° Les modalités de remblaiement ou de reconstitution des ouvrages ;
-
-6° Un échéancier de réalisation des travaux faisant état de la date de leur commencement et de leur durée prévisible ;
-
-Lorsque la demande concerne un domaine dont la gestion est confiée à une autorité différente de celle compétente pour
-délivrer l'autorisation, une copie du dossier est adressée, à titre confidentiel, au gestionnaire.
-
-L'autorité compétente traite la demande dans le respect du secret des affaires et y répond dans un délai maximal de deux mois
-à compter de l'accusé de réception de toute demande accompagnée du dossier complet mentionné à l'alinéa 1er du présent
-article. A défaut de réponse explicite au terme de ce délai, la permission de voirie est réputée accordée selon les termes de
-la demande.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-47 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-
-###### Article R20-48
-
-Lorsque la satisfaction de la demande d'un opérateur conduit à réserver l'usage, à son profit, de l'ensemble des capacités
-d'occupation du domaine public disponibles, le gestionnaire du domaine subordonne l'octroi de la permission de voirie à la
-réalisation de travaux permettant le partage ultérieur des installations et rend publiques les conditions d'accès à ces
-installations.
-
-**Liens relatifs à cet article**
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-49
-
-Outre les cas dans lesquels, à la suite d'incidents ou d'accidents, une intervention est nécessaire pour des raisons de force
-majeure, le gestionnaire peut, dans l'intérêt du domaine occupé, demander le déplacement ou la modification de
-l'installation. Il informe, dès qu'il en a connaissance, l'occupant de la date de déplacement ou de la modification demandée
-et respecte un préavis suffisant pour permettre la continuité de l'exploitation de l'activité autorisée, qui ne peut être
-inférieur à deux mois, sauf travaux d'urgence.
-
-Sont présumés être faits dans l'intérêt du domaine occupé, les travaux effectués en vue de permettre le partage
-d'installations entre opérateurs.
-
-**Liens relatifs à cet article**
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-50
-
-Si l'autorité compétente constate, conformément à l'article L. 47, que le droit de passage de l'opérateur peut être assuré
-par l'utilisation d'installations existantes, elle invite les parties concernées à se rapprocher en vue d'une utilisation
-partagée des installations en cause et le notifie aux intéressés dans un délai d'un mois à compter du dépôt de la demande de
-permission de voirie par l'opérateur.
-
-En cas d'échec des négociations de partage des installations constaté par l'une des deux parties dans un délai maximal de
-trois mois, le cas échéant prolongé jusqu'à la décision de l'autorité de régulation des télécommunications si cette dernière
-est saisie, à compter de l'invitation à partager les installations prévues au premier alinéa du présent article, l'opérateur
-peut confirmer à l'autorité compétente sa demande de permission de voirie, en précisant les raisons pour lesquelles il n'a
-pas été possible d'utiliser les installations existantes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L47
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-51
-
-Le produit des redevances relatives à l'occupation du domaine public est versé au gestionnaire ou au concessionnaire du
-domaine occupé, dans les conditions fixées par la permission de voirie.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-52 (V)
-	  - Code des postes et des communications électroni... - art. R20-54 (V)
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-
-###### Article R20-52
-
-Le montant annuel des redevances est fixé selon les modalités suivantes :
-
-1° Dans le cas d'une utilisation du sous-sol, pour chaque canalisation ou câble enterré, la valeur maximale de la redevance
-exprimée en kilomètre linéaire et en francs s'élève à 20 000 pour les autoroutes situées en zone de montagne, 10 000 pour les
-autres autoroutes ;
-
-2° Pour les routes nationales, les routes départementales et les voies communales, la valeur maximale de la redevance
-exprimée en kilomètre linéaire et en francs s'élève à 150 pour chaque artère.
-
-On entend par artère :
-
-a) Dans le cas d'une utilisation du sous-sol, un tube de protection contenant ou non des câbles, ou un câble en pleine
-terre ;
-
-b) Dans les autres cas, l'ensemble des câbles tirés entre deux supports ;
-
-3° Dans le cas d'installation de stations radioélectriques, la valeur maximale de la redevance exprimée en francs et par
-installation de plus de 12 mètres est de 1 000 pour des antennes et de 2 000 pour des pylônes ;
-
-4° S'agissant des autres installations, la valeur maximale de la redevance exprimée en francs par mètre carré au sol est de
-100. L'emprise des supports liés aux artères mentionnées au 2° ne donne toutefois pas lieu à redevance.
-
-Les redevances maximales mentionnées au présent article évoluent au 1er janvier de chaque année proportionnellement à
-l'évolution de l'indice du coût de la construction mesuré au cours des douze mois précédant la dernière publication de
-l'indice connu au 1er janvier.
-
-En cas d'autorisation tacite, la redevance est due sur la base du barème applicable et des éléments techniques figurant dans
-le dossier de demande.
-
-**Liens relatifs à cet article**
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-53
-
-La barème figurant à l'article précédent est un barème maximum. Il s'applique en l'absence de détermination de montants
-inférieurs par le ministre chargé du domaine pour les redevances dues à raison de l'occupation du domaine public de l'Etat et
-par l'organe délibérant des collectivités territoriales pour les redevances dues à raison de l'occupation de leur domaine
-public.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-52
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R20-54
-
-Saisi d'une demande d'occupation, le maître de l'ouvrage routier peut négocier une convention avec le pétitionnaire aux
-termes de laquelle l'investissement est partagé entre les parties.
-
-L'utilisation de l'ouvrage de télécommunication fait dans ce cas l'objet de dispositions conventionnelles, notamment sur la
-répartition des produits résultant d'un partage futur de l'installation avec un ou plusieurs opérateurs. Dans ce cas, le
-montant de la redevance est fixé, selon les modalités déterminées à l'article R. 20-53, en tenant compte de l'intérêt de
-l'investissement pour le gestionnaire du domaine.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications R20-53
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°189191 2003-03-21, Rec. Lebon
-
-	**Créé par**:
-
-	  - Décret n°97-683 du 30 mai 1997 - art. 1 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
 
 ##### SECTION 2 : Servitudes.
 
