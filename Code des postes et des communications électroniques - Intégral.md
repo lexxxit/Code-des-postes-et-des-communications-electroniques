@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1991-10-01
+Version Consolidée au 1991-11-09
 
 # Partie législative
 
@@ -3800,15 +3800,15 @@ contravention.
 
 Sans préjudice de l'application de l'article L. 66 du présent code, quiconque, de quelque manière que ce soit, détériore ou
 dégrade une installation du réseau souterrain des télécommunications de l'exploitant public ou compromet le fonctionnement de
-ce réseau [*infraction*], sera puni [*sanction*] d'une amende de 1 000 F à 30 000 F.
+ce réseau [*infraction*], sera puni [*sanction*] d'une amende de 1 000 F à 30 000 F [* contravention de grande voirie *].
 
 Lorsqu'il s'agit d'un ouvrage souterrain de télécommunications comportant plusieurs câbles, il est prononcé autant d'amendes
 que de câbles détériorés ou dégradés ou dont le fonctionnement a été compromis.
 
-Lorsque, sur demande du maître de l'ouvrage ou du maître d'oeuvre d'opérations de travaux publics ou privés, l'exploitant
-public n'a pas donné connaissance à l'entreprise, avant l'ouverture du chantier, de l'emplacement des réseaux souterrains
-existant dans l'emprise des travaux projetés, l'infraction prévue au présent article ne peut être retenue. Les conditions
-dans lesquelles s'effectuera la communication de ces informations seront déterminées par décret en Conseil d'Etat.
+Lorsque, sur demande, l'exploitant public n'a pas donné connaissance à l'entreprise, avant l'ouverture du chantier, de
+l'emplacement des réseaux souterrains existant dans l'emprise des travaux projetés, l'infraction prévue au présent article ne
+peut être retenue. Les conditions dans lesquelles s'effectuera la communication de ces informations seront déterminées par
+décret en Conseil d'Etat.
 
 Les infractions prévues à l'article L. 69 et au présent article constituent des contraventions de grande voirie.
 
@@ -3820,7 +3820,11 @@ Les infractions prévues à l'article L. 69 et au présent article constituent d
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Décret n°91-1147 du 14 octobre 1991 - art. 16 () JORF 9 novembre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-659 du 26 juillet 1996 - art. 13 (V) JORF 27 juillet 1996
 
 	**Codifié par**:
 
@@ -7508,6 +7512,52 @@ des centres de réception radioélectriques.
 
 #### CHAPITRE III : Police des liaisons et des installations du réseau de télécommunications
 
+##### SECTION 1 : Dispositions générales.
+
+###### Article R42-1
+
+Toute personne physique ou morale de droit public ou de droit privé qui envisage la réalisation de travaux énumérés à
+l'annexe IV du décret en date du 14 octobre 1991 relatif à l'exécution de travaux à proximité de certains ouvrages
+souterrains, aériens ou subaquatiques de transport ou de distribution doit, lorsque les travaux projetés se situent dans une
+zone définie dans le plan déposé à cet effet par le service des télécommunications auprès de la mairie de la commune
+territorialement concernée, se renseigner, au stade de l'élaboration de ces projets, sur l'existence et les zones
+d'implantation éventuelles des ouvrages du réseau des télécommunications auxquels l'exécution des travaux serait de nature à
+porter atteinte. Cette demande de renseignements doit être effectuée au moyen d'un imprimé conforme au modèle déterminé par
+un arrêté interministériel pris en application du décret en date du 14 octobre 1991 susmentionné. Elle est effectuée par le
+maître d'ouvrage ou le maître d'oeuvre s'il en existe un auprès du service territorialement compétent. L'adresse du service
+est obtenue auprès de la mairie de la commune sur le territoire de laquelle sont prévus les travaux.
+
+Sont toutefois dispensées de la demande de renseignements les personnes qui envisagent des travaux de faible ampleur ne
+comportant pas de fouille du sol, tels que ceux qui sont mentionnés à l'annexe VIII du décret en date du 14 octobre 1991
+susvisé. Cette disposition ne dispense pas du respect des obligations définies à l'article R. 44-1.
+
+Le service est tenu de répondre dans le délai d'un mois à compter de la date de réception de la demande au moyen d'un
+récépissé conforme au modèle déterminé par l'arrêté interministériel mentionné au premier alinéa.
+
+Si la déclaration d'intention de commencement de travaux prévue à l'article R. 44-1 n'est pas effectuée dans le délai de six
+mois à compter de la demande de renseignements, cette dernière doit être renouvelée.
+
+Cette consultation exonère des obligations prévues à l'article R. 44-1 dès lors que la réponse du service fait apparaître que
+les travaux envisagés n'entrent pas dans le champ d'application de l'annexe IV susmentionnée et que les travaux sont
+entrepris six mois au plus tard après la demande de renseignements mentionnée au premier alinéa. Il en est de même en cas
+d'absence de réponse du service dans le délai d'un mois prévu à l'alinéa 3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications R44-1
+	  - Décret n°91-1147 1991-10-14 annexe IV, annexe VIII
+
+	**Créé par**:
+
+	  - Décret n°91-1147 du 14 octobre 1991 - art. 17 () JORF 9 novembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
 ##### SECTION 2 : Dispositions pénales.
 
 ###### Article R43
@@ -7564,38 +7614,26 @@ La contravention prévue à l'article précédent est poursuivie et jugée comme
 
 ###### Article R44-1
 
-Pour l'application des dispositions du troisième alinéa de l'article L. 69-1 du présent code, les demandes de renseignements
-concernant l'emplacement des ouvrages souterrains de télécommunications pouvant exister dans l'emprise de travaux publics ou
-privés projetés sont présentées par le maître de l'ouvrage ou le maîre d'oeuvre dans les conditions ci-après.
+Pour l'application des dispositions du troisième alinéa de l'article L. 69-1 du présent code ainsi que de celles du décret en
+date du 14 octobre 1991 relatif à l'exécution de travaux à proximité de certains ouvrages souterrains, aériens ou
+subaquatiques de transport ou de distribution, la déclaration d'intention de commencement de travaux au voisinage des
+ouvrages souterrains, subaquatiques ou aériens du réseau des télécommunications est adressée, par la personne physique ou
+morale chargée de l'exécution des travaux au service des télécommunications.
 
-La demande est adressée par lettre recommandée en trois exemplaires ou par télex au responsable territorial de l'exploitant
-public, au plus tôt soixante jours et au plus tard vingt jours [*délai*] avant l'ouverture du chantier.
-
-Elle doit comporter les indications suivantes :
-
-Nom ou raison sociale, adresse ou siège social du demandeur ;
-
-Nom ou raison sociale, adresse ou siège social du ou des entrepreneurs ainsi que, le cas échéant, de leurs agents, chargés de
-l'exécution des travaux ;
-
-Nature, durée et calendrier d'exécution des travaux incombant à chaque entrepreneur ainsi que date d'ouverture du chantier.
-
-La demande doit être accompagnée de plans et relevés permettant de situer avec une précision suffisante les emplacements où
-seront exécutés les travaux.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+Cette déclaration, établie sur un imprimé conforme au modèle déterminé par un arrêté interministériel pris en application du
+décret mentionné ci-dessus, doit être reçue par le service chargé des télécommunications dix jours au moins, jours fériés non
+compris, avant la date de début des travaux.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L69-1 al. 3
+	  - Code des postes et télécommunications L69-1
+	  - Décret n°91-1147 1991-10-14
 
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
 
 	**Codifié par**:
 
@@ -7604,37 +7642,66 @@ seront exécutés les travaux.
 
 ###### Article R44-2
 
-L'exploitant public adresse, par lettre recommandée ou par télex, sa réponse aux entrepreneurs mentionnés à l'article
-précédent [*délai*] avant l'ouverture du chantier.
+Le service chargé des télécommunications répond à cette déclaration au moyen d'un récépissé conforme au modèle annexé à
+l'arrêté interministériel mentionné à l'article précédent.
 
-Cette réponse peut revêtir une ou plusieurs des modalités suivantes :
+Cette réponse doit être reçue par l'exécutant des travaux au plus tard neuf jours, jours fériés non compris, après la date de
+réception de la déclaration.
 
-Fourniture d'un tirage d'extraits de plans des ouvrages souterrains des télécommunications, accompagné éventuellement de
-toutes autres informations utiles ;
+Le service communique au moyen de ce récépissé, sous sa responsabilité et avec le maximum de précisions possible, tous les
+renseignements en sa possession sur l'emplacement des ouvrages existant dans la zone où se situent les travaux projetés et y
+joint les recommandations techniques applicables à l'exécution des travaux à proximité desdits ouvrages.
 
-Invitation à venir consulter les plans de ces ouvrages dans les huit jours précédant l'ouverture du chantier. Cette
-consultation donne lieu à l'établissement en deux exemplaires d'un constat contradictoire ;
+Si les travaux, en raison de leurs conditions de réalisation telles que celles-ci sont précisées dans la déclaration
+souscrite par l'exécutant, rendent nécessaire le repérage, préalable et en commun, de l'emplacement sur le sol des ouvrages,
+le service en avise, au moyen du même récépissé, l'exécutant des travaux afin de coordonner les dispositions à prendre.
 
-Report des renseignements concernant les ouvrages souterrains des télécommunications sur les plans fournis par le demandeur.
-
-La réponse peut comporter, avec l'indication sommaire de l'emplacement des ouvrages, l'annonce de la visite en temps utile
-sur les lieux des travaux d'un agent de l'exploitant public chargé de préciser, par voie de piquetage, l'implantation de ces
-ouvrages et de donner à l'entrepreneur toutes indications complémentaires afin d'assurer leur préservation et leurs
-conditions de fonctionnement. Cette visite donne lieu à l'établissement en deux exemplaires d'un constat contradictoire.
-
-**Nota:**
-
-[*Dispositions prises par décret en Conseil d'Etat en application de l'article R. 25 du code pénal*].
+Les travaux ne peuvent être entrepris qu'après la communication des indications et recommandations fournies par le service en
+application du présent article, sauf en cas d'urgence justifiée par la sécurité, la continuité du service public ou la
+sauvegarde des personnes ou des biens, ou en cas de force majeure. A défaut de réponse du service dans le délai fixé à
+l'alinéa 2 ci-dessus, les travaux peuvent être entrepris trois jours, jours fériés non compris, après l'envoi par l'exécutant
+des travaux d'une lettre de rappel confirmant son intention d'entreprendre les travaux.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications R44-1
-
 	**Modifié par**:
 
-	  - Décret n°90-1213 du 29 décembre 1990 - art. 2 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R44-3
+
+Si les travaux annoncés par la déclaration d'intention de commencement de travaux ne sont pas entrepris dans le délai de deux
+mois à compter de la date du récépissé, le déclarant doit déposer une nouvelle déclaration.
+
+En cas d'interruption des travaux supérieure à deux mois, le déclarant doit aviser le service chargé des télécommunications
+lors de la reprise de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R44-4
+
+L'exécutant des travaux ou son représentant est tenu d'aviser le service chargé des télécommunications ainsi que le maire de
+la commune en cas de dégradation d'un ouvrage ou de toute autre anomalie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-1147 du 14 octobre 1991 - art. 18 () JORF 9 novembre 1991
 
 	**Codifié par**:
 
