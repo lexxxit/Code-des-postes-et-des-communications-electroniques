@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2004-06-22
+Version Consolidée au 2004-07-10
 
 # Partie législative
 
@@ -1076,77 +1076,192 @@ de la santé publique, l'insertion dans les envois postaux d'opium, de morphine,
 
 #### CHAPITRE Ier : Définitions et principes.
 
+###### Article L32-5
+
+Les opérateurs exploitant un réseau radioélectrique de communication ouvert au public ou fournissant des services de
+radiocommunication au public sont tenus de mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
+des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des communications émises au moyen de terminaux mobiles,
+identifiés et qui leur ont été déclarés volés.
+
+Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après accord donné par le procureur de la République
+ou le juge d'instruction, de ne pas appliquer les dispositions du premier alinéa.
+
+**Nota:**
+
+NOTA : Loi 2003-239 du 18 mars 2003 art. 72 II : Les présentes dispositions entrent en application pour le territoire
+métropolitain le 1er janvier 2004. En tant que de besoin, les modalités d'application en sont fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 72 (V) JORF 19 mars 2003 en vigueur le 1er janvier 2004
+
+	**Transféré par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L32-4 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L34-3 (M)
+
+
+#### CHAPITRE II : Régime juridique
+
+##### SECTION 2 : Services
+
+###### Article L34-1-1
+
+Sans préjudice des dispositions de l'article L. 35-2, les opérateurs inscrits sur la liste établie en application du a du 7°
+de l'article L. 36-7 :
+
+1° Fixent les tarifs du service téléphonique au public de manière à ce qu'ils reflètent les coûts correspondants. Ces tarifs
+sont indépendants de la nature de l'utilisation qui est faite du service par les utilisateurs. Ils sont suffisamment
+détaillés pour que l'utilisateur ne soit pas obligé de payer des compléments de services qui ne sont pas nécessaires à la
+fourniture du service demandé. Les opérateurs portent ces tarifs et leurs modifications à la connaissance du public au moins
+huit jours avant la date de leur mise en application ;
+
+2° Publient et appliquent de façon non discriminatoire toute formule de réduction tarifaire. L'Autorité de régulation des
+télécommunications peut, dans les conditions prévues à l'article L. 36-11, exiger d'un opérateur qu'il modifie ou retire des
+formules de réduction lorsque celles-ci ne sont pas conformes aux dispositions du présent article ;
+
+3° Disposent d'un système d'information et tiennent une comptabilité des services et des activités qui permettent notamment
+de vérifier le respect des obligations prévues au 1°. Cette comptabilité est vérifiée périodiquement, à leurs frais, par un
+organisme indépendant agréé par l'Autorité de régulation des télécommunications. Les résultats du contrôle sont communiqués à
+l'Autorité de régulation des télécommunications et au ministre chargé des télécommunications. L'organisme agréé publie
+annuellement une attestation de conformité établie en application des présentes dispositions ;
+
+4° Fournissent une offre de services avancés de téléphonie vocale dont le contenu est fixé par arrêté ministériel ;
+
+5° Se conforment aux obligations de qualité de service fixées, le cas échéant, par arrêté ministériel et, lorsque des
+indicateurs de qualité on été définis par arrêté ministériel, enregistrent les valeurs résultant de l'application de ces
+indicateurs. Les valeurs enregistrées sont communiquées, à leur demande, au ministre chargé des télécommunications et à
+l'Autorité de régulation des télécommunications. Celle-ci peut demander une vérification des données fournies par un
+organisme indépendant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L35-2, L36-7, L36-11
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 18 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
+	  - Arrêté du 26 mars 2012 - art. 1 (V)
+	  - Arrêté du 26 mars 2012 - art. 4 (V)
+	  - Code de la sécurité intérieure - art. L222-2 (VT)
+	  - Code de la sécurité intérieure - art. L243-12 (VT)
+	  - Code de la sécurité intérieure - art. L243-7 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-15 (VT)
+	  - Code des postes et des communications électroni... - art. R10-16 (VT)
+	  - Code des postes et des communications électroni... - art. R10-17 (VT)
+	  - Code des postes et des communications électroni... - art. R10-18 (VT)
+	  - Code des postes et des communications électroni... - art. R10-21 (VT)
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+## LIVRE II : Les communications électroniques
+
+### TITRE Ier : Dispositions générales
+
+#### Chapitre Ier : Définitions et principes.
+
 ###### Article L32
 
-1° Télécommunication.
+1° Communications électroniques.
 
-On entend par télécommunication toute transmission, émission ou réception de signes, de signaux, d'écrits, d'images, de sons
-ou de renseignements de toute nature par fil, optique, radioélectricité ou autres systèmes électromagnétiques.
+On entend par communications électroniques les émissions, transmissions ou réceptions de signes, de signaux, d'écrits,
+d'images ou de sons, par voie électromagnétique.
 
-2° Réseau de télécommunications.
+2° Réseau de communications électroniques.
 
-On entend par réseau de télécommunications toute installation ou tout ensemble d'installations assurant soit la transmission,
-soit la transmission et l'acheminement de signaux de télécommunications ainsi que l'échange des informations de commande et
-de gestion qui y est associé, entre les points de terminaison de ce réseau.
+On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de
+diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment
+ceux de commutation et de routage.
+
+Sont notamment considérés comme des réseaux de communications électroniques : les réseaux satellitaires, les réseaux
+terrestres, les systèmes utilisant le réseau électrique pour autant qu'ils servent à l'acheminement de communications
+électroniques et les réseaux assurant la diffusion ou utilisés pour la distribution de services de communication
+audiovisuelle.
 
 3° Réseau ouvert au public.
 
-On entend par réseau ouvert au public tout réseau de télécommunications établi ou utilisé pour la fourniture au public de
-services de télécommunications.
+On entend par réseau ouvert au public tout réseau de communications électroniques établi ou utilisé pour la fourniture au
+public de services de communications électroniques ou de services de communication au public par voie électronique.
 
 3° bis Points de terminaison d'un réseau.
 
 On entend par points de terminaison d'un réseau les points physiques par lesquels les utilisateurs accèdent à un réseau de
-télécommunications ouvert au public. Ces points de raccordement font partie du réseau.
+communications électroniques ouvert au public. Ces points de raccordement font partie du réseau.
+
+3° ter Boucle locale.
+
+On entend par boucle locale l'installation qui relie le point de terminaison du réseau dans les locaux de l'abonné au
+répartiteur principal ou à toute autre installation équivalente d'un réseau de communications électroniques fixe ouvert au
+public.
 
 4° Réseau indépendant.
 
-On entend par réseau indépendant un réseau de télécommunications réservé à un usage privé ou partagé.
-
-Un réseau indépendant est appelé :
-
-- à usage privé, lorsqu'il est réservé à l'usage de la personne physique ou morale qui l'établit ;
-
-- à usage partagé, lorsqu'il est réservé à l'usage de plusieurs personnes physiques ou morales constituées en un ou plusieurs
-groupes fermés d'utilisateurs, en vue d'échanger des communications internes au sein d'un même groupe.
+On entend par réseau indépendant un réseau de communications électroniques réservé à l'usage d'une ou plusieurs personnes
+constituant un groupe fermé d'utilisateurs, en vue d'échanger des communications internes au sein de ce groupe.
 
 5° Réseau interne.
 
-On entend par réseau interne un réseau indépendant entièrement établi sur une même propriété, sans emprunter ni le domaine
-public - y compris hertzien - ni une propriété tierce.
+On entend par réseau interne un réseau de communications électroniques entièrement établi sur une même propriété, sans
+emprunter ni le domaine public - y compris hertzien - ni une propriété tierce.
 
-6° Services de télécommunications.
+6° Services de communications électroniques.
 
-On entend par services de télécommunications toutes prestations incluant la transmission ou l'acheminement de signaux ou une
-combinaison de ces fonctions par des procédés de télécommunication. Ne sont pas visés les services de communication
-audiovisuelle en tant qu'ils sont régis par la loi n° 86-1067 du 30 septembre 1986 précitée.
+On entend par services de communications électroniques les prestations consistant entièrement ou principalement en la
+fourniture de communications électroniques. Ne sont pas visés les services consistant à éditer ou à distribuer des services
+de communication au public par voie électronique.
 
 7° Service téléphonique au public.
 
 On entend par service téléphonique au public l'exploitation commerciale pour le public du transfert direct de la voix en
-temps réel au départ et à destination de réseaux ouverts au public commutés, entre utilisateurs fixes ou mobiles.
+temps réel, entre utilisateurs fixes ou mobiles.
 
-8° Service télex.
+8° Accès.
 
-On entend par service télex l'exploitation commerciale du transfert direct, en temps réel, par échange de signaux de nature
-télégraphique, de messages dactylographiés entre des utilisateurs raccordés aux points de terminaison d'un réseau de
-télécommunications.
+On entend par accès toute mise à disposition de moyens, matériels ou logiciels, ou de services, en vue de permettre au
+bénéficiaire de fournir des services de communications électroniques. Ne sont pas visés par le présent code les systèmes
+d'accès sous condition et les systèmes techniques permettant la réception de services de communication audiovisuelle, définis
+et réglementés par la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 9° Interconnexion.
 
-On entend par interconnexion les prestations réciproques offertes par deux exploitants de réseaux ouverts au public qui
-permettent à l'ensemble des utilisateurs de communiquer librement entre eux, quels que soient le réseaux auxquels ils sont
-raccordés ou les services qu'ils utilisent.
-
-On entend également par interconnexion les prestations d'accès au réseau offertes dans le même objet par un exploitant de
-réseau ouvert au public à un prestataire de service téléphonique au public.
+On entend par interconnexion la liaison physique et logique des réseaux ouverts au public exploités par le même opérateur ou
+un opérateur différent, afin de permettre aux utilisateurs d'un opérateur de communiquer avec les utilisateurs du même
+opérateur ou d'un autre, ou bien d'accéder aux services fournis par un autre opérateur. Les services peuvent être fournis par
+les parties concernées ou par d'autres parties qui ont accès au réseau. L'interconnexion constitue un type particulier
+d'accès mis en oeuvre entre opérateurs de réseaux ouverts au public.
 
 10° Equipement terminal.
 
 On entend par équipement terminal tout équipement destiné à être connecté directement ou indirectement à un point de
 terminaison d'un réseau en vue de la transmission, du traitement ou de la réception d'informations. Ne sont pas visés les
-équipements permettant d'accéder à des services de communication audiovisuelle diffusés par voie hertzienne ou distribués par
-câble, sauf dans les cas où ils permettent d'accéder également à des services de télécommunications.
+équipements permettant exclusivement d'accéder à des services de radio et de télévision.
 
 11° Réseau, installation ou équipement radioélectrique.
 
@@ -1157,36 +1272,31 @@ réseaux utilisant les capacités de satellites ;
 12° Exigences essentielles.
 
 On entend par exigences essentielles les exigences nécessaires pour garantir dans l'intérêt général la santé et la sécurité
-des personnes, la compatibilité électromagnétique entre les équipements et installations de télécommunications et, le cas
-échéant, une bonne utilisation du spectre des fréquences radioélectriques en évitant des interférences dommageables pour les
-tiers. Les exigences essentielles comportent également, dans les cas justifiés, la protection des réseaux et notamment des
-échanges d'informations de commande et de gestion qui y sont associés, l'interopérabilité des services et celle des
-équipements terminaux, la protection des données, la protection de l'environnement et la prise en compte des contraintes
-d'urbanisme et d'aménagement du territoire, la compatibilité des équipements terminaux et des équipements radioélectriques
-avec des dispositifs empêchant la fraude, assurant l'accès aux services d'urgence et facilitant leur utilisation par les
-personnes handicapées.
+des personnes, la compatibilité électromagnétique entre les équipements et installations de communications électroniques et,
+le cas échéant, une bonne utilisation du spectre des fréquences radioélectriques en évitant des interférences dommageables
+pour les tiers. Les exigences essentielles comportent également, dans les cas justifiés, la protection des réseaux et
+notamment des échanges d'informations de commande et de gestion qui y sont associés, l'interopérabilité des services et celle
+des équipements terminaux, la protection des données, la compatibilité des équipements terminaux et des équipements
+radioélectriques avec des dispositifs empêchant la fraude, assurant l'accès aux services d'urgence et facilitant leur
+utilisation par les personnes handicapées.
 
 On entend par interopérabilité des équipements terminaux l'aptitude de ces équipements à fonctionner, d'une part, avec le
 réseau et, d'autre part, avec les autres équipements terminaux.
 
-Un décret définit les valeurs limites que ne doivent pas dépasser les champs électromagnétiques émis par les équipements
-utilisés dans les réseaux de télécommunication ou par les installations mentionnées à l'article L. 33-3, lorsque le public y
-est exposé.
+13° Numéro géographique.
 
-13° Exploitant public.
+On entend par numéro géographique tout numéro du plan national de numérotation téléphonique dont la structure contient une
+indication géographique utilisée pour acheminer les appels vers le point de terminaison du réseau correspondant.
 
-On entend par exploitant public la personne morale de droit public dont les missions sont définies par l'article 3 de la loi
-n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications.
+14° Numéro non géographique.
 
-14° Réseau public.
+On entend par numéro non géographique tout numéro du plan national de numérotation téléphonique qui n'est pas un numéro
+géographique.
 
-On entend par réseau public l'ensemble des réseaux de télécommunications établis ou utilisés par l'exploitant public pour les
-besoins du public.
+15° Opérateur.
 
-15° Opérateur :
-
-On entend par opérateur toute personne physique ou morale exploitant un réseau de télécommunications ouvert au public ou
-fournissant au public un service de télécommunications.
+On entend par opérateur toute personne physique ou morale exploitant un réseau de communications électroniques ouvert au
+public ou fournissant au public un service de communications électroniques.
 
 16° Système satellitaire.
 
@@ -1199,13 +1309,21 @@ On entend par prestation d'itinérance locale celle qui est fournie par un opér
 opérateur de radiocommunications mobiles en vue de permettre, sur une zone qui n'est couverte, à l'origine, par aucun
 opérateur de radiocommunications mobiles de deuxième génération, l'accueil, sur le réseau du premier, des clients du second.
 
+18° Données relatives au trafic.
+
+On entend par données relatives au trafic toutes les données traitées en vue de l'acheminement d'une communication par un
+réseau de communications électroniques ou en vue de sa facturation.
+
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L71
+	  - Loi n°1925-08-09 art. d'introduction
 
 	**Cite**:
 
 	  - Loi n°86-1067 1986-09-30
-	  - Loi n°90-568 1990-07-02 art. 3
-	  - Code des postes et télécommunications L33-3
 
 	**Cité par**:
 
@@ -1272,70 +1390,88 @@ opérateur de radiocommunications mobiles de deuxième génération, l'accueil, 
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 47 () JORF 22 juin 2004
-	  - Loi n°2004-575 du 21 juin 2004 - art. 52 (V) JORF 22 juin 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 2 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L71
-	  - Loi n°1925-08-09 art. d'introduction
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article L32-1
 
 I. - Dans les conditions prévues par les dispositions du présent code :
 
-1° Les activités de télécommunications s'exercent librement, dans le respect des autorisations et déclarations prévues au
-chapitre II, qui sont délivrées ou vérifiées dans des conditions objectives, transparentes, non discriminatoires et
-proportionnées aux objectifs poursuivis ;
+1° Les activités de communications électroniques s'exercent librement, dans le respect des déclarations prévues au chapitre
+II, et sous réserve, le cas échéant, des autorisations prévues au titre II et par la loi n° 86-1067 du 30 septembre 1986
+précitée ;
 
-2° Le maintien et le développement du service public des télécommunications défini au chapitre III, qui comprend notamment le
-droit de chacun au bénéfice du service universel des télécommunications, sont garantis ;
+2° Le maintien et le développement du service public des communications électroniques défini au chapitre III, qui comprend
+notamment le droit de chacun au bénéfice du service universel des communications électroniques, sont garantis ;
 
-3° La fonction de régulation du secteur des télécommunications est indépendante de l'exploitation des réseaux et de la
-fourniture des services de télécommunications. Elle est exercée au nom de l'Etat dans les conditions prévues au chapitre IV
-par le ministre chargé des télécommunications et par l'Autorité de régulation des télécommunications.
+3° La fonction de régulation du secteur des communications électroniques est indépendante de l'exploitation des réseaux et de
+la fourniture des services de communications électroniques. Elle est exercée au nom de l'Etat par le ministre chargé des
+communications électroniques et par l'Autorité de régulation des télécommunications.
 
-II. - Le ministre chargé des télécommunications et l'Autorité de régulation des télécommunications veillent, dans le cadre de
-leurs attributions respectives :
+II. - Dans le cadre de leurs attributions respectives, le ministre chargé des communications électroniques et l'Autorité de
+régulation des télécommunications prennent, dans des conditions objectives et transparentes, des mesures raisonnables et
+proportionnées aux objectifs poursuivis et veillent :
 
-1° A la fourniture et au financement de l'ensemble des composantes du service public des télécommunications ;
+1° A la fourniture et au financement de l'ensemble des composantes du service public des communications électroniques ;
 
 2° A l'exercice au bénéfice des utilisateurs d'une concurrence effective et loyale entre les exploitants de réseau et les
-fournisseurs de services de télécommunications ;
+fournisseurs de services de communications électroniques ;
 
-3° Au développement de l'emploi, de l'innovation et de la compétitivité dans le secteur des télécommunications ;
+3° Au développement de l'emploi, de l'investissement efficace dans les infrastructures, de l'innovation et de la
+compétitivité dans le secteur des communications électroniques ;
 
 4° A la définition de conditions d'accès aux réseaux ouverts au public et d'interconnexion de ces réseaux qui garantissent la
 possibilité pour tous les utilisateurs de communiquer librement et l'égalité des conditions de la concurrence ;
 
-5° Au respect par les opérateurs de télécommunications du secret des correspondances et du principe de neutralité au regard
-du contenu des messages transmis ;
+5° Au respect par les opérateurs de communications électroniques du secret des correspondances et du principe de neutralité
+au regard du contenu des messages transmis, ainsi que de la protection des données à caractère personnel ;
 
-6° Au respect, par les exploitants de réseau et les fournisseurs de services de télécommunications, des obligations de
-défense et de sécurité publique ;
+6° Au respect, par les exploitants de réseau et les fournisseurs de services de communications électroniques de l'ordre
+public et des obligations de défense et de sécurité publique ;
 
-7° A la prise en compte de l'intérêt des territoires et des utilisateurs dans l'accès aux services et aux équipements ;
+7° A la prise en compte de l'intérêt des territoires et des utilisateurs, notamment handicapés, dans l'accès aux services et
+aux équipements ;
 
-8° Au développement de l'utilisation partagée entre opérateurs des installations mentionnées aux articles L. 47 et L. 48.
+8° Au développement de l'utilisation partagée entre opérateurs des installations mentionnées aux articles L. 47 et L. 48 ;
+
+9° A l'absence de discrimination, dans des circonstances analogues, dans le traitement des opérateurs ;
+
+10° A la mise en place et au développement de réseaux et de services et à l'interopérabilité des services au niveau
+européen ;
+
+11° A l'utilisation et à la gestion efficaces des fréquences radioélectriques et des ressources de numérotation ;
+
+12° A un niveau élevé de protection des consommateurs, grâce notamment à la fourniture d'informations claires, notamment par
+la transparence des tarifs et des conditions d'utilisation des services de communications électroniques accessibles au
+public ;
+
+13° Au respect de la plus grande neutralité possible, d'un point de vue technologique, des mesures qu'ils prennent ;
+
+14° A l'intégrité et la sécurité des réseaux de communications électroniques ouverts au public.
+
+III. - Lorsque, dans le cadre des dispositions du présent code, le ministre chargé des communications électroniques et
+l'Autorité de régulation des télécommunications envisagent d'adopter des mesures ayant une incidence importante sur un
+marché, ils rendent publiques les mesures envisagées dans un délai raisonnable avant leur adoption et recueillent les
+observations qui sont faites à leur sujet. Le résultat de ces consultations est rendu public, sous réserve des secrets
+protégés par la loi.
+
+L'autorité met en place un service permettant de prendre connaissance des consultations prévues par l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L47, L48
+	  - Loi n°86-1067 1986-09-30
+	  - Code des postes et des communications électronique - art. L47 (M)
+	  - Code des postes et des communications électronique - art. L48 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 14 () JORF 28 juillet 2001
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 3 () JORF 10 juillet 2004
 
 	**Cité par**:
 
@@ -1378,68 +1514,11 @@ défense et de sécurité publique ;
 	  - Décret n°62-273 1962-03-12
 
 
-###### Article L32-2
-
-La commission supérieure du service public des postes et télécommunications, dans le cadre de ses missions définies à
-l'article 35 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du secteur public de la poste et des
-télécommunications, veille à l'évolution équilibrée du secteur des télécommunications. Elle veille également au respect des
-principes du service public et notamment du service universel dans le secteur des télécommunications. Outre les avis,
-recommandations et suggestions qu'elle adresse au ministère dans les domaines de sa compétence, elle peut être consultée par
-l'Autorité de régulation des télécommunications et par les commissions permanentes de l'Assemblée nationale et du Sénat sur
-les questions relevant de leurs compétences spécifiques en matière de télécommunications. Elle peut saisir l'Autorité de
-régulation des télécommunications sur des questions concernant la compétence de cette autorité en matière de contrôle et de
-sanction du respect, par les opérateurs, des obligations de service public et service universel résultant des dispositions
-législatives et réglementaires qui leur sont applicables en vertu du présent code et des autorisations dont ils bénéficient.
-
-A ce titre, elle peut notamment donner un avis sur les conditions et critères d'autorisation des réseaux et services
-mentionnés aux aux articles L. 33-1, L. 33-2, L. 34-1, L. 34-2, L. 34-3 et L. 34-4.
-
-Elle peut également suggérer les modifications de nature législative et réglementaire que lui paraît appeler l'évolution
-technologique, économique et sociale des activités des télécommunications.
-
-Elle adresse des recommandations au Gouvernement pour l'exercice d'une concurrence loyale dans les activités de
-télécommunications.
-
-Elle établit un rapport annuel qui est remis au Parlement et au Premier ministre. Ce rapport comprend obligatoirement un
-bilan de l'exercice du service public des télécommunications comportant un chapitre concernant particulièrement le service
-universel des télécommunications ainsi qu'un chapitre sur la mise en oeuvre des missions d'intérêt général définies au
-troisième alinéa de l'article L. 35-6. Il est établi après que la Commission supérieure du service public des postes et
-télécommunications a pris connaissance du rapport annuel de l'Autorité de régulation des télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°90-568 1990-07-02 art. 35
-	  - Code des postes et télécommunications L33-1, L33-2, L34-1, L34-2, L34-3, L34-4, L35-6
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 3 () JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D96-9 (T)
-
-
 ###### Article L32-3
 
-L'exploitant public, les personnes autorisées à établir un réseau ouvert au public et les fournisseurs de services de
-télécommunications, ainsi que les membres de leur personnel, sont tenus de respecter le secret des correspondances.
+Les opérateurs, ainsi que les membres de leur personnel, sont tenus de respecter le secret des correspondances.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
 
 	**Cité par**:
 
@@ -1453,140 +1532,100 @@ télécommunications, ainsi que les membres de leur personnel, sont tenus de res
 	  - Code des postes et des communications électronique - art. D406-12 (V)
 	  - Code des postes et des communications électronique - art. L32-4 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
 
-###### Article L32-3-1
+###### Article L32-3-3
 
-I. - Les opérateurs de télécommunications, et notamment ceux mentionnés au 1° du I de l'article 6 de la loi n° 2004-575 du 21
-juin 2004 pour la confiance dans l'économie numérique, sont tenus d'effacer ou de rendre anonyme toute donnée relative à une
-communication dès que celle-ci est achevée, sous réserve des dispositions des II, III et IV.
-
-II. - Pour les besoins de la recherche, de la constatation et de la poursuite des infractions pénales, et dans le seul but de
-permettre, en tant que de besoin, la mise à disposition de l'autorité judiciaire d'informations, il peut être différé pour
-une durée maximale d'un an aux opérations tendant à effacer ou à rendre anonymes certaines catégories de données techniques.
-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine, dans
-les limites fixées par le IV, ces catégories de données et la durée de leur conservation, selon l'activité des opérateurs et
-la nature des communications ainsi que les modalités de compensation, le cas échéant, des surcoûts identifiables et
-spécifiques des prestations assurées à ce titre, à la demande de l'Etat, par les opérateurs.
-
-III. - Pour les besoins de la facturation et du paiement des prestations de télécommunications, les opérateurs peuvent,
-jusqu'à la fin de la période au cours de laquelle la facture peut être légalement contestée ou des poursuites engagées pour
-en obtenir le paiement, utiliser, conserver et, le cas échéant, transmettre à des tiers concernés directement par la
-facturation ou le recouvrement les catégories de données techniques qui sont déterminées, dans les limites fixées par le IV,
-selon l'activité des opérateurs et la nature de la communication, par décret en Conseil d'Etat pris après avis de la
-Commission nationale de l'informatique et des libertés.
-
-Les opérateurs peuvent en outre réaliser un traitement de ces données en vue de commercialiser leurs propres services de
-télécommunications, si les usagers y consentent expressément et pour une durée déterminée. Cette durée ne peut, en aucun cas,
-être supérieure à la période correspondant aux relations contractuelles entre l'usager et l'opérateur. Ils peuvent également
-conserver certaines données en vue d'assurer la sécurité de leurs réseaux.
-
-IV. - Les données conservées et traitées dans les conditions définies aux II et III portent exclusivement sur
-l'identification des personnes utilisatrices des services fournis par les opérateurs et sur les caractéristiques techniques
-des communications assurées par ces derniers.
-
-Elles ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous
-quelque forme que ce soit, dans le cadre de ces communications.
-
-La conservation et le traitement de ces données s'effectuent dans le respect des dispositions de la loi n° 78-17 du 6 janvier
-1978 relative à l'informatique, aux fichiers et aux libertés.
-
-Les opérateurs prennent toutes mesures pour empêcher une utilisation de ces données à des fins autres que celles prévues au
-présent article.
+Toute personne assurant une activité de transmission de contenus sur un réseau de communications électroniques ou de
+fourniture d'accès à un réseau de communications électroniques ne peut voir sa responsabilité civile ou pénale engagée à
+raison de ces contenus que dans les cas où soit elle est à l'origine de la demande de transmission litigieuse, soit elle
+sélectionne le destinataire de la transmission, soit elle sélectionne ou modifie les contenus faisant l'objet de la
+transmission.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
-	**Cite**:
-
-	  - Loi n°78-17 1978-01-06
-	  - Loi n°2004-575 2004-06-21 art. 6
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 20
-	  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - Code des postes et des communications électroni... - art. L34-4 (V)
 
 
-###### Article L32-3-2
+###### Article L32-3-4
 
-La prescription est acquise, au profit des opérateurs mentionnés aux articles L. 33-1, L. 34-1 et L. 34-2, pour toutes
-demandes en restitution du prix de leurs prestations de télécommunications présentées après un délai d'un an à compter du
-jour du paiement.
+Toute personne assurant dans le seul but de rendre plus efficace leur transmission ultérieure, une activité de stockage
+automatique, intermédiaire et temporaire des contenus qu'un prestataire transmet ne peut voir sa responsabilité civile ou
+pénale engagée à raison de ces contenus que dans l'un des cas suivants :
 
-La prescription est acquise, au profit de l'usager, pour les sommes dues en paiement des prestations de télécommunications
-d'un opérateur appartenant aux catégories visées au précédent alinéa lorsque celui-ci ne les a pas réclamées dans un délai
-d'un an courant à compter de la date de leur exigibilité.
+1° Elle a modifié ces contenus, ne s'est pas conformée à leurs conditions d'accès et aux règles usuelles concernant leur mise
+à jour ou a entravé l'utilisation licite et usuelle de la technologie utilisée pour obtenir des données ;
+
+2° Elle n'a pas agi avec promptitude pour retirer les contenus qu'elle a stockés ou pour en rendre l'accès impossible, dès
+qu'elle a effectivement eu connaissance, soit du fait que les contenus transmis initialement ont été retirés du réseau, soit
+du fait que l'accès aux contenus transmis initialement a été rendu impossible, soit du fait que les autorités judiciaires ont
+ordonné de retirer du réseau les contenus transmis initialement ou d'en rendre l'accès impossible.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1, L34-2
-
 	**Créé par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+	  - Loi n°2004-575 du 21 juin 2004 - art. 9 () JORF 22 juin 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L34-2 (M)
 
 
 ###### Article L32-4
 
-Pour l'accomplissement de leurs missions, le ministre chargé des télécommunications et le président de l'Autorité de
-régulation des télécommunications peuvent :.
+Le ministre chargé des communications électroniques et l'Autorité de régulation des télécommunications peuvent, de manière
+proportionnée aux besoins liés à l'accomplissement de leurs missions, et sur la base d'une décision motivée :
 
-1° Recueillir auprès des personnes physiques ou morales exploitant des réseaux de télécommunications ou fournissant des
-services de télécommunications les informations ou documents nécessaires pour s'assurer du respect par ces personnes des
-principes définis aux articles L. 32-1 et L. 32-3, ainsi que des obligations qui leur sont imposées par les textes
-législatifs ou réglementaires ou par l'autorisation qui leur a été délivrée ;
+1° Recueillir auprès des personnes physiques ou morales exploitant des réseaux de communications électroniques ou fournissant
+des services de communications électroniques les informations ou documents nécessaires pour s'assurer du respect par ces
+personnes des principes définis aux articles L. 32-1 et L. 32-3, ainsi que des obligations qui leur sont imposées par le
+présent code ou par les textes pris pour son application ;
 
-2° Procéder auprès des mêmes personnes physiques ou morales à des enquêtes ; ils désignent les fonctionnaires des
-administrations de l'Etat habilités à cet effet dans les conditions prévues à l'article L. 40.
+2° Procéder auprès des mêmes personnes à des enquêtes.
 
-Le ministre chargé des télécommunications et le président de l'Autorité de régulation des télécommunications veillent à ce
-que ne soient pas divulguées les informations recueillies en application du présent article lorsqu'elles sont protégées par
-un secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
-entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
+Ces enquêtes sont menées par des fonctionnaires et agents du ministère chargé des communications électroniques et de
+l'Autorité de tes régulation des télécommunications habilités à cet effet par le ministre chargé des communications
+électroniques et assermentés dans des conditions fixées par décret en Conseil d'Etat. Elles donnent lieu à procès-verbal. Un
+double en est transmis dans les cinq jours aux personnes intéressées.
+
+Les fonctionnaires et agents mentionnés à l'alinéa précédent peuvent accéder aux locaux, terrains ou moyens de transport à
+usage professionnel utilisés par les personnes exploitant des réseaux de communications électroniques ou fournissant des
+services de communications électroniques, demander la communication de tous documents professionnels nécessaires et en
+prendre copie, enfin recueillir, sur convocation ou sur place, les renseignements et justifications nécessaires. Ils ne
+peuvent accéder à ces locaux qu'entre 8 heures et 20 heures ou pendant leurs heures d'ouverture au public. Ils ne peuvent
+pénétrer dans la partie des locaux servant de domicile aux intéressés, sauf autorisation du président du tribunal de grande
+instance ou du magistrat qu'il délègue à cette fin.
+
+Le ministre chargé des communications électroniques et l'Autorité de régulation des télécommunications veillent à ce que ne
+soient pas divulguées les informations recueillies en application du présent article lorsqu'elles sont protégées par un
+secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
+l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
-	  - Code des postes et télécommunications L32-1, L32-3, L40
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+	  - Code des postes et des communications électronique - art. L32-3 (M)
 
 	**Cité par**:
 
@@ -1624,120 +1663,37 @@ entre l'administration et le public et diverses dispositions d'ordre administrat
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 5 () JORF 27 juillet 1996
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
 
-###### Article L32-5
+#### Chapitre II : Régime juridique.
 
-Les opérateurs exploitant un réseau radioélectrique de communication ouvert au public ou fournissant des services de
-radiocommunication au public sont tenus de mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
-des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des communications émises au moyen de terminaux mobiles,
-identifiés et qui leur ont été déclarés volés.
-
-Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après accord donné par le procureur de la République
-ou le juge d'instruction, de ne pas appliquer les dispositions du premier alinéa.
-
-**Nota:**
-
-NOTA : Loi 2003-239 du 18 mars 2003 art. 72 II : Les présentes dispositions entrent en application pour le territoire
-métropolitain le 1er janvier 2004. En tant que de besoin, les modalités d'application en sont fixées par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 72 (V) JORF 19 mars 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L32-4 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L34-3 (M)
-
-
-###### Article L32-6
-
-Les dispositions des articles L. 32-3-1, L. 32-3-2 et L. 32-5 sont applicables en Nouvelle-Calédonie, en Polynésie française
-et dans les îles Wallis et Futuna.
-
-II. - Sans préjudice de leur application de plein droit à Mayotte en vertu du 8° du I de l'article 3 de la loi n° 2001-616 du
-11 juillet 2001 relative à Mayotte, les articles L. 32-3-3 et L. 32-3-4 sont applicables en Nouvelle-Calédonie, en Polynésie
-française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L32-3-1, L32-3-2, L32-5, L32-3-3, L32-3-4
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 3 (AbD)
-
-	**Modifié par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 9 () JORF 22 juin 2004
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L34-4 (M)
-
-
-#### CHAPITRE II : Régime juridique
-
-##### SECTION 1 : Réseaux
+##### Section 1 : Réseaux et services.
 
 ###### Article L33
 
-Les réseaux de télécommunications sont établis dans les conditions déterminées par la présente section.
+Les réseaux et services de communications électroniques sont établis, exploités ou fournis dans les conditions fixées par la
+présente section. 
 
-Ne sont pas concernées par la présente section :
+Ne sont pas concernées par la présente section : 
 
 1° Les installations de l'Etat établies pour les besoins de la défense nationale ou de la sécurité publique ou utilisant des
 bandes de fréquences ou des fréquences attribuées par le Premier ministre à une administration pour les besoins propres de
-celle-ci, en application de l'article 21 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
+celle-ci, en application de l'article L. 41 ; 
 
-2° Les installations mentionnées aux articles 10 et 34 de la même loi. Celles de ces installations qui sont utilisées pour
-offrir au public des services de télécommunications sont soumises aux dispositions du présent code applicables à
-l'exploitation des réseaux ouverts au public, dans la seule mesure nécessaire à leur offre de services de télécommunications.
+2° Sous réserve des dispositions du IV de l'article L. 33-1, les installations utilisant des fréquences dont l'assignation
+est confiée au Conseil supérieur de l'audiovisuel, et dont l'objet exclusif est la diffusion de services de communication
+audiovisuelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L72 al. 1 et 4
-	  - Décret-loi 1851-12-27 art. 1
-	  - Loi n°1837-05-02 1837-05-06 art. unique
-	  - Loi n°1923-06-30 art. 85
-
-	**Cite**:
-
-	  - Loi n°86-1067 1986-09-30 art. 21, art. 10, art. 34
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 34 (M)
-
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -1752,131 +1708,97 @@ l'exploitation des réseaux ouverts au public, dans la seule mesure nécessaire 
 	  - Code des postes et des communications électronique - art. R*52-1 (T)
 	  - Code général des impôts, CGI. - art. 1519 H (V)
 
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L41 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L72 al. 1 et 4
+	  - Décret-loi 1851-12-27 art. 1
+	  - Loi n°1837-05-02 1837-05-06 art. unique
+	  - Loi n°1923-06-30 art. 85
+
 
 ###### Article L33-1
 
-I. - L'établissement et l'exploitation des réseaux ouverts au public sont autorisés par le ministre chargé des
-télécommunications.
+I. - L'établissement et l'exploitation des réseaux ouverts au public et la fourniture au public de services de communications
+électroniques sont libres sous réserve d'une déclaration préalable auprès de l'Autorité de régulation des télécommunications.
 
-Cette autorisation ne peut être refusée que dans la mesure requise par la sauvegarde de l'ordre public ou des besoins de la
-défense ou de la sécurité publique, par les contraintes techniques inhérentes à la disponibilité des fréquences, ou lorsque
-le demandeur n'a pas la capacité technique ou financière de faire face durablement aux obligations résultant des conditions
-d'exercice de son activité, ou a fait l'objet d'une des sanctions mentionnées aux articles L. 36-11, L. 39, L. 39-1, L. 39-2
-et L. 39-4.
+Toutefois, la déclaration n'est pas exigée pour l'établissement et l'exploitation des réseaux internes ouverts au public et
+pour la fourniture au public de services de communications électroniques sur ces réseaux.
 
-L'autorisation est soumise à l'application des règles contenues dans un cahier des charges et portant sur :
+La déclaration ne peut être faite par une personne qui a perdu, du fait d'un retrait ou d'une suspension prononcés en
+application de l'article L. 36-11, le droit d'établir et d'exploiter un réseau ouvert au public ou de fournir au public un
+service de communications électroniques ou par une personne qui a été condamnée à l'une des peines prévues par l'article L.
+39.
 
-a) La nature, les caractéristiques, la zone de couverture et le calendrier de déploiement du réseau ;
+L'établissement et l'exploitation des réseaux ouverts au public et la fourniture au public de services de communications
+électroniques sont soumis au respect de règles portant sur :
 
-b) Les conditions de permanence, de qualité et de disponibilité du réseau ainsi que les modes d'accès, notamment au moyen de
-cabines établies sur la voie publique ;
+a) Les conditions de permanence, de qualité et de disponibilité du réseau et du service ;
 
-c) Les conditions de confidentialité et de neutralité au regard des messages transmis et des informations liées aux
+b) Les conditions de confidentialité et de neutralité au regard des messages transmis et des informations liées aux
 communications ;
 
-d) Les normes et spécifications du réseau et des services, notamment européennes s'il y a lieu ;
+c) Les normes et spécifications du réseau et du service ;
 
-e) Les prescriptions exigées par la protection de la santé et de l'environnement et par les objectifs d'aménagement du
-territoire et d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public et les modalités de
-partage des infrastructures ou d'itinérance locale ;
+d) Les prescriptions exigées par la protection de la santé et de l'environnement et par les objectifs d'aménagement du
+territoire et d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public, les garanties
+financières ou techniques nécessaires à la bonne exécution des travaux d'infrastructures et les modalités de partage des
+infrastructures et d'itinérance locale ;
 
-f) Les prescriptions exigées par la défense et la sécurité publiques ;
+e) Les prescriptions exigées par l'ordre public, la défense nationale et la sécurité publique, notamment celles qui sont
+nécessaires à la mise en oeuvre des interceptions justifiées par les nécessités de la sécurité publique, ainsi que les
+garanties d'une juste rémunération des prestations assurées à ce titre ;
 
-g) La contribution de l'exploitant à la recherche et à la formation en matière de télécommunications ;
+f) L'acheminement gratuit des appels d'urgence. A ce titre, les opérateurs sont tenus d'assurer l'accès gratuit des services
+d'urgence à l'information relative à la localisation de l'équipement du terminal de l'utilisateur, dans la mesure où cette
+information est disponible ;
 
-h) L'utilisation des fréquences allouées et les redevances dues à ce titre ainsi que pour les frais de leur gestion et de
-leur contrôle ;
+g) Le financement du service universel et, le cas échéant, la fourniture du service universel et des services obligatoires,
+dans les conditions prévues aux articles L. 35-2 à L. 35-5 ;
 
-i) L'allocation de numéros et de blocs de numéros, les redevances dues pour les frais de la gestion du plan de numérotation
-et de son contrôle, dans les conditions de l'article L. 34-10 ;
+h) La fourniture des informations prévues à l'article L. 34 ;
 
-j) Les obligations du titulaire au titre du service universel dans les conditions prévues aux articles L. 35-2 et L. 35-3 et
-au titre des services obligatoires définis à l'article L. 35-5 ;
+i) L'interconnexion et l'accès, dans les conditions prévues aux articles L. 34-8 et L. 38 ;
 
-k) La fourniture des informations nécessaires à la constitution et à la tenue de la liste prévue à l'article L. 35-4 ;
+j) Les conditions nécessaires pour assurer l'équivalence de traitement des opérateurs internationaux conformément aux
+dispositions du III du présent article ;
 
-l) Les droits et obligations de l'exploitant en matière d'interconnexion ;
+k) Les conditions nécessaires pour assurer l'interopérabilité des services ;
 
-m) Les conditions nécessaires pour assurer une concurrence loyale ;
+l) Les obligations qui s'imposent à l'exploitant pour permettre son contrôle par l'Autorité de régulation des
+télécommunications et celles qui sont nécessaires pour l'application de l'article L. 37-1 ;
 
-n) Les conditions nécessaires pour assurer l'équivalence de traitement des opérateurs internationaux conformément aux
-dispositions des III et IV ci-après ;
+m) L'acquittement des taxes dues par l'exploitant pour couvrir les coûts administratifs occasionnés par la mise en oeuvre des
+dispositions du présent livre, dans les conditions prévues par les lois de finances ;
 
-o) Les conditions nécessaires pour assurer l'interopérabilité des services ;
+n) L'information, notamment sur les conditions contractuelles de fourniture du service, et la protection des utilisateurs.
 
-p) Les obligations qui s'imposent à l'exploitant pour permettre le contrôle du cahier des charges par l'Autorité de
-régulation des télécommunications ;
+Un décret fixe les modalités d'application du présent article, notamment le contenu du dossier de déclaration, et précise, en
+tant que de besoin, selon les différentes catégories de réseaux et de services, les règles mentionnées aux a à n.
 
-q) Les taxes dues par l'exploitant à raison de la délivrance, de la gestion et du contrôle de l'autorisation, dans les
-limites des frais administratifs afférents à ces opérations ;
+II. - Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des communications électroniques supérieur à un
+seuil fixé par arrêté des ministres chargés des communications électroniques et de l'économie sont tenus d'individualiser sur
+le plan comptable l'activité déclarée.
 
-r) L'égalité de traitement et l'information des utilisateurs, notamment sur les conditions contractuelles de fourniture du
-service, comportant en particulier les compensations prévues pour le consommateur en cas de manquement aux exigences de
-qualité précisées au b.
+En outre, lorsqu'ils disposent dans un secteur d'activité autre que les communications électroniques d'un monopole ou d'une
+position dominante appréciée après avis du Conseil de la concurrence, et que les infrastructures utilisées peuvent être
+séparées physiquement, ils sont tenus, dans l'intérêt d'un bon exercice de la concurrence, d'individualiser cette activité
+sur le plan juridique.
 
-L'autorisation est délivrée pour une durée de quinze ans. Deux ans au moins avant la date de son expiration, le ministre
-notifie au titulaire les conditions de renouvellement de l'autorisation et les motifs d'un refus de renouvellement. Dans les
-cas d'établissement ou d'exploitation de réseaux expérimentaux, de modification ou d'adaptation de l'autorisation ou lorsque
-le demandeur le propose, l'autorisation peut être délivrée pour une durée inférieure à quinze ans ; le cahier des charges
-précise alors le délai minimal dans lequel sont notifiés au titulaire les conditions de renouvellement de l'autorisation et
-les motifs d'un refus de renouvellement.
-
-Un décret, pris après avis de la Commission supérieure du service public des postes et télécommunications, précise celles des
-clauses énumérées ci-dessus qui doivent être conformes à des clauses types dont il détermine le contenu. Les dispositions du
-projet de décret relatives à la clause mentionnée au m sont soumises pour avis au Conseil de la concurrence.
-
-B. - Pour les services de communication électronique utilisant des antennes paraboliques bidirectionnelles d'une puissance de
-transmission inférieure ou égale à 2 watts, les redevances de mise à disposition et de gestion des fréquences
-radioélectriques dues par les exploitants de réseaux de télécommunications par satellite ouverts au public sont établies
-respectivement sur une base forfaitaire métropolitaine ou régionale, par décret pris après avis de l'Autorité de régulation
-des télécommunications.
-
-II. - Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des télécommunications supérieur à un seuil fixé
-par arrêté des ministres chargés des télécommunications et de l'économie sont tenus d'individualiser sur le plan comptable
-l'activité autorisée.
-
-En outre, lorsqu'ils disposent dans un secteur d'activité autre que les télécommunications d'un monopole ou d'une position
-dominante appréciée après avis du Conseil de la concurrence, et que les infrastructures utilisées peuvent être séparées
-physiquement, ils sont tenus, dans l'intérêt d'un bon exercice de la concurrence, d'individualiser cette activité sur le plan
-juridique.
-
-Les opérateurs inscrits sur la liste établie en application du a du 7° de l'article L. 36-7 au titre d'une zone géographique
-donnée et qui détiennent, dans la même zone, des droits exclusifs ou bénéficient de droits particuliers pour l'exploitation
-de réseaux distribuant par câble des services de radiodiffusion sonore et de télévision sont tenus d'exploiter cette dernière
-activité sous la forme d'une personne juridiquement distincte.
-
-III. - Sous réserve des engagements internationaux souscrits par la France comportant une clause de réciprocité applicable au
-secteur des télécommunications, l'autorisation mentionnée au présent article, lorsqu'elle concerne un réseau utilisant des
-fréquences radioélectriques, ne peut être accordée à une société dans laquelle plus de 20 p. 100 du capital social ou des
-droits de vote sont détenus, directement ou indirectement, par des personnes de nationalité étrangère.
-
-De même, aucune personne de nationalité étrangère ne peut procéder à une acquisition ayant pour effet de porter, directement
-ou indirectement, la part détenue par des personnes de nationalité étrangère à plus de 20 p. 100 du capital social ou des
-droits de vote dans les assemblées générales d'une société titulaire d'une telle autorisation.
-
-Est considérée comme personne de nationalité étrangère, pour l'application du présent article, toute personne physique de
-nationalité étrangère, toute société dont la majorité du capital n'est pas détenue, directement ou indirectement, par des
-personnes physiques ou morales de nationalité française.
-
-Les dispositions du présent paragraphe ne sont pas applicables aux personnes physiques ou morales ressortissant d'un Etat
-membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
-
-IV. - Sous réserve des engagements internationaux souscrits par la France, le ministre chargé des télécommunications et
-l'autorité de régulation des télécommunications veillent à ce que soit assurée l'égalité de traitement des opérateurs
-autorisés à acheminer du trafic international au départ ou à destination de réseaux ouverts au public français, notamment
-dans les conditions d'interconnexion aux réseaux français et étrangers auxquels ils demandent accès.
+III. - Sous réserve des engagements internationaux souscrits par la France, le ministre chargé des communications
+électroniques et l'Autorité de régulation des télécommunications veillent à ce que soit assurée l'égalité de traitement des
+opérateurs acheminant du trafic international au départ ou à destination de réseaux ouverts au public français, notamment
+dans les conditions d'accès aux réseaux français et étrangers.
 
 Sous la même réserve, ils veillent également à ce que les opérateurs des pays tiers à la Communauté européenne assurent aux
-opérateurs autorisés en application du présent article et de l'article L. 34-1 des droits comparables, notamment en matière
-d'interconnexion, à ceux dont ils bénéficient sur le territoire national, en application du présent code.
+opérateurs déclarés en application du présent article des droits comparables, notamment en matière d'interconnexion et
+d'accès à ceux dont ils bénéficient sur le territoire national, en application du présent code.
 
-V. - Le nombre des autorisations peut être limité en raison des contraintes techniques inhérentes à la disponibilité des
-fréquences.
-
-Dans ce cas, le ministre chargé des télécommunications publie, sur proposition de l'Autorité de régulation des
-télécommunications, les modalités et les conditions d'attribution des autorisations.
-
-L'allocation des fréquences doit dans tous les cas permettre d'assurer des conditions de concurrence effective.
+IV. - Les installations mentionnées au 2° de l'article L. 33 sont soumises à déclaration dans les conditions prévues aux
+trois premiers alinéas du I du présent article et doivent respecter les règles mentionnées aux i et l du I.
 
 **Liens relatifs à cet article**
 
@@ -1965,50 +1887,37 @@ L'allocation des fréquences doit dans tous les cas permettre d'assurer des cond
 	  - Code des postes et des communications électronique - art. R9-9 (Ab)
 	  - Code général des impôts, CGI. - art. 302 bis KH (V)
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L36-11, L39, L39-1, L39-2, L39-4, L34-10, L35-2, L35-3, L35-5, L35-4, L36-7, L34-1
-
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 52 (V) JORF 22 juin 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+	  - Code des postes et des communications électronique - art. L34 (M)
+	  - Code des postes et des communications électronique - art. L34-8 (M)
+	  - Code des postes et des communications électronique - art. L37-1 (M)
+	  - Code des postes et des communications électronique - art. L38 (Ab)
+	  - Code des postes et des communications éléctroniques L36-11, L39, L35-2 à L35-5, L34, L34-8, L38, L37-1, L33
 
 
 ###### Article L33-2
 
-L'établissement des réseaux indépendants, autres que ceux mentionnés à l'article L. 33-3, est autorisé par l'Autorité de
-régulation des télécommunications.
+Un décret, pris après avis de la Commission supérieure du service public des postes et des communications électroniques,
+détermine les conditions générales d'établissement et d'exploitation des réseaux indépendants en ce qui concerne la
+protection de la santé et de l'environnement et les objectifs d'urbanisme, les prescriptions relatives à l'ordre public, la
+sécurité publique et la défense, et les modalités d'implantation du réseau que doivent respecter les exploitants. Il précise
+les conditions dans lesquelles ceux-ci, ainsi que ceux mentionnés à l'article L. 33-3, peuvent, sans permettre l'échange de
+communications entre des personnes autres que celles auxquelles l'usage du réseau est réservé, être connectés à un réseau
+ouvert au public.
 
-Un décret, pris après avis de la Commission supérieure du service public des postes et télécommunications, détermine les
-conditions générales d'établissement et d'exploitation de ces réseaux en ce qui concerne les exigences essentielles, les
-prescriptions relatives à la sécurité publique et à la défense et les modalités d'implantation du réseau que doivent
-respecter les exploitants. Il précise les conditions dans lesquelles ceux-ci, ainsi que ceux mentionnés à l'article L. 33-3,
-peuvent, sans permettre l'échange de communications entre des personnes autres que celles auxquelles l'usage du réseau est
-réservé, être connectés à un réseau ouvert au public.
-
-L'autorisation ne peut être refusée qu'en cas de non-conformité à l'une des conditions générales d'établissement définies
-dans le décret mentionné au précédent alinéa ou à l'une des conditions d'établissement fixées par l'Autorité de régulation
-des télécommunications conformément aux dispositions de l'article L. 36-6. A défaut de décision expresse dans un délai fixé
-par le décret mentionné au précédent alinéa, et sauf dans le cas mentionné à l'alinéa suivant, elle est réputée acquise.
-
-Lorsqu'elle concerne un réseau qui utilise des fréquences assignées à son exploitant, l'autorisation doit être expresse. Elle
-est assortie d'un cahier des charges qui porte sur les prescriptions mentionnées au h du I de l'article L. 33-1 et qui
-précise les obligations pesant sur le titulaire en application du décret prévu au deuxième alinéa du présent article.
-
-Un exploitant de réseau indépendant ne peut conférer à son réseau le caractère de réseau ouvert au public sans autorisation
-préalable délivrée dans les conditions prévues à l'article L. 33-1. A défaut, l'exploitant peut être sanctionné dans les
-conditions prévues aux articles L. 36-11 et L. 39.
-
-L'exploitant acquitte les taxes dues à raison de la délivrance, de la gestion et du contrôle de l'autorisation, dans les
-limites des frais administratifs afférents à ces opérations.
+Un exploitant de réseau indépendant ne peut conférer à son réseau le caractère de réseau ouvert au public sans déclaration
+préalable dans les conditions prévues à l'article L. 33-1. A défaut, l'exploitant peut être sanctionné dans les conditions
+prévues aux articles L. 36-11 et L. 39.
 
 **Liens relatifs à cet article**
 
@@ -2036,8 +1945,8 @@ limites des frais administratifs afférents à ces opérations.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 8 () JORF 28 juillet 2001
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 9 () JORF 28 juillet 2001
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 7 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -2045,42 +1954,36 @@ limites des frais administratifs afférents à ces opérations.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L33-3, L36-6, L33-1, L36-11, L39
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L33-3 (M)
+	  - Code des postes et des communications électronique - art. L36-11 (M)
+	  - Code des postes et des communications électronique - art. L39 (M)
 
 
 ###### Article L33-3
 
 Sous réserve de leur conformité aux dispositions du présent code, sont établis librement :
 
-1° Les réseaux internes ;
+1° Les installations radioélectriques n'utilisant pas des fréquences spécifiquement assignées à leur utilisateur.
 
-2° Les cabines téléphoniques en dehors de la voie publique ;
-
-3° Les réseaux indépendants de proximité, autres que radioélectriques, d'une longueur inférieure à un seuil fixé par le
-ministre chargé des télécommunications ;
-
-4° Les installations radioélectriques de faible puissance et de faible portée dont les catégories sont déterminées
-conjointement par les ministres chargés des télécommunications, de la défense et de l'intérieur ;
-
-5° Les installations radioélectriques n'utilisant pas des fréquences spécifiquement assignées à leur utilisateur.
-
-6° Les installations radioélectriques permettant de rendre inopérants dans les salles de spectacles, tant pour l'émission que
+2° Les installations radioélectriques permettant de rendre inopérants dans les salles de spectacles, tant pour l'émission que
 pour la réception, les téléphones mobiles de tous types dans l'enceinte des salles de spectacles.
 
 Les salles de spectacles sont tout lieu dont l'aménagement spécifique est destiné à permettre la représentation ou la
 diffusion au public d'une oeuvre de l'esprit.
 
-7° Les installations radioélectriques permettant de rendre inopérants dans l'enceinte des établissements pénitentiaires, tant
-pour l'émission que pour la réception, les appareils de télécommunication mobiles de tous types.
+3° Les installations radioélectriques permettant de rendre inopérants dans l'enceinte des établissements pénitentiaires, tant
+pour l'émission que pour la réception, les appareils de communications électroniques mobiles de tous types.
 
-Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus, à l'exception de celles prévues au 7°,
+Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus, à l'exception de celles prévues au 3°,
 sont déterminées dans les conditions prévues à l'article L. 36-6.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 47 () JORF 10 septembre 2002
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 7 () JORF 10 juillet 2004
 
 	**Cité par**:
 
@@ -2107,10 +2010,6 @@ sont déterminées dans les conditions prévues à l'article L. 36-6.
 
 	  - Décret n°62-273 1962-03-12
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L36-6
-
 
 ###### Article L33-3-1
 
@@ -2120,9 +2019,9 @@ que pour la réception, les téléphones mobiles de tous types.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 8 () JORF 27 septembre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -2136,27 +2035,39 @@ que pour la réception, les téléphones mobiles de tous types.
 
 ###### Article L33-4
 
-La publication des listes d'abonnés ou d'utilisateurs des réseaux ou services de télécommunications est libre, sous réserve
-de la protection des droits des personnes concernées.
+Sont placées auprès du ministre chargé des communications électroniques et de l'Autorité de régulation des télécommunications
+deux commissions consultatives spécialisées, d'une part dans le domaine des réseaux et des services radioélectriques, d'autre
+part dans celui des autres réseaux et services. Elles comprennent, en nombre égal, des représentants des fournisseurs de
+services, des représentants des utilisateurs de services professionnels et particuliers et des personnalités qualifiées
+nommés par le ministre chargé des communications électroniques.
 
-Parmi les droits garantis figure celui pour toute personne d'être mentionnée sur les listes d'abonnés ou d'utilisateurs
-publiées ou, sur sa demande, de ne pas l'être, de s'opposer à l'inscription de l'adresse complète de son domicile sur ces
-listes, d'interdire que les informations nominatives la concernant soient utilisées dans des opérations commerciales, ainsi
-que de pouvoir obtenir communication desdites informations nominatives et exiger qu'elles soient rectifiées, complétées,
-clarifiées, mises à jour ou effacées, dans les conditions prévues aux articles 35 et 36 de la loi n° 78-17 du 6 janvier 1978
-relative à l'informatique, aux fichiers et aux libertés.
+La commission consultative compétente est consultée par le ministre chargé des communications électroniques ou par l'Autorité
+de régulation des télécommunications sur tout projet de mesure visant à fixer ou à modifier les conditions techniques et
+d'exploitation, les spécifications et les prescriptions techniques des services relevant de son domaine de compétence, ainsi
+que sur les prescriptions relatives à l'interconnexion ou à l'accès et à la numérotation mentionnées aux articles L. 34-8 et
+L. 44. Ses conclusions sont transmises à la Commission supérieure du service public des postes et des communications
+électroniques.
 
-Sur toute demande présentée en vue d'éditer un annuaire universel ou de fournir un service universel de renseignements, même
-limitée à une zone géographique déterminée, les opérateurs sont tenus de communiquer, dans des conditions non
-discriminatoires et à un tarif reflétant les coûts du service rendu, la liste de tous les abonnés ou utilisateurs auxquels
-ils ont affecté, directement ou par l'intermédiaire d'un distributeur, un ou plusieurs numéros du plan national de
-numérotation prévu à l'article L. 34-10. Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service
-public des postes et télécommunications, précise les modalités d'application du présent alinéa.
+Un décret détermine la composition, les attributions et les conditions de fonctionnement de chacune de ces deux commissions
+consultatives.
 
-Les litiges relatifs aux conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'alinéa
-précédent peuvent être soumis à l'Autorité de régulation des télécommunications conformément à l'article L. 36-8.
+**Nota:**
+
+NOTA : La loi 2004-801 art. 17 I modifie l'ancienne version de l'article L. 33-4 du code des postes et télécommunications qui
+a été abrogée par la loi 2004-669 art. 8 I. Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par cette
+même loi 2004-669 (art. 8 II).
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 5 I, art. 8 II, III JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 	**Cité par**:
 
@@ -2170,18 +2081,28 @@ précédent peuvent être soumis à l'Autorité de régulation des télécommuni
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L34-5 (T)
+	  - Code des postes et télécommunications L34-5
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L34-10, L36-8
-	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 36 (M)
+	  - Code des postes et des communications électronique - art. L34-8 (M)
+	  - Code des postes et des communications électronique - art. L44 (M)
 
-	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 17 () JORF 28 juillet 2001
+###### Article L33-5
 
-	**Abrogé par**:
+Les infrastructures de communications électroniques établies sur le domaine public ou pour les besoins de missions de service
+public peuvent être utilisées pour l'aménagement et l'exploitation de réseaux ouverts au public et la fourniture au public de
+tous services de communications électroniques, dans le respect des dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. L34-7 (T)
+	  - Code des postes et télécommunications L34-7
+
+	**Créé par**:
 
 	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
 
@@ -2190,91 +2111,51 @@ précédent peuvent être soumis à l'Autorité de régulation des télécommuni
 	  - Décret n°62-273 1962-03-12
 
 
-###### Article L33-4-1
-
-Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier électronique
-utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son consentement
-préalable à recevoir des prospections directes par ce moyen.
-
-Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
-informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
-prospection directe.
-
-Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
-services ou l'image d'une personne vendant des biens ou fournissant des services.
-
-Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
-recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection
-directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
-voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la
-transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
-fois qu'un courrier électronique de prospection lui est adressé.
-
-Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
-télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
-transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
-celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
-émise et de mentionner un objet sans rapport avec la prestation ou le service proposé.
-
-La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
-coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
-reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
-plaintes relatives aux infractions aux dispositions du présent article.
-
-Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
-premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L.
-450-8, L. 470-1 et L. 470-5 du code de commerce.
-
-Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
-aux différentes technologies utilisées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 1978-01-06
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-4 (M)
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code de commerce. - art. L470-1 (V)
-	  - Code de commerce. - art. L470-5 (V)
-	  - Code des postes et télécommunications L450-1
-
-	**Modifié par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 22 (V) JORF 22 juin 2004
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L34-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-##### SECTION 2 : Services
+##### Section 2 : Annuaires et services de renseignements.
 
 ###### Article L34
 
-La présente section s'applique aux services de télécommunications fournis au public.
+La publication des listes d'abonnés ou d'utilisateurs des réseaux ou services de communications électroniques est libre, sous
+réserve de la protection des droits des personnes.
+
+Parmi les droits garantis figurent ceux pour toute personne d'être mentionnée sur les listes d'abonnés ou d'utilisateurs
+publiées dans les annuaires ou consultables par l'intermédiaire d'un service de renseignements ou de ne pas l'être, de
+s'opposer à l'inscription de certaines données la concernant dans la mesure compatible avec les nécessités de la constitution
+des annuaires et des services de renseignements auxquels ces listes sont destinées, d'être informée préalablement des fins
+auxquelles sont établis, à partir de ces listes, des annuaires et services de renseignements et des possibilités
+d'utilisation reposant sur des fonctions de recherche intégrées à leur version électronique, d'interdire que les informations
+nominatives la concernant soient utilisées dans des opérations commerciales, ainsi que de pouvoir obtenir communication
+desdites informations nominatives et exiger qu'elles soient rectifiées, complétées, clarifiées, mises à jour ou effacées,
+dans les conditions prévues aux articles 35 et 36 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+Le consentement préalable des abonnés à un opérateur de téléphonie mobile est requis pour toute inscription dans les listes
+d'abonnés ou d'utilisateurs établies par leur opérateur mobile, destinées à être publiées dans les annuaires ou consultables
+par l'intermédiaire d'un service de renseignements, de données à caractère personnel les concernant.
+
+Sur toute demande présentée en vue d'éditer un annuaire universel ou de fournir un service universel de renseignements, même
+limitée à une zone géographique déterminée, les opérateurs sont tenus de communiquer, dans des conditions non
+discriminatoires et à un tarif reflétant les coûts du service rendu, la liste de tous les abonnés ou utilisateurs auxquels
+ils ont affecté, directement ou par l'intermédiaire d'un distributeur, un ou plusieurs numéros du plan national de
+numérotation téléphonique prévu à l'article L. 44. Les données communiquées portent soit sur l'ensemble des abonnés et des
+utilisateurs de l'opérateur, soit sur ceux qui sont domiciliés dans la ou les communes de la zone géographique faisant
+l'objet de la demande. Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes
+et des communications électroniques, précise les modalités d'application du présent alinéa.
+
+Les litiges relatifs aux conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'alinéa
+précédent peuvent être soumis à l'Autorité de régulation des télécommunications conformément à l'article L. 36-8.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 36 (M)
+	  - Code des postes et des communications électronique - art. L44 (M)
+
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 9 () JORF 10 juillet 2004
 
 	**Cité par**:
 
@@ -2298,35 +2179,68 @@ La présente section s'applique aux services de télécommunications fournis au 
 	  - Loi n°1913-07-30 art. 25
 
 
+##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.
+
 ###### Article L34-1
 
-La fourniture du service téléphonique au public est autorisée par le ministre chargé des télécommunications.
+I. - Les opérateurs de communications électroniques, et notamment les personnes dont l'activité est d'offrir un accès à des
+services de communication au public en ligne, effacent ou rendent anonyme toute donnée relative au trafic, sous réserve des
+dispositions des II, III, IV et V.
 
-Cette autorisation ne peut être refusée que dans la mesure requise par la sauvegarde de l'ordre public ou les besoins de la
-défense ou de la sécurité publique, ou lorsque le demandeur n'a pas la capacité technique ou financière de faire face
-durablement aux obligations résultant des conditions d'exercice de son activité, ou a fait l'objet d'une des sanctions
-mentionnées aux articles L. 36-11, L. 39, L. 39-1, L. 39-2 et L. 39-4.
+II. - Pour les besoins de la recherche, de la constatation et de la poursuite des infractions pénales, et dans le seul but de
+permettre, en tant que de besoin, la mise à disposition de l'autorité judiciaire d'informations, il peut être différé pour
+une durée maximale d'un an aux opérations tendant à effacer ou à rendre anonymes certaines catégories de données techniques.
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine, dans
+les limites fixées par le V, ces catégories de données et la durée de leur conservation, selon l'activité des opérateurs et
+la nature des communications ainsi que les modalités de compensation, le cas échéant, des surcoûts identifiables et
+spécifiques des prestations assurées à ce titre, à la demande de l'Etat, par les opérateurs.
 
-L'autorisation est soumise à l'application des règles contenues dans un cahier des charges et portant sur les points
-mentionnés au I de l'article L. 33-1, à l'exception des e et h.
+III. - Pour les besoins de la facturation et du paiement des prestations de communications électroniques, les opérateurs
+peuvent, jusqu'à la fin de la période au cours de laquelle la facture peut être légalement contestée ou des poursuites
+engagées pour en obtenir le paiement, utiliser, conserver et, le cas échéant, transmettre à des tiers concernés directement
+par la facturation ou le recouvrement les catégories de données techniques qui sont déterminées, dans les limites fixées par
+le V, selon l'activité des opérateurs et la nature de la communication, par décret en Conseil d'Etat pris après avis de la
+Commission nationale de l'informatique et des libertés.
 
-Lorsque la fourniture du service suppose l'établissement d'un réseau ouvert au public, l'autorisation délivrée en application
-de l'article L. 33-1 autorise la fourniture du service.
+Les opérateurs peuvent en outre réaliser un traitement des données relatives au trafic en vue de commercialiser leurs propres
+services de communications électroniques ou de fournir des services à valeur ajoutée, si les abonnés y consentent
+expressément et pour une durée déterminée. Cette durée ne peut, en aucun cas, être supérieure à la période nécessaire pour la
+fourniture ou la commercialisation de ces services. Ils peuvent également conserver certaines données en vue d'assurer la
+sécurité de leurs réseaux.
 
-L'Autorité de régulation des télécommunications peut, dans les conditions prévues à l'article L. 36-11, exiger d'un opérateur
-qu'il modifie ses conditions contractuelles de fourniture du service téléphonique au public et les modalités de remboursement
-ou d'indemnisation appliquées par lui, lorsque ces conditions ou modalités ne sont pas conformes aux dispositions du r du I
-de l'article L. 33-1.
+IV. - Sans préjudice des dispositions du II et du III et sous réserve des nécessités des enquêtes judiciaires, les données
+permettant de localiser l'équipement terminal de l'utilisateur ne peuvent ni être utilisées pendant la communication à des
+fins autres que son acheminement, ni être conservées et traitées après l'achèvement de la communication que moyennant le
+consentement de l'abonné, dûment informé des catégories de données en cause, de la durée du traitement, de ses fins et du
+fait que ces données seront ou non transmises à des fournisseurs de services tiers. L'abonné peut retirer à tout moment et
+gratuitement, hormis les coûts liés à la transmission du retrait, son consentement. L'utilisateur peut suspendre le
+consentement donné, par un moyen simple et gratuit, hormis les coûts liés à la transmission de cette suspension. Tout appel
+destiné à un service d'urgence vaut consentement de l'utilisateur jusqu'à l'aboutissement de l'opération de secours qu'il
+déclenche et seulement pour en permettre la réalisation.
+
+V. - Les données conservées et traitées dans les conditions définies aux II, III et IV portent exclusivement sur
+l'identification des personnes utilisatrices des services fournis par les opérateurs, sur les caractéristiques techniques des
+communications assurées par ces derniers et sur la localisation des équipements terminaux.
+
+Elles ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous
+quelque forme que ce soit, dans le cadre de ces communications.
+
+La conservation et le traitement de ces données s'effectuent dans le respect des dispositions de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Les opérateurs prennent toutes mesures pour empêcher une utilisation de ces données à des fins autres que celles prévues au
+présent article.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 18 () JORF 28 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+	  - Loi n°2004-669 2004-07-09 art. 10 I, II JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 	**Cité par**:
 
@@ -2385,84 +2299,17 @@ de l'article L. 33-1.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L32-3-1 (T)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L36-11, L39, L39-1, L39-2, L39-4, L33-1
-
-
-###### Article L34-1-1
-
-Sans préjudice des dispositions de l'article L. 35-2, les opérateurs inscrits sur la liste établie en application du a du 7°
-de l'article L. 36-7 :
-
-1° Fixent les tarifs du service téléphonique au public de manière à ce qu'ils reflètent les coûts correspondants. Ces tarifs
-sont indépendants de la nature de l'utilisation qui est faite du service par les utilisateurs. Ils sont suffisamment
-détaillés pour que l'utilisateur ne soit pas obligé de payer des compléments de services qui ne sont pas nécessaires à la
-fourniture du service demandé. Les opérateurs portent ces tarifs et leurs modifications à la connaissance du public au moins
-huit jours avant la date de leur mise en application ;
-
-2° Publient et appliquent de façon non discriminatoire toute formule de réduction tarifaire. L'Autorité de régulation des
-télécommunications peut, dans les conditions prévues à l'article L. 36-11, exiger d'un opérateur qu'il modifie ou retire des
-formules de réduction lorsque celles-ci ne sont pas conformes aux dispositions du présent article ;
-
-3° Disposent d'un système d'information et tiennent une comptabilité des services et des activités qui permettent notamment
-de vérifier le respect des obligations prévues au 1°. Cette comptabilité est vérifiée périodiquement, à leurs frais, par un
-organisme indépendant agréé par l'Autorité de régulation des télécommunications. Les résultats du contrôle sont communiqués à
-l'Autorité de régulation des télécommunications et au ministre chargé des télécommunications. L'organisme agréé publie
-annuellement une attestation de conformité établie en application des présentes dispositions ;
-
-4° Fournissent une offre de services avancés de téléphonie vocale dont le contenu est fixé par arrêté ministériel ;
-
-5° Se conforment aux obligations de qualité de service fixées, le cas échéant, par arrêté ministériel et, lorsque des
-indicateurs de qualité on été définis par arrêté ministériel, enregistrent les valeurs résultant de l'application de ces
-indicateurs. Les valeurs enregistrées sont communiquées, à leur demande, au ministre chargé des télécommunications et à
-l'Autorité de régulation des télécommunications. Celle-ci peut demander une vérification des données fournies par un
-organisme indépendant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L35-2, L36-7, L36-11
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 18 () JORF 28 juillet 2001
-
-	**Cité par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
-	  - Arrêté du 26 mars 2012 - art. 1 (V)
-	  - Arrêté du 26 mars 2012 - art. 4 (V)
-	  - Code de la sécurité intérieure - art. L222-2 (VT)
-	  - Code de la sécurité intérieure - art. L243-12 (VT)
-	  - Code de la sécurité intérieure - art. L243-7 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-15 (VT)
-	  - Code des postes et des communications électroni... - art. R10-16 (VT)
-	  - Code des postes et des communications électroni... - art. R10-17 (VT)
-	  - Code des postes et des communications électroni... - art. R10-18 (VT)
-	  - Code des postes et des communications électroni... - art. R10-21 (VT)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Code des postes et télécommunications L32-3-1
 
 
 ###### Article L34-2
 
-La fourniture au public des services de télécommunications autres que le service téléphonique est libre sous réserve du
-respect des exigences essentielles et des prescriptions relatives à la défense et à la sécurité publique.
+La prescription est acquise, au profit des opérateurs mentionnés à l'article L. 33-1, pour toutes demandes en restitution du
+prix de leurs prestations de communications électroniques présentées après un délai d'un an à compter du jour du paiement. 
 
-Toutefois, ces services sont soumis à autorisation dans les cas prévus à l'article L. 34-3 et à déclaration dans le cas prévu
-au premier alinéa de l'article L. 34-4.
-
-Un décret en Conseil d'Etat précise le contenu de la déclaration et de la demande d'autorisation et fixe les prescriptions
-nécessaires au respect des exigences essentielles.
+La prescription est acquise, au profit de l'usager, pour les sommes dues en paiement des prestations de communications
+électroniques d'un opérateur appartenant aux catégories visées au précédent alinéa lorsque celui-ci ne les a pas réclamées
+dans un délai d'un an courant à compter de la date de leur exigibilité.
 
 **Liens relatifs à cet article**
 
@@ -2483,77 +2330,38 @@ nécessaires au respect des exigences essentielles.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 22 () JORF 28 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2004-669 2004-07-09 art. 10 I, III JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 	**Anciens textes**:
 
+	  - Code des postes et télécommunications L32-3-2
 	  - Code des postes et des communications électronique - art. L32-3-2 (T)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-3, L34-4
-
-
-###### Article L34-2-1
-
-Le ministre chargé des télécommunications désigne, parmi les opérateurs figurant sur la liste établie en application du b du
-7° de l'article L. 36-7 ou, à défaut de tels opérateurs, parmi les titulaires des autorisations délivrées en application de
-l'article L. 33-1, les opérateurs qui sont tenus de fournir une offre de liaisons louées. Pour chaque opérateur, le ministre
-précise la zone géographique dans laquelle l'offre de liaisons louées doit être fournie.
-
-Un décret précise le contenu de l'offre de liaisons louées et les conditions de fourniture de liaisons louées par les
-opérateurs désignés en application de l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L36-7, L33-1
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 15 () JORF 28 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L33-1, v. 10.1 (V)
 
 
 ###### Article L34-3
 
-La fourniture au public des services de télécommunications utilisant des fréquences hertziennes est soumise à autorisation
-préalable du ministre chargé des télécommunications dans les conditions suivantes :
+Les opérateurs exploitant un réseau radioélectrique de communication ouvert au public ou fournissant des services de
+radiocommunication au public sont tenus de mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
+des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des communications émises au moyen de terminaux mobiles,
+identifiés et qui leur ont été déclarés volés.
 
-1° Lorsqu'elle suppose l'établissement d'un nouveau réseau ou la modification d'un réseau déjà autorisé, les dispositions de
-l'article L. 33-1 sont applicables ;
-
-2° Lorsqu'elle est assurée grâce à un réseau utilisant des fréquences assignées par une autre autorité que celle compétente
-en matière de télécommunications, la délivrance de l'autorisation est subordonnée au respect des dispositions mentionnées au
-I de l'article L. 33-1. Cette autorisation est délivrée après que l'autorité assignant les fréquences a donné son accord sur
-l'usage de celles-ci. Elle doit notamment établir les conditions d'une concurrence loyale entre les fournisseurs de services,
-quelle que soit l'autorité assignant les fréquences.
+Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après accord donné par le procureur de la République
+ou le juge d'instruction, de ne pas appliquer les dispositions du premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -2571,56 +2379,30 @@ quelle que soit l'autorité assignant les fréquences.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L32-5 (T)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1
+	  - Code des postes et télécommunications L32-5
 
 
 ###### Article L34-4
 
-La fourniture au public des services de télécommunications autres que le service téléphonique sur les réseaux établis ou
-exploités en application de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle et de l'article 34 de la
-loi n° 86-1067 du 30 septembre 1986 précitée est soumise, après information de la commune ou du groupement de communes ayant
-établi les réseaux ou autorisé leur établissement, à déclaration préalable auprès de l'Autorité de régulation des
-télécommunications.
+Les dispositions des articles L. 34-1, L. 34-2 et L. 34-3 sont applicables en Nouvelle-Calédonie, en Polynésie française et
+dans les îles Wallis et Futuna. 
 
-Cette déclaration a pour seul objet de permettre à l'Autorité de régulation des télécommunications de vérifier la nature du
-service fourni et des installations utilisées.
-
-Lorsque le service proposé est le service téléphonique au public, sa fourniture est soumise aux dispositions de l'article L.
-34-1. En ce cas, l'autorisation est délivrée après consultation de la commune ou du groupement de communes ayant établi le
-réseau ou autorisé son établissement.
-
-Lorsque l'objet du service proposé est directement associé à la fourniture des services de radiodiffusion sonore et de
-télévision distribués sur le réseau, les dispositions du premier alinéa de l'article 34-2 de la loi n° 86-1067 du 30
-septembre 1986 précitée reçoivent application.
-
-Les conventions en vigueur qui contiennent des clauses excluant la fourniture de services de télécommunications sur les
-réseaux mentionnés au premier alinéa ci-dessus ou lui apportant des restrictions de nature juridique ou technique devront
-être mises en conformité, avant le 1er janvier 1998, avec les dispositions du présent article. Ces mêmes conventions
-garantissent, au titre de ces services, une juste rémunération du propriétaire de ces réseaux, assurant la couverture par le
-fournisseur de services du coût des prestations fournies et des investissements nécessaires à cette fin. Elles précisent les
-modalités de mise à disposition des capacités supplémentaires nécessaires ainsi que les conditions techniques d'utilisation
-de ces réseaux. En cas de litige, l'Autorité de régulation des télécommunications peut être saisie, dans les conditions
-prévues à l'article L. 36-8.
+II.-Sans préjudice de leur application de plein droit à Mayotte en vertu du 8° du I de l'article 3 de la loi n° 2001-616 du
+11 juillet 2001 relative à Mayotte, les articles L. 32-3-3 et L. 32-3-4 sont applicables en Nouvelle-Calédonie, en Polynésie
+française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L34-1, L36-8
-	  - Loi n°82-652 1982-07-29
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 34 (M)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 34-2 (M)
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 3 (Ab)
+	  - Code des postes et des communications électroni... - art. L32-3-3 (V)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+	  - Loi n°2004-669 2004-07-09 art. 10 I, IV JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -2636,41 +2418,65 @@ prévues à l'article L. 36-8.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L32-6 (T)
+	  - Code des postes et télécommunications L32-6
 
-
-##### SECTION 3 : Dispositions communes
 
 ###### Article L34-5
 
-Sont placées auprès du ministre chargé des télécommunications et de l'Autorité de régulation des télécommunications deux
-commissions consultatives spécialisées, d'une part dans le domaine des réseaux et des services radioélectriques, d'autre part
-dans celui des autres réseaux et services. Elles comprennent, en nombre égal, des représentants des fournisseurs de services,
-des représentants des utilisateurs de services professionnels et particuliers et des personnalités qualifiées nommés par le
-ministre chargé des télécommunications.
+Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier électronique
+utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son consentement
+préalable à recevoir des prospections directes par ce moyen.
 
-La commission consultative compétente est consultée par le ministre chargé des télécommunications ou par l'Autorité de
-régulation des télécommunications sur tout projet de mesure visant à définir les procédures d'autorisation, à fixer ou à
-modifier les conditions techniques et d'exploitation, les spécifications et les prescriptions techniques des services
-relevant de son domaine de compétence, ainsi que sur les prescriptions relatives à l'interconnexion et à la numérotation
-mentionnées aux articles L. 34-8 et L. 34-10. Ses conclusions sont transmises à la Commission supérieure du service public
-des postes et télécommunications.
+Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
+informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
+prospection directe.
 
-Un décret détermine la composition, les attributions et les conditions de fonctionnement de chacune de ces deux commissions
-consultatives.
+Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
+services ou l'image d'une personne vendant des biens ou fournissant des services.
+
+Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
+recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection
+directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
+voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la
+transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
+fois qu'un courrier électronique de prospection lui est adressé.
+
+Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
+télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
+transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
+celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
+émise et de mentionner un objet sans rapport avec la prestation ou le service proposé.
+
+La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
+coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
+reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
+plaintes relatives aux infractions aux dispositions du présent article.
+
+Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
+premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L.
+450-8, L. 470-1 et L. 470-5 du code de commerce.
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
+aux différentes technologies utilisées.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L34-8, L34-10
+	  - Loi n°78-17 1978-01-06
+	  - Code de commerce. - art. L450-2 (V)
+	  - Code de commerce. - art. L450-3 (M)
+	  - Code de commerce. - art. L450-4 (M)
+	  - Code de commerce. - art. L450-7 (V)
+	  - Code de commerce. - art. L450-8 (M)
+	  - Code de commerce. - art. L470-1 (V)
+	  - Code de commerce. - art. L470-5 (V)
+	  - Code des postes et des communications éléctroniques L450-1
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -2690,152 +2496,67 @@ consultatives.
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-5 (VT)
 
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L33-4 (M)
-
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L33-4-1 (T)
+	  - Code des postes et télécommunications L33-4-1
 
 
 ###### Article L34-6
 
-Les autorisations délivrées en application des dispositions des sections 1 et 2 du présent chapitre sont liées à la personne
-de leur titulaire. Elles ne peuvent être cédées à un tiers.
-
-Les autorisations délivrées en application des articles L. 33-1, L. 34-1 et L. 34-3, ainsi que le cas échéant les cahiers des
-charges qui leur sont annexés, sont publiés au Journal officiel.
-
-Les refus d'autorisation sont motivés et notifiés aux intéressés.
-
-La suspension, la réduction de durée et le retrait total ou partiel des autorisations sont prononcés par l'Autorité de
-régulation des télécommunications, dans les conditions prévues à l'article L. 36-11.
+A sa demande, tout abonné d'un réseau ouvert au public peut, sauf pour une raison liée au fonctionnement des services
+d'urgence ou à la tranquillité de l'appelé, s'opposer à l'identification par ses correspondants de son numéro d'abonné.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1, L34-3, L36-11
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
 
 	**Cité par**:
 
 	  - Loi n°96-659 du 26 juillet 1996 - art. 22 (VD)
 
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L34-7
-
-Les infrastructures de télécommunications établies sur le domaine public ou pour les besoins de missions de service public
-peuvent être utilisées pour l'aménagement et l'exploitation de réseaux ouverts au public et la fourniture au public de tous
-services de télécommunications, dans le respect des dispositions du présent code.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 23 juillet 1996 - art. ANNEXE (V)
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 8 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
 
-	**Nouveaux textes**:
 
-	  - Code des postes et des communications électronique - art. L33-5 (V)
-
-
-##### SECTION 4 : Interconnexion et accès au réseau
+##### Section 4 : Interconnexion et accès au réseau.
 
 ###### Article L34-8
 
-I. - Les exploitants de réseaux ouverts au public font droit, dans des conditions objectives et transparentes, aux demandes
-d'interconnexion des titulaires d'une autorisation délivrée en application des articles L. 33-1 et L. 34-1.
+I. - L'interconnexion ou l'accès font l'objet d'une convention de droit privé entre les parties concernées. Cette convention
+détermine, dans le respect des dispositions du présent code et des décisions prises pour son application, les conditions
+techniques et financières de l'interconnexion ou de l'accès. Elle est communiquée à l'Autorité de régulation des
+télécommunications à sa demande.
+
+Lorsque cela est indispensable pour respecter les objectifs définis à l'article L. 32-1, l'autorité peut imposer, de manière
+objective, transparente, non discriminatoire et proportionnée, les modalités de l'accès ou de l'interconnexion :
+
+a) Soit de sa propre initiative, après avis du Conseil de la concurrence, consultation publique et notification à la
+Commission européenne et aux autorités compétentes des autres Etats membres de la Communauté européenne ; la décision est
+adoptée dans des conditions de procédure préalablement publiées par l'autorité ;
+
+b) Soit à la demande d'une des parties, dans les conditions prévues à l'article L. 36-8.
+
+Les décisions adoptées en application des a et b sont motivées et précisent les conditions équitables d'ordre technique et
+financier dans lesquelles l'interconnexion ou l'accès doivent être assurés. Les dispositions du IV de l'article L. 36-8 sont
+applicables aux décisions prises en application du a.
+
+II. - Les exploitants de réseaux ouverts au public font droit aux demandes d'interconnexion des autres exploitants de réseaux
+ouverts au public, y compris ceux qui sont établis dans un autre Etat membre de la Communauté européenne ou dans un autre
+Etat partie à l'accord sur l'Espace économique européen, présentées en vue de fournir au public des services de
+communications électroniques.
 
 La demande d'interconnexion ne peut être refusée si elle est justifiée au regard, d'une part, des besoins du demandeur,
 d'autre part, des capacités de l'exploitant à la satisfaire. Tout refus d'interconnexion opposé par l'exploitant est motivé.
-L'Autorité de régulation des télécommunications peut, au cas par cas, dans les conditions fixées à l'article L. 36-8, limiter
-à titre temporaire l'obligation prévue au premier alinéa lorsque l'interconnexion demandée peut être remplacée par des
-solutions techniquement et économiquement viables et que les ressources disponibles sont inadéquates pour répondre à la
-demande.
 
-L'interconnexion fait l'objet d'une convention de droit privé entre les deux parties concernées. Cette convention détermine,
-dans le respect des dispositions du présent code et des décisions prises pour son application, les conditions techniques et
-financières de l'interconnexion. Elle est communiquée à l'Autorité de régulation des télécommunications à sa demande.
+III. - Les opérateurs qui contrôlent l'accès aux utilisateurs finals peuvent se voir imposer des obligations en vue d'assurer
+le bon fonctionnement et l'interconnexion de leurs réseaux ainsi que l'accès aux services fournis sur d'autres réseaux.
 
-Lorsque cela est indispensable pour garantir l'égalité des conditions de concurrence ou l'interopérabilité des services,
-l'Autorité de régulation des télécommunications peut, après avis du Conseil de la concurrence, demander la modification des
-conventions déjà conclues.
-
-Un décret détermine les conditions générales, notamment celles liées aux exigences essentielles, et les principes de
-tarification auxquels les accords d'interconnexion doivent satisfaire.
-
-II. - Les exploitants de réseaux ouverts au public figurant sur les listes établies en application des a et b du 7° de
-l'article L. 36-7 sont tenus de publier, dans les conditions déterminées par leur cahier des charges, une offre technique et
-tarifaire d'interconnexion approuvée préalablement par l'Autorité de régulation des télécommunications.
-
-L'offre mentionnée à l'alinéa précédent contient des conditions différentes pour répondre, d'une part, aux besoins
-d'interconnexion des exploitants de réseaux ouverts au public et, d'autre part, aux besoins d'accès au réseau des
-fournisseurs de service téléphonique au public, compte tenu des droits et obligations propres à chacune de ces catégories
-d'opérateurs. Ces conditions doivent être suffisamment détaillées pour faire apparaître les divers éléments correspondant à
-chaque catégorie de services.
-
-Les mêmes exploitants disposent d'un système d'information et tiennent une comptabilité des services et des activités qui
-permettent notamment de vérifier le respect des obligations prévues au présent article. Cette comptabilité est vérifiée
-périodiquement, à leurs frais, par un organisme indépendant agréé par l'Autorité de régulation des télécommunications. Ces
-frais sont intégrés aux coûts des services d'interconnexion. L'organisme agréé publie annuellement une attestation de
-conformité établie en application du présent alinéa.
-
-III. - Les tarifs d'interconnexion des exploitants de réseaux ouverts au public figurant sur les listes établies en
-application des a et b du 7° de l'article L. 36-7 et ceux des exploitants de réseaux de téléphonie mobile ouverts au public
-figurant sur la liste établie en application du d du même article rémunèrent l'usage effectif du réseau de transport et de
-desserte et reflètent les coûts du service rendu.
-
-IV. - Les exploitants de réseaux ouverts au public figurant sur les listes établies en application des a, b et c du 7° de
-l'article L. 36-7 font droit aux demandes d'interconnexion des titulaires d'une autorisation délivrée en application des
-articles L. 33-1 et L. 34-1 dans des conditions objectives, non discriminatoires et transparentes. Les conventions conclues à
-cet effet sont communiquées à l'Autorité de régulation des télécommunications.
-
-Les mêmes exploitants assurent, dans les mêmes conditions, un accès à leur réseau aux utilisateurs et fournisseurs de
-services de télécommunications autres que le service téléphonique au public, ainsi qu'aux services de communication
-audiovisuelle autres que les services de radiodiffusion sonore ou de télévision diffusés par voie hertzienne terrestre ou par
-satellite, ou distribués par câble. Ils répondent également aux demandes justifiées d'accès spécial correspondant à des
-conditions techniques ou tarifaires non publiées, émanant de ces fournisseurs de service ou des utilisateurs. La fourniture
-des accès mentionnés au présent alinéa par un exploitant figurant sur la liste établie en application du a du 7° de l'article
-L. 36-7 donne lieu à une rémunération reflétant les coûts du service rendu.
-
-V. - Les exploitants de réseaux ouverts au public figurant sur la liste établie en application du a du 7° de l'article L.
-36-7 mettent en place les moyens nécessaires pour que leurs abonnés puissent accéder aux services commutés de tout opérateur
-interconnecté au moyen d'une présélection et écarter, appel par appel, tout choix de présélection en composant un préfixe
-court. L'Autorité de régulation des télécommunications peut imposer cette obligation à d'autres opérateurs exerçant une
-influence significative sur un marché pertinent qu'elle détermine. En ce cas, elle tient compte de l'intérêt du consommateur
-et veille à ne pas imposer une charge disproportionnée aux opérateurs et à ne pas créer d'obstacles à l'entrée sur le marché
-de nouveaux opérateurs.
-
-VI. - L'Autorité de régulation des télécommunications peut, soit d'office à tout moment, soit à la demande d'une des parties,
-intervenir, dans les conditions prévues à l'article L. 36-8, afin de définir les rubriques qui doivent être couvertes par un
-accord d'interconnexion ou de fixer les conditions spécifiques que doit respecter un tel accord.
-
-L'Autorité de régulation des télécommunications peut, soit d'office à tout moment, soit à la demande d'une des parties, fixer
-un terme pour conclure des négociations d'interconnexion.
-
-Les dispositions des deux alinéas précédents sont également applicables aux négociations relatives à l'accès spécial aux
-réseaux ouverts au public des exploitants figurant sur la liste établie en application du a du 7° de l'article L. 36-7.
+IV. - Un décret fixe les modalités d'application du présent article, notamment les conditions générales et les principes de
+tarification auxquels les accords d'interconnexion et d'accès doivent satisfaire.
 
 **Liens relatifs à cet article**
 
@@ -2874,7 +2595,7 @@ réseaux ouverts au public des exploitants figurant sur la liste établie en app
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 11 () JORF 28 juillet 2001
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 11 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -2882,3014 +2603,9 @@ réseaux ouverts au public des exploitants figurant sur la liste établie en app
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L33-1, L34-1, L36-8, L36-7
-
-
-##### SECTION 5 : Equipements terminaux
-
-###### Article L34-9
-
-Les équipements terminaux sont fournis librement.
-
-Les équipements destinés à être connectés à un réseau ouvert au public et les équipements radioélectriques doivent faire
-l'objet d'une évaluation de leur conformité aux exigences essentielles. Les organismes intervenant, le cas échéant, dans la
-procédure d'évaluation de conformité sont désignés de façon à offrir aux industriels concernés un choix préservant leur
-indépendance par rapport à des entreprises offrant des biens ou services dans le domaine des télécommunications.
-
-Un décret en Conseil d'Etat détermine :
-
-1° Les équipements qui sont dispensés de l'évaluation de conformité ;
-
-2° Les conditions que doivent respecter les organismes intervenant dans la procédure d'évaluation de conformité, pour être
-désignés en vue d'exercer ces fonctions ;
-
-3° Les conditions dans lesquelles sont, le cas échéant, élaborées et publiées les spécifications techniques des équipements
-soumis à l'évaluation de conformité ;
-
-4° Celles des exigences essentielles qui sont applicables aux équipements concernés ;
-
-5° Les conditions de mise sur le marché, de mise en service, de retrait du marché ou du service, de restriction ou
-d'interdiction de mise sur le marché ou de mise en service des équipements radioélectriques et des équipements terminaux
-ainsi que, pour ces derniers, les conditions de raccordement aux réseaux ouverts au public ;
-
-6° La procédure d'évaluation de conformité ;
-
-7° Les conditions dans lesquelles les détenteurs des équipements font vérifier à leurs frais la conformité de ces équipements
-aux prescriptions du présent article.
-
-Les équipements ou installations soumis à l'évaluation de conformité ne peuvent être fabriqués pour l'Espace économique
-européen, importés, en vue de leur mise à la consommation, de pays n'appartenant pas à celui-ci, détenus en vue de la vente,
-mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau ouvert au public ou faire l'objet de publicité que
-s'ils ont fait l'objet d'une évaluation de leur conformité et sont à tout moment conformes à celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 10
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 18 décembre 1996 - art. ANNEXE (P)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
-	  - Décret n°2006-1278 du 18 octobre 2006 - art. 2 (VT)
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 184 (V)
-	  - Décret n°2015-1084 du 27 août 2015 - art. 1 (V)
-	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
-	  - Décret n°2017-599 du 21 avril 2017 - art. 4
-	  - Code des postes et des communications électroni... - art. L36-7 (V)
-	  - Code des postes et des communications électroni... - art. L40 (V)
-	  - Code des postes et des communications électroni... - art. L40-1 (VD)
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
-	  - Code des postes et des communications électronique - art. D406-11 (V)
-	  - Code des postes et des communications électronique - art. D485 (T)
-	  - Code des postes et des communications électronique - art. L39-1 (V)
-	  - Code des postes et des communications électronique - art. L65-1 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 23 () JORF 28 juillet 2001
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-#### CHAPITRE III : Les obligations de service public
-
-###### Article L35-2
-
-Peut être chargé de fournir l'une des composantes du service universel mentionnées aux 1°, 2° et 3° de l'article L. 35-1 tout
-opérateur en acceptant la fourniture sur l'ensemble du territoire national et capable de l'assurer.
-
-Le ministre chargé des télécommunications désigne les opérateurs chargés de fournir les composantes du service universel à
-l'issue d'appels à candidatures portant sur les conditions techniques et tarifaires ainsi que, le cas échéant, le coût net de
-fourniture de ces prestations.
-
-Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé des télécommunications désigne un opérateur
-capable d'assurer le service en cause sur l'ensemble du territoire national.
-
-Le cahier des charges du ou des opérateurs en charge du service universel des télécommunications est soumis pour avis à la
-Commission supérieure du service public des postes et télécommunications.
-
-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et télécommunications,
-détermine les modalités d'application du présent article. Il fixe les conditions dans lesquelles les tarifs du service
-universel et sa qualité sont contrôlés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Arrêté du 14 février 2012 - art. (V)
-	  - Arrêté du 31 octobre 2013 - art. (V)
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L35-2-1 (V)
-	  - Code des postes et des communications électroni... - art. L35-3 (V)
-	  - Code des postes et des communications électroni... - art. L35-7 (V)
-	  - Code des postes et des communications électroni... - art. L35-8 (Ab)
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
-	  - Code des postes et des communications électroni... - art. L36-7 (V)
-	  - Code des postes et des communications électroni... - art. L38-1 (V)
-	  - Code des postes et des communications électroni... - art. L38-3 (V)
-	  - Code des postes et des communications électroni... - art. R10-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-30 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-10 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-11 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-13 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-3 (Ab)
-	  - Code des postes et des communications électroni... - art. R20-30-4 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-6 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
-	  - Code des postes et des communications électroni... - art. R20-32 (V)
-	  - Code des postes et des communications électroni... - art. R20-33 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L35-1
-
-
-###### Article L35-6
-
-Les prescriptions exigées par la défense et la sécurité publique et les garanties d'une juste rémunération des prestations
-assurées à ce titre, à la demande de l'Etat, par les opérateurs autorisés en application des articles L. 33-1 et L. 34-1,
-sont déterminées par leur cahier des charges.
-
-L'enseignement supérieur dans le domaine des télécommunications relève de la responsabilité de l'Etat et est placé sous la
-tutelle du ministre chargé des télécommunications. Il est à la charge de l'Etat, dans les conditions prévues par les lois de
-finances. Il bénéficie, de sa part et dans les conditions prévues par les lois de finances, des moyens lui garantissant une
-haute qualité.
-
-Les missions de recherche publique et de développement dans le domaine des télécommunications sont exercées par l'Etat ou
-pour le compte de l'Etat et sous sa responsabilité dans le cadre de contrats qui définissent les programmes et en précisent
-les modalités de réalisation ainsi que de financement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L35 (V)
-	  - Code des postes et des communications électronique - art. D586 (V)
-	  - Code des postes et des communications électronique - art. D96-17 (T)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1
-
-
-#### CHAPITRE IV : La régulation des télécommunications
-
-###### Article L36
-
-Il est créé, à compter du 1er janvier 1997, une autorité de régulation des télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L75
-	  - Loi n°1850-11-29 art. 4
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L36-1
-
-L'Autorité de régulation des télécommunications est composée de cinq membres nommés en raison de leur qualification dans les
-domaines juridique, technique et de l'économie des territoires pour un mandat de six ans. Trois membres, dont le président,
-sont nommés par décret. Les deux autres membres sont respectivement nommés par le Président de l'Assemblée nationale et le
-Président du Sénat.
-
-Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans.
-
-Les membres de l'autorité ne sont pas révocables.
-
-L'Autorité de régulation des télécommunications ne peut délibérer que si trois au moins de ses membres sont présents. Elle
-délibère à la majorité des membres présents.
-
-Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
-fonctions pour la durée du mandat restant à courir.
-
-Pour la constitution de l'autorité, le président est nommé pour six ans. La durée du mandat des deux autres membres nommés
-par décret est fixée, par tirage au sort, à quatre ans pour l'un et à deux ans pour l'autre. La durée du mandat des deux
-membres nommés par les présidents des assemblées parlementaires est fixée, par tirage au sort, à quatre ans pour l'un et six
-ans pour l'autre.
-
-Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
-mandat, en application de l'un ou l'autre des deux alinéas ci-dessus, n'a pas excédé deux ans.
-
-Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L130 (V)
-
-
-###### Article L36-2
-
-La fonction de membre de l'Autorité de régulation des télécommunications est incompatible avec toute activité
-professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte, d'intérêts
-dans une entreprise du secteur des télécommunications, de l'audiovisuel ou de l'informatique. Les membres de l'Autorité de
-régulation des télécommunications ne peuvent être membres de la Commission supérieure du service public des postes et
-télécommunications.
-
-Les membres de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir
-connaissance en raison de leurs fonctions.
-
-Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
-seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L131 (V)
-
-
-###### Article L36-3
-
-L'Autorité de régulation des télécommunications dispose de services qui sont placés sous l'autorité de son président.
-
-L'autorité peut employer des fonctionnaires en position d'activité dans les mêmes conditions que le ministère chargé des
-télécommunications. Elle peut recruter des agents contractuels.
-
-Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
-ont pu avoir connaissance en raison de leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L132 (M)
-
-
-###### Article L36-4
-
-Les ressources de l'Autorité de régulation des télécommunications comprennent des rémunérations pour services rendus et des
-taxes et redevances dans les conditions fixées par les lois de finances ou par décret en Conseil d'Etat.
-
-L'autorité propose au ministre chargé des télécommunications, lors de l'élaboration du projet de loi de finances de l'année,
-les crédits nécessaires, en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses missions.
-
-Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à l'organisation
-du contrôle des dépenses engagées ne sont pas applicables à leur gestion.
-
-Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité au contrôle de la Cour des
-comptes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L133 (M)
-
-	**Cite**:
-
-	  - Loi n°1922-08-10
-
-
-###### Article L36-5
-
-L'Autorité de régulation des télécommunications est consultée sur les projets de loi, de décret ou de règlement relatifs au
-secteur des télécommunications et participe à leur mise en oeuvre.
-
-L'autorité est associée, à la demande du ministre chargé des télécommunications, à la préparation de la position française
-dans les négociations internationales dans le domaine des télécommunications. Elle participe, à la demande du ministre chargé
-des télécommunications, à la représentation française dans les organisations internationales et communautaires compétentes en
-ce domaine.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L36-6
-
-Dans le respect des dispositions du présent code et de ses règlements d'application, l'Autorité de régulation des
-télécommunications précise les règles concernant :
-
-1° Les droits et obligations afférents à l'exploitation des différentes catégories de réseaux et de services, en application
-des articles L. 33-1 et L. 34-1 ;
-
-2° Les prescriptions applicables aux conditions techniques et financières d'interconnexion, conformément à l'article L. 34-8
-et aux conditions techniques et financières de l'itinérance locale, conformément à l'article L. 34-8-1 ;
-
-3° Les prescriptions techniques applicables, le cas échéant, aux réseaux et terminaux, en vue de garantir leur
-interopérabilité, la portabilité des terminaux et le bon usage des fréquences et des numéros de téléphone ;
-
-4° Les conditions d'établissement et d'exploitation des réseaux mentionnés à l'article L. 33-2 et celles d'utilisation des
-réseaux mentionnés à l'article L. 33-3 ;
-
-5° La détermination des points de terminaison des réseaux.
-
-Les décisions prises en application du présent article sont, après homologation par arrêté du ministre chargé des
-télécommunications, publiées au Journal officiel.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Arrêté du 14 juin 1996 - art. Annexe (V)
-	  - Loi n°96-659 du 26 juillet 1996 - art. 22 (VD)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 31 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. 8 (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. 8 (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. 10 (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. 8 (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 22 octobre 1997 - art. 8 (V)
-	  - Arrêté du 18 décembre 1997 - art. ANNEXE (V)
-	  - Arrêté du 16 avril 1998 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1998 - art. ANNEXE (V)
-	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 19 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 28 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 20 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 11 février 1999 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
-	  - Décret n°2009-166 du 12 février 2009 (V)
-	  - Code des postes et des communications électroni... - art. D98-10 (V)
-	  - Code des postes et des communications électroni... - art. D98-4 (V)
-	  - Code des postes et des communications électroni... - art. D98-6 (V)
-	  - Code des postes et des communications électroni... - art. D98-6-2 (V)
-	  - Code des postes et des communications électroni... - art. D98-8 (V)
-	  - Code des postes et des communications électroni... - art. L33-12 (V)
-	  - Code des postes et des communications électroni... - art. L33-3 (V)
-	  - Code des postes et des communications électroni... - art. L42 (V)
-	  - Code des postes et des communications électroni... - art. R20-15 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
-	  - Code des postes et des communications électronique - art. D370 (M)
-	  - Code des postes et des communications électronique - art. D371 (V)
-	  - Code des postes et des communications électronique - art. D406-18 (V)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-	  - Code des postes et des communications électronique - art. D98-5 (V)
-	  - Code des postes et des communications électronique - art. D99-15 (Ab)
-	  - Code des postes et des communications électronique - art. D99-16 (Ab)
-	  - Code des postes et des communications électronique - art. D99-7 (M)
-	  - Code des postes et des communications électronique - art. L42-4 (V)
-	  - Code des postes et des communications électronique - art. R20-10 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 52 (V) JORF 22 juin 2004
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1, L34-8, L34-8-1, L33-2, L33-3
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
-
-###### Article L36-7
-
-L'Autorité de régulation des télécommunications :
-
-1° Instruit pour le compte du ministre chargé des télécommunications les demandes d'autorisation présentées en application
-des articles L. 33-1, L. 34-1 et L. 34-3 ; délivre les autres autorisations et reçoit les déclarations prévues par le
-chapitre II ; publie, lorsque les autorisations sont délivrées à l'issue d'un appel à candidatures, le compte rendu et le
-résultat motivé de la procédure de sélection qu'elle conduit ;
-
-2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ;
-
-3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
-sont applicables en vertu du présent code et des autorisations dont ils bénéficient et sanctionne les manquements constatés
-dans les conditions prévues aux articles L. 36-10 et L. 36-11 ;
-
-4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
-contributions au financement des obligations de service universel et assure la surveillance des mécanismes de ce
-financement ;
-
-5° Emet un avis public sur les tarifs et les objectifs tarifaires pluriannuels du service universel ainsi que sur les tarifs
-des services pour lesquels il n'existe pas de concurrents sur le marché, préalablement, lorsqu'ils y sont soumis, à leur
-homologation par les ministres chargés des télécommunications et de l'économie ;
-
-6° Attribue aux opérateurs et aux utilisateurs, dans des conditions objectives, transparentes et non discriminatoires, les
-ressources en fréquences et en numérotation nécessaires à l'exercice de leur activité, veille à leur bonne utilisation,
-établit le plan national de numérotation et contrôle sa gestion ;
-
-7° Etablit, chaque année, après avis du Conseil de la concurrence, les listes des opérateurs considérés comme exerçant une
-influence significative :
-
-a) Sur un marché pertinent du service téléphonique au public entre points fixes ;
-
-b) Sur un marché pertinent des liaisons louées ;
-
-c) Sur un marché pertinent du service de téléphonie mobile au public ;
-
-d) Sur le marché national de l'interconnexion.
-
-Est réputé exercer une influence significative sur un marché tout opérateur qui détient une part supérieure à 25 % de ce
-marché. L'Autorité de régulation des télécommunications peut décider qu'un opérateur détenant une part inférieure à 25 % d'un
-marché exerce une influence significative sur ce marché ou qu'un opérateur détenant une part supérieure à 25 % d'un marché
-n'exerce pas une influence significative sur ce marché. Elle tient compte de la capacité effective de l'opérateur à influer
-sur les conditions du marché, de son chiffre d'affaires par rapport à la taille du marché, de son contrôle des moyens d'accès
-à l'utilisateur final, de son accès aux ressources financières et de son expérience dans la fourniture de produits et de
-services sur le marché.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 16 (V)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 26 (V)
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Arrêté du 14 juin 1996 - art. Annexe (V)
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
-	  - Loi n°2008-776 du 4 août 2008 - art. 119-1 (V)
-	  - Loi n°2009-258 du 5 mars 2009 - art. 89 (V)
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
-	  - Code des postes et des communications électroni... - art. R20-14 (V)
-	  - Code des postes et des communications électronique - art. D98-8 (M)
-	  - Code des postes et des communications électronique - art. D99-11 (M)
-	  - Code des postes et des communications électronique - art. D99-12 (Ab)
-	  - Code des postes et des communications électronique - art. D99-13 (Ab)
-	  - Code des postes et des communications électronique - art. D99-14 (Ab)
-	  - Code des postes et des communications électronique - art. D99-15 (Ab)
-	  - Code des postes et des communications électronique - art. D99-16 (Ab)
-	  - Code des postes et des communications électronique - art. D99-17 (Ab)
-	  - Code des postes et des communications électronique - art. D99-18 (Ab)
-	  - Code des postes et des communications électronique - art. D99-19 (Ab)
-	  - Code des postes et des communications électronique - art. D99-20 (Ab)
-	  - Code des postes et des communications électronique - art. D99-21 (Ab)
-	  - Code des postes et des communications électronique - art. D99-22 (Ab)
-	  - Code des postes et des communications électronique - art. D99-23 (Ab)
-	  - Code des postes et des communications électronique - art. D99-3 (M)
-	  - Code des postes et des communications électronique - art. D99-6 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1, L34-3, L34-9, L36-10, L36-11, L35-3
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L36-8
-
-I. - En cas de refus d'interconnexion, d'échec des négociations commerciales ou de désaccord sur la conclusion ou l'exécution
-d'une convention d'interconnexion ou d'accès à un réseau de télécommunications, l'Autorité de régulation des
-télécommunications peut être saisie du différend par l'une ou l'autre des parties.
-
-L'autorité se prononce, dans un délai fixé par décret en Conseil d'Etat, après avoir mis les parties à même de présenter
-leurs observations. Sa décision est motivée et précise les conditions équitables, d'ordre technique et financier, dans
-lesquelles l'interconnexion ou l'accès spécial doivent être assurés.
-
-En cas d'atteinte grave et immédiate aux règles régissant le secteur des télécommunications, l'autorité peut, après avoir
-entendu les parties en cause, ordonner des mesures conservatoires en vue notamment d'assurer la continuité du fonctionnement
-des réseaux.
-
-L'autorité rend publiques ses décisions, sous réserve des secrets protégés par la loi. Elle les notifie aux parties.
-
-II. - L'Autorité de régulation des télécommunications peut également être saisie des différends portant sur :
-
-1° Les conditions de la mise en conformité, prévue par le dernier alinéa de l'article L. 34-4, des conventions comportant des
-clauses excluant ou restreignant la fourniture de services de télécommunications sur les réseaux mentionnés au premier alinéa
-dudit article ;
-
-2° Les possibilités et les conditions d'une utilisation partagée entre opérateurs, prévue à l'article L. 47, d'installations
-existantes situées sur le domaine public et, prévue à l'article L. 48, d'installations existantes situées sur une propriété
-privée ;
-
-Elle se prononce sur ces différends dans les conditions de forme et de procédure prévues au I. En outre, elle procède à une
-consultation publique de toutes les parties intéressées avant toute décision imposant l'utilisation partagée entre opérateurs
-des installations mentionnées au 2°.
-
-2° bis La conclusion ou l'exécution de la convention d'itinérance locale prévue à l'article L. 34-8-1 ;
-
-3° Les conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'article L. 33-4 ;
-
-4° Les conditions techniques et tarifaires d'exercice d'une activité d'opérateur de télécommunications ou d'établissement, de
-mise à disposition ou de partage des réseaux et infrastructures de télécommunications visés à l'article L. 1425-1 du code
-général des collectivités territoriales.
-
-III. - Les décisions prises par l'Autorité de régulation des télécommunications en application des I et II peuvent faire
-l'objet d'un recours en annulation ou en réformation dans le délai d'un mois à compter de leur notification.
-
-Le recours n'est pas suspensif. Toutefois, le sursis à exécution de la décision peut être ordonné, si celle-ci est
-susceptible d'entraîner des conséquences manifestement excessives ou s'il est survenu, postérieurement à sa notification, des
-faits nouveaux d'une exceptionnelle gravité.
-
-Les mesures conservatoires prises par l'Autorité de régulation des télécommunications peuvent, au maximum dix jours après
-leur notification, faire l'objet d'un recours en annulation ou en réformation. Ce recours est jugé dans le délai d'un mois.
-
-IV. - Les recours contre les décisions et mesures conservatoires prises par l'Autorité de régulation des télécommunications
-en application du présent article sont de la compétence de la cour d'appel de Paris.
-
-Le pourvoi en cassation formé le cas échéant contre l'arrêt de la cour d'appel est exercé dans le délai d'un mois suivant la
-notification de cet arrêt.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. 8 (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. 8 (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. 10 (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. 8 (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 22 octobre 1997 - art. 8 (V)
-	  - Arrêté du 25 septembre 1998 - art. ANNEXE (V)
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 134 (V)
-	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
-	  - Code des postes et des communications électroni... - art. D98-9 (V)
-	  - Code des postes et des communications électroni... - art. L130 (V)
-	  - Code des postes et des communications électroni... - art. L34 (V)
-	  - Code des postes et des communications électroni... - art. L34-10 (V)
-	  - Code des postes et des communications électroni... - art. L34-8 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-1 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-1-1 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
-	  - Code des postes et des communications électroni... - art. L34-8-2-2 (VD)
-	  - Code des postes et des communications électroni... - art. L34-8-3 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-4 (M)
-	  - Code des postes et des communications électroni... - art. L34-8-6 (V)
-	  - Code des postes et des communications électroni... - art. L36-11 (VD)
-	  - Code des postes et des communications électroni... - art. L47 (V)
-	  - Code des postes et des communications électroni... - art. L48 (V)
-	  - Code des postes et des communications électroni... - art. R11-1 (V)
-	  - Code des postes et des communications électroni... - art. R11-2 (V)
-	  - Code des postes et des communications électroni... - art. R11-7 (V)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-	  - Code des postes et des communications électronique - art. D99-23 (Ab)
-	  - Code des postes et des communications électronique - art. D99-8 (V)
-	  - Code général des collectivités territoriales - art. L1425-1 (V)
-	  - Code général des impôts, CGI. - art. 199 undecies B (V)
-
-	**Modifié par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 50 (V) JORF 22 juin 2004
-	  - Loi n°2004-575 du 21 juin 2004 - art. 52 (V) JORF 22 juin 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L34-4, L47, L48, L34-8-1, L33-4
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
-
-###### Article L36-9
-
-L'Autorité de régulation des télécommunications peut être saisie d'une demande de conciliation en vue de régler les litiges
-entre opérateurs ne relevant pas de l'article L. 36-8, par toute personne physique ou morale concernée, par toute
-organisation professionnelle ou association d'usagers concernée ou par le ministre chargé des télécommunications. Elle
-favorise alors toute solution de conciliation.
-
-L'Autorité de régulation des télécommunications informe de l'engagement de la procédure de conciliation le Conseil de la
-concurrence qui, s'il est saisi des mêmes faits, peut décider de surseoir à statuer.
-
-En cas d'échec de la conciliation, le président de l'Autorité de régulation des télécommunications saisit le Conseil de la
-concurrence, si le litige relève de sa compétence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L36-8
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 17 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-
-
-###### Article L36-10
-
-Le président de l'Autorité de régulation des télécommunications saisit le Conseil de la concurrence des abus de position
-dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur
-des télécommunications. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, auquel cas le Conseil de
-la concurrence est appelé à se prononcer dans les trente jours ouvrables suivant la date de la saisine. Il peut également le
-saisir pour avis de toute autre question relevant de sa compétence. Le Conseil de la concurrence communique à l'Autorité de
-régulation des télécommunications toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les
-pratiques dont il est saisi dans le secteur des télécommunications.
-
-Le président de l'Autorité de régulation des télécommunications informe le procureur de la République des faits qui sont
-susceptibles de recevoir une qualification pénale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L36-7 (V)
-
-
-###### Article L36-11
-
-L'Autorité de régulation des télécommunications peut, soit d'office, soit à la demande du ministre chargé des
-télécommunications, d'une organisation professionnelle, d'une association agréée d'utilisateurs ou d'une personne physique ou
-morale concernée, sanctionner les manquements qu'elle constate, de la part des exploitants de réseaux ou des fournisseurs de
-services de télécommunications, aux dispositions législatives et réglementaires afférentes à leur activité ou aux décisions
-prises pour en assurer la mise en oeuvre. Ce pouvoir de sanction est exercé dans les conditions ci-après :
-
-1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services à une disposition législative ou
-réglementaire afférente à son activité ou aux prescriptions du titre en vertu duquel il l'exerce, l'Autorité de régulation
-des télécommunications le met en demeure de s'y conformer. Elle peut rendre publique cette mise en demeure ;
-
-2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme pas dans les délais fixés à une décision prise
-en application de l'article L. 36-8 ou à la mise en demeure prévue au 1° ci-dessus, l'Autorité de régulation des
-télécommunications peut prononcer à son encontre une des sanctions suivantes :
-
-a) Soit, en fonction de la gravité du manquement, la suspension totale ou partielle, pour un mois au plus, la réduction de la
-durée, dans la limite d'une année, ou le retrait de l'autorisation.
-
-Pour les autorisations soumises aux dispositions du III de l'article L. 33-1, le retrait peut intervenir sans mise en demeure
-préalable, en cas de changement substantiel dans la composition du capital social ;
-
-b) Soit, si le manquement n'est pas constitutif d'une infraction pénale, une sanction pécuniaire, dont le montant est
-proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 3 p. 100 du chiffre
-d'affaires hors taxes du dernier exercice clos, taux porté à 5 p. 100 en cas de nouvelle violation de la même obligation. A
-défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150000 euros, porté à 375000
-euros en cas de nouvelle violation de la même obligation.
-
-Les sanctions sont prononcées après que l'opérateur a reçu notification des griefs et a été mis à même de consulter le
-dossier et de présenter ses observations écrites et verbales.
-
-Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine ;
-
-3° L'Autorité de régulation des télécommunications ne peut être saisie de faits remontant à plus de trois ans, s'il n'a été
-fait aucun acte tendant à leur recherche, leur constatation ou leur sanction ;
-
-4° Les décisions sont motivées, notifiées à l'intéressé et publiées au Journal officiel. Elles peuvent faire l'objet d'un
-recours de pleine juridiction et d'une demande de suspension présentée conformément à l'article L. 521-1 du code de justice
-administrative, devant le Conseil d'Etat.
-
-Un décret détermine les délais impartis aux opérateurs pour régulariser leur situation ainsi que les délais dans lesquels
-interviennent et sont notifiées les décisions prises par l'Autorité de régulation des télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 septembre 1998 - art. ANNEXE (V)
-	  - Code de justice administrative - art. L311-4 (VD)
-	  - Code des postes et des communications électroni... - art. D594 (V)
-	  - Code des postes et des communications électroni... - art. D595 (V)
-	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L33-2 (V)
-	  - Code des postes et des communications électroni... - art. L34-5 (VD)
-	  - Code des postes et des communications électroni... - art. L35-3 (V)
-	  - Code des postes et des communications électroni... - art. L36-7 (M)
-	  - Code des postes et des communications électroni... - art. L42-1 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-9-5 (V)
-	  - Code des postes et des communications électronique - art. D97-11 (T)
-	  - Code des postes et des communications électronique - art. L97-2 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L521-1 (V)
-	  - Code des postes et télécommunications L36-8, L33-1
-
-
-###### Article L36-12
-
-Pour l'accomplissement des missions qui sont confiées à l'Autorité de régulation des télécommunications, le président de
-l'autorité a qualité pour agir en justice.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L134 (V)
-
-
-###### Article L36-13
-
-L'Autorité de régulation des télécommunications recueille les informations et procède aux enquêtes nécessaires à l'exercice
-de ses missions, dans les limites et conditions fixées par l'article L. 32-4.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Arrêté du 14 juin 1996 - art. Annexe (V)
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 31 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 18 décembre 1997 - art. ANNEXE (V)
-	  - Arrêté du 16 avril 1998 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1998 - art. ANNEXE (V)
-	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 19 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 28 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 20 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 11 février 1999 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L32-4
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L36-14
-
-L'Autorité de régulation des télécommunications établit chaque année, avant le 30 juin, un rapport public qui rend compte de
-son activité et de l'application des dispositions législatives et réglementaires relatives aux télécommunications. Ce rapport
-est adressé au Gouvernement et au Parlement. Il est adressé également à la Commission supérieure du service public des postes
-et télécommunications. L'autorité peut suggérer dans ce rapport toute modification législative ou réglementaire que lui
-paraissent appeler les évolutions du secteur des télécommunications et le développement de la concurrence.
-
-L'autorité et, le cas échéant, la Commission supérieure du service public des postes et télécommunications peuvent être
-entendues par les commissions permanentes du Parlement compétentes pour le secteur des télécommunications. Ces dernières
-peuvent consulter l'autorité sur toute question concernant la régulation des télécommunications.
-
-L'autorité peut procéder aux expertises, mener les études, recueillir les données et mener toutes actions d'information sur
-le secteur des télécommunications. A cette fin, les opérateurs titulaires d'une autorisation délivrée en application des
-articles L. 33-1, L. 34-1 ou L. 34-3 sont tenus de lui fournir annuellement les informations statistiques concernant
-l'utilisation, la zone de couverture et les modalités d'accès à leur service.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1, L34-3
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 8 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L135 (V)
-
-
-#### CHAPITRE V : Dispositions pénales.
-
-###### Article L39
-
-Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 75000 euros le fait :
-
-1° D'établir ou de faire établir un réseau ouvert au public, sans l'autorisation prévue à l'article L. 33-1, ou de le
-maintenir en violation d'une décision de suspension ou de retrait de cette autorisation ;
-
-2° De fournir ou de faire fournir au public le service téléphonique sans l'autorisation prévue à l'article L. 34-1 ou en
-violation d'une décision de suspension ou de retrait de cette autorisation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L33-2 (V)
-	  - Code des postes et des communications électroni... - art. L39-10 (V)
-	  - Code des postes et des communications électroni... - art. L42-1 (V)
-	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L39-6 (V)
-	  - Code des postes et des communications électroni... - art. L39-9 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L34-1
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L72 al. 2 à 4
-	  - Décret-loi 1851-12-27 art. 1
-	  - Loi n°1837-05-02 1837-05-06 art. unique
-	  - Loi n°1923-06-30 art. 85
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-
-###### Article L39-1
-
-Est puni de six mois d'emprisonnement et de [*taux*] 30000 euros d'amende le fait :
-
-1° D'établir ou de faire établir un réseau indépendant, sans l'autorisation prévue à l'article L. 33-2, ou de le maintenir en
-violation d'une décision de suspension ou de retrait de cette autorisation ;
-
-2° De perturber, en utilisant une fréquence, un équipement ou une installation radioélectrique, dans des conditions non
-conformes aux dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 89 ou en dehors des
-conditions réglementaires générales prévues à l'article L. 33-3, les émissions hertziennes d'un service autorisé, sans
-préjudice de l'application de l'article 78 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
-
-3° D'utiliser une fréquence, un équipement ou une installation radioélectrique dans des conditions non conformes aux
-dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 89 ou en dehors des conditions
-réglementaires générales prévues à l'article L. 33-3 ;
-
-4° De commercialiser ou de procéder à l'installation d'appareils conçus pour rendre inopérants les téléphones mobiles de tous
-types, tant pour l'émission que pour la réception, en dehors des cas prévus à l'article L. 33-3.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
-	  - Code des postes et des communications électroni... - art. L39-10 (V)
-	  - Code des postes et des communications électroni... - art. L42-1 (M)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-2, L34-9, L89, L33-3
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 78 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 35 (V) JORF 22 juin 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
-
-###### Article L39-2-1
-
-Les dispositions du deuxième alinéa de l'article L. 39-2 sont applicables en Nouvelle-Calédonie, en Polynésie française et
-dans les îles Wallis et Futuna.
-
-Le montant de l'amende prévu par ces dispositions est égal à sa contre-valeur en monnaie locale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L39-2
-
-	**Créé par**:
-
-	  - Loi n°2003-239 2003-03-18 art. 126 I 3° JORF 19 mars 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L39-3
-
-I. - Est puni d'un an d'emprisonnement et de 75000 euros d'amende [*taux*] le fait pour un opérateur de télécommunications ou
-ses agents :
-
-1° De ne pas procéder aux opérations tendant à effacer ou à rendre anonymes les données relatives aux communications dans les
-cas où ces opérations sont prescrites par la loi ;
-
-2° De ne pas procéder à la conservation des données techniques dans les conditions où cette conservation est exigée par la
-loi.
-
-Les personnes physiques coupables de ces infractions encourent également l'interdiction, pour une durée de cinq ans au plus,
-d'exercer l'activité professionnelle à l'occasion de laquelle l'infraction a été commise.
-
-II. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2
-du code pénal, des infractions définies au I.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° La peine mentionnée au 2° de l'article 131-9 du code pénal, pour une durée de cinq ans au plus ;
-
-3° La peine mentionnée au 9° de l'article 131-39 du code pénal.
-
-L'interdiction mentionnée au 2° de l'article 131-9 du code pénal porte sur l'activité professionnelle dans l'exercice ou à
-l'occasion de l'exercice de laquelle l'infraction a été commise.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 29 () JORF 16 novembre 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code pénal - art. 131-9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L39-10 (V)
-	  - Code des postes et des communications électroni... - art. L39-3-1 (V)
-
-
-###### Article L39-6
-
-En cas de condamnation pour l'une des infractions prévues aux articles L. 39 et L. 39-1, le tribunal pourra, en outre,
-prononcer la confiscation des matériels et installations constituant le réseau ou permettant la fourniture du service ou en
-ordonner la destruction aux frais du condamné et prononcer l'interdiction de solliciter pendant une durée de deux années au
-plus une autorisation en application des articles L. 33-1 et L. 34-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L39, L39-1, L33-1, L34-1
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L40
-
-Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les
-fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des télécommunications et de
-l'Agence nationale des fréquences habilités à cet effet par le ministre chargé des télécommunications et assermentés dans des
-conditions fixées par décret en Conseil d'Etat peuvent rechercher et constater par procès-verbal les infractions prévues par
-les dispositions du présent titre et les textes pris pour leur application.
-
-Les fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des télécommunications
-et de l'Agence nationale des fréquences visés à l'alinéa précédent peuvent accéder aux locaux, terrains ou moyens de
-transport à usage professionnel utilisés par des personnes visées à l'article L. 32-4, par celles fabriquant, important ou
-distribuant des équipements ou installations visés à l'article L. 34-9 ou par celles faisant usage de fréquences
-radioélectriques visées à l'article L. 89, en vue de rechercher et de constater les infractions, demander la communication de
-tous documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et
-justifications. Les fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des
-télécommunications et de l'Agence nationale des fréquences ne peuvent accéder à ces locaux que pendant leurs heures
-d'ouverture lorsqu'ils sont ouverts au public et, dans les autres cas, qu'entre 8 heures et 20 heures. Ils ne peuvent accéder
-aux locaux qui servent pour partie de domicile aux intéressés.
-
-Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions, par
-les fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des télécommunications
-et de l'Agence nationale des fréquences visés au deuxième alinéa. Il peut s'opposer à ces opérations. Les procès-verbaux lui
-sont transmis dans les cinq jours suivant leur établissement. Une copie en est également remise à l'intéressé.
-
-Les fonctionnaires et agents de l'administration des télécommunications, de l'Autorité de régulation des télécommunications
-et de l'Agence nationale des fréquences visés au deuxième alinéa peuvent, dans les mêmes lieux et les mêmes conditions de
-temps que ceux visés au même alinéa, procéder à la saisie des matériels visés à l'article L. 34-9 sur autorisation judiciaire
-donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les matériels, ou d'un
-juge délégué par lui.
-
-La demande doit comporter tous les éléments d'information de nature à justifier la saisie. Celle-ci s'effectue sous
-l'autorité et le contrôle du juge qui l'a autorisée.
-
-Les matériels saisis sont immédiatement inventoriés. L'inventaire est annexé au procès-verbal dressé sur les lieux. Les
-originaux du procès-verbal et de l'inventaire sont transmis, dans les cinq jours suivant leur établissement, au juge qui a
-ordonné la saisie.
-
-Le président du tribunal de grande instance ou le juge délégué par lui peut d'office à tout moment ou sur la demande de
-l'intéressé ordonner mainlevée de la saisie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 26 () JORF 28 juillet 2001
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L215-1 (VT)
-	  - Code de la consommation - art. L511-22 (V)
-	  - Code des postes et des communications électroni... - art. L39-4 (VD)
-	  - Code des postes et des communications électroni... - art. L43 (VD)
-	  - Code des postes et des communications électroni... - art. L97-3 (V)
-	  - Code des postes et des communications électroni... - art. R20-20 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-1 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L32-4, L34-9, L89
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L131
-	  - Décret-loi 1851-12-27 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L43
-
-Toute personne qui, sciemment, transmet ou met en circulation, par la voie radioélectrique, des signaux ou appels de
-détresse, faux ou trompeurs, est punie d'un an d'emprisonnement et de 3750 euros d'amende [* taux *] ou de l'une de ces deux
-peines seulement.
-
-Les appareils utilisés par le délinquant ou ses complices peuvent être confisqués.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 2004-07-09 art. 19 9° JORF 10 juillet 2004
-
-	**Cité par**:
-
-	  - Arrêté du 24 octobre 2007 - art. 6-2 (V)
-	  - Arrêté du 17 décembre 2007 - art. 1 (V)
-	  - Arrêté du 17 décembre 2007 - art. 2 (V)
-	  - Arrêté du 30 janvier 2009 (V)
-	  - Arrêté du 27 mars 2015 (V)
-	  - Arrêté du 2 octobre 2015 (V)
-	  - Décret n°2015-1489 du 17 novembre 2015 (V)
-	  - Arrêté du 5 avril 2016 - art. 3
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 4 (V)
-	  - Code des postes et des communications électroni... - art. L34-9 (VD)
-	  - Code des postes et des communications électroni... - art. L34-9-1 (V)
-	  - Code des postes et des communications électroni... - art. L39-4 (VD)
-	  - Code des postes et des communications électroni... - art. R20-21 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-23 (VD)
-	  - Code des postes et des communications électroni... - art. R20-44-28 (V)
-	  - Code général des impôts, CGI. - art. 1519 H (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L81
-	  - Code des postes et des communications électronique - art. L97-1 (T)
-	  - Loi n°1938-06-15 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L39-7 (V)
-
-
-###### Article L44
-
-Toute personne qui effectue des transmissions radioélectriques en utilisant sciemment un indicatif d'appel de la série
-internationale attribué à une station de l'Etat, à une station de l'exploitant public ou à une station privée autorisée par
-le ministre des postes et télécommunications, est punie d'un an d'emprisonnement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L82
-	  - Loi n°1938-06-15 art. 3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 2004-07-09 art. 19 9° JORF 10 juillet 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Décret n°2017-56 du 19 janvier 2017 (V)
-	  - Code de la consommation - art. L121-83-2 (VT)
-	  - Code de la consommation - art. L224-31 (VD)
-	  - Code des postes et des communications électroni... - art. D406-18 (V)
-	  - Code des postes et des communications électroni... - art. D406-20 (V)
-	  - Code des postes et des communications électroni... - art. D98-11 (V)
-	  - Code des postes et des communications électroni... - art. D99-4 (Ab)
-	  - Code des postes et des communications électroni... - art. L33-4 (Ab)
-	  - Code des postes et des communications électroni... - art. L34 (V)
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
-	  - Code des postes et des communications électroni... - art. L36-7 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
-	  - Code des postes et des communications électronique - art. D99-5 (V)
-	  - Code des postes et des communications électronique - art. R20-44-33 (T)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L39-8 (V)
-
-
-###### Article L45
-
-En cas de conviction de plusieurs délits ou contraventions prévus par les articles L. 39, L. 39-1, L. 42 et L. 44, par le
-titre IV ou par le code pénal, la peine la plus forte est seule prononcée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
-	  - Code des postes et des communications électroni... - art. L45-7 (V)
-	  - Code des postes et des communications électroni... - art. L45-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
-	  - Code des postes et des communications électroni... - art. R20-44-38 (T)
-	  - Code des postes et des communications électroni... - art. R20-44-40 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-42 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-50 (Ab)
-	  - Code des postes et des communications électronique - art. R20-44-34 (V)
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 2004-07-09 art. 19 9° JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L39-9 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L39, L39-1, L42, L44
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L83
-	  - Loi n°1938-06-15 art. 4
-
-
-### TITRE II : Etablissement des réseaux de télécommunications
-
-#### CHAPITRE Ier : Droits de passage et servitudes
-
-###### Article L45-1
-
-Les opérateurs titulaires de l'autorisation prévue à l'article L. 33-1 bénéficient d'un droit de passage sur le domaine
-public routier et de servitudes sur les propriétés privées mentionnées à l'article L. 48, dans les conditions indiquées ci-
-après.
-
-Les autorités concessionnaires ou gestionnaires du domaine public non routier, lorsqu'elles donnent accès à des opérateurs
-titulaires de l'autorisation prévue à l'article L. 33-1, doivent le faire sous la forme de convention, dans des conditions
-transparentes et non discriminatoires et dans toute la mesure où cette occupation n'est pas incompatible avec son affectation
-ou avec les capacités disponibles. La convention donnant accès au domaine public non routier ne peut contenir de dispositions
-relatives aux conditions commerciales de l'exploitation. Elle peut donner lieu à versement de redevances dues à l'autorité
-concessionnaire ou gestionnaire du domaine public concerné dans le respect du principe d'égalité entre les opérateurs. Ces
-redevances sont raisonnables et proportionnées à l'usage du domaine.
-
-L'installation des infrastructures et des équipements doit être réalisée dans le respect de l'environnement et de la qualité
-esthétique des lieux, et dans les conditions les moins dommageables pour les propriétés privées et le domaine public.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 11 (V) JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
-	  - Code des postes et des communications électroni... - art. L33-6 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-4 (V)
-	  - Code des postes et des communications électroni... - art. L45 (V)
-	  - Code des postes et des communications électroni... - art. L45-2 (V)
-	  - Code des postes et des communications électroni... - art. L45-4 (V)
-	  - Code des postes et des communications électroni... - art. L47-1 (V)
-	  - Code des postes et des communications électroni... - art. L48 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-45 (M)
-	  - Code des postes et des communications électroni... - art. R20-55 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L48
-
-
-###### Article L46
-
-Les exploitants autorisés à établir les réseaux ouverts au public peuvent occuper le domaine public routier, en y implantant
-des ouvrages dans la mesure où cette occupation n'est pas incompatible avec son affectation.
-
-Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont effectués conformément aux règlements de voirie,
-et notamment aux dispositions de l'article L. 115-1 du code de la voirie routière.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 11 (V) JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
-	  - Code de la voirie routière - art. L113-4 (V)
-	  - Code des postes et des communications électroni... - art. L45-1 (V)
-	  - Code des postes et des communications électroni... - art. L47-1 (V)
-	  - Code des postes et des communications électroni... - art. L51 (V)
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L115-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L84
-	  - Loi n°1885-07-28 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L47
-
-L'occupation du domaine routier fait l'objet d'une permission de voirie, délivrée par l'autorité compétente, suivant la
-nature de la voie empruntée, dans les conditions fixées par le code de la voirie routière. La permission peut préciser les
-prescriptions d'implantation et d'exploitation nécessaires à la circulation publique et à la conservation de la voirie.
-
-L'autorité mentionnée à l'alinéa précédent doit prendre toutes dispositions utiles pour permettre l'accomplissement de
-l'obligation d'assurer le service universel des télécommunications. Elle ne peut faire obstacle au droit de passage des
-opérateurs autorisés qu'en vue d'assurer, dans les limites de ses compétences, le respect des exigences essentielles.
-
-Lorsqu'il est constaté que le droit de passage de l'opérateur peut être assuré, dans des conditions équivalentes à celles qui
-résulteraient d'une occupation autorisée, par l'utilisation des installations existantes d'un autre occupant du domaine
-public et que cette utilisation ne compromettrait pas la mission propre de service public de cet occupant, l'autorité
-mentionnée au premier alinéa peut inviter les deux parties à se rapprocher pour convenir des conditions techniques et
-financières d'une utilisation partagée des installations en cause. Dans ce cas, et sauf accord contraire, le propriétaire des
-installations accueillant l'opérateur autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des
-infrastructures et des équipements qui empruntent ses installations et qui sont placés sous sa responsabilité, moyennant
-paiement d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des
-télécommunications peut être saisie, dans les conditions fixées à l'article L. 36-8.
-
-La permission de voirie ne peut contenir des dispositions relatives aux conditions commerciales de l'exploitation. Elle donne
-lieu à versement de redevances dues à la collectivité publique concernée pour l'occupation de son domaine public dans le
-respect du principe d'égalité entre tous les opérateurs.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article et notamment le montant maximum de la
-redevance mentionnée à l'alinéa ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 11 (V) JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Code des postes et des communications électroni... - art. L32-1 (M)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
-	  - Code des postes et des communications électroni... - art. L47-1 (V)
-	  - Code des postes et des communications électroni... - art. L51 (V)
-	  - Code des postes et des communications électroni... - art. R*20-45 (V)
-	  - Code des postes et des communications électroni... - art. R20-50 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L36-8
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L85
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L48
-
-La servitude mentionnée à l'article L. 45-1 est instituée en vue de permettre l'installation et l'exploitation des
-équipements du réseau, d'une part dans les parties des immeubles collectifs et des lotissements affectées à un usage commun,
-d'autre part sur le sol et dans le sous-sol des propriétés non bâties.
-
-La mise en oeuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
-propriétaires ou, en cas de copropriété, le syndicat représenté par le syndic ont été informés des motifs qui justifient
-l'institution de la servitude et le choix de son emplacement, et mis à même, dans un délai qui ne peut pas être inférieur à
-trois mois, de présenter leurs observations sur le projet. Les travaux ne peuvent commencer avant l'expiration de ce délai.
-En cas de contestation, les modalités de mise en oeuvre de la servitude sont fixées par le président du tribunal de grande
-instance.
-
-Lorsqu'il est constaté que la servitude de l'opérateur sur une propriété privée peut être assurée, dans des conditions
-équivalentes à celles qui résulteraient du bénéfice de cette servitude, par l'utilisation de l'installation existante d'un
-autre bénéficiaire de servitude sur la propriété concernée et que cette utilisation ne compromettrait pas, le cas échéant, la
-mission propre de service public du bénéficiaire de la servitude, l'autorité concernée mentionnée au deuxième alinéa peut
-inviter les deux parties à se rapprocher pour convenir des conditions techniques et financières d'une utilisation partagée
-des installations en cause. Dans ce cas, et sauf accord contraire, le propriétaire des installations accueillant l'opérateur
-autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui
-empruntent ses installations et qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec
-l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des télécommunications peut être saisie, dans les
-conditions fixées à l'article L. 36-8.
-
-L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
-démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
-mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude.
-
-Lorsque, pour l'étude, la réalisation et l'exploitation des installations, l'introduction des agents des exploitants
-autorisés dans les propriétés privées définies au premier alinéa est nécessaire, elle est, à défaut d'accord amiable,
-autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure que la présence
-des agents est nécessaire.
-
-Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
-réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
-d'entretien que par l'existence ou le fonctionnement des ouvrages. A défaut d'accord amiable, l'indemnité est fixée par la
-juridiction de l'expropriation saisie par la partie la plus diligente.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 11 (V) JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
-	  - Code de l'urbanisme - art. (V)
-	  - Code des postes et des communications électroni... - art. L33-6 (VD)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
-	  - Code des postes et des communications électroni... - art. L45-1 (V)
-	  - Code des postes et des communications électroni... - art. L51 (V)
-	  - Code des postes et des communications électroni... - art. R20-58 (V)
 	  - Code des postes et des communications électronique - art. L32-1 (M)
+	  - Code des postes et des communications électronique - art. L36-8 (M)
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L45-1, L36-8
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L86
-	  - Loi n°51-1606 1951-12-31 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L53
-
-L'arrêté de l'autorité compétente autorisant l'établissement et l'entretien des lignes de télécommunications est périmé de
-plein droit s'il n'est suivi d'un commencement d'exécution dans les six mois de sa date ou dans les trois mois [*délai*] de
-sa notification.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L94
-	  - Loi n°1885-07-28 art. 11
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 11 (V) JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-#### CHAPITRE II : Servitudes radioélectriques
-
-##### SECTION 1 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.
-
-###### Article L54
-
-Afin d'empêcher que des obstacles ne perturbent la propagation des ondes radioélectriques émises ou reçues par les centres de
-toute nature exploités ou contrôlés par les différents départements ministériels, il est institué certaines servitudes pour
-la protection des télécommunications radioélectriques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°49-758 1949-06-09 art. 1
-	  - Code des postes, télégraphes et téléphones L97
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L181-2 (V)
-	  - Code de l'environnement - art. L563-4 (V)
-	  - Code de l'urbanisme - art. (V)
-	  - Code des transports - art. L6350-1 (V)
-	  - Code des transports - art. L6763-7 (V)
-	  - Code des transports - art. L6773-8 (V)
-	  - Code des transports - art. L6783-9 (V)
-
-
-###### Article L55
-
-Lorsque ces servitudes entraînent la suppression ou la modification de bâtiments constituant des immeubles par nature en
-application des articles 518 et 519 du code civil, et à défaut d'accord amiable, l'expropriation de ces immeubles a lieu
-conformément aux dispositions de l'ordonnance n° 58-997 du 23 octobre 1958, relative à l'expropriation pour cause d'utilité
-publique.
-
-Après suppression ou modification des bâtiments ainsi acquis et lorsque les lieux ont été mis en conformité avec les
-exigences du présent chapitre, il peut être procédé à la revente des immeubles expropriés, sous garantie d'un droit de
-préemption aux propriétaires dépossédés et sous réserve du respect par l'acquéreur de ces servitudes.
-
-**Nota:**
-
-NOTA : L'ordonnance n° 58-997 du 23 octobre 1958 a été abrogée et codifiée aux articles L. 13-1 et suivants du code de
-l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L103
-	  - Loi n°49-758 1949-06-09 art. 7
-
-	**Cite**:
-
-	  - Ordonnance 58-997 1958-10-23
-	  - Code civil 518 et 519
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R242-3 (VT)
-	  - Code des transports - art. L6351-5 (V)
-	  - Code des transports - art. L6763-8 (V)
-	  - Code des transports - art. L6783-10 (V)
-
-
-###### Article L56
-
-Dans les autres cas, ces servitudes ouvrent droit à l'indemnité [*conditions d'attribution*] s'il en résulte une modification
-à l'état antérieur des lieux déterminant un dommage [*caractères*] direct, matériel et actuel. A défaut d'accord amiable,
-cette indemnité est fixée par le tribunal administratif.
-
-La demande d'indemnité doit, à peine de forclusion, parvenir à la personne chargée de l'exécution des travaux dans le délai
-d'un an [*computation*] à compter de la notification aux intéressés des dispositions qui leur sont imposées [*formalités*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L104
-	  - Loi n°49-758 1949-06-09 art. 8
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R242-3 (VT)
-
-
-###### Article L56-1
-
-Les servitudes radioélectriques dont bénéficient les opérateurs autorisés en application de l'article L. 33-1 pour la
-protection des réseaux de télécommunications sont instituées dans les conditions du présent article, à l'exception de celles
-concernant les centres, désignés par l'Autorité de régulation des télécommunications, qu'ils exploitent pour les besoins de
-la défense nationale ou de la sécurité publique.
-
-1° Les propriétés voisines des stations radioélectriques peuvent être frappées de servitudes destinées à assurer une bonne
-propagation des ondes.
-
-2° Un plan de protection contre les perturbations radioélectriques définit pour chaque station les servitudes
-radioélectriques et détermine les terrains sur lesquels s'exercent ces servitudes.
-
-Le plan est soumis pour avis à l'Agence nationale des fréquences et à enquête publique. Il est approuvé par le préfet, après
-avis des conseils municipaux concernés et après que les propriétaires ont été informés des motifs qui justifient
-l'institution de la servitude et le choix de l'emplacement, et mis à même, dans un délai qui ne peut être inférieur à trois
-mois, de présenter leurs observations.
-
-3° Les servitudes comportent l'obligation de tenir le terrain, les plantations et les superstructures à un niveau au plus
-égal à celui prévu par le plan de protection mentionné au 2° ci-dessus et l'interdiction de construire et de faire des
-installations quelconques au-dessus de ce niveau.
-
-4° L'établissement d'une servitude radioélectrique ouvre droit, au profit du propriétaire, à une indemnité compensatrice du
-dommage direct, matériel et certain en résultant. A défaut d'entente amiable, l'indemnité est fixée comme en matière
-d'expropriation.
-
-Un décret en Conseil d'Etat précise les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 12 () JORF 27 juillet 1996
-
-	**Cité par**:
-
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Code des postes et des communications électroni... - art. L62-1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1
-
-
-##### SECTION 2 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.
-
-###### Article L57
-
-Afin d'assurer le fonctionnement des réceptions radioélectriques effectuées dans les centres de toute nature, exploités ou
-contrôlés par les différents départements ministériels, il est institué certaines servitudes et obligations pour la
-protection des réceptions radioélectriques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L106
-	  - Loi n°49-759 1949-06-09 art. 1
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L58
-
-Un décret de servitudes pris en application de l'article précédent et des règlements subséquents fixe les servitudes imposées
-aux propriétaires ou usagers d'installations électriques en fonctionnement dans les zones de protection et de garde
-radioélectrique au jour de la promulgation dudit décret, servitudes auxquelles il devra être satisfait dans un délai maximum
-d'un an [*computation*] à partir de ce jour.
-
-Au cours de la procédure d'enquête qui précède le décret de servitudes, en cas d'opposition des propriétaires et usagers
-tenus de se prêter aux investigations nécessaires, il y est procédé d'office. Les frais et dommages causés par ces
-investigations sont à la charge du bénéficiaire de la servitude.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R*31 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L57
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L109 et L110
-	  - Loi n°49-759 1949-06-09 art. 4 et 5
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L59
-
-Lorsque l'établissement de ces servitudes cause aux propriétaires ou ouvrages un dommage [*caractères*] direct, matériel et
-actuel, il est dû aux propriétaires et à tout ayant droit une indemnité compensant le dommage qu'ils éprouvent [*conditions
-d'attribution*].
-
-La demande d'indemnité doit, à peine de forclusion, parvenir au ministre intéressé dans le délai d'un an [*computation*] à
-compter de la notification faite aux intéressés des mesures qui leur sont imposées [*formalités*].
-
-A défaut d'accord amiable, les contestations relatives à cette indemnité sont de la compétence du tribunal administratif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L111
-	  - Loi n°49-759 1949-06-09 art. 6
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. L62 (M)
-
-
-###### Article L60
-
-Sur l'ensemble du territoire, y compris les zones de servitudes, la mise en exploitation de toute installation électrique
-figurant sur la liste dressée par arrêté interministériel, est subordonnée à une autorisation préalable ou à déclaration,
-selon une procédure déterminée par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L112
-	  - Loi n°49-759 1949-06-09 art. 7
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 12 () JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R*34 (M)
-
-
-###### Article L61
-
-Tout propriétaire ou usager d'une installation électrique, située en un point quelconque du territoire, même hors des zones
-de servitudes et produisant ou propageant des perturbations gênant l'exploitation d'un centre de réception radioélectrique
-public ou privé, est tenu de se conformer aux dispositions qui lui seront indiquées, en vue de faire cesser le trouble, par
-le ministre dont les services exploitent ou contrôlent le centre ; il doit notamment se prêter aux investigations autorisées
-par un arrêté préfectoral, réaliser les modifications prescrites et maintenir les installations en bon état de
-fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R*34 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L113
-	  - Loi n°49-759 1949-06-09 art. 8
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L62
-
-Dans les cas où les obligations précitées causent un dommage [*caractères*] direct, matériel et actuel aux propriétaires ou
-usagers, il est fait application de l'article L. 59.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°49-759 1949-06-09 art. 9
-	  - Code des postes, télégraphes et téléphones L114
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L64 (VD)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L59
-
-
-###### Article L62-1
-
-Les servitudes dont bénéficient les opérateurs autorisés en application de l'article L. 33-1 pour la protection des réseaux
-de télécommunications contre les perturbations radioélectriques sont instituées dans les conditions du présent article, à
-l'exception de celles concernant les centres, désignés par l'Autorité de régulation des télécommunications, qu'ils exploitent
-pour les besoins de la défense nationale ou de la sécurité publique.
-
-1° Les abords des centres exploités par les opérateurs autorisés peuvent être frappés de servitudes destinées à éviter les
-perturbations électromagnétiques.
-
-2° Un plan de protection établi dans les conditions définies à l'article L. 56-1 détermine les zones de servitude et définit
-ces servitudes.
-
-3° Les servitudes comportent l'interdiction de mettre en service ou d'utiliser des équipements installés postérieurement au
-centre protégé, susceptibles de perturber les réceptions radioélectriques.
-
-4° L'établissement d'une servitude radioélectrique ouvre droit au profit du propriétaire ou de l'usager à une indemnité
-compensatrice du dommage direct, matériel et certain en résultant. A défaut d'entente amiable, l'indemnité est fixée et payée
-comme en matière d'expropriation.
-
-Un décret en Conseil d'Etat précise les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L56-1
-
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 12 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-##### SECTION 3 : Dispositions pénales.
-
-###### Article L63
-
-Les infractions aux dispositions du chapitre Ier et des règlements pris pour son application sont passibles de 3750 euros
-[*taux*] d'amende.
-
-Sur réquisition du ministère public agissant à la demande du ministre intéressé, le tribunal saisi de la poursuite impartit
-aux personnes qui contreviennent aux dispositions du chapitre Ier, sous peine d'une astreinte de 0,75 euros à 7,5 euros par
-jour de retard, un délai pour régulariser la situation.
-
-Dans le cas où le délai n'est pas observé, l'astreinte prononcée court à partir de l'expiration dudit délai jusqu'au jour où
-la situation est effectivement régularisée.
-
-Si cette régularisation n'est pas intervenue dans l'année de l'expiration du délai, le tribunal peut, sur réquisition du
-ministère public agissant dans les mêmes conditions, relever à une ou plusieurs reprises le montant de l'astreinte, même au-
-delà du maximum prévu ci-dessus.
-
-Le tribunal peut autoriser le reversement d'une partie des astreintes lorsque la situation aura été régularisée et que le
-redevable établira qu'il a été empêché d'observer, par une circonstance indépendante de sa volonté, le délai qui lui avait
-été imparti.
-
-En outre, si, à l'expiration du délai fixé par le jugement, la situation n'a pas été régularisée, l'administration peut faire
-effectuer les travaux d'office aux frais et risques des personnes civilement responsables.
-
-Les personnes qui ont été condamnées par application du présent article et qui, dans les trois années [*délai*] qui suivent,
-commettent une nouvelle infraction aux dispositions du présent article, sont punies de 7500 euros d'amende [* taux *] et d'un
-mois d'emprisonnement ou de l'une de ces deux peines seulement.
-
-Les infractions aux dispositions du chapitre Ier peuvent être constatées par des procès-verbaux dressés par les officiers de
-police judiciaire, les gendarmes et les fonctionnaires assermentés de l'administration intéressée.
-
-Ces procès-verbaux font foi jusqu'à preuve du contraire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L105
-	  - Loi n°49-758 1949-06-09 art. 9
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R*42 (V)
-
-
-###### Article L64
-
-Les infractions aux dispositions du chapitre II qui entrent dans la catégorie générale des troubles occasionnés aux auditeurs
-de radiodiffusion et qui tombent de ce fait sous le coup des textes organisant la protection des auditions, sont constatées
-par les fonctionnaires assermentés de la radiodiffusion française.
-
-Les autres infractions, en particulier celles relatives au matériel situé dans les zones de servitudes, sont constatées par
-les fonctionnaires assermentés de la ou des administrations intéressées.
-
-Les propriétaires ou usagers des installations, même situées en dehors des zones de servitudes, dans lesquelles ont été
-constatées des perturbations constituant des infractions aux dispositions du chapitre II et des règlements pris pour son
-application, sont tenus de prendre toutes les mesures utiles pour faire cesser ces perturbations. S'ils ne le font pas eux-
-mêmes, il y est procédé d'office par les soins de l'administration, compte tenu des dispositions de l'article L. 62.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L62
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L116
-	  - Loi n°49-759 1949-06-09 art. 11
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-#### CHAPITRE III : Police des liaisons et des installations du réseau des télécommunications
-
-##### SECTION 1 : Dispositions générales.
-
-###### Article L65
-
-Le fait de déplacer, détériorer, dégrader de quelque manière que ce soit, une installation d'un réseau ouvert au public ou de
-compromettre le fonctionnement d'un tel réseau est puni d'une amende de 1500 euros.
-
-Lorsqu'il s'agit d'une installation comportant plusieurs câbles, il est prononcé autant d'amendes que de câbles concernés.
-
-L'infraction visée au premier alinéa n'est pas constituée si l'emplacement des installations existantes dans l'emprise des
-travaux n'a pas été porté à la connaissance de l'entreprise avant l'ouverture du chantier.
-
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L130
-	  - Décret-loi 1851-12-27 art. 9
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R42-1 (VD)
-
-
-##### SECTION 2 : Dispositions pénales.
-
-###### Article L66
-
-Toute personne qui, par la rupture des fils, par la dégradation des appareils ou par tout autre moyen, cause volontairement
-l'interruption des télécommunications, est punie d'un emprisonnement de deux ans et d'une amende de 3 750 euros.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L125
-	  - Décret-loi 1851-12-27 art. 3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L67
-
-Sont punis de vingt ans de détention criminelle et d'une amende de 4 500 euros, sans préjudice des peines que pourrait
-entraîner leur complicité avec l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont détruit ou rendu
-impropres au service une ou plusieurs lignes de télécommunications, brisé ou détruit des appareils, envahi, à l'aide de
-violence ou de menaces, un ou plusieurs centraux ou stations de télécommunications, ceux qui ont intercepté par tout autre
-moyen, avec violence et menaces, les télécommunications ou la correspondance par télécommunications entre les divers
-dépositaires de l'autorité publique ou qui se sont opposés avec violence ou menaces au rétablissement des liaisons de
-télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L126
-	  - Décret-loi 1851-12-27 art. 4
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R50 (V)
-
-
-#### CHAPITRE IV : Protection des câbles sous-marins
-
-##### SECTION 1 : Dispositions générales.
-
-###### Article L72
-
-Toute personne qui, par négligence coupable et notamment par un acte ou une omission punis de peines de police, rompt un
-câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
-les télécommunications, est tenue, dans les vingt-quatre heures de son arrivée, de donner avis aux autorités locales du
-premier port où abordera le navire sur lequel il est embarqué, de la rupture ou de la détérioration du câble sous-marin dont
-il se serait rendu coupable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones 150
-	  - Loi n°1884-12-20 art. 16
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R51 (V)
-	  - Code des postes et des communications électronique - art. L73 (V)
-
-
-##### SECTION 2 : Dispositions pénales.
-
-###### Article L73
-
-A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de 3
-750 euros et, éventuellement, de quatre mois d'emprisonnement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L72
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L150
-	  - Loi n°1884-12-20 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-
-###### Article L74
-
-En cas de récidive, [*sanction*] le maximum des peines édictées ci-dessus est prononcé, ce maximum peut être élevé jusqu'au
-double.
-
-Il y a récidive [*définition*] pour les faits prévus par l'article L. 81 lorsque, à une époque quelconque, il a été rendu
-contre le délinquant un jugement définitif pour infraction aux dispositions de cet article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L81
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L151
-	  - Loi n°1884-12-20 art. 17
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L75
-
-Sont déclarés responsables des amendes prononcées pour infraction au présent titre et des condamnations civiles auxquelles
-ces infractions pourraient donner lieu, les armateurs des navires, qu'ils en soient ou non propriétaires, à raison des faits
-de l'équipage de ces navires.
-
-Les autres cas de responsabilité civile sont réglés conformément aux dispositions de l'article 1384 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 1384 (M)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L152
-	  - Loi n°1884-12-20 art. 18
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L76
-
-En cas de conviction de plusieurs infractions prévues par le présent titre, [*sanction*] la peine la plus forte est seule
-prononcée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L153
-	  - Loi n°1884-12-20 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-
-##### PARAGRAPHE I : Dispositions spéciales aux eaux non territoriales.
-
-###### Article L77
-
-Les infractions à la convention internationale du 14 mars 1884, ayant pour objet d'assurer la protection des câbles sous-
-marins, qui sont commises par tout individu faisant partie de l'équipage d'un navire français sont jugées par le tribunal
-dans le ressort duquel est situé, soit le port d'attache du bâtiment du délinquant, soit le premier port de France dans
-lequel est conduit le bâtiment.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L135
-	  - Loi n°1884-12-20 art. 1
-
-	**Cite**:
-
-	  - Convention 1884-03-14, signée à Paris
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-
-###### Article L78
-
-Les poursuites ont lieu à la diligence du ministère public, sans préjudice du droit des parties civiles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L136
-	  - Loi n°1884-12-20 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-
-###### Article L79
-
-Les procès-verbaux dressés conformément à l'article 10 de la convention du 14 mars 1884 font foi jusqu'à l'inscription de
-faux.
-
-A défaut de procès-verbaux ou en cas d'insuffisance de ces actes, les infractions peuvent être prouvées par témoins.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R45 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L137
-	  - Loi n°1884-12-20 art. 3
-
-	**Modifié par**:
-
-	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 16 () JORF 20 décembre 2003
-
-
-###### Article L80
-
-Toute attaque, toute résistance avec violences et voies de fait envers les personnes ayant qualité, aux termes de l'article
-10 de la convention du 14 mars 1884, à l'effet de dresser procès-verbal, dans l'exercice de leurs fonctions [*infraction*],
-est punie [*sanction*] des peines appliquées à la rébellion, suivant les distinctions établies au code pénal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L139
-	  - Loi n°1884-12-20 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-
-###### Article L81
-
-Est punie d'une amende de 3 750 euros et  d'un emprisonnement de cinq ans  : toute personne qui rompt volontairement un câble
-sous-marin ou lui cause une détérioration qui pourrait interrompre ou entraver, en tout ou partie, les télécommunications.
-
-Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits.
-
-Toutefois, ces dispositions ne s'appliquent pas aux personnes qui auraient été contraintes de rompre un câble sous-marin ou
-de lui causer une détérioration par la nécessité actuelle de protéger leur vie ou d'assurer la sécurité de leur navire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L74 (Ab)
-	  - Code des postes et des communications électroni... - art. R51 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L144
-	  - Loi n°1884-12-20 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-
-##### PARAGRAPHE II : Dispositions spéciales aux eaux territoriales.
-
-###### Article L82
-
-Les dispositions de l'article L. 81 sont observées dans le cas où l'infraction aurait été commise dans les eaux territoriales
-par tout individu faisant partie de l'équipage d'un navire quelconque, français ou étranger, sans préjudice des dispositions
-de l'article L. 67.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L67 et L81
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L145
-	  - Loi n°1884-12-20 art. 11
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L83
-
-Les infractions à la police des câbles sous-marins sont jugées, soit par le tribunal du port d'attache du navire sur lequel
-est embarqué le délinquant, soit par celui du premier port français où ce navire abordera, soit par celui du lieu
-d'infraction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L146
-	  - Loi n°1884-12-20 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-
-###### Article L84
-
-Les infractions commises dans les eaux territoriales sont établies par procès-verbaux et, à défaut de procès-verbaux, par
-témoins.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L147
-	  - Loi n°1884-12-20 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-
-###### Article L85
-
-Les procès-verbaux prévus à l'article précédent sont dressés :
-
-- par les officiers commandant tous les navires de guerre français ;
-
-- par tous les officiers de police judiciaire ;
-
-- par tous les officiers de police municipale assermentés ;
-
-- par les autres personnes énumérées à l'article L. 70 et à l'article 16 du décret du 9 janvier 1852.
-
-Toute attaque, toute résistance avec violence et voies de fait envers les agents ayant qualité aux termes des dispositions
-ci-dessus pour dresser procès-verbal, dans l'exercice de leurs fonctions [*infraction*], est punie [*sanction*] des peines
-appliquées à la rébellion, suivant les distinctions établies au code pénal.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. L86 (V)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L70 et L84
-	  - Décret n°1852-01-09 art. 16
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L148
-	  - Loi n°1884-12-20 art. 14
-
-
-###### Article L86
-
-Les procès-verbaux dressés par les officiers commandant les navires de guerre français font foi jusqu'à inscription de faux.
-
-Les procès-verbaux dressés par tous autres agents ayant qualité à cet effet, aux termes de l'article précédent, ont la force
-probante et sont soumis aux formalités réglées par les lois spéciales, notamment l'article L. 70 et les articles 17 et 20 du
-décret du 9 janvier 1852.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L70, L85
-	  - Décret n°1852-01-09 art. 17, art. 20
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L149
-	  - Loi n°1884-12-20 art. 15
-
-	**Modifié par**:
-
-	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 16 () JORF 20 décembre 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-### TITRE VI : Services radioélectriques
-
-#### CHAPITRE Ier : Dispositions générales.
-
-###### Article L89
-
-Sauf dans les cas mentionnés à l'article L. 33-3, l'utilisation de fréquences radioélectriques en vue d'assurer soit
-l'émission, soit à la fois l'émission et la réception de signaux est soumise à autorisation administrative.
-
-Est également soumise à autorisation administrative l'utilisation d'une installation radioélectrique en vue d'assurer la
-réception de signaux transmis sur les fréquences attribuées par le Premier ministre, en application de l'article 21 de la loi
-n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, pour les besoins de la défense nationale ou de la
-sécurité publique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-3
-	  - Loi n°86-1067 1986-09-30 art. 21
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L157
-	  - Décret n°1926-12-28 art. 8
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 10 () JORF 27 juillet 1996
-	  - Loi n°96-659 du 26 juillet 1996 - art. 12 () JORF 27 juillet 1996
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L41-1 (M)
-
-
-###### Article L90
-
-Le ministre chargé des télécommunications détermine par arrêté les catégories d'installations radioélectriques d'émission
-pour la manoeuvre desquelles la possession d'un certificat d'opérateur est obligatoire et les conditions d'obtention de ce
-certificat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L158
-	  - Décret n°1926-12-28 art. 11
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 22 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L42-4 (M)
-
-
-###### Article L92
-
-Les installations radioélectriques visées aux articles L. 33-1, L. 33-2 et L. 33-3 du présent code sont établies, exploitées
-et entretenues par les soins et aux risques de ceux qui les exploitent.
-
-L'Etat n'est soumis à aucune responsabilité à raison de ces opérations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L33-2, L33-3
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L161
-	  - Décret n°1926-12-28 art. 22
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L93
-
-L'exploitant d'une installation radioélectrique visée à l'article L. 92 ne pourra traiter avec des Etats, offices ou
-particuliers étrangers en matière d'émission et de transmission radioélectriques que sous le contrôle et avec l'approbation
-de l'administration des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L92
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L162
-	  - Décret n°1926-12-28 art. 23
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L94
-
-Toute convention entre un propriétaire ou son ayant droit et un opérateur de télécommunications concernant la mise en place
-d'une installation radioélectrique visée aux articles L. 33-1, L. 33-2 et L. 33-3 doit, à peine de nullité, contenir en
-annexe un schéma de localisation précise des équipements à une échelle permettant de mesurer l'impact visuel de leur
-installation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L33-2, L33-3
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L164
-	  - Décret n°1926-12-28 art. 25
-
-	**Modifié par**:
-
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 19 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-###### Article L95
-
-Les installations radioélectriques visées aux articles L. 33-1, L. 33-2, L. 33-3 et L. 34-9 peuvent être provisoirement
-saisies et exploitées, s'il y a lieu, sans indemnité, par décision du conseil des ministres dans tous les cas où leur
-utilisation serait de nature à nuire à l'ordre, à la sûreté ou au crédit publics ou à la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L33-1, L33-2, L33-3, L34-9
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L165
-	  - Décret n°1926-12-28 art. 26
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L65-1 (M)
-
-
-###### Article L96
-
-L'administration des postes et télécommunications exerce un contrôle permanent sur les conditions techniques et
-d'exploitation des stations radioélectriques privées de toutes catégories.
-
-Le ministre de l'intérieur et le ministre des postes et télécommunications sont chargés de contrôler la teneur des émissions.
-
-Le ministre des postes et télécommunications et le ministre de l'intérieur assurent, d'accord, la recherche des postes
-clandestins.
-
-Les fonctionnaires de l'administration des postes et télécommunications et du ministère de l'intérieur chargés du contrôle
-peuvent, à tout instant, pénétrer dans les stations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L166
-	  - Décret n°1926-12-28 art. 30
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-#### CHAPITRE II : Dispositions pénales.
-
-###### Article L97
-
-Les infractions aux dispositions de l'article L. 93 sont passibles des peines prévues à l'article L. 39.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L93, L39
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L167
-	  - Décret n°1926-12-28 art. 31
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-### TITRE VII : Agence nationale des fréquences
-
-###### Article L97-1
-
-I. - Il est créé, à compter du 1er janvier 1997, une Agence nationale des fréquences, établissement public de l'Etat à
-caractère administratif.
-
-L'agence a pour mission d'assurer la planification, la gestion et le contrôle de l'utilisation, y compris privative, du
-domaine public des fréquences radioélectriques sous réserve de l'application de l'article 21 de la loi n° 86-1067 du 30
-septembre 1986 relative à la liberté de communication ainsi que des compétences des administrations et autorités
-affectataires de fréquences radioélectriques.
-
-Elle prépare la position française et coordonne l'action de la représentation française dans les négociations internationales
-dans le domaine des fréquences radioélectriques.
-
-Elle coordonne l'implantation sur le territoire national des stations radioélectriques de toute nature afin d'assurer la
-meilleure utilisation des sites disponibles. A cet effet, les décisions d'implantation ne peuvent être prises qu'après avis
-de l'agence lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel et qu'avec son accord dans tous les
-autres cas.
-
-Elle instruit pour le compte de l'Etat les demandes d'autorisation présentées en application de l'article L. 97-2.
-
-Un décret en Conseil d'Etat fixe le délai à l'issue duquel cet avis ou cet accord sont réputés acquis ainsi que, le cas
-échéant, les catégories d'installations pour lesquelles, en raison de leurs caractéristiques techniques, ils ne sont pas
-requis.
-
-II. - L'agence est administrée par un conseil d'administration composé de représentants des administrations, notamment de
-celles qui sont attributaires de bandes de fréquences, du Conseil supérieur de l'audiovisuel et de l'Autorité de régulation
-des télécommunications, ainsi que, pour au moins un tiers de ses membres, de personnalités choisies en raison de leurs
-compétences.
-
-Le président du conseil d'administration est nommé par décret. Il ne peut cumuler cette fonction avec celle de président du
-Conseil supérieur de l'audiovisuel et de président de l'Autorité de régulation des télécommunications.
-
-III. - Le directeur général de l'agence est nommé par décret après avis du président du conseil d'administration. Il assure
-la direction technique, administrative et financière de l'agence. Il représente l'établissement en justice.
-
-IV. - Les ressources de l'agence comprennent la rémunération des services rendus, les revenus du portefeuille, les
-subventions publiques et le produit des dons et legs. L'agence peut également percevoir des redevances d'usage des fréquences
-radioélectriques, dans les conditions fixées par les lois de finances.
-
-V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise notamment les missions,
-l'organisation et les conditions du fonctionnement de l'établissement.
-
-Un arrêté interministériel précise les objectifs à atteindre par l'agence dans les circonstances prévues aux articles 2 et 6
-de l'ordonnance n° 59-147 du 7 janvier 1959 portant organisation générale de la défense ainsi que les dispositions
-particulières à prendre en compte pour y parvenir.
-
-VI. - Le présent article est applicable en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et
-antarctiques françaises et en Nouvelle-Calédonie sous réserve des compétences exercées par ces collectivités en application
-des statuts qui les régissent.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
-	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
-	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
-	  - Code de la défense. - art. R1334-3 (VD)
-	  - Décret n°93-1036 du 2 septembre 1993 - art. 3 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L43 (M)
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L97-2
-	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-	  - Loi n°86-1067 1986-09-30 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 48 () JORF 22 juin 2004
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 23 () JORF 10 juillet 2004
-
-
-## LIVRE II : Les communications électroniques
-
-### TITRE Ier : Dispositions générales
-
-#### Chapitre Ier : Définitions et principes.
-
-###### Article L32-3-3
-
-Toute personne assurant une activité de transmission de contenus sur un réseau de communications électroniques ou de
-fourniture d'accès à un réseau de communications électroniques ne peut voir sa responsabilité civile ou pénale engagée à
-raison de ces contenus que dans les cas où soit elle est à l'origine de la demande de transmission litigieuse, soit elle
-sélectionne le destinataire de la transmission, soit elle sélectionne ou modifie les contenus faisant l'objet de la
-transmission.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 9 () JORF 22 juin 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L34-4 (V)
-
-
-###### Article L32-3-4
-
-Toute personne assurant dans le seul but de rendre plus efficace leur transmission ultérieure, une activité de stockage
-automatique, intermédiaire et temporaire des contenus qu'un prestataire transmet ne peut voir sa responsabilité civile ou
-pénale engagée à raison de ces contenus que dans l'un des cas suivants :
-
-1° Elle a modifié ces contenus, ne s'est pas conformée à leurs conditions d'accès et aux règles usuelles concernant leur mise
-à jour ou a entravé l'utilisation licite et usuelle de la technologie utilisée pour obtenir des données ;
-
-2° Elle n'a pas agi avec promptitude pour retirer les contenus qu'elle a stockés ou pour en rendre l'accès impossible, dès
-qu'elle a effectivement eu connaissance, soit du fait que les contenus transmis initialement ont été retirés du réseau, soit
-du fait que l'accès aux contenus transmis initialement a été rendu impossible, soit du fait que les autorités judiciaires ont
-ordonné de retirer du réseau les contenus transmis initialement ou d'en rendre l'accès impossible.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 9 () JORF 22 juin 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
-#### Chapitre II : Régime juridique.
-
-##### Section 4 : Interconnexion et accès au réseau.
 
 ###### Article L34-8-1
 
@@ -5927,78 +2643,121 @@ régulation des télécommunications, conformément à l'article L. 36-8.
 	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
-##### SECTION 6 : Numérotation
+##### Section 5 : Equipements radioélectriques et terminaux.
 
-###### Article L34-10
+###### Article L34-9
 
-Un plan national de numérotation est établi par l'Autorité de régulation des télécommunications et est géré sous son
-contrôle. Il garantit un accès égal et simple des utilisateurs aux différents réseaux et services de télécommunications et
-l'équivalence des formats de numérotation.
+Les équipements terminaux sont fournis librement.
 
-L'Autorité de régulation des télécommunications attribue aux opérateurs des préfixes et des numéros ou blocs de numéros, dans
-des conditions objectives, transparentes et non discriminatoires, moyennant une redevance, fixée par décret en Conseil
-d'Etat, destinée à couvrir les coûts de gestion du plan de numérotation et le contrôle de son utilisation.
+Les équipements destinés à être connectés à un réseau ouvert au public et les équipements radioélectriques doivent faire
+l'objet d'une évaluation de leur conformité aux exigences essentielles. Les organismes intervenant, le cas échéant, dans la
+procédure d'évaluation de conformité sont désignés de façon à offrir aux industriels concernés un choix préservant leur
+indépendance par rapport à des entreprises offrant des biens ou services dans le domaine des communications électroniques.
 
-Les conditions d'utilisation de ces préfixes, numéros ou blocs de numéros sont précisées selon le cas par le cahier des
-charges de l'opérateur ou par la décision d'attribution qui lui est notifiée.
+Un décret en Conseil d'Etat détermine :
 
-L'Autorité de régulation des télécommunications veille à la bonne utilisation des numéros attribués. Les préfixes, numéros ou
-blocs de numéros ne peuvent pas être protégés par un droit de propriété industrielle ou intellectuelle. Ils sont incessibles
-et ne peuvent faire l'objet d'un transfert qu'après accord de l'Autorité de régulation des télécommunications.
+1° Les équipements qui sont dispensés de l'évaluation de conformité ;
 
-A compter du 1er janvier 1998, tout abonné qui ne change pas d'implantation géographique peut conserver son numéro en cas de
-changement d'opérateur dans la limite des technologies mises en oeuvre et des capacités qu'elles permettent. Jusqu'au 31
-décembre 2000, les coûts induits par le transfert des appels par l'opérateur initial sont supportés par le nouvel opérateur
-qui, seul, peut les refacturer à l'abonné, et sans qu'aucune charge d'aucune sorte ne soit, à cette occasion, facturée par
-l'opérateur initial à l'abonné. Les opérateurs sont tenus de prévoir les stipulations nécessaires dans les conventions
-d'interconnexion mentionnées à l'article L. 34-8. Les dispositions du présent alinéa ne s'appliquent pas aux numéros alloués
-aux réseaux radioélectriques lorsqu'ils sont utilisés pour fournir des services mobiles.
+2° Les conditions que doivent respecter les organismes intervenant dans la procédure d'évaluation de conformité, pour être
+désignés en vue d'exercer ces fonctions ;
 
-A compter du 1er janvier 2001, tout utilisateur peut, à sa demande :
+3° Les conditions dans lesquelles sont, le cas échéant, élaborées et publiées les spécifications techniques des équipements
+soumis à l'évaluation de conformité ;
 
-- conserver son numéro s'il change d'opérateur sans changer d'implantation géographique ;
+4° Celles des exigences essentielles qui sont applicables aux équipements concernés ;
 
-- obtenir de l'opérateur auprès duquel il est abonné un numéro lui permettant de changer d'implantation géographique ou
-d'opérateur en gardant ce numéro.
+5° Les conditions de mise sur le marché, de mise en service, de retrait du marché ou du service, de restriction ou
+d'interdiction de mise sur le marché ou de mise en service des équipements radioélectriques et des équipements terminaux
+ainsi que, pour ces derniers, les conditions de raccordement aux réseaux ouverts au public ;
 
-A compter de la même date, les opérateurs sont tenus de prévoir les dispositions nécessaires dans les conventions
-d'interconnexion et de proposer aux utilisateurs les offres correspondantes, dont les conditions sont approuvées
-préalablement par l'Autorité de régulation des télécommunications.
+6° La procédure d'évaluation de conformité ;
 
-A sa demande, tout abonné d'un réseau ouvert au public peut, sauf raison liée au fonctionnement des services d'urgence ou à
-la tranquillité de l'appelé, s'opposer à l'identification par l'appelé de son numéro d'abonné.
+7° Les conditions dans lesquelles les détenteurs des équipements font vérifier à leurs frais la conformité de ces équipements
+aux prescriptions du présent article.
+
+Les équipements ou installations soumis à l'évaluation de conformité ne peuvent être fabriqués pour l'Espace économique
+européen, importés, en vue de leur mise à la consommation, de pays n'appartenant pas à celui-ci, détenus en vue de la vente,
+mis en vente, distribués à titre gratuit ou onéreux, connectés à un réseau ouvert au public ou faire l'objet de publicité que
+s'ils ont fait l'objet d'une évaluation de leur conformité et sont à tout moment conformes à celle-ci.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Arrêté du 14 juin 1996 - art. Annexe (V)
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
 	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 31 décembre 1996 - art. ANNEXE (V)
-	  - Arrêté du 18 décembre 1997 - art. ANNEXE (V)
-	  - Arrêté du 16 avril 1998 - art. ANNEXE (V)
-	  - Arrêté du 26 mai 1998 - art. ANNEXE (V)
+	  - Arrêté du 18 décembre 1996 - art. ANNEXE (P)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
 	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
-	  - Arrêté du 6 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 19 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 28 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 20 octobre 1998 - art. ANNEXE (V)
-	  - Arrêté du 11 février 1999 - art. ANNEXE (V)
-	  - Code des postes et des communications électronique - art. D97-1 (T)
-	  - Code des postes et des communications électronique - art. D97-2 (T)
+	  - Décret n°2006-1278 du 18 octobre 2006 - art. 2 (VT)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 184 (V)
+	  - Décret n°2015-1084 du 27 août 2015 - art. 1 (V)
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
+	  - Décret n°2017-599 du 21 avril 2017 - art. 4
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. L40 (V)
+	  - Code des postes et des communications électroni... - art. L40-1 (VD)
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+	  - Code des postes et des communications électronique - art. D406-11 (V)
+	  - Code des postes et des communications électronique - art. D485 (T)
+	  - Code des postes et des communications électronique - art. L39-1 (V)
+	  - Code des postes et des communications électronique - art. L65-1 (V)
 
-	**Créé par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 6 () JORF 27 juillet 1996
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2004-669 du 9 juillet 2004 - art. 12 () JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+###### Article L34-9-1
+
+Un décret définit les valeurs que ne doivent pas dépasser les champs électromagnétiques émis par les équipements utilisés
+dans les réseaux de communications électroniques ou par les installations mentionnées à l'article L. 33-3, lorsque le public
+y est exposé.
+
+Le respect de ces valeurs peut être vérifié sur place par des organismes répondant aux exigences de qualité fixées par un
+décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 12 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 2013 - art. 2 (V)
+	  - Arrêté du 14 décembre 2013 - art. 3 (V)
+	  - Décret n°2013-1162 du 14 décembre 2013 - art. 4 (VD)
+	  - Décret n°2016-1106 du 11 août 2016 (V)
+	  - Décret n°2016-1211 du 9 septembre 2016 (V)
+	  - Arrêté du 12 octobre 2016 (V)
+	  - Arrêté du 12 octobre 2016 - art. 1
+	  - Arrêté du 12 octobre 2016 - art. 2 (V)
+	  - Arrêté du 12 octobre 2016 - art. 3 (V)
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-13-1 (M)
+	  - Code des postes et des communications électroni... - art. R20-19 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+	  - Code des postes et des communications électronique - art. D100 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-3 (M)
 
 
 #### Chapitre III : Les obligations de service public.
@@ -6016,29 +2775,7 @@ b) Les services obligatoires de communications électroniques offerts dans les c
 c) Les missions d'intérêt général dans le domaine des communications électroniques, en matière de défense et de sécurité, de
 recherche publique et d'enseignement supérieur, assurées dans les conditions fixées à l'article L. 35-6.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (M)
-	  - Code des postes et des communications électronique - art. D288 (M)
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L35-5 (M)
-	  - Code des postes et des communications électronique - art. L35-6 (M)
-	  - Code des postes et des communications éléctroniques L35-1 à L35-4, L35-5, L35-6
 
 	**Anciens textes**:
 
@@ -6046,9 +2783,25 @@ télécommunications devient le code des postes et des communications électroni
 	  - Loi n°1850-11-29 art. 1 al. 2
 	  - Loi n°1861-07-03 art. 1
 
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (M)
+	  - Code des postes et des communications électronique - art. D288 (M)
+
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L35-5 (M)
+	  - Code des postes et des communications électronique - art. L35-6 (M)
+	  - Code des postes et des communications électroniques L35-1 à L35-4, L35-5, L35-6
 
 
 ###### Article L35-1
@@ -6141,6 +2894,83 @@ universel.
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-2
+
+Peut être chargé de fournir l'une des composantes du service universel mentionnées aux 1°, 2° et 3° de l'article L. 35-1 tout
+opérateur en acceptant la fourniture sur l'ensemble du territoire national et capable de l'assurer.
+
+Le ministre chargé des communications électroniques désigne les opérateurs chargés de fournir les composantes du service
+universel à l'issue d'appels à candidatures portant sur les conditions techniques et tarifaires ainsi que, le cas échéant, le
+coût net de fourniture de ces prestations.
+
+Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé des communications électroniques désigne un
+opérateur capable d'assurer le service en cause sur l'ensemble du territoire national.
+
+Le cahier des charges du ou des opérateurs en charge du service universel des communications électroniques est soumis pour
+avis à la Commission supérieure du service public des postes et des communications électroniques.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
+électroniques, détermine les modalités d'application du présent article. Il fixe les conditions dans lesquelles les tarifs du
+service universel et sa qualité sont contrôlés et précise, notamment, les cas dans lesquels les tarifs du service universel
+peuvent faire l'objet soit d'une mesure d'encadrement pluriannuel, soit d'une opposition ou d'un avis préalable de l'Autorité
+de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 14 février 2012 - art. (V)
+	  - Arrêté du 31 octobre 2013 - art. (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-2-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-3 (V)
+	  - Code des postes et des communications électroni... - art. L35-7 (V)
+	  - Code des postes et des communications électroni... - art. L35-8 (Ab)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. L38-1 (V)
+	  - Code des postes et des communications électroni... - art. L38-3 (V)
+	  - Code des postes et des communications électroni... - art. R10-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-30 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-10 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-11 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-13 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-3 (Ab)
+	  - Code des postes et des communications électroni... - art. R20-30-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+	  - Code des postes et des communications électroni... - art. R20-32 (V)
+	  - Code des postes et des communications électroni... - art. R20-33 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 13 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L35-1 (M)
 
 
 ###### Article L35-3
@@ -6293,12 +3123,6 @@ services de la police et de la gendarmerie nationales, les services d'incendie e
 urgente, agissant dans le cadre de missions judiciaires ou d'interventions de secours, à leurs listes d'abonnés et
 d'utilisateurs, complètes, non expurgées et mises à jour.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -6319,11 +3143,42 @@ télécommunications devient le code des postes et des communications électroni
 
 	**Modifié par**:
 
-	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+###### Article L35-6
+
+Les prescriptions exigées par la défense et la sécurité publique et les garanties d'une juste rémunération des prestations
+assurées à ce titre, à la demande de l'Etat, par les opérateurs sont déterminés par décret.
+
+L'enseignement supérieur dans le domaine des communications électroniques relève de la responsabilité de l'Etat et est placé
+sous la tutelle du ministre chargé des communications électroniques. Il est à la charge de l'Etat, dans les conditions
+prévues par les lois de finances. Il bénéficie, de sa part et dans les conditions prévues par les lois de finances, des
+moyens lui garantissant une haute qualité.
+
+Les missions de recherche publique et de développement dans le domaine des communications électroniques sont exercées par
+l'Etat ou pour le compte de l'Etat et sous sa responsabilité dans le cadre de contrats qui définissent les programmes et en
+précisent les modalités de réalisation ainsi que de financement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L35 (V)
+	  - Code des postes et des communications électronique - art. D586 (V)
+	  - Code des postes et des communications électronique - art. D96-17 (T)
 
 
 ###### Article L35-7
@@ -6402,29 +3257,1208 @@ l'opportunité de relancer les appels à candidatures prévus à l'article L. 35
 	  - Code des postes et des communications électroniques - art. L35-7
 
 
-#### Chapitre V : Dispositions pénales.
+#### Chapitre IV : La régulation des communications électroniques.
 
-###### Article L39-2
+##### SECTION  1 : Autorité de régulation des télécommunications.
 
-Sera puni de 150 000 euros d'amende quiconque aura contrevenu aux dispositions du deuxième alinéa du III de l'article L.
-33-1.
+###### Article L36
 
-Le fait de contrevenir sciamment aux dispositions de l'article L. 32-5 est puni de 30 000 euros d'amende. Les personnes
-morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article L. 121-2 du code pénal, du
-délit prévu au présent alinéa. La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par
-l'article 131-38 du code pénal.
+Il est créé, à compter du 1er janvier 1997, une Autorité de régulation des télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L75
+	  - Loi n°1850-11-29 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+
+
+###### Article L36-1
+
+L'Autorité de régulation des télécommunications est composée de cinq membres nommés en raison de leur qualification dans les
+domaines juridique, technique et de l'économie des territoires pour un mandat de six ans. Trois membres, dont le président,
+sont nommés par décret. Les deux autres membres sont respectivement nommés par le Président de l'Assemblée nationale et le
+Président du Sénat.
+
+Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans.
+
+Les membres de l'autorité ne sont pas révocables.
+
+L'Autorité de régulation des télécommunications ne peut délibérer que si trois au moins de ses membres sont présents. Elle
+délibère à la majorité des membres présents.
+
+Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
+fonctions pour la durée du mandat restant à courir.
+
+Pour la constitution de l'autorité, le président est nommé pour six ans. La durée du mandat des deux autres membres nommés
+par décret est fixée, par tirage au sort, à quatre ans pour l'un et à deux ans pour l'autre. La durée du mandat des deux
+membres nommés par les présidents des assemblées parlementaires est fixée, par tirage au sort, à quatre ans pour l'un et six
+ans pour l'autre.
+
+Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
+mandat, en application de l'un ou l'autre des deux alinéas ci-dessus, n'a pas excédé deux ans.
+
+Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L130 (M)
+	  - Code des postes et des communications électronique - art. L130 (V)
+
+
+###### Article L36-2
+
+La fonction de membre de l'Autorité de régulation des télécommunications est incompatible avec toute activité
+professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte, d'intérêts
+dans une entreprise du secteur des communications électroniques, de l'audiovisuel ou de l'informatique. Les membres de
+l'Autorité de régulation des télécommunications ne peuvent être membres de la Commission supérieure du service public des
+postes et des communications électroniques.
+
+Les membres de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir
+connaissance en raison de leurs fonctions. Ils sont tenus à l'obligation de discrétion pour ce qui concerne les procédures de
+règlement de différends et de sanctions conduites par ou devant l'autorité et les délibérations correspondantes.
+
+Afin de garantir l'indépendance et la dignité de leurs fonctions, et pendant la durée de celles-ci, les membres de l'autorité
+ne prennent, à titre personnel, aucune position publique sur des questions ayant fait ou susceptibles de faire l'objet d'une
+décision de la part de l'autorité.
+
+Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
+seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 14 I, II JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L131 (V)
+
+
+###### Article L36-3
+
+L'Autorité de régulation des télécommunications dispose de services qui sont placés sous l'autorité de son président.
+
+L'autorité peut employer des fonctionnaires en position d'activité dans les mêmes conditions que le ministère chargé des
+communications électroniques. Elle peut recruter des agents contractuels.
+
+Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
+ont pu avoir connaissance en raison de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L132 (M)
+	  - Code des postes et des communications électronique - art. L132 (V)
+
+
+###### Article L36-4
+
+Les ressources de l'Autorité de régulation des télécommunications comprennent des rémunérations pour services rendus et des
+taxes et redevances dans les conditions fixées par les lois de finances ou par décret en Conseil d'Etat.
+
+L'autorité propose au ministre chargé des communications électroniques, lors de l'élaboration du projet de loi de finances de
+l'année, les crédits nécessaires, en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses missions.
+
+Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à l'organisation
+du contrôle des dépenses engagées ne sont pas applicables à leur gestion.
+
+Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité au contrôle de la Cour des
+comptes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L33-1, L32-5
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal L121-2, 131-38
+	  - Loi n°1922-08-10
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 72 (V) JORF 19 mars 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L133 (M)
+	  - Code des postes et des communications électronique - art. L133 (V)
+
+
+###### Article L36-5
+
+L'Autorité de régulation des télécommunications est consultée sur les projets de loi, de décret ou de règlement relatifs au
+secteur des communications électroniques et participe à leur mise en oeuvre.
+
+L'autorité est associée, à la demande du ministre chargé des communications électroniques, à la préparation de la position
+française dans les négociations internationales dans le domaine des communications électroniques. Elle participe, à la
+demande du ministre chargé des communications électroniques, à la représentation française dans les organisations
+internationales et communautaires compétentes en ce domaine.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L36-6
+
+Dans le respect des dispositions du présent code et de ses règlements d'application, et, lorsque ces décisions ont un effet
+notable sur la diffusion de services de radio et de télévision, après avis du Conseil supérieur de l'audiovisuel, l'Autorité
+de régulation des télécommunications précise les règles concernant :
+
+1° Les droits et obligations afférents à l'exploitation des différentes catégories de réseaux et de services, en application
+de l'article L. 33-1 ;
+
+2° Les prescriptions applicables aux conditions techniques et financières d'interconnexion et d'accès, conformément à
+l'article L. 34-8 et aux conditions techniques et financières de l'itinérance locale, conformément à l'article L. 34-8-1 ;
+
+3° Les conditions d'utilisation des fréquences et bandes de fréquences mentionnées à l'article L. 42 ;
+
+4° Les conditions d'établissement et d'exploitation des réseaux mentionnés à l'article L. 33-2 et celles d'utilisation des
+réseaux mentionnés à l'article L. 33-3 ;
+
+5° La détermination des points de terminaison des réseaux.
+
+Les décisions prises en application du présent article sont, après homologation par arrêté du ministre chargé des
+communications électroniques, publiées au Journal officiel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Arrêté du 14 juin 1996 - art. Annexe (V)
+	  - Loi n°96-659 du 26 juillet 1996 - art. 22 (VD)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 31 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. 8 (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. 8 (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. 10 (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. 8 (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. 8 (V)
+	  - Arrêté du 18 décembre 1997 - art. ANNEXE (V)
+	  - Arrêté du 16 avril 1998 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1998 - art. ANNEXE (V)
+	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 19 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 28 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 20 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 11 février 1999 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
+	  - Décret n°2009-166 du 12 février 2009 (V)
+	  - Code des postes et des communications électroni... - art. D98-10 (V)
+	  - Code des postes et des communications électroni... - art. D98-4 (V)
+	  - Code des postes et des communications électroni... - art. D98-6 (V)
+	  - Code des postes et des communications électroni... - art. D98-6-2 (V)
+	  - Code des postes et des communications électroni... - art. D98-8 (V)
+	  - Code des postes et des communications électroni... - art. L33-12 (V)
+	  - Code des postes et des communications électroni... - art. L33-3 (V)
+	  - Code des postes et des communications électroni... - art. L42 (V)
+	  - Code des postes et des communications électroni... - art. R20-15 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+	  - Code des postes et des communications électronique - art. D370 (M)
+	  - Code des postes et des communications électronique - art. D371 (V)
+	  - Code des postes et des communications électronique - art. D406-18 (V)
+	  - Code des postes et des communications électronique - art. D98-1 (M)
+	  - Code des postes et des communications électronique - art. D98-5 (V)
+	  - Code des postes et des communications électronique - art. D99-15 (Ab)
+	  - Code des postes et des communications électronique - art. D99-16 (Ab)
+	  - Code des postes et des communications électronique - art. D99-7 (M)
+	  - Code des postes et des communications électronique - art. L42-4 (V)
+	  - Code des postes et des communications électronique - art. R20-10 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 14 I, III JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L33-2 (M)
+	  - Code des postes et des communications électronique - art. L34-8 (M)
+	  - Code des postes et des communications électronique - art. L34-8-1 (M)
+
+
+###### Article L36-7
+
+L'Autorité de régulation des télécommunications :
+
+1° Reçoit les déclarations prévues à l'article L. 33-1 ;
+
+2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ;
+
+3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
+sont applicables en vertu du présent code et des autorisations dont ils bénéficient et sanctionne les manquements constatés
+dans les conditions prévues aux articles L. 36-10 et L. 36-11 ;
+
+4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
+contributions au financement des obligations de service universel et assure la surveillance des mécanismes de ce
+financement ;
+
+5° Le cas échéant, définit des mesures d'encadrement pluriannuel des tarifs et émet un avis public sur la mise en oeuvre d'un
+tarif ou s'y oppose, en application des articles L. 35-2 et L. 38-1 ;
+
+6° Assigne aux opérateurs et aux utilisateurs les fréquences nécessaires à l'exercice de leur activité dans les conditions
+prévues à l'article L. 42-1 et veille à leur bonne utilisation ;
+
+7° Etablit le plan national de numérotation téléphonique, attribue aux opérateurs les ressources en numérotation nécessaires
+à leur activité dans les conditions prévues à l'article L. 44 et veille à leur bonne utilisation ;
+
+8° Etablit la liste des opérateurs réputés exercer une influence significative sur un marché du secteur des communications
+électroniques et fixe leurs obligations, dans les conditions prévues aux articles L. 37-1 et L. 37-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 16 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 26 (V)
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Arrêté du 14 juin 1996 - art. Annexe (V)
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 119-1 (V)
+	  - Loi n°2009-258 du 5 mars 2009 - art. 89 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 6 (VD)
+	  - Code des postes et des communications électroni... - art. R20-14 (V)
+	  - Code des postes et des communications électronique - art. D98-8 (M)
+	  - Code des postes et des communications électronique - art. D99-11 (M)
+	  - Code des postes et des communications électronique - art. D99-12 (Ab)
+	  - Code des postes et des communications électronique - art. D99-13 (Ab)
+	  - Code des postes et des communications électronique - art. D99-14 (Ab)
+	  - Code des postes et des communications électronique - art. D99-15 (Ab)
+	  - Code des postes et des communications électronique - art. D99-16 (Ab)
+	  - Code des postes et des communications électronique - art. D99-17 (Ab)
+	  - Code des postes et des communications électronique - art. D99-18 (Ab)
+	  - Code des postes et des communications électronique - art. D99-19 (Ab)
+	  - Code des postes et des communications électronique - art. D99-20 (Ab)
+	  - Code des postes et des communications électronique - art. D99-21 (Ab)
+	  - Code des postes et des communications électronique - art. D99-22 (Ab)
+	  - Code des postes et des communications électronique - art. D99-23 (Ab)
+	  - Code des postes et des communications électronique - art. D99-3 (M)
+	  - Code des postes et des communications électronique - art. D99-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 15 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-9 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+	  - Code des postes et des communications électronique - art. L35-3 (M)
+	  - Code des postes et des communications électronique - art. L36-10 (M)
+	  - Code des postes et des communications électronique - art. L36-11 (M)
+	  - Code des postes et des communications électronique - art. L37-1 (M)
+	  - Code des postes et des communications électronique - art. L37-2 (M)
+	  - Code des postes et des communications électronique - art. L38-1 (M)
+	  - Code des postes et des communications électronique - art. L42-1 (M)
+	  - Code des postes et des communications électronique - art. L44 (M)
+
+
+###### Article L36-8
+
+I. - En cas de refus d'accès ou d'interconnexion, d'échec des négociations commerciales ou de désaccord sur la conclusion ou
+l'exécution d'une convention d'interconnexion ou d'accès à un réseau de communications électroniques, l'Autorité de
+régulation des télécommunications peut être saisie du différend par l'une ou l'autre des parties.
+
+L'autorité se prononce, dans un délai fixé par décret en Conseil d'Etat, après avoir mis les parties à même de présenter
+leurs observations et, le cas échéant, procédé à des consultations techniques, économiques ou juridiques, ou expertises
+respectant le secret de l'instruction du litige dans les conditions prévues par le présent code. Sa décision est motivée et
+précise les conditions équitables, d'ordre technique et financier, dans lesquelles l'interconnexion ou l'accès doivent être
+assurés. Lorsque les faits à l'origine du litige sont susceptibles de restreindre de façon notable l'offre de services de
+communication audiovisuelle, l'autorité recueille l'avis du Conseil supérieur de l'audiovisuel qui se prononce dans un délai
+fixé par le décret en Conseil d'Etat prévu au présent alinéa.
+
+L'Autorité de régulation des télécommunications peut refuser la communication de pièces mettant en jeu le secret des
+affaires. Ces pièces sont alors retirées du dossier.
+
+En cas d'atteinte grave et immédiate aux règles régissant le secteur des communications électroniques, l'autorité peut, après
+avoir entendu les parties en cause, ordonner des mesures conservatoires en vue notamment d'assurer la continuité du
+fonctionnement des réseaux. Ces mesures doivent rester strictement limitées à ce qui est nécessaire pour faire face à
+l'urgence.
+
+L'autorité rend publiques ses décisions, sous réserve des secrets protégés par la loi. Elle les notifie aux parties.
+
+II. - En cas d'échec des négociations commerciales, l'Autorité de régulation des télécommunications peut également être
+saisie des différends relatifs à la mise en oeuvre des obligations des opérateurs prévues par le présent titre, ainsi que
+celles du chapitre III du titre II, notamment ceux portant sur : 
+
+1° Les possibilités et les conditions d'une utilisation partagée entre opérateurs, prévue à l'article L. 47, d'installations
+existantes situées sur le domaine public et, prévue à l'article L. 48, d'installations existantes situées sur une propriété
+privée ;
+
+2° Les conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'article L. 34 ;
+
+2° bis La conclusion ou l'exécution de la convention d'itinérance locale prévue à l'article L. 34-8-1 ;
+
+3° Les conditions de la mise en conformité, prévue par le dernier alinéa de l'article L. 34-4, des conventions comportant des
+clauses excluant ou restreignant la fourniture de services de communications électroniques sur les réseaux mentionnés au
+premier alinéa dudit article ;
+
+4° Les conditions techniques et tarifaires d'exercice d'une activité d'opérateur de communications électroniques ou
+d'établissement, de mise à disposition ou de partage des réseaux et infrastructures de communications électroniques visés à
+l'article L. 1425-1 du code général des collectivités territoriales.
+
+Elle se prononce sur ces différends dans les conditions de forme et de procédure prévues au I. En outre, elle procède à une
+consultation publique de toutes les parties intéressées avant toute décision imposant l'utilisation partagée entre opérateurs
+des installations mentionnées au 1°.
+
+III. - Les décisions prises par l'Autorité de régulation des télécommunications en application des I et II peuvent faire
+l'objet d'un recours en annulation ou en réformation dans le délai d'un mois à compter de leur notification.
+
+Le recours n'est pas suspensif. Toutefois, le sursis à exécution de la décision peut être ordonné, si celle-ci est
+susceptible d'entraîner des conséquences manifestement excessives ou s'il est survenu, postérieurement à sa notification, des
+faits nouveaux d'une exceptionnelle gravité.
+
+Les mesures conservatoires prises par l'Autorité de régulation des télécommunications peuvent, au maximum dix jours après
+leur notification, faire l'objet d'un recours en annulation ou en réformation. Ce recours est jugé dans le délai d'un mois.
+
+IV. - Les recours contre les décisions et mesures conservatoires prises par l'Autorité de régulation des télécommunications
+en application du présent article sont de la compétence de la cour d'appel de Paris.
+
+Le pourvoi en cassation formé le cas échéant contre l'arrêt de la cour d'appel est exercé dans le délai d'un mois suivant la
+notification de cet arrêt.
+
+V. - Lorsqu'une des parties est établie dans un autre Etat membre de la Communauté européenne et que le différend est
+également porté devant les autorités compétentes d'autres Etats membres, l'Autorité de régulation des télécommunications
+coordonne son action avec celle de ces autorités. Les règles de procédure définies aux I et II sont applicables, à
+l'exception de celles qui sont relatives aux délais.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. 8 (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. 8 (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. 10 (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. 8 (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. 8 (V)
+	  - Arrêté du 25 septembre 1998 - art. ANNEXE (V)
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 134 (V)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Code des postes et des communications électroni... - art. D98-9 (V)
+	  - Code des postes et des communications électroni... - art. L130 (V)
+	  - Code des postes et des communications électroni... - art. L34 (V)
+	  - Code des postes et des communications électroni... - art. L34-10 (V)
+	  - Code des postes et des communications électroni... - art. L34-8 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-1 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-1-1 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
+	  - Code des postes et des communications électroni... - art. L34-8-2-2 (VD)
+	  - Code des postes et des communications électroni... - art. L34-8-3 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-4 (M)
+	  - Code des postes et des communications électroni... - art. L34-8-6 (V)
+	  - Code des postes et des communications électroni... - art. L36-11 (VD)
+	  - Code des postes et des communications électroni... - art. L47 (V)
+	  - Code des postes et des communications électroni... - art. L48 (V)
+	  - Code des postes et des communications électroni... - art. R11-1 (V)
+	  - Code des postes et des communications électroni... - art. R11-2 (V)
+	  - Code des postes et des communications électroni... - art. R11-7 (V)
+	  - Code des postes et des communications électronique - art. D98-1 (M)
+	  - Code des postes et des communications électronique - art. D99-23 (Ab)
+	  - Code des postes et des communications électronique - art. D99-8 (V)
+	  - Code général des collectivités territoriales - art. L1425-1 (V)
+	  - Code général des impôts, CGI. - art. 199 undecies B (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 16 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L36-10
+
+Le président de l'Autorité de régulation des télécommunications saisit le Conseil de la concurrence des abus de position
+dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur
+des communications électroniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, auquel cas le
+Conseil de la concurrence est appelé à se prononcer dans les trente jours ouvrables suivant la date de la saisine. Il peut
+également le saisir pour avis de toute autre question relevant de sa compétence. Le Conseil de la concurrence communique à
+l'Autorité de régulation des télécommunications toute saisine entrant dans le champ de compétence de celle-ci et recueille
+son avis sur les pratiques dont il est saisi dans le secteur des communications électroniques.
+
+Le président de l'Autorité de régulation des télécommunications informe le procureur de la République des faits qui sont
+susceptibles de recevoir une qualification pénale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+
+
+###### Article L36-11
+
+L'Autorité de régulation des télécommunications peut, soit d'office, soit à la demande du ministre chargé des communications
+électroniques, d'une organisation professionnelle, d'une association agréée d'utilisateurs ou d'une personne physique ou
+morale concernée, sanctionner les manquements qu'elle constate, de la part des exploitants de réseaux ou des fournisseurs de
+services de communications électroniques, aux dispositions législatives et réglementaires afférentes à leur activité ou aux
+décisions prises pour en assurer la mise en oeuvre. Ce pouvoir de sanction est exercé dans les conditions ci-après :
+
+1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services aux dispositions du présent code et des
+textes et décisions pris pour son application, ainsi qu'aux prescriptions d'une décision d'attribution ou d'assignation de
+fréquence prise par l'autorité en application de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté
+de communication, l'exploitant ou le fournisseur est mis en demeure par le directeur des services de l'Autorité de régulation
+des télécommunications de s'y conformer dans un délai déterminé. Ce délai ne peut être inférieur à un mois sauf en cas
+d'infractions graves et répétées ou si l'exploitant ou le fournisseur en est d'accord. L'autorité peut rendre publique cette
+mise en demeure ;
+
+2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme pas dans les délais fixés à une décision prise
+en application de l'article L. 36-8 ou à la mise en demeure prévue au 1° ci-dessus, l'Autorité de régulation des
+télécommunications peut prononcer à son encontre une des sanctions suivantes :
+
+a) Soit, en fonction de la gravité du manquement :
+
+- la suspension totale ou partielle, pour un mois au plus, du droit d'établir un réseau de communications électroniques ou de
+fournir un service de communications électroniques, ou le retrait de ce droit, dans la limite de trois ans ;
+
+- la suspension totale ou partielle, pour un mois au plus, la réduction de la durée, dans la limite d'une année, ou le
+retrait de la décision d'attribution ou d'assignation prise en application des articles L. 42-1 ou L. 44.
+
+b) Soit, si le manquement n'est pas constitutif d'une infraction pénale, une sanction pécuniaire, dont le montant est
+proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 3 p. 100 du chiffre
+d'affaires hors taxes du dernier exercice clos, taux porté à 5 p. 100 en cas de nouvelle violation de la même obligation. A
+défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 euros, porté à 375
+000 euros en cas de nouvelle violation de la même obligation.
+
+Les sanctions sont prononcées après que la personne en cause a reçu notification des griefs et a été mis à même de consulter
+le dossier et, le cas échéant, les résultats des enquêtes ou expertises conduites par l'autorité et de présenter ses
+observations écrites et verbales.
+
+Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine ;
+
+3° En cas d'atteinte grave et immédiate aux règles mentionnées au premier alinéa du présent article, l'Autorité de régulation
+des télécommunications peut ordonner, sans mise en demeure préalable, des mesures conservatoires. L'autorité peut, le cas
+échéant, confirmer les mesures conservatoires, après avoir donné à la personne concernée la possibilité d'exprimer son point
+de vue et de proposer des solutions ;
+
+4° L'Autorité de régulation des télécommunications ne peut être saisie de faits remontant à plus de trois ans, s'il n'a été
+fait aucun acte tendant à leur recherche, leur constatation ou leur sanction ;
+
+5° Les décisions sont motivées, notifiées à l'intéressé et publiées au Journal officiel. Elles peuvent faire l'objet d'un
+recours de pleine juridiction et d'une demande de suspension présentée conformément à l'article L. 521-1 du code de justice
+administrative, devant le Conseil d'Etat ;
+
+6° Lorsqu'un manquement constaté dans le cadre des dispositions du présent article est susceptible d'entraîner un préjudice
+grave pour un opérateur ou pour l'ensemble du marché, le président de l'Autorité de régulation des télécommunications peut
+demander au président de la section du contentieux du Conseil d'Etat statuant en référé qu'il soit ordonné à la personne
+responsable de se conformer aux règles et décisions applicables et de supprimer les effets du manquement ; le juge peut
+prendre, même d'office, toute mesure conservatoire et prononcer une astreinte pour l'exécution de son ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 26 (M)
+	  - Code de justice administrative. - art. L521-1 (V)
+	  - Code des postes et des communications électronique - art. L36-8 (M)
+	  - Code des postes et des communications électronique - art. L44 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 25 septembre 1998 - art. ANNEXE (V)
+	  - Code de justice administrative - art. L311-4 (VD)
+	  - Code des postes et des communications électroni... - art. D594 (V)
+	  - Code des postes et des communications électroni... - art. D595 (V)
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L33-2 (V)
+	  - Code des postes et des communications électroni... - art. L34-5 (VD)
+	  - Code des postes et des communications électroni... - art. L35-3 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (M)
+	  - Code des postes et des communications électroni... - art. L42-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-5 (V)
+	  - Code des postes et des communications électronique - art. D97-11 (T)
+	  - Code des postes et des communications électronique - art. L97-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 17 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L36-12
+
+Pour l'accomplissement des missions qui sont confiées à l'Autorité de régulation des télécommunications, le président de
+l'autorité a qualité pour agir en justice.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L134 (V)
+
+
+###### Article L36-13
+
+L'Autorité de régulation des télécommunications recueille les informations et procède aux enquêtes nécessaires à l'exercice
+de ses missions, dans les limites et conditions fixées par l'article L. 32-4.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Arrêté du 14 juin 1996 - art. Annexe (V)
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 31 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 18 décembre 1997 - art. ANNEXE (V)
+	  - Arrêté du 16 avril 1998 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1998 - art. ANNEXE (V)
+	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 19 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 28 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 20 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 11 février 1999 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32-4 (M)
+
+
+###### Article L36-14
+
+L'Autorité de régulation des télécommunications établit chaque année, avant le 30 juin, un rapport public qui rend compte de
+son activité et de l'application des dispositions législatives et réglementaires relatives aux communications électroniques.
+Elle y dresse une analyse des principales décisions prises par les autorités de régulation des communications électroniques
+dans les Etats membres de la Communauté européenne au cours de l'année écoulée, en vue de permettre l'établissement d'une
+comparaison des différents types de contrôles exercés et de leurs effets sur les marchés. Ce rapport est adressé au
+Gouvernement et au Parlement. Il est adressé également à la Commission supérieure du service public des postes et des
+communications électroniques. L'autorité peut suggérer dans ce rapport toute modification législative ou réglementaire que
+lui paraissent appeler les évolutions du secteur des communications électroniques et le développement de la concurrence.
+
+L'autorité rend compte de ses activités, et notamment des progrès réalisés eu égard aux objectifs mentionnés à l'article L.
+32-1, devant les commissions permanentes du Parlement compétentes, à leur demande. Ces dernières peuvent consulter l'autorité
+sur toute question relevant de sa compétence.
+
+L'autorité peut procéder aux expertises, mener les études, recueillir les données et mener toutes actions d'information sur
+le secteur des communications électroniques. A cette fin, les opérateurs ayant effectué la déclaration prévue à l'article L.
+33-1 sont tenus de lui fournir les informations statistiques concernant l'utilisation, la zone de couverture et les modalités
+d'accès à leur service.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 14 I, art. 17 III, IV JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 14 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 17 () JORF 10 juillet 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L135 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+
+
+##### Section  2 : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques.
+
+###### Article L37-1
+
+L'Autorité de régulation des télécommunications détermine, au regard notamment des obstacles au développement d'une
+concurrence effective, et après avis du Conseil de la concurrence, les marchés du secteur des communications électroniques
+pertinents, en vue de l'application des articles L. 38, L. 38-1 et L. 38-2.
+
+Après avoir analysé l'état et l'évolution prévisible de la concurrence sur ces marchés, l'autorité établit, après avis du
+Conseil de la concurrence, la liste des opérateurs réputés exercer une influence significative sur chacun de ces marchés, au
+sens des dispositions de l'alinéa suivant.
+
+Est réputé exercer une influence significative sur un marché du secteur des communications électroniques tout opérateur qui,
+pris individuellement ou conjointement avec d'autres, se trouve dans une position équivalente à une position dominante lui
+permettant de se comporter de manière indépendante vis-à-vis de ses concurrents, de ses clients et des consommateurs. Dans ce
+cas, l'opérateur peut également être réputé exercer une influence significative sur un autre marché étroitement lié au
+premier.
+
+Un décret précise les modalités d'application du présent article, notamment les conditions de reconduction et la fréquence
+minimale des analyses mentionnées au premier alinéa, ainsi que les cas dans lesquels l'autorité est tenue, eu égard aux
+attributions du Conseil supérieur de l'audiovisuel, de recueillir préalablement l'avis de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. D302 (V)
+	  - Code des postes et des communications électroni... - art. D305 (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. L37-2 (V)
+	  - Code des postes et des communications électroni... - art. L37-3 (V)
+	  - Code des postes et des communications électroni... - art. L38 (V)
+	  - Code des postes et des communications électroni... - art. L38-1 (V)
+	  - Code des postes et des communications électroni... - art. L38-2 (V)
+	  - Code des postes et des communications électroni... - art. L38-2-1 (V)
+	  - Code des postes et des communications électronique - art. D304 (V)
+	  - Code des postes et des communications électronique - art. D369 (V)
+
+
+###### Article L37-2
+
+L'Autorité de régulation des télécommunications fixe en les motivant :
+
+1° Les obligations prévues au III de l'article L. 34-8 ;
+
+2° Les obligations des opérateurs réputés exercer une influence significative sur un marché du secteur des communications
+électroniques, prévues aux articles L. 38 et L. 38-1.
+
+Ces obligations s'appliquent pendant une durée limitée fixée par l'autorité, pour autant qu'une nouvelle analyse du marché
+concerné, effectuée en application de l'article L. 37-1, ne les rendent pas caduques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L36-7 (M)
+	  - Code des postes et des communications électroni... - art. L38-2 (V)
+	  - Code des postes et des communications électroni... - art. L38-2-1 (V)
+	  - Code des postes et des communications électroni... - art. R9-6 (V)
+	  - Code des postes et des communications électronique - art. D304 (V)
+	  - Code des postes et des communications électronique - art. D99-11 (V)
+	  - Code des postes et des communications électronique - art. L37-3 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-8 (M)
+	  - Code des postes et des communications électronique - art. L37-1 (M)
+	  - Code des postes et des communications électronique - art. L38 (Ab)
+	  - Code des postes et des communications électronique - art. L38-1 (M)
+
+
+###### Article L37-3
+
+L'Autorité de régulation des télécommunications informe la Commission européenne ainsi que les autorités compétentes des
+autres Etats membres de la Communauté européenne des décisions qu'elle envisage de prendre, en application des articles L.
+37-1 et L. 37-2, et qui sont susceptibles d'avoir des incidences sur les échanges entre les Etats membres.
+
+L'autorité surseoit à l'adoption des décisions envisagées en application de l'article L. 37-1 si la Commission européenne lui
+indique qu'elles font obstacle au marché unique ou sont incompatibles avec le droit communautaire. Elle renonce à leur
+adoption si la Commission le lui demande par un avis motivé, accompagné de propositions de modification.
+
+Dans des circonstances exceptionnelles, lorsque le ministre chargé des communications électroniques ou l'Autorité de
+régulation des télécommunications considèrent qu'il est urgent d'agir, par dérogation aux procédures prévues aux deux alinéas
+précédents, afin de préserver la concurrence et de protéger les intérêts des utilisateurs, ils peuvent adopter immédiatement
+des mesures proportionnées qui ne sont applicables que pour une période limitée.
+
+Un décret fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. D302 (V)
+	  - Code des postes et des communications électroni... - art. D303 (V)
+	  - Code des postes et des communications électroni... - art. D305 (V)
+	  - Code des postes et des communications électroni... - art. D306 (V)
+	  - Code des postes et des communications électroni... - art. L38-2 (M)
+	  - Code des postes et des communications électronique - art. D304 (V)
+	  - Code des postes et des communications électronique - art. D99-11 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L37-1 (M)
+	  - Code des postes et des communications électronique - art. L37-2 (M)
+
+
+###### Article L38
+
+I. - Les opérateurs réputés exercer une influence significative sur un marché du secteur des communications électroniques
+peuvent se voir imposer, en matière d'interconnexion et d'accès, une ou plusieurs des obligations suivantes, proportionnées à
+la réalisation des objectifs mentionnés à l'article L. 32-1 :
+
+1° Rendre publiques des informations concernant l'interconnexion ou l'accès, notamment publier une offre technique et
+tarifaire détaillée d'interconnexion ou d'accès lorsqu'ils sont soumis à des obligations de non-discrimination ; l'Autorité
+de régulation des télécommunications peut imposer, à tout moment, des modifications à une telle offre pour la mettre en
+conformité avec les dispositions du présent code. L'opérateur communique à cette fin à l'Autorité de régulation des
+télécommunications toute information nécessaire ;
+
+2° Fournir des prestations d'interconnexion ou d'accès dans des conditions non discriminatoires ;
+
+3° Faire droit aux demandes raisonnables d'accès à des éléments de réseau ou à des moyens qui y sont associés ;
+
+4° Ne pas pratiquer de tarifs excessifs ou d'éviction sur le marché en cause et pratiquer des tarifs reflétant les coûts
+correspondants ;
+
+5° Isoler sur le plan comptable certaines activités en matière d'interconnexion ou d'accès, ou tenir une comptabilité des
+services et des activités qui permette de vérifier le respect des obligations imposées au titre du présent article ; le
+respect de ces prescriptions est vérifié, aux frais de l'opérateur, par un organisme indépendant désigné par l'autorité ;
+
+6° Le cas échéant, dans des circonstances exceptionnelles, respecter toutes autres obligations définies, après accord de la
+Commission européenne, en vue de lever ou d'atténuer les obstacles au développement d'une concurrence effective identifiés
+lors de l'analyse du marché prévue à l'article L. 37-1.
+
+II. - Les opérateurs réputés exercer une influence significative sur le marché du raccordement aux réseaux téléphoniques
+fixes ouverts au public sont tenus de fournir à tout opérateur les prestations d'interconnexion et d'accès nécessaires pour
+que leurs abonnés puissent, à un tarif raisonnable, présélectionner le service téléphonique au public de cet opérateur et
+écarter, appel par appel, tout choix de présélection en composant un préfixe court ; les tarifs de ces prestations reflètent
+les coûts correspondants.
+
+III. - L'autorité peut imposer à un opérateur réputé exercer une influence significative sur un marché mentionné au I de
+réviser les contrats et conventions en cours à la date de promulgation de la loi n° 2004-669 du 9 juillet 2004 relative aux
+communications électroniques et aux services de communication audiovisuelle, qu'il a conclus, dans le cadre des droits
+exclusifs qui lui étaient confiés, avec les sociétés mentionnées aux articles 44 et 45 de la loi n° 86-1067 du 30 septembre
+1986 relative à la liberté de communication, pour la transmission et la diffusion de leurs programmes.
+
+IV. - Les obligations prévues au présent article sont établies, maintenues ou supprimées, compte tenu de l'analyse du marché
+prévue à l'article L. 37-1.
+
+Au moment de la révision de l'analyse d'un marché, l'autorité publie un bilan relatif aux résultats effectifs, eu égard aux
+objectifs poursuivis, des mesures décidées en vertu de l'analyse précédente.
+
+V. - Dans son appréciation du caractère proportionné des obligations d'accès qu'elle est susceptible d'imposer en application
+du 3° du I, l'autorité prend notamment en considération les éléments suivants :
+
+a) La viabilité technique et économique de l'utilisation ou de la mise en place de ressources concurrentes, compte tenu du
+rythme auquel le marché évolue et de la nature et du type d'interconnexion et d'accès concerné ;
+
+b) Le degré de faisabilité de la fourniture d'accès proposée, compte tenu de la capacité disponible ;
+
+c) L'investissement initial réalisé par le propriétaire des ressources, sans négliger les risques inhérents à
+l'investissement ;
+
+d) La nécessité de préserver la concurrence à long terme ;
+
+e) Le cas échéant, les éventuels droits de propriété intellectuelle pertinents ;
+
+f) La fourniture de services paneuropéens.
+
+VI. - Un décret fixe les modalités d'application du présent article et précise les obligations mentionnées aux 1° à 5° du I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 1986-09-30 art. 44, art. 45
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 45 (M)
+	  - Loi n°2004-669 2004-07-09
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. D307 (V)
+	  - Code des postes et des communications électroni... - art. D310 (V)
+	  - Code des postes et des communications électroni... - art. D311 (V)
+	  - Code des postes et des communications électroni... - art. D313 (Ab)
+	  - Code des postes et des communications électroni... - art. L33-1 (M)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L37-1 (V)
+	  - Code des postes et des communications électroni... - art. L37-2 (V)
+	  - Code des postes et des communications électroni... - art. L38-2 (V)
+	  - Code des postes et des communications électronique - art. D305 (V)
+	  - Code des postes et des communications électronique - art. D309 (V)
+	  - Code des postes et des communications électronique - art. D312 (V)
+	  - Code des postes et des communications électronique - art. D99-6 (V)
+	  - Code des postes et des communications électronique - art. L38-1 (M)
+
+
+###### Article L38-1
+
+I. - Les opérateurs réputés exercer une influence significative sur un marché de détail du secteur des communications
+électroniques peuvent, lorsque l'application de l'article L. 38 ne permet pas d'atteindre les objectifs mentionnés à
+l'article L. 32-1, se voir imposer une ou plusieurs des obligations suivantes, proportionnées à la réalisation de ces
+objectifs et établies en tenant compte de la nature des obstacles au développement d'une concurrence effective identifiés
+lors de l'analyse du marché prévue à l'article L. 37-1 :
+
+1° Fournir des prestations de détail dans des conditions non discriminatoires ; ne pas coupler abusivement de telles
+prestations ;
+
+2° Ne pas pratiquer de tarifs excessifs ou d'éviction sur le marché en cause ; pratiquer des tarifs reflétant les coûts
+correspondants ; respecter un encadrement pluriannuel des tarifs défini par l'Autorité de régulation des télécommunications ;
+prévoir la communication des tarifs à l'Autorité de régulation des télécommunications préalablement à leur mise en oeuvre,
+dans la mesure où ces tarifs ne sont pas contrôlés en application de l'article L. 35-2 ; l'autorité peut s'opposer à la mise
+en oeuvre d'un tarif qui lui est communiqué en application du présent alinéa par une décision motivée explicitant les
+analyses, notamment économiques, qui sous-tendent son opposition ;
+
+3° Tenir une comptabilité des services et des activités qui permette de vérifier le respect des obligations prévues par le
+présent article ; le respect de ces prescriptions est vérifié, aux frais de l'opérateur, par un organisme indépendant désigné
+par l'autorité.
+
+II. - Les obligations prévues au présent article sont établies, maintenues ou supprimées, compte tenu de l'analyse du marché
+prévue à l'article L. 37-1.
+
+Elles ne sont pas applicables sur les marchés émergents, notamment ceux créés par l'innovation technologique, sauf s'il est
+porté atteinte aux objectifs mentionnés à l'article L. 32-1. En ce cas, l'Autorité de régulation des télécommunications ne
+peut imposer les obligations prévues au présent article que par une décision motivée, indiquant au cas par cas ceux des
+objectifs auxquels il est porté atteinte, et justifiant l'adéquation des obligations imposées.
+
+III. - Un décret fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. L37-2 (V)
+	  - Code des postes et des communications électroni... - art. L38-3 (V)
+	  - Code des postes et des communications électronique - art. D314 (V)
+	  - Code des postes et des communications électronique - art. D315 (V)
+	  - Code des postes et des communications électronique - art. D377 (V)
+	  - Code des postes et des communications électronique - art. D99-6 (V)
+	  - Code des postes et des communications électronique - art. L37-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+	  - Code des postes et des communications électronique - art. L38 (Ab)
+
+
+###### Article L38-2
+
+Les opérateurs considérés, en application de l'article L. 37-1, comme exerçant une influence significative sur tout ou partie
+du marché de la fourniture de l'ensemble minimal de liaisons louées mentionné à l'article 18 de la directive 2002/22/CE du
+Parlement européen et du Conseil du 7 mars 2002 concernant le service universel et les droits des utilisateurs au regard des
+réseaux et services de communications électroniques (directive "service universel") sont tenus de fournir ces liaisons dans
+des conditions techniques et tarifaires fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D301 (V)
+	  - Code des postes et des communications électroni... - art. R9-5 (V)
+	  - Code des postes et des communications électronique - art. D369 (V)
+	  - Code des postes et des communications électronique - art. L37-1 (V)
+
+	**Cite**:
+
+	  - Directive 2002-22 CE 2002-03-07 art. 18
+
+
+###### Article L38-3
+
+Toute décision d'opposition prise en application de l'article L. 35-2 et de l'article L. 38-1 peut faire l'objet d'un recours
+en annulation ou en réformation dans un délai de deux mois suivant sa publication. Elle peut faire l'objet d'une demande de
+suspension présentée conformément aux dispositions de l'article L. 521-1 du code de justice administrative devant le Conseil
+d'Etat qui se prononce dans un délai de quinze jours suivant l'enregistrement de la requête et qui peut ordonner toutes
+mesures nécessaires au rétablissement de la légalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 18 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L521-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L38-1 (V)
+
+
+#### Chapitre V : Dispositions pénales.
+
+###### Article L39
+
+Est puni d'un emprisonnement d'un an et d'une amende de 75 000 euros le fait : 
+
+1° D'établir ou de faire établir un réseau ouvert au public, sans que la déclaration prévue à l'article L. 33-1 ait été
+faite, ou de le maintenir en violation d'une décision de suspension ou de retrait du droit d'établir un tel réseau ; 
+
+2° De fournir ou de faire fournir au public ou de commercialiser un service de communications électroniques, sans que la
+déclaration prévue à l'article L. 33-1 ait été faite, ou de le maintenir en violation d'une décision de suspension ou de
+retrait du droit de fournir un tel service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L72 al. 2 à 4
+	  - Décret-loi 1851-12-27 art. 1
+	  - Loi n°1837-05-02 1837-05-06 art. unique
+	  - Loi n°1923-06-30 art. 85
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L33-2 (V)
+	  - Code des postes et des communications électroni... - art. L39-10 (V)
+	  - Code des postes et des communications électroni... - art. L39-6 (V)
+	  - Code des postes et des communications électroni... - art. L39-9 (V)
+	  - Code des postes et des communications électroni... - art. L42-1 (V)
+
+
+###### Article L39-1
+
+Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait :
+
+1° De maintenir un réseau indépendant en violation d'une décision de suspension ou de retrait du droit d'établir un tel
+réseau ;
+
+2° De perturber, en utilisant une fréquence, un équipement ou une installation radioélectrique, dans des conditions non
+conformes aux dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 41-1 ou en dehors des
+conditions réglementaires générales prévues à l'article L. 33-3, les émissions hertziennes d'un service autorisé, sans
+préjudice de l'application de l'article 78 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
+
+3° D'utiliser une fréquence, un équipement ou une installation radioélectrique dans des conditions non conformes aux
+dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 41-1 ou en dehors des conditions
+réglementaires générales prévues à l'article L. 33-3 ;
+
+4° De commercialiser ou de procéder à l'installation d'appareils conçus pour rendre inopérants les téléphones mobiles de tous
+types, tant pour l'émission que pour la réception, en dehors des cas prévus à l'article L. 33-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 78 (M)
+	  - Code des postes et des communications électronique - art. L33-3 (M)
+	  - Code des postes et des communications électronique - art. L34-9 (M)
+	  - Code des postes et des communications électronique - art. L41-1 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
+	  - Code des postes et des communications électroni... - art. L39-10 (V)
+	  - Code des postes et des communications électroni... - art. L42-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L39-2
+
+Le fait de contrevenir sciemment aux dispositions de l'article L. 34-3 est puni de 30 000 euros d'amende. Les personnes
+morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, du
+délit prévu au présent alinéa. La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par
+l'article 131-38 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal L121-2, 131-38
+	  - Code des postes et des communications électronique - art. L34-3 (M)
 
 	**Codifié par**:
 
@@ -6433,6 +4467,60 @@ l'article 131-38 du code pénal.
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. L39-2-1 (V)
+
+
+###### Article L39-2-1
+
+Les dispositions de l'article L. 39-2 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis
+et Futuna. 
+
+Le montant de l'amende prévu par ces dispositions est égal à sa contre-valeur en monnaie locale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L39-2 (V)
+
+
+###### Article L39-3
+
+I. - Est puni d'un an d'emprisonnement et de 75 000 euros d'amende le fait pour un opérateur de communications électroniques
+ou ses agents :
+
+1° De ne pas procéder aux opérations tendant à effacer ou à rendre anonymes les données relatives aux communications dans les
+cas où ces opérations sont prescrites par la loi ;
+
+2° De ne pas procéder à la conservation des données techniques dans les conditions où cette conservation est exigée par la
+loi.
+
+Les personnes physiques coupables de ces infractions encourent également l'interdiction, pour une durée de cinq ans au plus,
+d'exercer l'activité professionnelle à l'occasion de laquelle l'infraction a été commise.
+
+II. - Paragraphe abrogé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L39-10 (V)
+	  - Code des postes et des communications électroni... - art. L39-3-1 (V)
 
 
 ###### Article L39-3-1
@@ -6512,6 +4600,212 @@ En cas de récidive, les peines prévues aux articles L. 39 à L. 39-4 pourront 
 	  - Code des postes et des communications électroniques
 
 
+###### Article L39-6
+
+En cas de condamnation pour l'une des infractions prévues aux articles L. 39 et L. 39-1, le tribunal pourra, en outre,
+prononcer la confiscation des matériels et installations constituant le réseau ou permettant la fourniture du service ou en
+ordonner la destruction aux frais du condamné et prononcer l'interdiction, pour une durée de trois années au plus, d'établir
+un réseau ouvert au public ou de fournir au public un service de communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L39 (V)
+
+
+###### Article L39-7
+
+Toute personne qui, sciemment, transmet ou met en circulation, par la voie radioélectrique, des signaux ou appels de
+détresse, faux ou trompeurs, est punie d'un an d'emprisonnement et de 3 750 euros d'amende ou de l'une de ces deux peines
+seulement.
+
+Les appareils utilisés par le délinquant ou ses complices peuvent être confisqués.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes et télécommunications L43
+	  - Code des postes et des communications électronique - art. L43 (T)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 19 9° JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L39-8
+
+Toute personne qui effectue des transmissions radioélectriques en utilisant sciemment un indicatif d'appel de la série
+internationale attribué à une station de l'Etat, ou à une autre station autorisée, est punie d'un emprisonnement d'un an.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes et télécommunications L44
+	  - Code des postes et des communications électronique - art. L44 (T)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 19 9°, 10° JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L39-9 (V)
+
+
+###### Article L39-9
+
+En cas de conviction de plusieurs délits ou contraventions prévus par les articles L. 39, L. 39-1, 
+L. 39-8 ou par le code pénal, la peine la plus forte est seule prononcée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 19 9°, 11° JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L39 (V)
+	  - Code des postes et des communications électroni... - art. L39-8 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. L45 (T)
+	  - Code des postes et télécommunications L45
+
+
+###### Article L39-10
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies aux articles L. 39, L. 39-1 et L. 39-3.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° La peine mentionnée au 2° de l'article 131-39 du code pénal, pour une durée de cinq ans au plus ;
+
+3° La peine mentionnée au 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité professionnelle dans l'exercice ou à
+l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 19 12° JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code des postes et des communications électronique - art. L39 (M)
+	  - Code des postes et des communications électronique - art. L39-1 (M)
+	  - Code des postes et des communications électronique - art. L39-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L40
+
+Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les
+fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de régulation des
+télécommunications et de l'Agence nationale des fréquences habilités à cet effet par le ministre chargé des communications
+électroniques et assermentés dans des conditions fixées par décret en Conseil d'Etat peuvent rechercher et constater par
+procès-verbal les infractions prévues par les dispositions du présent titre et les textes pris pour leur application.
+
+Les fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de régulation des
+télécommunications et de l'Agence nationale des fréquences visés à l'alinéa précédent peuvent accéder aux locaux, terrains ou
+moyens de transport à usage professionnel utilisés par des personnes visées à l'article L. 32-4, par celles fabriquant,
+important ou distribuant des équipements ou installations visés à l'article L. 34-9 ou par celles faisant usage de fréquences
+radioélectriques visées à l'article L. 41-1, en vue de rechercher et de constater les infractions, demander la communication
+de tous documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les renseignements et
+justifications. Les fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de
+régulation des télécommunications et de l'Agence nationale des fréquences ne peuvent accéder à ces locaux que pendant leurs
+heures d'ouverture lorsqu'ils sont ouverts au public et, dans les autres cas, qu'entre 8 heures et 20 heures. Ils ne peuvent
+accéder aux locaux qui servent pour partie de domicile aux intéressés.
+
+Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions, par
+les fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de régulation des
+télécommunications et de l'Agence nationale des fréquences visés au deuxième alinéa. Il peut s'opposer à ces opérations. Les
+procès-verbaux lui sont transmis dans les cinq jours suivant leur établissement. Une copie en est également remise à
+l'intéressé.
+
+Les fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de régulation des
+télécommunications et de l'Agence nationale des fréquences visés au deuxième alinéa peuvent, dans les mêmes lieux et les
+mêmes conditions de temps que ceux visés au même alinéa, procéder à la saisie des matériels visés à l'article L. 34-9 sur
+autorisation judiciaire donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés
+les matériels, ou d'un juge délégué par lui.
+
+La demande doit comporter tous les éléments d'information de nature à justifier la saisie. Celle-ci s'effectue sous
+l'autorité et le contrôle du juge qui l'a autorisée.
+
+Les matériels saisis sont immédiatement inventoriés. L'inventaire est annexé au procès-verbal dressé sur les lieux. Les
+originaux du procès-verbal et de l'inventaire sont transmis, dans les cinq jours suivant leur établissement, au juge qui a
+ordonné la saisie.
+
+Le président du tribunal de grande instance ou le juge délégué par lui peut d'office à tout moment ou sur la demande de
+l'intéressé ordonner mainlevée de la saisie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L215-1 (VT)
+	  - Code de la consommation - art. L511-22 (V)
+	  - Code des postes et des communications électroni... - art. L39-4 (VD)
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. L97-3 (V)
+	  - Code des postes et des communications électroni... - art. R20-20 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-1 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32-4 (M)
+	  - Code des postes et des communications électronique - art. L34-9 (M)
+	  - Code des postes et des communications électronique - art. L41-1 (M)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L131
+	  - Décret-loi 1851-12-27 art. 10
+
+
 ###### Article L40-1
 
 Les agents mentionnés au 1° de l'article L. 215-1 du code de la consommation ont qualité pour rechercher et constater les
@@ -6532,6 +4826,1901 @@ disposent des pouvoirs prévus aux chapitres II à VI du titre Ier du livre II d
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+### TITRE II : Ressources et police
+
+#### Chapitre Ier : Fréquences radioélectriques.
+
+##### Section 1 : Dispositions générales.
+
+###### Article L41
+
+Le Premier ministre définit, après avis du Conseil supérieur de l'audiovisuel et de l'Autorité de régulation des
+télécommunications, les fréquences ou bandes de fréquences radioélectriques qui sont attribuées aux administrations de l'Etat
+et celles dont l'assignation est confiée au conseil ou à l'autorité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 21 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 23 (V)
+	  - Arrêté du 18 décembre 1996 - art. ANNEXE (P)
+	  - Code des postes et des communications électroni... - art. L33 (V)
+	  - Code des postes et des communications électroni... - art. L41-1 (V)
+	  - Code des postes et des communications électroni... - art. L42 (V)
+	  - Code des postes et des communications électroni... - art. L43 (VD)
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+	  - Code des postes et des communications électroni... - art. R52-3-3 (V)
+	  - Code des postes et des communications électronique - art. L41-3 (V)
+	  - Code des postes et des communications électronique - art. L42-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 21 I, II JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L77
+	  - Loi n°1850-11-29 art. 5
+
+
+###### Article L41-1
+
+Sauf dans les cas mentionnés à l'article L. 33-3, l'utilisation de fréquences radioélectriques en vue d'assurer soit
+l'émission, soit à la fois l'émission et la réception de signaux est soumise à autorisation administrative.
+
+Est également soumise à autorisation administrative l'utilisation d'une installation radioélectrique en vue d'assurer la
+réception de signaux transmis sur les fréquences attribuées par le Premier ministre, en application de l'article L. 41, pour
+les besoins de la défense nationale ou de la sécurité publique.
+
+L'utilisation, par les titulaires d'autorisation, de fréquences radioélectriques disponibles sur le territoire de la
+République constitue un mode d'occupation privatif du domaine public de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 21 I, II JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Loi n°2004-811 du 13 août 2004 - art. 6 (VD)
+	  - Arrêté du 30 janvier 2009 (V)
+	  - Arrêté du 2 octobre 2015 (V)
+	  - Code de l'aviation civile - art. D133-19-10 (V)
+	  - Code des postes et des communications électroni... - art. L39-1 (V)
+	  - Code des postes et des communications électroni... - art. L40 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-5 (V)
+	  - Code des postes et des communications électronique - art. D406-7 (V)
+	  - Code des postes et des communications électronique - art. L41-2 (M)
+	  - Code des postes et des communications électronique - art. R*52-1 (T)
+
+	**Anciens textes**:
+
+	  - Code des postes et télécommunications L89
+	  - Code des postes et des communications électronique - art. L89 (T)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-3 (M)
+	  - Code des postes et des communications électronique - art. L41 (M)
+
+
+###### Article L41-2
+
+Sans préjudice du deuxième alinéa du IV de l'article 30-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de
+communication, les titulaires des autorisations mentionnées à l'article L. 41-1 supportent l'intégralité du coût des
+réaménagements nécessaires à la mise à disposition des fréquences qui leur sont assignées. Le préfinancement d'une partie de
+cette dépense peut être assuré par le fonds de réaménagement du spectre géré par l'Agence nationale des fréquences. 
+
+Le montant et les modalités de répartition des contributions mentionnées à l'alinéa précédent sont fixés par l'Agence
+nationale des fréquences dans les conditions précisées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 30-1 (V)
+	  - Code des postes et des communications électronique - art. L41-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Décret n°2015-1489 du 17 novembre 2015 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L41-3
+
+L'article L. 41 est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les
+Terres australes et antarctiques françaises. En application de cet article, le Premier ministre détermine les fréquences ou
+bandes de fréquences attribuées aux gouvernements de Nouvelle-Calédonie et de Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L41 (M)
+
+
+##### SECTION 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des télécommunications.
+
+###### Article L42
+
+Pour chacune des fréquences ou bandes de fréquences radioélectriques dont l'assignation lui a été confiée en application de
+l'article L. 41, l'Autorité de régulation des télécommunications fixe, dans les conditions prévues à l'article L. 36-6 :
+
+1° Le type d'équipement, de réseau ou de service auquel l'utilisation de la fréquence ou de la bande de fréquences est
+réservée ;
+
+2° Les conditions techniques d'utilisation de la fréquence ou de la bande de fréquences ;
+
+3° Les cas dans lesquels l'autorisation d'utilisation est subordonnée à la déclaration prévue à l'article L. 33-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 2004-07-09 art. 22 I, II JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 22 () JORF 10 juillet 2004
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L80
+	  - Loi n°1938-06-15 art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 30 janvier 2009 (V)
+	  - Décret n°2009-948 du 29 juillet 2009 (V)
+	  - Code des postes et des communications électroni... - art. D99-4 (Ab)
+	  - Code des postes et des communications électroni... - art. L36-6 (V)
+	  - Code des postes et des communications électroni... - art. L41-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L41 (M)
+
+
+###### Article L42-1
+
+I. - L'Autorité de régulation des télécommunications attribue les autorisations d'utilisation des fréquences radioélectriques
+dans des conditions objectives, transparentes et non discriminatoires tenant compte des besoins d'aménagement du territoire.
+Ces autorisations ne peuvent être refusées par l'Autorité de régulation des télécommunications que pour l'un des motifs
+suivants :
+
+1° La sauvegarde de l'ordre public, les besoins de la défense nationale ou de la sécurité publique ;
+
+2° La bonne utilisation des fréquences ;
+
+3° L'incapacité technique ou financière du demandeur à faire face durablement aux obligations résultant des conditions
+d'exercice de son activité ;
+
+4° La condamnation du demandeur à l'une des sanctions mentionnées aux articles L. 36-11, L. 39, L. 39-1 et L. 39-4.
+
+II. - L'autorisation précise les conditions d'utilisation de la fréquence ou de la bande de fréquences qui portent sur :
+
+1° La nature et les caractéristiques techniques des équipements, réseaux et services qui peuvent utiliser la fréquence ou la
+bande de fréquences ainsi que leurs conditions de permanence, de qualité et de disponibilité et, le cas échéant, leur
+calendrier de déploiement et leur zone de couverture ;
+
+2° La durée de l'autorisation, qui ne peut être supérieure à vingt ans, ainsi que le délai minimal dans lequel sont notifiés
+au titulaire les conditions de renouvellement de l'autorisation et les motifs d'un refus de renouvellement ; ce délai doit
+être proportionné à la durée de l'autorisation et prendre en compte le niveau d'investissement requis pour l'exploitation
+efficace de la fréquence ou de la bande de fréquences attribuée ;
+
+3° Les redevances dues par le titulaire de l'autorisation, lorsque celles-ci n'ont pas été fixées par décret ;
+
+4° Les conditions techniques nécessaires pour éviter les brouillages préjudiciables et pour limiter l'exposition du public
+aux champs électromagnétiques ;
+
+5° Les obligations résultant d'accords internationaux ayant trait à l'utilisation des fréquences ;
+
+6° Les engagements pris par le titulaire dans le cadre de l'appel à candidatures prévu à l'article L. 42-2.
+
+Les délais d'octroi des autorisations et de notification des conditions de leur renouvellement, ainsi que les obligations qui
+s'imposent aux titulaires d'autorisation pour permettre le contrôle par l'Autorité de régulation des télécommunications des
+conditions d'utilisation des fréquences sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 3 février 1993 - art. 2 (AbD)
+	  - Décret du 3 février 1993 - art. 2 bis (AbD)
+	  - Décret du 3 février 1993 - art. 4 (AbD)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 16 (V)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 9 (VD)
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 22 (V)
+	  - Arrêté du 5 mars 2010 - art. 4 (V)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Décret n°2017-56 du 19 janvier 2017 (V)
+	  - Code des postes et des communications électroni... - art. D406-17-1 (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. D98-6 (V)
+	  - Code des postes et des communications électroni... - art. L33-12 (M)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. L42-2 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-12 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-6 (V)
+	  - Code des postes et des communications électronique - art. D406-14 (V)
+	  - Code des postes et des communications électronique - art. D406-15 (V)
+	  - Code des postes et des communications électronique - art. D406-17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 22 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L39 (M)
+	  - Code des postes et des communications électronique - art. L39-1 (M)
+	  - Code des postes et des communications électronique - art. L39-4 (M)
+
+
+###### Article L42-2
+
+Lorsque la bonne utilisation des fréquences l'exige, l'Autorité de régulation des télécommunications peut, après consultation
+publique, limiter, dans une mesure permettant d'assurer des conditions de concurrence effective, le nombre d'autorisations de
+les utiliser.
+
+Le ministre chargé des communications électroniques fixe, sur proposition de l'Autorité de régulation des télécommunications,
+les conditions d'attribution et de modification des autorisations d'utilisation correspondant à ces fréquences ainsi que la
+durée de la procédure d'attribution, qui ne peut excéder un délai fixé par décret.
+
+La sélection des titulaires de ces autorisations se fait par appel à candidatures sur des critères portant sur les conditions
+d'utilisation mentionnées à l'article L. 42-1 ou sur la contribution à la réalisation des objectifs mentionnés à l'article L.
+32-1.
+
+L'Autorité de régulation des télécommunications conduit la procédure de sélection et assigne les fréquences correspondantes.
+
+Le ministre peut prévoir que l'un des critères de sélection est constitué par le montant de la redevance que les candidats
+s'engagent à verser si la fréquence ou la bande de fréquences leur sont assignées.
+
+Le montant et les modalités de versement des redevances dues pour les fréquences qui sont assignées en application du présent
+article peuvent déroger aux dispositions de l'article L. 31 du code du domaine de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 3 février 1993 - art. 2 (AbD)
+	  - Décret du 3 février 1993 - art. 2 bis (AbD)
+	  - Décret du 3 février 1993 - art. 4 (AbD)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 13-2-1 (V)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 13-3-1 (V)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 13-3-2 (V)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 13-3-3 (V)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 16 (VD)
+	  - Décret n°2007-1532 du 24 octobre 2007 - art. 2 (V)
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 22 (V)
+	  - Arrêté du 5 mars 2010 - art. 4 (V)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. L42-1 (V)
+	  - Code des postes et des communications électroni... - art. L42-3 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-2 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-3 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-6 (V)
+	  - Code des postes et des communications électronique - art. D406-14 (V)
+	  - Code des postes et des communications électronique - art. D406-15 (V)
+	  - Code des postes et des communications électronique - art. D406-17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 22 () JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L31 (M)
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L42-3
+
+Le ministre chargé des communications électroniques arrête la liste des fréquences ou bandes de fréquences dont les
+autorisations peuvent faire l'objet d'une cession.
+
+Tout projet de cession est notifié à l'Autorité de régulation des télécommunications. Lorsqu'un projet porte sur une
+fréquence qui a été assignée en application de l'article L. 42-2 ou est utilisée pour l'exercice de missions de service
+public, la cession est soumise à approbation de l'autorité.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article, et notamment :
+
+1° Les procédures de notification et d'approbation susmentionnées ;
+
+2° Les conditions dans lesquelles l'autorité peut s'opposer à la cession envisagée ou l'assortir de prescriptions destinées à
+assurer le respect des objectifs mentionnés à l'article L. 32-1 ou la continuité du service public ;
+
+3° Les cas dans lesquels la cession doit s'accompagner de la délivrance d'une nouvelle autorisation d'utilisation ainsi que
+du retrait ou de la modification d'une autorisation existante ;
+
+4° Les droits et obligations transférés au bénéficiaire de la cession ainsi que ceux qui, le cas échéant, restent à la charge
+du cédant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 22 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 23 juillet 2015 (V)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Arrêté du 29 janvier 2016 (V)
+	  - Code des postes et des communications électroni... - art. L42-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-1 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-9-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+	  - Code des postes et des communications électronique - art. L42-2 (M)
+
+
+###### Article L42-4
+
+Le ministre chargé des communications électroniques détermine par arrêté les catégories d'installations radioélectriques
+d'émission pour la manoeuvre desquelles la possession d'un certificat d'opérateur est obligatoire et les conditions
+d'obtention de ce certificat.
+
+Le ministre fixe également les modalités d'attribution et de retrait des indicatifs des séries internationales utilisées par
+les stations radioélectriques autorisées en application du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 22 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Arrêté du 30 janvier 2009 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Code de l'aviation civile - art. D133-19-4 (V)
+	  - Code des postes et des communications électroni... - art. L39-1 (V)
+	  - Code des postes et des communications électronique - art. D406-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L36-6 (M)
+	  - Code des postes et des communications électronique - art. L41 (M)
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. L90 (T)
+	  - Code des postes et télécommunications L90
+
+
+##### Section 3 : Agence nationale des fréquences.
+
+###### Article L43
+
+I. - Il est créé, à compter du 1er janvier 1997, une Agence nationale des fréquences, établissement public de l'Etat à
+caractère administratif.
+
+L'agence a pour mission d'assurer la planification, la gestion et le contrôle de l'utilisation, y compris privative, du
+domaine public des fréquences radioélectriques sous réserve de l'application de l'article L. 41 ainsi que des compétences des
+administrations et autorités affectataires de fréquences radioélectriques.
+
+Elle prépare la position française et coordonne l'action de la représentation française dans les négociations internationales
+dans le domaine des fréquences radioélectriques.
+
+Elle coordonne l'implantation sur le territoire national des stations radioélectriques de toute nature afin d'assurer la
+meilleure utilisation des sites disponibles et veille au respect des valeurs limites d'exposition du public aux champs
+électromagnétiques prévues à l'article L. 34-9-1. A cet effet, les décisions d'implantation ne peuvent être prises qu'avec
+son accord ou, lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel, qu'après son avis. Le conseil
+est tenu par cet avis lorsqu'il est fondé sur un motif tiré du respect des valeurs limites d'exposition.
+
+Elle instruit pour le compte de l'Etat les demandes d'autorisation présentées en application de l'article L.  97-2.
+
+Un décret en Conseil d'Etat fixe le délai à l'issue duquel cet avis ou cet accord sont réputés acquis ainsi que, le cas
+échéant, les catégories d'installations pour lesquelles, en raison de leurs caractéristiques techniques, ils ne sont pas
+requis.
+
+II. - L'agence est administrée par un conseil d'administration composé de représentants des administrations, notamment de
+celles qui sont attributaires de bandes de fréquences, du Conseil supérieur de l'audiovisuel et de l'Autorité de régulation
+des télécommunications, ainsi que, pour au moins un tiers de ses membres, de personnalités choisies en raison de leurs
+compétences.
+
+Le président du conseil d'administration est nommé par décret. Il ne peut cumuler cette fonction avec celle de président du
+Conseil supérieur de l'audiovisuel et de président de l'Autorité de régulation des télécommunications.
+
+III. - Le directeur général de l'agence est nommé par décret après avis du président du conseil d'administration. Il assure
+la direction technique, administrative et financière de l'agence. Il représente l'établissement en justice.
+
+IV. - Les ressources de l'agence comprennent la rémunération des services rendus, les revenus du portefeuille, les
+subventions publiques, ainsi que le produit des dons et legs. L'agence perçoit au bénéfice du fonds de réaménagement du
+spectre les contributions des personnes publiques ou privées versées à des fins de réaménagement du spectre.
+
+V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise notamment les missions,
+l'organisation et les conditions du fonctionnement de l'établissement.
+
+Un arrêté interministériel précise les objectifs à atteindre par l'agence dans les circonstances prévues à l'article L.
+1111-2 du code de la défense ainsi que les dispositions particulières à prendre en compte pour y parvenir.
+
+VI. - Le présent article est applicable en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises et en Nouvelle-Calédonie sous réserve des compétences exercées par ces collectivités en application
+des statuts qui les régissent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+	  - Code des postes et des communications électronique - art. L41 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 23 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Arrêté du 24 octobre 2007 - art. 6-2 (V)
+	  - Arrêté du 17 décembre 2007 - art. 1 (V)
+	  - Arrêté du 17 décembre 2007 - art. 2 (V)
+	  - Arrêté du 30 janvier 2009 (V)
+	  - Arrêté du 27 mars 2015 (V)
+	  - Arrêté du 2 octobre 2015 (V)
+	  - Décret n°2015-1489 du 17 novembre 2015 (V)
+	  - Arrêté du 5 avril 2016 - art. 3
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 4 (V)
+	  - Code des postes et des communications électroni... - art. L34-9 (VD)
+	  - Code des postes et des communications électroni... - art. L34-9-1 (V)
+	  - Code des postes et des communications électroni... - art. L39-4 (VD)
+	  - Code des postes et des communications électroni... - art. R20-21 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-23 (VD)
+	  - Code des postes et des communications électroni... - art. R20-44-28 (V)
+	  - Code général des impôts, CGI. - art. 1519 H (V)
+
+	**Anciens textes**:
+
+	  - Code des postes et télécommunications L97-1
+	  - Code des postes et des communications électronique - art. L97-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+#### Chapitre II : Numérotation et adressage.
+
+###### Article L44
+
+Le plan national de numérotation téléphonique est établi par l'Autorité de régulation des télécommunications et géré sous son
+contrôle. Il garantit un accès égal et simple des utilisateurs aux différents réseaux et services de communications
+électroniques et l'équivalence des formats de numérotation. Il permet, sous réserve de faisabilité technique et économique,
+aux utilisateurs situés dans d'autres Etats membres de la Communauté européenne d'accéder aux numéros non géographiques
+accessibles sur l'ensemble du territoire national.
+
+L'autorité attribue, dans des conditions objectives, transparentes et non discriminatoires, aux opérateurs qui le demandent,
+des préfixes et des numéros ou blocs de numéros, moyennant une redevance fixée par décret en Conseil d'Etat, destinée à
+couvrir les coûts de gestion du plan de numérotation téléphonique et le contrôle de son utilisation.
+
+La décision d'attribution précise les conditions d'utilisation de ces préfixes, numéros ou blocs de numéros qui portent sur :
+
+a) Le type de service auquel l'utilisation des ressources attribuées est réservée ;
+
+b) Les prescriptions nécessaires pour assurer une bonne utilisation des ressources attribuées ;
+
+c) Le cas échéant, les prescriptions relatives à la portabilité du numéro ;
+
+d) La durée de l'attribution, qui ne peut être supérieure à vingt ans.
+
+L'autorité attribue aux opérateurs, dans les mêmes conditions, les codes utilisés pour l'acheminement des communications
+électroniques qui ne relèvent pas du système de l'adressage de l'internet.
+
+L'autorité veille à la bonne utilisation des préfixes, numéros, blocs de numéros et codes attribués. Ceux-ci ne peuvent être
+protégés par un droit de propriété industrielle ou intellectuelle et ne peuvent faire l'objet d'un transfert qu'après accord
+de l'Autorité de régulation des télécommunications.
+
+Les opérateurs sont tenus de proposer à un tarif raisonnable à leurs abonnés les offres permettant à ces derniers de
+conserver leur numéro géographique lorsqu'ils changent d'opérateur sans changer d'implantation géographique et de conserver
+leur numéro non géographique, fixe ou mobile, lorsqu'ils changent d'opérateur tout en demeurant en métropole, dans un même
+département d'outre-mer, à Mayotte ou à Saint-Pierre-et-Miquelon. Les opérateurs prévoient les dispositions nécessaires dans
+les conventions d'accès et d'interconnexion, à des tarifs reflétant les coûts correspondants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 24 () JORF 10 juillet 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Décret n°2017-56 du 19 janvier 2017 (V)
+	  - Code de la consommation - art. L121-83-2 (VT)
+	  - Code de la consommation - art. L224-31 (VD)
+	  - Code des postes et des communications électroni... - art. D406-18 (V)
+	  - Code des postes et des communications électroni... - art. D406-20 (V)
+	  - Code des postes et des communications électroni... - art. D98-11 (V)
+	  - Code des postes et des communications électroni... - art. D99-4 (Ab)
+	  - Code des postes et des communications électroni... - art. L33-4 (Ab)
+	  - Code des postes et des communications électroni... - art. L34 (V)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L36-7 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
+	  - Code des postes et des communications électronique - art. D99-5 (V)
+	  - Code des postes et des communications électronique - art. R20-44-33 (T)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L45
+
+I.-Le ministre chargé des communications électroniques désigne, après consultation publique, les organismes chargés
+d'attribuer et de gérer les noms de domaine, au sein des domaines de premier niveau du système d'adressage par domaines de
+l'internet, correspondant au territoire national. L'exercice de leur mission ne confère pas aux organismes ainsi désignés des
+droits de propriété intellectuelle sur les noms de domaine.
+
+L'attribution d'un nom de domaine est assurée par ces organismes dans l'intérêt général, selon des règles non
+discriminatoires rendues publiques et qui veillent au respect, par le demandeur, des droits de la propriété intellectuelle. 
+
+En cas de cessation de l'activité de ces organismes, l'Etat dispose du droit d'usage de la base de données des noms de
+domaine qu'ils géraient. 
+
+Le ministre chargé des communications électroniques veille au respect par ces organismes des principes énoncés au deuxième
+alinéa. Il peut procéder au retrait de la désignation d'un organisme, après avoir mis ce dernier à même de présenter ses
+observations, en cas de méconnaissance par celui-ci des dispositions du présent article. La décision du ministre chargé des
+communications électroniques tendant à la désignation, ou au retrait de la désignation, d'un organisme peut faire l'objet
+d'un recours devant le Conseil d'Etat. Chaque organisme adresse au ministre chargé des communications électroniques un
+rapport d'activité annuel.
+
+L'attribution et la gestion des noms de domaine rattachés à chaque domaine de premier niveau sont centralisées par un
+organisme unique. 
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article. 
+
+II.-Sans préjudice de leur application de plein droit à Mayotte en vertu du 8° du I de l'article 3 de la loi n° 2001-616 du
+11 juillet 2001 relative à Mayotte, les dispositions du I sont applicables à Wallis et Futuna et dans les Terres australes et
+antarctiques françaises. 
+
+Les organismes chargés d'attribuer les noms de domaine en Nouvelle-Calédonie et en Polynésie française ne détiennent pas de
+droits de propriété intellectuelle sur ces noms.
+
+**Nota:**
+
+Dans sa décision n° 2010-45 QPC du 6 octobre 2010 (NOR : CSCX1025574S), le Conseil constitutionnel a déclaré contraire à la
+Constitution l'article L. 45 du code des postes et communications électroniques. La déclaration d'inconstitutionnalité prend
+effet le 1er juillet 2011 dans les conditions fixées au considérant 7.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
+	  - Code des postes et des communications électroni... - art. L45-7 (V)
+	  - Code des postes et des communications électroni... - art. L45-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-38 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-40 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-42 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-50 (Ab)
+	  - Code des postes et des communications électronique - art. R20-44-34 (V)
+
+	**Cite**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 24 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+#### Chapitre III : Droits de passage et servitudes.
+
+##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.
+
+###### Article L45-1
+
+Les exploitants de réseaux ouverts au public bénéficient d'un droit de passage sur le domaine public routier et de servitudes
+sur les propriétés privées mentionnées à l'article L. 48, dans les conditions indiquées ci-après.
+
+Les autorités concessionnaires ou gestionnaires du domaine public non routier, lorsqu'elles donnent accès à des exploitants
+de réseaux de communications électroniques, doivent le faire sous la forme de convention, dans des conditions transparentes
+et non discriminatoires et dans toute la mesure où cette occupation n'est pas incompatible avec son affectation ou avec les
+capacités disponibles. La convention donnant accès au domaine public non routier ne peut contenir de dispositions relatives
+aux conditions commerciales de l'exploitation. Elle peut donner lieu à versement de redevances dues à l'autorité
+concessionnaire ou gestionnaire du domaine public concerné dans le respect du principe d'égalité entre les opérateurs. Ces
+redevances sont raisonnables et proportionnées à l'usage du domaine.
+
+Un décret en Conseil d'Etat détermine le montant maximum des redevances assorties à l'occupation du domaine public non
+routier.
+
+Le prix facturé pour l'occupation ou la vente de tout ou partie de fourreaux reflète les coûts de construction et d'entretien
+de ceux-ci.
+
+L'installation des infrastructures et des équipements doit être réalisée dans le respect de l'environnement et de la qualité
+esthétique des lieux, et dans les conditions les moins dommageables pour les propriétés privées et le domaine public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
+	  - Code des postes et des communications électroni... - art. L33-6 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-4 (V)
+	  - Code des postes et des communications électroni... - art. L45 (V)
+	  - Code des postes et des communications électroni... - art. L45-2 (V)
+	  - Code des postes et des communications électroni... - art. L45-4 (V)
+	  - Code des postes et des communications électroni... - art. L47-1 (V)
+	  - Code des postes et des communications électroni... - art. L48 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-45 (M)
+	  - Code des postes et des communications électroni... - art. R20-55 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L46
+
+Les exploitants de réseaux ouverts au public peuvent occuper le domaine public routier, en y implantant des ouvrages dans la
+mesure où cette occupation n'est pas incompatible avec son affectation.
+
+Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont effectués conformément aux règlements de voirie,
+et notamment aux dispositions de l'article L. 115-1 du code de la voirie routière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
+	  - Code de la voirie routière - art. L113-4 (V)
+	  - Code des postes et des communications électroni... - art. L45-1 (V)
+	  - Code des postes et des communications électroni... - art. L47-1 (V)
+	  - Code des postes et des communications électroni... - art. L51 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L115-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L84
+	  - Loi n°1885-07-28 art. 1
+
+
+###### Article L47
+
+L'occupation du domaine routier fait l'objet d'une permission de voirie, délivrée par l'autorité compétente, suivant la
+nature de la voie empruntée, dans les conditions fixées par le code de la voirie routière. La permission peut préciser les
+prescriptions d'implantation et d'exploitation nécessaires à la circulation publique et à la conservation de la voirie.
+
+L'autorité mentionnée à l'alinéa précédent doit prendre toutes dispositions utiles pour permettre l'accomplissement de
+l'obligation d'assurer le service universel des communications électroniques. Elle ne peut faire obstacle au droit de passage
+des exploitants de réseaux ouverts au public qu'en vue d'assurer, dans les limites de ses compétences, le respect des
+exigences essentielles, la protection de l'environnement et le respect des règles d'urbanisme.
+
+Lorsqu'il est constaté que le droit de passage de l'opérateur peut être assuré, dans des conditions équivalentes à celles qui
+résulteraient d'une occupation autorisée, par l'utilisation des installations existantes d'un autre occupant du domaine
+public et que cette utilisation ne compromettrait pas la mission propre de service public de cet occupant, l'autorité
+mentionnée au premier alinéa peut inviter les deux parties à se rapprocher pour convenir des conditions techniques et
+financières d'une utilisation partagée des installations en cause. Dans ce cas, et sauf accord contraire, le propriétaire des
+installations accueillant l'opérateur autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des
+infrastructures et des équipements qui empruntent ses installations et qui sont placés sous sa responsabilité, moyennant
+paiement d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des
+télécommunications peut être saisie, dans les conditions fixées à l'article L. 36-8.
+
+La permission de voirie ne peut contenir des dispositions relatives aux conditions commerciales de l'exploitation. Elle donne
+lieu à versement de redevances dues à la collectivité publique concernée pour l'occupation de son domaine public dans le
+respect du principe d'égalité entre tous les opérateurs.
+
+L'autorité mentionnée au premier alinéa se prononce dans un délai de deux mois sur les demandes de permission de voirie.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article et notamment le montant maximum de la
+redevance mentionnée à l'alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code des postes et des communications électroni... - art. L32-1 (M)
+	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L47-1 (V)
+	  - Code des postes et des communications électroni... - art. L51 (V)
+	  - Code des postes et des communications électroni... - art. R*20-45 (V)
+	  - Code des postes et des communications électroni... - art. R20-50 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L85
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L48
+
+La servitude mentionnée à l'article L. 45-1 est instituée en vue de permettre l'installation et l'exploitation des
+équipements du réseau :
+
+a) Dans les parties des immeubles collectifs et des lotissements affectées à un usage commun ;
+
+b) Sur le sol et dans le sous-sol des propriétés non bâties ;
+
+c) Au-dessus des propriétés privées dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers bénéficiant
+de servitudes sans compromettre, le cas échéant, la mission propre de service public confiée à ce tiers.
+
+La mise en oeuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
+propriétaires ou, en cas de copropriété, le syndicat représenté par le syndic ont été informés des motifs qui justifient
+l'institution de la servitude et le choix de son emplacement, et mis à même, dans un délai qui ne peut pas être inférieur à
+trois mois, de présenter leurs observations sur le projet. Les travaux ne peuvent commencer avant l'expiration de ce délai.
+En cas de contestation, les modalités de mise en oeuvre de la servitude sont fixées par le président du tribunal de grande
+instance.
+
+Lorsqu'il est constaté que la servitude de l'opérateur sur une propriété privée peut être assurée, dans des conditions
+équivalentes à celles qui résulteraient du bénéfice de cette servitude, par l'utilisation de l'installation existante d'un
+autre bénéficiaire de servitude sur la propriété concernée et que cette utilisation ne compromettrait pas, le cas échéant, la
+mission propre de service public du bénéficiaire de la servitude, l'autorité concernée mentionnée à l'alinéa précédent peut
+inviter les deux parties à se rapprocher pour convenir des conditions techniques et financières d'une utilisation partagée
+des installations en cause. Dans ce cas, et sauf accord contraire, le propriétaire des installations accueillant l'opérateur
+autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui
+empruntent ses installations et qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec
+l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des télécommunications peut être saisie, dans les
+conditions fixées à l'article L. 36-8.
+
+L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
+démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
+mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude.
+
+Lorsque, pour l'étude, la réalisation et l'exploitation des installations, l'introduction des agents des exploitants
+autorisés dans les propriétés privées définies au premier alinéa est nécessaire, elle est, à défaut d'accord amiable,
+autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure que la présence
+des agents est nécessaire.
+
+Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
+réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
+d'entretien que par l'existence ou le fonctionnement des ouvrages. A défaut d'accord amiable, l'indemnité est fixée par la
+juridiction de l'expropriation saisie par la partie la plus diligente.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 27 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 7 février 1997 - art. ANNEXE (V)
+	  - Arrêté du 9 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1997 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Arrêté du 22 octobre 1997 - art. ANNEXE (V)
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code des postes et des communications électroni... - art. L33-6 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L45-1 (V)
+	  - Code des postes et des communications électroni... - art. L51 (V)
+	  - Code des postes et des communications électroni... - art. R20-58 (V)
+	  - Code des postes et des communications électronique - art. L32-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L86
+	  - Loi n°51-1606 1951-12-31 art. 3
+
+
+###### Article L53
+
+L'arrêté de l'autorité compétente autorisant l'établissement et l'entretien des lignes de communications électroniques est
+périmé de plein droit s'il n'est suivi d'un commencement d'exécution dans les six mois de sa date ou dans les trois mois de
+sa notification.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L94
+	  - Loi n°1885-07-28 art. 11
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+##### Section 2 : Servitudes de protection des centres radioélectriques d'émission et de réception contre les obstacles.
+
+###### Article L54
+
+Afin d'empêcher que des obstacles ne perturbent la propagation des ondes radioélectriques émises ou reçues par les centres de
+toute nature exploités ou contrôlés par les différents départements ministériels, il est institué certaines servitudes pour
+la protection des communications électroniques radioélectriques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°49-758 1949-06-09 art. 1
+	  - Code des postes, télégraphes et téléphones L97
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L181-2 (V)
+	  - Code de l'environnement - art. L563-4 (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code des transports - art. L6350-1 (V)
+	  - Code des transports - art. L6763-7 (V)
+	  - Code des transports - art. L6773-8 (V)
+	  - Code des transports - art. L6783-9 (V)
+
+
+###### Article L55
+
+Lorsque ces servitudes entraînent la suppression ou la modification de bâtiments constituant des immeubles par nature en
+application des articles 518 et 519 du code civil, et à défaut d'accord amiable, l'expropriation de ces immeubles a lieu
+conformément aux dispositions de l'ordonnance n° 58-997 du 23 octobre 1958, relative à l'expropriation pour cause d'utilité
+publique.
+
+Après suppression ou modification des bâtiments ainsi acquis et lorsque les lieux ont été mis en conformité avec les
+exigences du présent chapitre, il peut être procédé à la revente des immeubles expropriés, sous garantie d'un droit de
+préemption aux propriétaires dépossédés et sous réserve du respect par l'acquéreur de ces servitudes.
+
+**Nota:**
+
+L'ordonnance n° 58-997 du 23 octobre 1958 a été codifiée aux articles L. 11-1 et suivants du code de l'expropriation pour
+cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L103
+	  - Loi n°49-758 1949-06-09 art. 7
+
+	**Cite**:
+
+	  - Ordonnance 58-997 1958-10-23
+	  - Code civil 518 et 519
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R242-3 (VT)
+	  - Code des transports - art. L6351-5 (V)
+	  - Code des transports - art. L6763-8 (V)
+	  - Code des transports - art. L6783-10 (V)
+
+
+###### Article L56
+
+Dans les autres cas, ces servitudes ouvrent droit à l'indemnité s'il en résulte une modification à l'état antérieur des lieux
+déterminant un dommage direct, matériel et actuel. A défaut d'accord amiable, cette indemnité est fixée par le tribunal
+administratif.
+
+La demande d'indemnité doit, à peine de forclusion, parvenir à la personne chargée de l'exécution des travaux dans le délai
+d'un an à compter de la notification aux intéressés des dispositions qui leur sont imposées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L104
+	  - Loi n°49-758 1949-06-09 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. R242-3 (VT)
+
+
+###### Article L56-1
+
+Les servitudes radioélectriques dont bénéficient les exploitants de réseaux ouverts au public pour la protection des réseaux
+de communications électroniques sont instituées dans les conditions du présent article, à l'exception de celles concernant
+les centres, désignés par l'Autorité de régulation des télécommunications, qu'ils exploitent pour les besoins de la défense
+nationale ou de la sécurité publique.
+
+1° Les propriétés voisines des stations radioélectriques peuvent être frappées de servitudes destinées à assurer une bonne
+propagation des ondes.
+
+2° Un plan de protection contre les perturbations radioélectriques définit pour chaque station les servitudes
+radioélectriques et détermine les terrains sur lesquels s'exercent ces servitudes.
+
+Le plan est soumis pour avis à l'Agence nationale des fréquences et à enquête publique. Il est approuvé par le préfet, après
+avis des conseils municipaux concernés et après que les propriétaires ont été informés des motifs qui justifient
+l'institution de la servitude et le choix de l'emplacement, et mis à même, dans un délai qui ne peut être inférieur à trois
+mois, de présenter leurs observations.
+
+3° Les servitudes comportent l'obligation de tenir le terrain, les plantations et les superstructures à un niveau au plus
+égal à celui prévu par le plan de protection mentionné au 2° ci-dessus et l'interdiction de construire et de faire des
+installations quelconques au-dessus de ce niveau.
+
+4° L'établissement d'une servitude radioélectrique ouvre droit, au profit du propriétaire, à une indemnité compensatrice du
+dommage direct, matériel et certain en résultant. A défaut d'entente amiable, l'indemnité est fixée comme en matière
+d'expropriation.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
+	  - Code des postes et des communications électroni... - art. L62-1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+##### Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.
+
+###### Article L57
+
+Afin d'assurer le fonctionnement des réceptions radioélectriques effectuées dans les centres de toute nature, exploités ou
+contrôlés par les différents départements ministériels, il est institué certaines servitudes et obligations pour la
+protection des réceptions radioélectriques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L106
+	  - Loi n°49-759 1949-06-09 art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 2
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L58 (VT)
+
+
+###### Article L58
+
+Un décret de servitudes pris en application de l'article précédent et des règlements subséquents fixe les servitudes imposées
+aux propriétaires ou usagers d'installations électriques en fonctionnement dans les zones de protection et de garde
+radioélectrique au jour de la promulgation dudit décret, servitudes auxquelles il devra être satisfait dans un délai maximum
+d'un an à partir de ce jour.
+
+Au cours de la procédure d'enquête qui précède le décret de servitudes, en cas d'opposition des propriétaires et usagers
+tenus de se prêter aux investigations nécessaires, il y est procédé d'office. Les frais et dommages causés par ces
+investigations sont à la charge du bénéficiaire de la servitude.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L109 et L110
+	  - Loi n°49-759 1949-06-09 art. 4 et 5
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 2
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L57 (VT)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R*31 (V)
+
+
+###### Article L59
+
+Lorsque l'établissement de ces servitudes cause aux propriétaires ou ouvrages un dommage direct, matériel et actuel, il est
+dû aux propriétaires et à tout ayant droit une indemnité compensant le dommage qu'ils éprouvent.
+
+La demande d'indemnité doit, à peine de forclusion, parvenir au ministre intéressé dans le délai d'un an à compter de la
+notification faite aux intéressés des mesures qui leur sont imposées.
+
+A défaut d'accord amiable, les contestations relatives à cette indemnité sont de la compétence du tribunal administratif.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L111
+	  - Loi n°49-759 1949-06-09 art. 6
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 2
+
+	**Codifié par**:
+
+	  - Décret n°62-273 du 12 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L62 (V)
+
+
+###### Article L61
+
+Tout propriétaire ou usager d'une installation électrique, située en un point quelconque du territoire, même hors des zones
+de servitudes et produisant ou propageant des perturbations gênant l'exploitation d'un centre de réception radioélectrique
+public ou privé, est tenu de se conformer aux dispositions qui lui seront indiquées, en vue de faire cesser le trouble, par
+le ministre dont les services exploitent ou contrôlent le centre ; il doit notamment se prêter aux investigations autorisées
+par un arrêté préfectoral, réaliser les modifications prescrites et maintenir les installations en bon état de
+fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L113
+	  - Loi n°49-759 1949-06-09 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R*34 (V)
+
+
+###### Article L62
+
+Dans les cas où les obligations précitées causent un dommage direct, matériel et actuel aux propriétaires ou usagers, il est
+fait application de l'article L. 59.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°49-759 1949-06-09 art. 9
+	  - Code des postes, télégraphes et téléphones L114
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L64 (VD)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L59 (M)
+
+
+###### Article L62-1
+
+Les servitudes dont bénéficient les exploitants de réseaux ouverts au public pour la protection des réseaux de communications
+électroniques contre les perturbations radioélectriques sont instituées dans les conditions du présent article, à l'exception
+de celles concernant les centres, désignés par l'Autorité de régulation des télécommunications, qu'ils exploitent pour les
+besoins de la défense nationale ou de la sécurité publique.
+
+1° Les abords des centres exploités par les opérateurs autorisés peuvent être frappés de servitudes destinées à éviter les
+perturbations électromagnétiques.
+
+2° Un plan de protection établi dans les conditions définies à l'article L. 56-1 détermine les zones de servitude et définit
+ces servitudes.
+
+3° Les servitudes comportent l'interdiction de mettre en service ou d'utiliser des équipements installés postérieurement au
+centre protégé, susceptibles de perturber les réceptions radioélectriques.
+
+4° L'établissement d'une servitude radioélectrique ouvre droit au profit du propriétaire ou de l'usager à une indemnité
+compensatrice du dommage direct, matériel et certain en résultant. A défaut d'entente amiable, l'indemnité est fixée et payée
+comme en matière d'expropriation.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L56-1 (M)
+
+
+##### Section 4 : Dispositions pénales.
+
+###### Article L63
+
+Les infractions aux dispositions de la section 1 du présent chapitre et des règlements pris pour son application sont
+passibles de 3 750 euros d'amende.
+
+Sur réquisition du ministère public agissant à la demande du ministre intéressé, le tribunal saisi de la poursuite impartit
+aux personnes qui contreviennent aux dispositions de la section 1 du présent chapitre, sous peine d'une astreinte de 0,75
+euros à 7,5 euros par jour de retard, un délai pour régulariser la situation.
+
+Dans le cas où le délai n'est pas observé, l'astreinte prononcée court à partir de l'expiration dudit délai jusqu'au jour où
+la situation est effectivement régularisée.
+
+Si cette régularisation n'est pas intervenue dans l'année de l'expiration du délai, le tribunal peut, sur réquisition du
+ministère public agissant dans les mêmes conditions, relever à une ou plusieurs reprises le montant de l'astreinte, même au-
+delà du maximum prévu ci-dessus.
+
+Le tribunal peut autoriser le reversement d'une partie des astreintes lorsque la situation aura été régularisée et que le
+redevable établira qu'il a été empêché d'observer, par une circonstance indépendante de sa volonté, le délai qui lui avait
+été imparti.
+
+En outre, si, à l'expiration du délai fixé par le jugement, la situation n'a pas été régularisée, l'administration peut faire
+effectuer les travaux d'office aux frais et risques des personnes civilement responsables.
+
+Les personnes qui ont été condamnées par application du présent article et qui, dans les trois années qui suivent, commettent
+une nouvelle infraction aux dispositions du présent article, sont punies de 7 500 euros d'amende et d'un mois
+d'emprisonnement ou de l'une de ces deux peines seulement.
+
+Les infractions aux dispositions du chapitre Ier peuvent être constatées par des procès-verbaux dressés par les officiers de
+police judiciaire, les gendarmes et les fonctionnaires assermentés de l'administration intéressée.
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L105
+	  - Loi n°49-758 1949-06-09 art. 9
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R*42 (V)
+
+
+###### Article L64
+
+Les infractions aux dispositions des sections 2 et 3 du présent chapitre qui entrent dans la catégorie générale des troubles
+occasionnés aux auditeurs de radiodiffusion et qui tombent de ce fait sous le coup des textes organisant la protection des
+auditions, sont constatées par les fonctionnaires assermentés de la radiodiffusion française.
+
+Les autres infractions, en particulier celles relatives au matériel situé dans les zones de servitudes, sont constatées par
+les fonctionnaires assermentés de la ou des administrations intéressées.
+
+Les propriétaires ou usagers des installations, même situées en dehors des zones de servitudes, dans lesquelles ont été
+constatées des perturbations constituant des infractions aux dispositions du chapitre II et des règlements pris pour son
+application, sont tenus de prendre toutes les mesures utiles pour faire cesser ces perturbations. S'ils ne le font pas eux-
+mêmes, il y est procédé d'office par les soins de l'administration, compte tenu des dispositions de l'article L. 62.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L116
+	  - Loi n°49-759 1949-06-09 art. 11
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L62 (M)
+
+
+#### Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.
+
+##### Section 1 : Dispositions générales.
+
+###### Article L65
+
+Le fait de déplacer, détériorer, dégrader de quelque manière que ce soit, une installation d'un réseau ouvert au public ou de
+compromettre le fonctionnement d'un tel réseau est puni d'une amende de 1 500 euros.
+
+Lorsqu'il s'agit d'une installation comportant plusieurs câbles, il est prononcé autant d'amendes que de câbles concernés.
+
+L'infraction visée au premier alinéa n'est pas constituée si l'emplacement des installations existantes dans l'emprise des
+travaux n'a pas été porté à la connaissance de l'entreprise avant l'ouverture du chantier.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L130
+	  - Décret-loi 1851-12-27 art. 9
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R42-1 (VD)
+
+
+###### Article L65-1
+
+Les installations radioélectriques visées aux articles L. 33-1, L. 33-2, L. 33-3 et L. 34-9 peuvent être provisoirement
+saisies et exploitées, s'il y a lieu, sans indemnité, par décision du conseil des ministres dans tous les cas où leur
+utilisation serait de nature à nuire à l'ordre, à la sûreté ou au crédit publics ou à la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L33-2 (M)
+	  - Code des postes et des communications électronique - art. L33-3 (M)
+	  - Code des postes et des communications électronique - art. L34-9 (M)
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. L95 (T)
+	  - Code des postes et télécommunications L95
+
+
+##### Section 2 : Dispositions pénales.
+
+###### Article L66
+
+Toute personne qui, par la rupture des fils, par la dégradation des appareils ou par tout autre moyen, cause volontairement
+l'interruption des communications électroniques, est punie d'un emprisonnement de deux ans et d'une amende de 3 750 euros.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L125
+	  - Décret-loi 1851-12-27 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+
+###### Article L67
+
+Sont punis de vingt ans de détention criminelle et d'une amende de 4 500 euros, sans préjudice des peines que pourrait
+entraîner leur complicité avec l'insurrection, les individus qui, dans un mouvement insurrectionnel, ont détruit ou rendu
+impropres au service une ou plusieurs lignes de communications électroniques, brisé ou détruit des appareils, envahi, à
+l'aide de violence ou de menaces, un ou plusieurs centraux ou stations de communications électroniques, ceux qui ont
+intercepté par tout autre moyen, avec violence et menaces, les communications électroniques ou la correspondance par
+communications électroniques entre les divers dépositaires de l'autorité publique ou qui se sont opposés avec violence ou
+menaces au rétablissement des liaisons de communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R50 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L126
+	  - Décret-loi 1851-12-27 art. 4
+
+
+#### Chapitre V : Protection des câbles sous-marins.
+
+##### Section 1 : Dispositions générales.
+
+###### Article L72
+
+Toute personne qui, par négligence coupable et notamment par un acte ou une omission punis de peines de police, rompt un
+câble sous-marin ou lui cause une détérioration qui peut avoir pour résultat d'interrompre ou d'entraver, en tout ou partie,
+les communications électroniques, est tenue, dans les vingt-quatre heures de son arrivée, de donner avis aux autorités
+locales du premier port où abordera le navire sur lequel il est embarqué, de la rupture ou de la détérioration du câble sous-
+marin dont il se serait rendu coupable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones 150
+	  - Loi n°1884-12-20 art. 16
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R51 (V)
+	  - Code des postes et des communications électronique - art. L73 (V)
+
+
+##### Section 2 : Dispositions pénales.
+
+###### Article L73
+
+A défaut de la déclaration exigée par l'article L. 72, les infractions prévues audit article sont punies d'une amende de 3
+750 euros et, éventuellement, de quatre mois d'emprisonnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L72 (M)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L150
+	  - Loi n°1884-12-20 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+
+###### Article L74
+
+En cas de récidive, le maximum des peines édictées ci-dessus est prononcé, ce maximum peut être élevé jusqu'au double.
+
+Il y a récidive pour les faits prévus par l'article L. 81 lorsque, à une époque quelconque, il a été rendu contre le
+délinquant un jugement définitif pour infraction aux dispositions de cet article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L151
+	  - Loi n°1884-12-20 art. 17
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L81
+
+
+###### Article L75
+
+Sont déclarés responsables des amendes prononcées pour infraction au présent titre et des condamnations civiles auxquelles
+ces infractions pourraient donner lieu, les armateurs des navires, qu'ils en soient ou non propriétaires, à raison des faits
+de l'équipage de ces navires.
+
+Les autres cas de responsabilité civile sont réglés conformément aux dispositions de l'article 1384 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L152
+	  - Loi n°1884-12-20 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code civil - art. 1384 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L76
+
+En cas de conviction de plusieurs infractions prévues par le présent titre, [*sanction*] la peine la plus forte est seule
+prononcée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L153
+	  - Loi n°1884-12-20 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+##### Paragraphe I : Dispositions spéciales aux eaux non territoriales.
+
+###### Article L77
+
+Les infractions à la convention internationale du 14 mars 1884, ayant pour objet d'assurer la protection des câbles sous-
+marins, qui sont commises par tout individu faisant partie de l'équipage d'un navire français sont jugées par le tribunal
+dans le ressort duquel est situé, soit le port d'attache du bâtiment du délinquant, soit le premier port de France dans
+lequel est conduit le bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L135
+	  - Loi n°1884-12-20 art. 1
+
+	**Cite**:
+
+	  - Convention 1884-03-14, signée à Paris
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L78
+
+Les poursuites ont lieu à la diligence du ministère public, sans préjudice du droit des parties civiles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L136
+	  - Loi n°1884-12-20 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L79
+
+Les procès-verbaux dressés conformément à l'article 10 de la convention du 14 mars 1884 font foi jusqu'à l'inscription de
+faux.
+
+A défaut de procès-verbaux ou en cas d'insuffisance de ces actes, les infractions peuvent être prouvées par témoins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L137
+	  - Loi n°1884-12-20 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R45 (V)
+
+
+###### Article L80
+
+Toute attaque, toute résistance avec violences et voies de fait envers les personnes ayant qualité, aux termes de l'article
+10 de la convention du 14 mars 1884, à l'effet de dresser procès-verbal, dans l'exercice de leurs fonctions [*infraction*],
+est punie [*sanction*] des peines appliquées à la rébellion, suivant les distinctions établies au code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L139
+	  - Loi n°1884-12-20 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L81
+
+Est punie d'une amende de 3 750 euros et  d'un emprisonnement de cinq ans : toute personne qui rompt volontairement un câble
+sous-marin ou lui cause une détérioration qui pourrait interrompre ou entraver, en tout ou partie, les communications
+électroniques.
+
+Les mêmes peines sont prononcées contre les auteurs des tentatives des mêmes faits.
+
+Toutefois, ces dispositions ne s'appliquent pas aux personnes qui auraient été contraintes de rompre un câble sous-marin ou
+de lui causer une détérioration par la nécessité actuelle de protéger leur vie ou d'assurer la sécurité de leur navire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L144
+	  - Loi n°1884-12-20 art. 10
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L74 (Ab)
+	  - Code des postes et des communications électroni... - art. R51 (V)
+
+
+##### Paragraphe II : Dispositions spéciales aux eaux territoriales.
+
+###### Article L82
+
+Les dispositions de l'article L. 81 sont observées dans le cas où l'infraction aurait été commise dans les eaux territoriales
+par tout individu faisant partie de l'équipage d'un navire quelconque, français ou étranger, sans préjudice des dispositions
+de l'article L. 67.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L145
+	  - Loi n°1884-12-20 art. 11
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications éléctroniques L67 et L81
+
+
+###### Article L83
+
+Les infractions à la police des câbles sous-marins sont jugées, soit par le tribunal du port d'attache du navire sur lequel
+est embarqué le délinquant, soit par celui du premier port français où ce navire abordera, soit par celui du lieu
+d'infraction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L146
+	  - Loi n°1884-12-20 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+
+###### Article L84
+
+Les infractions commises dans les eaux territoriales sont établies par procès-verbaux et, à défaut de procès-verbaux, par
+témoins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L147
+	  - Loi n°1884-12-20 art. 13
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+
+###### Article L85
+
+Les procès-verbaux prévus à l'article précédent sont dressés :
+
+- par les officiers commandant tous les navires de guerre français ;
+
+- par tous les officiers de police judiciaire ;
+
+- par tous les officiers de police municipale assermentés ;
+
+- par les autres personnes énumérées à l'article L. 70 et à l'article 16 du décret du 9 janvier 1852.
+
+Toute attaque, toute résistance avec violence et voies de fait envers les agents ayant qualité aux termes des dispositions
+ci-dessus pour dresser procès-verbal, dans l'exercice de leurs fonctions [*infraction*], est punie [*sanction*] des peines
+appliquées à la rébellion, suivant les distinctions établies au code pénal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. L86 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications éléctroniques L70 et L84
+	  - Décret n°1852-01-09 art. 16
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L148
+	  - Loi n°1884-12-20 art. 14
+
+
+###### Article L86
+
+Les procès-verbaux dressés par les officiers commandant les navires de guerre français font foi jusqu'à inscription de faux.
+
+Les procès-verbaux dressés par tous autres agents ayant qualité à cet effet, aux termes de l'article précédent, ont la force
+probante et sont soumis aux formalités réglées par les lois spéciales, notamment l'article L. 70 et les articles 17 et 20 du
+décret du 9 janvier 1852.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L70 (M)
+	  - Code des postes et des communications électronique - art. L85 (M)
+	  - Décret n°1852-01-09 art. 17, art. 20
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L149
+	  - Loi n°1884-12-20 art. 15
 
 
 ### TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.
@@ -6626,12 +6815,6 @@ VI. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
 
 4° Les modalités d'établissement et de recouvrement de la redevance prévue au deuxième alinéa du 2 du I.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -6654,17 +6837,13 @@ télécommunications devient le code des postes et des communications électroni
 	  - Code des postes et des communications électronique - art. R52-3-8 (V)
 	  - Code des postes et des communications électronique - art. R52-3-9 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 48 () JORF 22 juin 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article L97-3
@@ -6684,17 +6863,11 @@ pénal, des infractions définies au présent article. Les peines encourues par 
 Les fonctionnaires et agents de l'administration des communications électroniques et de l'Agence nationale des fréquences
 mentionnés à l'article L. 40 peuvent rechercher et constater ces infractions dans les conditions fixées audit article.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunications" et "télécommunication" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 48 () JORF 22 juin 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Cite**:
 
@@ -6711,10 +6884,6 @@ télécommunications devient le code des postes et des communications électroni
 
 	  - Code des postes et des communications électronique - art. L97-2 (V)
 	  - Code des postes et des communications électronique - art. L97-4 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article L97-4
@@ -7819,6 +7988,101 @@ NOTA : Décret 2005-1068 du 30 août 2005 art. 5 : La date de ce transfert est f
 
 ### (en vigueur jusqu'au 31 décembre 2005).
 
+###### Article L125
+
+La Commission supérieure du service public des postes et des communications électroniques comprend sept députés et sept
+sénateurs, désignés par leurs assemblées respectives, ainsi que trois personnalités qualifiées dans les secteurs des postes
+et des communications électroniques, désignées par les ministres chargés des postes et des communications électroniques parmi
+six personnalités proposées par le président de la commission. Elle est présidée par un parlementaire élu en son sein pour
+une durée de trois ans.
+
+Elle veille à l'évolution équilibrée des secteurs des postes et des communications électroniques et émet, à cette fin, un
+avis sur les projets de modification de la législation applicable à ces secteurs, sur les projets de cahier des charges de La
+Poste et des opérateurs chargés du service universel des communications électroniques et les projets de contrats de plan de
+La Poste. Elle est consultée par les ministres chargés des postes et des communications électroniques lors de la préparation
+des directives communautaires relatives à ces secteurs. Elle peut être consultée par l'Autorité de régulation des
+télécommunications et par les commissions permanentes de l'Assemblée nationale et du Sénat sur les questions relevant de sa
+compétence.
+
+Elle peut saisir l'Autorité de régulation des télécommunications sur des questions concernant la compétence de cette autorité
+en matière de contrôle et de sanction du respect, par les opérateurs, des obligations de service public et de service
+universel qui leur sont applicables en vertu du présent code.
+
+Elle peut suggérer les modifications de nature législative et réglementaire que lui paraît appeler l'évolution technologique,
+économique et sociale des activités postales et de communications électroniques.
+
+Elle adresse des recommandations au Gouvernement pour l'exercice d'une concurrence loyale dans les activités postales et de
+communications électroniques.
+
+Elle établit un rapport annuel qui est remis au Parlement et au Premier ministre. Ce rapport comprend une évaluation de
+l'action de l'Autorité de régulation des télécommunications, pour ce qui concerne le service public des communications
+électroniques. Elle peut, en outre, faire connaître, à tout moment, ses observations et ses recommandations.
+
+Elle peut recueillir toutes les informations utiles à l'accomplissement de ses missions et notamment demander aux ministres
+chargés des postes et des communications électroniques de faire procéder à toute étude ou investigation concernant La Poste
+et les opérateurs chargés du service universel des communications électroniques.
+
+Les moyens nécessaires au fonctionnement de la commission et à l'accomplissement de ses missions sont inscrits au budget des
+ministères chargés des postes et des communications électroniques.
+
+Un décret fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 8 (M)
+	  - Code des postes et des communications électronique - art. D578 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 26 () JORF 10 juillet 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L204
+	  - Loi n°1923-06-30 art. 70
+	  - Loi n°1940-10-05 art. 1
+
+
+###### Article L126
+
+La prescription est acquise au profit de l'exploitant public pour toutes demandes en restitution du prix de ses prestations
+présentées après un délai d'un an à compter du jour du paiement.
+
+La prescription est acquise au profit de l'usager pour les sommes dues en paiement des prestations de l'exploitant public
+lorsque celui-ci ne les a pas réclamées dans un délai d'un an courant à compter de la date de leur exigibilité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 26 () JORF 10 juillet 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. L11 (M)
+	  - Code des postes et des communications électronique - art. L11 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L228-1
+	  - Loi n°1926-04-29 art. 92 al. 1, 2, 3 et 4
+
+
 ###### Article L128
 
 Le présent code se substitue, dans les conditions prévues par l'article 34 de la Constitution et la loi n° 52-233 du 27
@@ -8094,77 +8358,6 @@ Loi n° 53-1333 du 31 décembre 1953, article 9.
 	**Transféré par**:
 
 	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
-
-
-## LIVRE IV : L'organisation financière
-
-### TITRE Ier : Constitution du budget annexe.
-
-###### Article L125
-
-Le service des postes et télécommunications est doté d'un budget annexe.
-
-**Nota:**
-
-NOTA : Le budget annexe institué par l'article L. 125 du code des postes et télécommunications est supprimé par l'article 65
-de la loi de finances pour 1991, n° 90-1168 du 29 décembre 1990, à compter du 1er janvier 1991.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L204
-	  - Loi n°1923-06-30 art. 70
-	  - Loi n°1940-10-05 art. 1
-
-	**Cité par**:
-
-	  - Loi n°90-568 du 2 juillet 1990 - art. 8 (M)
-	  - Code des postes et des communications électronique - art. D578 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°90-1168 1990-12-29 art. 65
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-### TITRE II : Dispositions budgétaires
-
-#### CHAPITRE V : Dispositions particulières.
-
-###### Article L126
-
-La prescription est acquise au profit de l'exploitant public pour toutes demandes en restitution du prix de ses prestations
-présentées après un délai d'un an à compter du jour du paiement.
-
-La prescription est acquise au profit de l'usager pour les sommes dues en paiement des prestations de l'exploitant public
-lorsque celui-ci ne les a pas réclamées dans un délai d'un an courant à compter de la date de leur exigibilité.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L11 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L228-1
-	  - Loi n°1926-04-29 art. 92 al. 1, 2, 3 et 4
-
-	**Modifié par**:
-
-	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990 en vigueur le 1er janvier 1991
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
 
 
 ## DISPOSITIONS FINALES
@@ -9408,79 +9601,6 @@ date de la réception de la demande vaut décision de rejet.
 
 ##### SECTION 3 bis : Annuaires universels et services universels de renseignements.
 
-###### Article R10
-
-Toute personne ayant souscrit un abonnement au service téléphonique au public a le droit de figurer gratuitement sur une
-liste d'abonnés ou d'utilisateurs destinée à être publiée.
-
-Elle peut obtenir gratuitement de l'opérateur auprès duquel elle est abonnée ou au distributeur de ce service :
-
-1. De ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées ou susceptibles d'être consultées par les
-services universels de renseignements ;
-
-2. Que ces listes ne comportent pas l'adresse complète de son domicile sauf lorsque l'activité professionnelle mentionnée
-consiste à fournir des biens ou des services aux consommateurs ;
-
-3. Que ces listes ne comportent pas de référence à son sexe, sous réserve d'absence d'homonymie sur la même liste ;
-
-4. Que les données à caractère personnel la concernant issues des listes d'abonnés ou d'utilisateurs ne soient pas utilisées
-dans des opérations de prospection directe soit par voie postale, soit par voie de communications électroniques, sans
-préjudice des dispositions de l'article L. 34-5, à l'exception des opérations concernant la fourniture du service
-téléphonique au public et relevant de la relation contractuelle entre l'opérateur et l'abonné.
-
-5. Que ces données ne soient pas mentionnées sur des listes d'abonnés ou d'utilisateurs permettant la recherche inversée de
-l'identité de l'abonné et de l'utilisateur à partir de son numéro de téléphone.
-
-Les abonnés sont informés par les opérateurs ou leurs distributeurs des droits mentionnés aux alinéas précédents au moment où
-ils souscrivent leur abonnement. Ces droits peuvent être exercés au moment de la souscription de l'abonnement ou,
-ultérieurement, à tout moment, auprès de l'opérateur ou du distributeur du service.
-
-Les abonnés qui ont demandé le bénéfice des dispositions prévues au 1 ci-dessus bénéficient de plein droit des dispositions
-du 4.
-
-Les abonnés qui ont opté pour un mode de règlement entièrement prépayé de leurs communications et qui n'ont aucun engagement
-contractuel de durée avec leur opérateur doivent, pour figurer sur les listes d'abonnés ou d'utilisateurs mentionnées au
-premier alinéa, formuler une demande auprès de leur opérateur ou distributeur. Ils fournissent à cette fin les renseignements
-prévus au I de l'article R. 10-3.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Arrêté du 18 novembre 2009 (V)
-	  - Arrêté du 18 novembre 2009 - art. (V)
-	  - Arrêté du 6 décembre 2012 - art. (V)
-	  - Code des postes et des communications électroni... - art. D98-5 (V)
-	  - Code des postes et des communications électroni... - art. D98-7 (V)
-	  - Code des postes et des communications électroni... - art. R10-1 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-3 (V)
-	  - Code des postes et des communications électroni... - art. R10-4 (V)
-	  - Code des postes et des communications électroni... - art. R10-5 (V)
-	  - Code des postes et des communications électroni... - art. R10-7 (V)
-	  - Code des postes et des communications électroni... - art. R10-8 (V)
-	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L34-5 (M)
-
-
 ###### Article R10-1
 
 Le fait d'utiliser, dans des opérations de prospection directe, des données à caractère personnel contenues dans les listes
@@ -9886,6 +10006,76 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 	  - Décret n°62-274 1962-03-12
 
 
+##### SECTION 2 : Annuaires universels et services universels de renseignements.
+
+###### Article R10
+
+Toute personne ayant souscrit un abonnement au service téléphonique au public a le droit de figurer gratuitement sur une
+liste d'abonnés ou d'utilisateurs destinée à être publiée.
+
+Elle peut obtenir gratuitement de l'opérateur auprès duquel elle est abonnée ou au distributeur de ce service :
+
+1. De ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées ou susceptibles d'être consultées par les
+services universels de renseignements ;
+
+2. Que ces listes ne comportent pas l'adresse complète de son domicile sauf lorsque l'activité professionnelle mentionnée
+consiste à fournir des biens ou des services aux consommateurs ;
+
+3. Que ces listes ne comportent pas de référence à son sexe, sous réserve d'absence d'homonymie sur la même liste ;
+
+4. Que les données à caractère personnel la concernant issues des listes d'abonnés ou d'utilisateurs ne soient pas utilisées
+dans des opérations de prospection directe soit par voie postale, soit par voie de communications électroniques, sans
+préjudice des dispositions de l'article L. 34-5, à l'exception des opérations concernant la fourniture du service
+téléphonique au public et relevant de la relation contractuelle entre l'opérateur et l'abonné.
+
+5. Que ces données ne soient pas mentionnées sur des listes d'abonnés ou d'utilisateurs permettant la recherche inversée de
+l'identité de l'abonné et de l'utilisateur à partir de son numéro de téléphone.
+
+Les abonnés sont informés par les opérateurs ou leurs distributeurs des droits mentionnés aux alinéas précédents au moment où
+ils souscrivent leur abonnement. Ces droits peuvent être exercés au moment de la souscription de l'abonnement ou,
+ultérieurement, à tout moment, auprès de l'opérateur ou du distributeur du service.
+
+Les abonnés qui ont demandé le bénéfice des dispositions prévues au 1 ci-dessus bénéficient de plein droit des dispositions
+du 4.
+
+Les abonnés qui ont opté pour un mode de règlement entièrement prépayé de leurs communications et qui n'ont aucun engagement
+contractuel de durée avec leur opérateur doivent, pour figurer sur les listes d'abonnés ou d'utilisateurs mentionnées au
+premier alinéa, formuler une demande auprès de leur opérateur ou distributeur. Ils fournissent à cette fin les renseignements
+prévus au I de l'article R. 10-3.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+	  - Décret n°2005-605 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 18 novembre 2009 (V)
+	  - Arrêté du 18 novembre 2009 - art. (V)
+	  - Arrêté du 6 décembre 2012 - art. (V)
+	  - Code des postes et des communications électroni... - art. D98-5 (V)
+	  - Code des postes et des communications électroni... - art. D98-7 (V)
+	  - Code des postes et des communications électroni... - art. R10-1 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-3 (V)
+	  - Code des postes et des communications électroni... - art. R10-4 (V)
+	  - Code des postes et des communications électroni... - art. R10-5 (V)
+	  - Code des postes et des communications électroni... - art. R10-7 (V)
+	  - Code des postes et des communications électroni... - art. R10-8 (V)
+	  - Code des postes et des communications électroni... - art. R20-30-2 (V)
+	  - Code des postes et des communications électronique - art. D98-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-5 (M)
+
+
 ##### SECTION 3 bis : Annuaires universels et services universels de renseignement.
 
 ###### Article R11
@@ -10137,23 +10327,17 @@ avec demande d'avis de réception.
 Pour l'application de la présente section, les exigences essentielles applicables, parmi celles que mentionne le 12° de
 l'article L. 32, sont celles relatives à la santé et à la sécurité des personnes, à la compatibilité électromagnétique et à
 la bonne utilisation du spectre des fréquences radioélectriques, appréciée notamment en fonction de l'utilisation efficace de
-la ressource orbitale.
+la ressource orbitale. 
 
 Sont également applicables, lorsque la Commission européenne a pris une décision en ce sens, les autres exigences mentionnées
-au 3 de l'article 3 de la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999 concernant les équipements
+au 3 de l'article 3 de la directive 1999/5/ CE du Parlement européen et du Conseil du 9 mars 1999 concernant les équipements
 hertziens et les équipements terminaux de communications électroniques et la reconnaissance mutuelle de leur conformité.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -10175,7 +10359,7 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L32 (M)
+	  - Code des postes et des communications électroni... - art. L32 (V)
 	  - Directive 99-5 CE 1999-03-09
 
 
@@ -10195,30 +10379,24 @@ Parlement européen et du Conseil concernant les équipements terminaux de commu
 stations terrestres de communications par satellites, incluant la reconnaissance mutuelle de leur conformité, dont les
 références sont publiées au Journal officiel des Communautés européennes.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D375 (Ab)
 
 	**Cite**:
 
 	  - Directive 73-23 CEE 1973-02-19
-	  - Directive 98-13 CE 1998-02-12 art 7 et 18
+	  - Directive 98-13 CE 1998-02-12 art. 7 et 18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D375 (Ab)
 
 
 ###### Article R20-3
@@ -10586,17 +10764,11 @@ marché en informe l'Agence nationale des fréquences selon des modalités fixé
 communications électroniques sur proposition de l'Agence nationale des fréquences. L'Agence nationale des fréquences met à la
 disposition des administrations et autorités affectataires concernées les informations sur cette mise sur le marché.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -10821,17 +10993,11 @@ installations radioélectriques, lorsque le public y est exposé.
 Pour les mêmes motifs et dans les mêmes conditions, un équipement peut faire l'objet de restrictions quant aux lieux et aux
 conditions de son utilisation.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -10893,28 +11059,22 @@ désignation sont ceux prévus à l'article R. 20-14.
 
 ###### Article R20-21
 
-I. - Lorsqu'un équipement n'est pas conforme aux exigences essentielles qui lui sont applicables ou aux dispositions des
+I.-Lorsqu'un équipement n'est pas conforme aux exigences essentielles qui lui sont applicables ou aux dispositions des
 articles R. 20-4, R. 20-6 à R. 20-10 et R. 20-19, le ministre chargé des communications électroniques prend un arrêté
 restreignant la liberté de circulation, interdisant la mise sur le marché ou la mise en service de l'équipement ou le
-retirant du marché ou du service.
+retirant du marché ou du service. 
 
-II. - Lorsque l'Agence nationale des fréquences constate qu'un équipement radioélectrique, mentionné au 2° de l'article R.
+II.-Lorsque l'Agence nationale des fréquences constate qu'un équipement radioélectrique, mentionné au 2° de l'article R.
 20-4, ayant fait l'objet d'une des procédures d'évaluation de conformité mentionnées à l'article R. 20-5 et qui remplit les
 conditions fixées à l'article R. 20-10, a provoqué ou est susceptible de provoquer des perturbations radioélectriques, elle
 en informe le ministre chargé des communications électroniques, qui peut, par arrêté, restreindre ou interdire la mise sur le
 marché de cet équipement ou de ce type d'équipement ou exiger son retrait du marché.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -10927,10 +11087,10 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R20-19 (M)
-	  - Code des postes et des communications électronique - art. R20-4 (M)
-	  - Code des postes et des communications électronique - art. R20-5 (M)
-	  - Code des postes et des communications électroniques R20-4, R20-6 à R20-10, R20-19, R20-5
+	  - Code des postes et des communications électroni... - art. R20-19 (V)
+	  - Code des postes et des communications électroni... - art. R20-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+	  - Code des postes et des communications électroni... - art. R20-6 (V)
 
 
 ###### Article R20-22
@@ -11031,17 +11191,11 @@ s'inscrivent sur une telle liste. Ces entreprises peuvent produire ce numéro d'
 procèdent au raccordement et à la mise en service d'installations et équipements de communications électroniques ou de
 radiocommunications, en vue de faciliter la traçabilité de leur intervention.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -11162,22 +11316,16 @@ Les peines encourues par les personnes morales sont :
 
 Les ministres intéressés, chacun pour ce qui le concerne, s'assurent que les équipements mentionnés au g de l'article R. 20-3
 et utilisés par les services placés sous leur autorité respectent les exigences essentielles relatives à la santé, à la
-sécurité, à la compatibilité électromagnétique et à la bonne utilisation du spectre radioélectrique.
+sécurité, à la compatibilité électromagnétique et à la bonne utilisation du spectre radioélectrique. 
 
 Les mesures prises par chaque ministre pour la protection du spectre radioélectrique sont communiquées au ministre chargé des
 communications électroniques et à l'Agence nationale des fréquences.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Codifié par**:
 
@@ -11185,7 +11333,7 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R20-3 (M)
+	  - Code des postes et des communications électroni... - art. R20-3 (V)
 
 	**Cité par**:
 
@@ -14104,21 +14252,19 @@ cas, ou sur son autorisation, des envois clos non revêtus de cette étiquette, 
 
 Les fonctionnaires des douanes ne peuvent, en aucun cas, prendre connaissance de la teneur des correspondances.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
 #### Chapitre III : Création des bureaux de poste.
@@ -14128,12 +14274,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 L'administration des postes et communications électroniques procède, dans la limite des autorisations accordées par les lois
 de finances, à la création des établissements et des emplois nécessaires à l'exécution des services dont elle est chargée.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -14142,11 +14282,15 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 7
 
 
 ###### Article D5
@@ -14182,12 +14326,6 @@ Convention postale universelle.
 Le silence gardé pendant plus de neuf mois sur la demande d'agrément des expéditeurs de matières radioactives par voie
 postale vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -14200,7 +14338,11 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Modifié par**:
 
-	  - Décret n°2003-1264 du 23 décembre 2003 - art. 32 () JORF 28 décembre 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
 ###### Article D7
@@ -14385,21 +14527,19 @@ correspondance personnelle, ni pouvoir en tenir lieu. Par ailleurs, sauf excepti
 communications électroniques, ils doivent être confectionnés de manière à ce que leur contenu puisse toujours être facilement
 vérifié sans détérioration de l'emballage.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
 ###### Article D14
@@ -14493,21 +14633,19 @@ conditions fixées par la réglementation, bénéficient d'un tarif spécial.
 Les imprimés et échantillons peuvent, sans supplément de taxe, comporter des annotations manuscrites ou imprimées autorisées
 par arrêté du ministre des postes et des communications électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
 ##### Section 4 : Journaux et écrits périodiques.
@@ -14871,26 +15009,15 @@ les publications étrangères déposées à la poste en France, lorsque le pays 
 écrits périodiques français mis à la poste sur son territoire, au bénéfice du tarif prévu par sa réglementation interne en
 faveur des objets de même catégorie.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°65-106 1965-02-12 art. 1 JORF 18 février 1965
-	  - Décret n°85-1156 1985-10-29 art. 1 JORF 6 novembre 1985
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 
 ###### Article D22
@@ -14926,21 +15053,19 @@ préparation des envois effectuée par l'expéditeur préalablement à la remise
 Les journaux et écrits périodiques peuvent, sans supplément de taxe, comporter des annotations manuscrites ou imprimées
 autorisées par arrêté du ministre des postes et des communications électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 
 ###### Article D24
@@ -15148,21 +15273,19 @@ autorisées sur les "imprimés et échantillons" ;
 8° Etre préalablement inscrits à la direction départementale des postes et communications électroniques dont relève le bureau
 de dépôt des envois.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 8
 
 
 ###### Article D30
@@ -15348,12 +15471,6 @@ sous réserve de l'application des régimes particuliers.
 L'administration des postes et communications électroniques est autorisée à émettre un coupon réponse utilisable dans les
 conditions fixées par un arrêté ministériel.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
-communications électroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -15362,11 +15479,15 @@ communications électroniques devient le code des postes et des communications �
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
 ###### Article D41
@@ -15385,12 +15506,6 @@ affranchissements réalisés par ceux-ci à la machine à affranchir. Le montant
 conditions d'application des dispositions sont fixés par arrêté du secrétaire d'Etat aux postes et des communications
 électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -15401,13 +15516,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°79-842 1979-09-28 art. 1 JORF 29 septembre 1979
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 
 ###### Article D42
@@ -15416,21 +15531,15 @@ Le ministre des postes et des communications électroniques est autorisé à pro
 comportant, indépendamment du paiement de la taxe normale d'affranchissement, la perception d'une surtaxe dont le produit est
 attribué à la Croix-Rouge française.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 
 ###### Article D44
@@ -15517,29 +15626,23 @@ Les correspondances-réponse déposées après l'expiration du délai de validit
 permanente donnent lieu à l'application de la double taxe d'affranchissement, conformément aux dispositions de l'article D.
 45.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°68-1073 1968-11-22 art. 2 JORF 30 novembre 1968
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 9
 
 	**Cite**:
 
-	  - Code des postes et des communications éléctroniques D28 et D45
+	  - Code des postes et des communications électroniques
 
 
 #### Chapitre II : Recommandation et chargement.
@@ -15973,25 +16076,19 @@ postaux en France et dans les départements d'outre-mer. Dans la France continen
 colis postaux est limité aux échanges avec la Corse et les départements et territoires d'outre-mer ainsi qu'aux relations
 internationales.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D81-1
@@ -16000,21 +16097,19 @@ La liste des pays étrangers, avec lesquels le trafic des colis postaux bénéfi
 convention conclue entre l'Etat et la Société nationale des chemins de fer français, est fixée par arrêté du ministre des
 postes et des communications électroniques après avis du ministre des affaires étrangères.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°68-904 1968-10-14 art. 2 JORF 22 octobre 1968
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D82
@@ -16029,26 +16124,19 @@ n'y est pas dérogé par des dispositions particulières édictées par le minis
 revenant au budget annexe des postes et communications électroniques et qui restent assujetties aux règles prévues par les
 arrangements précités.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
-	  - Décret n°74-506 1974-05-17 art. 2 JORF 21 mai 1974
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 	**Cité par**:
 
@@ -16090,21 +16178,19 @@ spéciales.
 Les bureaux de poste participent au service des petits colis de la Société nationale des chemins de fer français dans les
 conditions fixées par l'administration des postes et communications électroniques en accord avec ladite société.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°68-1073 1968-11-22 art. 3 JORF 30 novembre 1968
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D85
@@ -16124,12 +16210,6 @@ d) Les quotes-parts territoriales attribuées aux administrations ou services de
 
 e) Les taxes accessoires prévues par les arrangements précités.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -16138,19 +16218,19 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. D82 (M)
+	  - Code des postes et des communications électroniques - art. D82
 
 
 ###### Article D86
@@ -16161,29 +16241,23 @@ ou aux transporteurs français sont fixés par décision du ministre des postes 
 le cas échéant, des dispositions des cahiers des charges, des textes sur la coordination des transports ou des conventions
 spéciales visées à l'article D. 83.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. D83 (V)
+	  - Code des postes et des communications électroniques - art. D83
 
 
 ###### Article D87
@@ -16194,30 +16268,23 @@ départements d'outre-mer lorsque aucune disposition particulière n'a été éd
 communications électroniques. Comme celles prévues à l'article D. 82, ces dispositions particulières ne peuvent viser les
 quotes-parts de toute nature ainsi que les taxes principales et accessoires.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°62-1343 1962-11-07 art. 5 JORF 16 novembre 1962
-	  - Décret n°74-506 1974-05-17 art. 2 JORF 21 mai 1974
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. D82 (M)
+	  - Code des postes et des communications électroniques - art. D82
 
 
 ###### Article D88
@@ -16290,12 +16357,6 @@ des modalités et des délais fixés par le ministre des PTT.
 Des conventions peuvent, d'autre part, être conclues par l'administration pour la desserte des immeubles qui, par nature,
 situation ou affectation, justifient des conditions particulières d'exploitation.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -16306,14 +16367,9 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°75-761 1975-08-07 art. 1 JORF 15 août 1975
-	  - Décret n°81-936 1981-10-09 art. 1 JORF 16 octobre 1981
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 
 ###### Article D91
@@ -16321,12 +16377,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 L'administration des postes et communications électroniques est autorisée à faire distribuer par porteur spécial dans tous
 les départements, y compris les départements d'outre-mer, tout objet de correspondance d'origine postale lorsque l'expéditeur
 en a fait la demande sur la souscription et acquitté la taxe correspondante.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -16338,13 +16388,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°79-842 1979-09-28 art. 3 JORF 29 septembre 1979
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
 ###### Article D92
@@ -16357,21 +16407,19 @@ effectuées qu'aux guichets des bureaux de poste.
 Indépendamment des taxes perçues au profit de l'Etat, chacune de ces opérations donne lieu, au profit du distributeur qui en
 est chargé en cours de tournée, à la perception d'un droit de commission.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
 #### Chapitre II : Distribution au guichet.
@@ -16382,12 +16430,6 @@ Les particuliers ayant leur domicile ou possédant un établissement commercial 
 bureau de poste peuvent être autorisés à retirer leurs correspondances au bureau même, dans les conditions déterminées par
 arrêté du ministre des postes et des communications électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -16396,11 +16438,15 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 11
 
 
 ### TITRE VII : Poste maritime.
@@ -16414,12 +16460,6 @@ d'escale, un mois au moins à l'avance, le jour présumé du départ du navire.
 Il devra également indiquer quels sont les ports que ce navire touchera ultérieurement au cours de son voyage, en précisant
 pour chaque port les dates d'arrivée et de départ probables.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -16430,9 +16470,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D94-2
@@ -16529,12 +16573,6 @@ la loi sur la marine marchande, s'effectue sur le quai maritime à proximité de
 bureau de poste et le point choisi pour les échanges sont à la charge de l'administration des postes et communications
 électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -16543,11 +16581,15 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D95-2
@@ -16556,12 +16598,6 @@ Les navires libres peuvent être tenus d'assurer le service des colis postaux.
 
 Les conditions de rémunération de ce transport sont fixées par le ministre des postes et des communications électroniques,
 dans le cadre des dispositions de l'arrangement de l'Union postale universelle concernant les colis postaux.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -16573,9 +16609,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ###### Article D95-3
@@ -16583,12 +16623,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 La rétribution allouée par l'administration des postes et communications électroniques aux armateurs de bâtiments libres
 naviguant entre la France et les départements ou territoires d'outre-mer est fixée par décret pris par le ministre des postes
 et des communications électroniques, contresigné par le ministre des finances.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -16600,9 +16634,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2013-417 du 21 mai 2013 - art. 10
 
 
 ## LIVRE II : Les communications électroniques
@@ -23568,12 +23606,6 @@ délai de fourniture type et au temps de réparation type.
 Il est créé auprès du ministre chargé des communications électroniques un conseil consultatif appelé Conseil supérieur de la
 télématique.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23582,7 +23614,11 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Modifié par**:
 
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article D406-1-1
@@ -23623,12 +23659,6 @@ suppléants sont nommés pour trois ans, par arrêté conjoint des ministres cha
 Lorsqu'un membre titulaire ou suppléant cesse ses fonctions ou perd la qualité en raison de laquelle il a été nommé, un
 nouveau membre est nommé pour la durée restant à courir jusqu'au renouvellement du conseil.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23637,7 +23667,11 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Modifié par**:
 
-	  - Décret n°2002-219 du 20 février 2002 - art. 1 () JORF 21 février 2002
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article D406-1-2
@@ -23655,12 +23689,6 @@ mêmes contrats. Les avis rendus par le Conseil supérieur de la télématique �
 Le Conseil supérieur de la télématique peut être consulté par le ministre chargé des communications électroniques sur toutes
 questions ayant trait aux conditions générales de développement de la télématique.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
-communications électroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23669,7 +23697,11 @@ communications électroniques devient le code des postes et des communications �
 
 	**Modifié par**:
 
-	  - Décret n°2002-219 du 20 février 2002 - art. 2 () JORF 21 février 2002
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article D406-1-3
@@ -23724,21 +23756,19 @@ Le Conseil supérieur de la télématique établit son règlement intérieur.
 Le Conseil supérieur de la télématique établit un rapport annuel remis aux ministres chargés de la justice, des
 communications électroniques et de la communication.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article D406-2
@@ -23780,21 +23810,19 @@ Chaque membre du comité, à l'exception du président, a un suppléant désign�
 Lorsqu'un membre titulaire ou suppléant cesse ses fonctions ou perd la qualité en raison de laquelle il a été nommé, un
 nouveau membre est nommé pour la durée restant à courir jusqu'au renouvellement du comité.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-274 du 25 février 1993 - art. 1 () JORF 3 mars 1993
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 	**Cite**:
 
@@ -23882,12 +23910,6 @@ Les présidents du conseil et du comité peuvent faire appel à des experts.
 Les moyens de fonctionnement du Conseil supérieur de la télématique, du comité de la télématique anonyme et de leur
 secrétariat sont assurés par le ministère chargé des communications électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et des
-communications électroniques devient le code des postes et des communications électroniques. Dans ce code, les mots
-"télécommunication" et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23896,7 +23918,11 @@ communications électroniques devient le code des postes et des communications �
 
 	**Modifié par**:
 
-	  - Décret n°2002-219 du 20 février 2002 - art. 4 () JORF 21 février 2002
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article D406-4
@@ -23922,12 +23948,6 @@ service ou de leurs mandataires dûment désignés.
 Les conditions d'émission de la facture et le paiement des sommes dues sont celles prévues pour les abonnements
 téléphoniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -23936,7 +23956,11 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Modifié par**:
 
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ### TITRE II : Etablissement des lignes
@@ -24481,15 +24505,11 @@ règlements internationaux en vigueur.
 
 ### TITRE Ier : Chèques postaux.
 
+#### (en vigueur jusqu'au 31 décembre 2005).
+
 ###### Article D488
 
 La gestion du service des chèques postaux est confiée à l'administration des postes et communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -24501,330 +24521,14 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D492
-
-L'administration des postes et communications électroniques est autorisée à publier une liste des titulaires de comptes
-courants postaux. Cette liste est livrée au public aux conditions fixées par arrêté du ministre des postes et des
-communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D500
-
-Sont portés au débit des comptes :
-
-1° Le montant des chèques postaux tirés sur ces comptes par les titulaires ou leurs représentants autorisés ;
-
-2° Le montant des ordres de débit régulièrement établis ;
-
-3° Le montant des taxes relatives à l'exécution des opérations ou au fonctionnement des comptes ;
-
-4° Le montant des opérations régulièrement effectuées au moyen des cartes de paiement délivrées par l'administration des
-postes et communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-	  - Décret n°84-288 1984-04-17 art. 2 JORF 19 avril 1984
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
+	**Abrogé par**:
 
-###### Article D501
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
-L'administration des postes et communications électroniques fournit aux titulaires de comptes courants postaux des formules
-de chèques comportant, notamment, imprimés par les soins du centre de chèques postaux, le nom et le numéro sous lesquels le
-compte est ouvert. Ces formules permettent aux titulaires de procéder à l'émission de chèques payables :
-
-Soit en numéraire, à eux-mêmes (chèque de retrait), à une tierce personne dénommée (chèque d'assignation) ou au porteur ;
-
-Soit par inscription à un compte courant postal. Le titre, qui peut être barré ou non barré, doit comporter le numéro du
-compte courant postal du bénéficiaire. Il est dénommé "chèque de virement" ;
-
-Soit par inscription à un compte bancaire. Dans ce cas, le chèque reçoit un barrement spécial dans les conditions prévues à
-l'article L. 105.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L105 (Ab)
-
-
-###### Article D501-1
-
-Les titulaires de comptes courants postaux peuvent, sous réserve de son agrément, obtenir de l'administration des postes et
-communications électroniques la délivrance de cartes de paiement.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°84-288 1984-04-17 art. 3 JORF 19 avril 1984
-
-
-###### Article D503
-
-L'administration des postes et communications électroniques peut autoriser, lorsqu'elle le juge opportun, comme il est prévu
-à l'article L. 100, alinéa 2, les tireurs de chèques postaux à ne faire figurer sur les titres que la somme en lettres ou la
-somme en chiffres lorsque l'inscription de cette somme a lieu par un procédé mécanique offrant des garanties de sécurité
-jugées suffisantes.
-
-Les chèques multiples, en cas de différence entre la somme en lettres et la somme en chiffres, sont acceptés pour la somme en
-chiffres lorsque celle-ci est conforme au total dûment vérifié du bordereau correspondant.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques L100 al. 2
-
-
-###### Article D505
-
-Lorsque les mentions figurant sur le chèque postal sont incomplètes ou illisibles ou encore lorsque le chèque contient des
-ratures, surcharges, grattages ou lavages, l'administration des postes et communications électroniques est en droit de
-retarder ou de ne pas exécuter l'opération.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-
-###### Article D508
-
-Sur demande écrite du titulaire d'un compte courant postal, sont exécutés, par débit de ce compte :
-
-- les ordres de virement, donnés une fois pour toutes, à inscrire au crédit d'un ou plusieurs autres comptes désignés ;
-
-- les ordres de prélèvement émis par les organismes autorisés à cet effet par l'administration des postes et communications
-électroniques ;
-
-- les ordres de paiement de chèques bancaires et effets de commerce domiciliés dans le centre de chèques postaux teneur du
-compte.
-
-Ces opérations sont effectuées selon les modalités prévues par les règlements en vigueur.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D512
-
-Le délai de validité du chèque postal est fixé à un an. Ce délai est décompté de quantième en quantième ; il court de la date
-d'émission jusqu'à la date à laquelle le chèque parvient au centre de chèques teneur du compte à débiter, ou est présenté au
-paiement, au guichet d'un bureau de poste. Lorsque le chèque postal est émis dans un pays où est en usage un calendrier autre
-que le calendrier grégorien, le jour de l'émission est ramené au jour correspondant au calendrier grégorien.
-
-Au regard de l'administration des postes et communications électroniques, le chèque postal périmé est nul et de nul effet ;
-il est renvoyé ou rendu au tireur ou à la personne qui l'a transmis ou présenté au paiement.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°99-801 du 9 septembre 1999 - art. 1 () JORF 16 septembre 1999
-
-
-###### Article D518
-
-Lorsque le compte en instance de clôture a été apuré, le montant net de l'avoir restant en compte est remboursé à l'ayant
-droit par chèque postal. L'administration des postes et communications électroniques peut exiger que les formules de chèques
-restées sans emploi entre les mains de l'intéressé ainsi que les cartes de paiement délivrées au titre du compte lui soient
-restituées.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-	  - Décret n°84-288 1984-04-17 art. 4 JORF 19 avril 1984
-
-
-###### Article D519
-
-Lorsque le solde d'un compte clôturé est égal ou inférieur à la taxe éventuellement applicable au chèque postal de
-remboursement, ce solde est acquis au budget annexe des postes et communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
-
-
-###### Article D520
-
-Trois mois avant l'échéance du délai légal de prescription fixé par l'article L. 109, alinéa 1er, l'administration des postes
-et communications électroniques avise, par lettre recommandée, les titulaires de comptes ou leurs ayants droit, de la
-déchéance dont ils sont menacés. Cet avis est adressé au dernier domicile connu, d'après les pièces qui se trouvent en la
-possession du centre de chèques postaux.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques L109 al. 1
-
-
-#### (en vigueur jusqu'au 31 décembre 2005).
 
 ###### Article D489
 
@@ -24928,6 +24632,27 @@ générales ou limitées à une ou certaines opérations. Les spécimens de sign
 	**Créé par**:
 
 	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D492
+
+L'administration des postes et communications électroniques est autorisée à publier une liste des titulaires de comptes
+courants postaux. Cette liste est livrée au public aux conditions fixées par arrêté du ministre des postes et des
+communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Abrogé par**:
 
@@ -25095,6 +24820,87 @@ articles 85, 86, 87 et 89 du décret n° 62-1587 du 29 décembre 1962.
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D500
+
+Sont portés au débit des comptes :
+
+1° Le montant des chèques postaux tirés sur ces comptes par les titulaires ou leurs représentants autorisés ;
+
+2° Le montant des ordres de débit régulièrement établis ;
+
+3° Le montant des taxes relatives à l'exécution des opérations ou au fonctionnement des comptes ;
+
+4° Le montant des opérations régulièrement effectuées au moyen des cartes de paiement délivrées par l'administration des
+postes et communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D501
+
+L'administration des postes et communications électroniques fournit aux titulaires de comptes courants postaux des formules
+de chèques comportant, notamment, imprimés par les soins du centre de chèques postaux, le nom et le numéro sous lesquels le
+compte est ouvert. Ces formules permettent aux titulaires de procéder à l'émission de chèques payables :
+
+Soit en numéraire, à eux-mêmes (chèque de retrait), à une tierce personne dénommée (chèque d'assignation) ou au porteur ;
+
+Soit par inscription à un compte courant postal. Le titre, qui peut être barré ou non barré, doit comporter le numéro du
+compte courant postal du bénéficiaire. Il est dénommé "chèque de virement" ;
+
+Soit par inscription à un compte bancaire. Dans ce cas, le chèque reçoit un barrement spécial dans les conditions prévues à
+l'article L. 105.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L105 (Ab)
+
+
+###### Article D501-1
+
+Les titulaires de comptes courants postaux peuvent, sous réserve de son agrément, obtenir de l'administration des postes et
+communications électroniques la délivrance de cartes de paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
 ###### Article D502
 
 Le titulaire de compte courant postal peut, au moyen d'un seul chèque, assigner des paiements ou des virements au profit d'un
@@ -25114,6 +24920,35 @@ fiche de virement par bénéficiaire et un bordereau récapitulatif.
 	**Abrogé par**:
 
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D503
+
+L'administration des postes et communications électroniques peut autoriser, lorsqu'elle le juge opportun, comme il est prévu
+à l'article L. 100, alinéa 2, les tireurs de chèques postaux à ne faire figurer sur les titres que la somme en lettres ou la
+somme en chiffres lorsque l'inscription de cette somme a lieu par un procédé mécanique offrant des garanties de sécurité
+jugées suffisantes.
+
+Les chèques multiples, en cas de différence entre la somme en lettres et la somme en chiffres, sont acceptés pour la somme en
+chiffres lorsque celle-ci est conforme au total dûment vérifié du bordereau correspondant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques L100 al. 2
 
 
 ###### Article D504
@@ -25141,6 +24976,27 @@ bénéficiaire.
 	**Modifié par**:
 
 	  - Décret n°65-192 1965-03-08 JORF 12 mars 1965 rectificatif JORF 20 mai 1965
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D505
+
+Lorsque les mentions figurant sur le chèque postal sont incomplètes ou illisibles ou encore lorsque le chèque contient des
+ratures, surcharges, grattages ou lavages, l'administration des postes et communications électroniques est en droit de
+retarder ou de ne pas exécuter l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Abrogé par**:
 
@@ -25220,6 +25076,60 @@ bénéficiaire, les chèques postaux peuvent être payés aux guichets spéciaux
 	**Modifié par**:
 
 	  - Décret n°96-199 du 13 mars 1996 - art. 1 () JORF 15 mars 1996 en vigueur le 31 mars 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D508
+
+Sur demande écrite du titulaire d'un compte courant postal, sont exécutés, par débit de ce compte :
+
+- les ordres de virement, donnés une fois pour toutes, à inscrire au crédit d'un ou plusieurs autres comptes désignés ;
+
+- les ordres de prélèvement émis par les organismes autorisés à cet effet par l'administration des postes et communications
+électroniques ;
+
+- les ordres de paiement de chèques bancaires et effets de commerce domiciliés dans le centre de chèques postaux teneur du
+compte.
+
+Ces opérations sont effectuées selon les modalités prévues par les règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D512
+
+Le délai de validité du chèque postal est fixé à un an. Ce délai est décompté de quantième en quantième ; il court de la date
+d'émission jusqu'à la date à laquelle le chèque parvient au centre de chèques teneur du compte à débiter, ou est présenté au
+paiement, au guichet d'un bureau de poste. Lorsque le chèque postal est émis dans un pays où est en usage un calendrier autre
+que le calendrier grégorien, le jour de l'émission est ramené au jour correspondant au calendrier grégorien.
+
+Au regard de l'administration des postes et communications électroniques, le chèque postal périmé est nul et de nul effet ;
+il est renvoyé ou rendu au tireur ou à la personne qui l'a transmis ou présenté au paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Abrogé par**:
 
@@ -25331,147 +25241,75 @@ versante.
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-### TITRE II : Mandats.
+###### Article D518
 
-###### Article D523
-
-Les conditions dans lesquelles les différentes catégories de bureaux de poste concourent à l'exécution du service des mandats
-postaux et télégraphiques sont fixées par arrêté du ministre des postes et des communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
+Lorsque le compte en instance de clôture a été apuré, le montant net de l'avoir restant en compte est remboursé à l'ayant
+droit par chèque postal. L'administration des postes et communications électroniques peut exiger que les formules de chèques
+restées sans emploi entre les mains de l'intéressé ainsi que les cartes de paiement délivrées au titre du compte lui soient
+restituées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L180
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D524
-
-Le montant au-delà duquel l'administration se réserve la possibilité de faire effectuer le paiement des mandats-cartes au
-guichet des bureaux de poste est fixé par arrêté du ministre des postes et des communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L181
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D535 (Ab)
-
-
-###### Article D528
-
-Les mandats sont nominatifs. Par exception, dans la limite du montant maximum fixé par arrêté du ministre des postes et des
-communications électroniques, les mandats-lettres peuvent être au porteur sans autre indication que celle de la somme à
-payer.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L187
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
 
 	**Modifié par**:
 
-	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-###### Article D529
+###### Article D519
 
-Les mandats sont payables à vue dans les conditions prévues par les règlements, pendant un délai qui peut varier avec leur
-origine, leur destination, la qualité de l'expéditeur ou du destinataire et qui est fixé par arrêté du ministre des postes et
-des communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
+Lorsque le solde d'un compte clôturé est égal ou inférieur à la taxe éventuellement applicable au chèque postal de
+remboursement, ce solde est acquis au budget annexe des postes et communications électroniques.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L188
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-###### Article D531
+###### Article D520
 
-Les maximums applicables au montant des mandats postaux ou télégraphiques sont fixés par arrêté du ministre des postes et des
-communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
+Trois mois avant l'échéance du délai légal de prescription fixé par l'article L. 109, alinéa 1er, l'administration des postes
+et communications électroniques avise, par lettre recommandée, les titulaires de comptes ou leurs ayants droit, de la
+déchéance dont ils sont menacés. Cet avis est adressé au dernier domicile connu, d'après les pièces qui se trouvent en la
+possession du centre de chèques postaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones R7
 
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques L109 al. 1
+
+
+### TITRE II : Mandats.
 
 ###### Article D535
 
@@ -25493,12 +25331,6 @@ Le nombre de présentations successives à domicile est au maximum de deux.
 L'administration est autorisée à différer le paiement à domicile d'un certain nombre de mandats lorsque leur montant total
 dépasse, pour une même tournée, un maximum fixé par arrêté du ministre des postes et des communications électroniques.
 
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -25509,84 +25341,72 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
 	**Modifié par**:
 
-	  - Décret n°81-256 1981-03-13 art. 3 JORF 20 mars 1981
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
 	  - Code des postes et des communications électronique - art. D524 (M)
 
 
-###### Article D544
-
-Dans les relations visées à l'article D. 540, les maxima applicables au montant des mandats postaux ou télégraphiques sont
-fixés par arrêté du ministre des postes et des communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°68-1073 1968-11-22 art. 6 JORF 30 novembre 1968
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. D540 (Ab)
-
-
-###### Article D545
-
-Dans les relations visées à l'article D. 540, le montant total des envois quotidiens qu'un même expéditeur est admis à
-adresser à un même bénéficiaire est en principe illimité.
-
-Toutefois, le nombre de ces envois peut être momentanément limité. La décision doit être prise sur proposition ou après avis
-du trésorier du territoire intéressé, soit par le ministre des postes et des communications électroniques au départ de la
-France métropolitaine et des départements d'outre-mer, soit par le chef du territoire au départ de celui-ci.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-	**Modifié par**:
-
-	  - Décret n°68-1073 1968-11-22 art. 6 JORF 30 novembre 1968
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. D540 (Ab)
-
-
 #### (en vigueur jusqu'au 31 décembre 2005).
+
+###### Article D523
+
+Les conditions dans lesquelles les différentes catégories de bureaux de poste concourent à l'exécution du service des mandats
+postaux et télégraphiques sont fixées par arrêté du ministre des postes et des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L180
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D524
+
+Le montant au-delà duquel l'administration se réserve la possibilité de faire effectuer le paiement des mandats-cartes au
+guichet des bureaux de poste est fixé par arrêté du ministre des postes et des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L181
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. D535 (Ab)
+
 
 ###### Article D525
 
@@ -25660,6 +25480,56 @@ fractionnement est fait intentionnellement en vue de bénéficier d'une réducti
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D528
+
+Les mandats sont nominatifs. Par exception, dans la limite du montant maximum fixé par arrêté du ministre des postes et des
+communications électroniques, les mandats-lettres peuvent être au porteur sans autre indication que celle de la somme à
+payer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L187
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D529
+
+Les mandats sont payables à vue dans les conditions prévues par les règlements, pendant un délai qui peut varier avec leur
+origine, leur destination, la qualité de l'expéditeur ou du destinataire et qui est fixé par arrêté du ministre des postes et
+des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L188
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
 ###### Article D530
 
 Toute somme destinée à être transformée en mandat donne lieu à la délivrance d'un reçu entre les mains de la partie versante.
@@ -25679,6 +25549,30 @@ Aucun reçu n'est toutefois établi lorsque le mandat résulte de la transformat
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D531
+
+Les maximums applicables au montant des mandats postaux ou télégraphiques sont fixés par arrêté du ministre des postes et des
+communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R7
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Abrogé par**:
 
@@ -25947,6 +25841,58 @@ administration.
 	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
+###### Article D544
+
+Dans les relations visées à l'article D. 540, les maxima applicables au montant des mandats postaux ou télégraphiques sont
+fixés par arrêté du ministre des postes et des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D540 (Ab)
+
+
+###### Article D545
+
+Dans les relations visées à l'article D. 540, le montant total des envois quotidiens qu'un même expéditeur est admis à
+adresser à un même bénéficiaire est en principe illimité.
+
+Toutefois, le nombre de ces envois peut être momentanément limité. La décision doit être prise sur proposition ou après avis
+du trésorier du territoire intéressé, soit par le ministre des postes et des communications électroniques au départ de la
+France métropolitaine et des départements d'outre-mer, soit par le chef du territoire au départ de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. D540 (Ab)
+
+
 ###### Article D546
 
 L'échange des mandats de poste entre, d'une part, la France métropolitaine et les départements d'outre-mer et, d'autre part,
@@ -26026,17 +25972,13 @@ réserve de l'application des régimes particuliers.
 
 ### TITRE III : Valeurs à recouvrer et envois contre remboursement.
 
+#### (en vigueur jusqu'au 31 décembre 2005).
+
 ###### Article D549
 
 Les établissements postaux des différentes catégories concourent à l'exécution du service des valeurs à recouvrer et des
 envois contre remboursement selon leurs attributions et leur importance dans les limites fixées par le ministre des postes et
 des communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -26048,21 +25990,19 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article D550
 
 Les conditions d'admission par le service postal des valeurs à recouvrer et des envois contre remboursement sont fixées par
 arrêté du ministre des postes et des communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -26074,9 +26014,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article D551
@@ -26085,12 +26029,6 @@ Les valeurs confiées à la poste pour recouvrement ainsi que les sommes à perc
 contre remboursement sont, en principe, recouvrables à domicile. Toutefois, l'administration des postes et communications
 électroniques peut en imposer le paiement aux guichets des bureaux de poste dans les conditions prévues par ses règlements,
 notamment lorsque les fonds à encaisser dépassent une somme déterminée.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -26102,9 +26040,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article D552
@@ -26112,12 +26054,6 @@ et "télécommunications" sont remplacés par les mots "communications électron
 Les fonds recouvrés, déduction faite des droits et taxes perçus par le bureau chargé du recouvrement, sont transmis à
 l'expéditeur des valeurs ou objets, soit par inscription au crédit de son compte courant postal, soit par mandat, soit par
 tout autre moyen admis par l'administration des postes et communications électroniques.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -26129,70 +26065,14 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°62-275 1962-03-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
+	**Abrogé par**:
 
-###### Article D555
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
 
-La répartition, entre les notaires et huissiers, des valeurs à recouvrer à soumettre au protêt, est faite par
-l'administration des postes et communications électroniques, de manière à répondre aux convenances du service postal.
-Toutefois, l'expéditeur peut désigner à ses risques et périls le notaire ou l'huissier à qui les valeurs doivent être
-confiées.
-
-Les valeurs à protester sont, dans tous les cas, remises à l'officier ministériel contre reçu.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones R18
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-###### Article D560
-
-Les agents de l'administration des postes et communications électroniques chargés du recouvrement des effets négociables ou
-non négociables, des factures et des chèques venant de l'étranger et payables en France sont autorisés à apposer et à
-oblitérer les timbres mobiles représentant les droits à percevoir en exécution des lois en vigueur, dans les conditions
-fixées aux articles 405 E et 405 F de l'annexe I au code général des impôts.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN1 405 E et 405 F
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
-
-
-#### (en vigueur jusqu'au 31 décembre 2005).
 
 ###### Article D553
 
@@ -26246,6 +26126,34 @@ communications électroniques.
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D555
+
+La répartition, entre les notaires et huissiers, des valeurs à recouvrer à soumettre au protêt, est faite par
+l'administration des postes et communications électroniques, de manière à répondre aux convenances du service postal.
+Toutefois, l'expéditeur peut désigner à ses risques et périls le notaire ou l'huissier à qui les valeurs doivent être
+confiées.
+
+Les valeurs à protester sont, dans tous les cas, remises à l'officier ministériel contre reçu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones R18
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Abrogé par**:
 
@@ -26359,6 +26267,32 @@ NOTA : L'article L. 121 est abrogé par l'article 16 IV de la loi n° 2005-516 d
 	**Créé par**:
 
 	  - Décret n°62-275 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962 et JORF 8 avril 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 14 (V) JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+
+###### Article D560
+
+Les agents de l'administration des postes et communications électroniques chargés du recouvrement des effets négociables ou
+non négociables, des factures et des chèques venant de l'étranger et payables en France sont autorisés à apposer et à
+oblitérer les timbres mobiles représentant les droits à percevoir en exécution des lois en vigueur, dans les conditions
+fixées aux articles 405 E et 405 F de l'annexe I au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN1 405 E et 405 F
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Abrogé par**:
 
