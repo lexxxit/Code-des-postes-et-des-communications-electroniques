@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1966-07-30
+Version Consolidée au 1966-12-28
 
 # Partie législative
 
@@ -462,6 +462,36 @@ résultant, pour l'administration, des articles L. 9 et L. 10.
 	**Anciens textes**:
 
 	  - Code des postes, télégraphes et téléphones L48
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+#### CHAPITRE II : Distribution au guichet.
+
+###### Article L15
+
+Les correspondances ordinaires, recommandées ou avec valeur déclarée, adressées "poste restante" à des mineurs non émancipés
+âgés de moins de dix-huit ans, ne peuvent leur être remises que sur présentation d'une autorisation écrite du père ou de la
+mère ou, à leur défaut, du tuteur. En l'absence d'autorisation, ces correspondances sont retournées aux expéditeurs ou
+versées au service des rebuts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L50
+	  - Loi n°1941-07-17 art. 2 et 3
+
+	**Abrogé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
+	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
 
 	**Codifié par**:
 
