@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1999-01-09
+Version Consolidée au 1999-01-15
 
 # Partie législative
 
@@ -7485,6 +7485,321 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Code des postes et des communications électroniques L34-3, R9-1, L34-4, R9-2
 
 
+##### SECTION 3 : Procédure et dispositions communes
+
+###### Article R9-5
+
+Les demandes d'autorisation pour l'établissement et l'exploitation des réseaux de communications électroniques ouverts au
+public, relevant de l'article L. 33-1, les demandes présentées pour la fourniture du service téléphonique au public, relevant
+de l'article L. 34-1, et les demandes relevant conjointement des articles L. 33-1 et L. 34-1 sont adressées à l'Autorité de
+régulation des télécommunications en cinq exemplaires. Les demandes sont libellées en langue française.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+
+
+###### Article R9-6
+
+Toute demande d'autorisation précise le type d'autorisation demandée et comporte les éléments suivants :
+
+1° Les informations relatives au demandeur :
+
+a) L'identité du demandeur (dénomination, siège social, immatriculation au registre du commerce et des sociétés ou
+équivalent, statuts) ;
+
+b) La composition de son actionnariat ;
+
+c) Les comptes sociaux annuels des deux derniers exercices ;
+
+d) La description des activités industrielles et commerciales existantes, notamment dans le domaine des communications
+électroniques ;
+
+e) La description des accords de partenariat industriel ou commercial conclus dans le domaine des communications
+électroniques ;
+
+f) Le cas échéant, les autorisations dont le demandeur est déjà titulaire et les sanctions qu'il a déjà subies, en
+application du code des postes et communications électroniques ;
+
+2° La description des caractéristiques techniques du projet faisant l'objet de la demande :
+
+a) Les mesures prévues pour garantir la permanence, la disponibilité et la qualité du service ;
+
+b) Les normes utilisées ;
+
+c) Les supports de transmission et de commutation et les modes d'accès au réseau ou au service envisagés ;
+
+d) Les interconnexions envisagées ;
+
+3° La description des caractéristiques commerciales du projet et son positionnement sur le marché ;
+
+4° Les informations justifiant la capacité technique à réaliser le projet et à respecter le cahier des charges ;
+
+5° Les informations justifiant la capacité financière à réaliser le projet et à respecter le cahier des charges, portant sur
+une période d'au moins cinq années suivant la délivrance de l'autorisation :
+
+a) Les investissements et retours sur investissements prévus ;
+
+b) Les comptes de résultat annuels prévisionnels du projet ;
+
+c) Le plan de financement du projet et les justificatifs des financements prévus ;
+
+d) Les bilans annuels prévisionnels du demandeur ;
+
+6° Lorsque l'autorisation relève de l'article L. 33-1 :
+
+a) La nature, les caractéristiques et la zone de couverture géographique du réseau ;
+
+b) Le calendrier de déploiement et de mise en service du réseau ;
+
+c) Les modalités de constitution du réseau ;
+
+d) Le mode de raccordement des abonnés ;
+
+e) Les types d'équipements utilisés ;
+
+f) Le cas échéant, l'occupation du domaine public envisagée ;
+
+7° Lorsque l'autorisation relève de l'article L. 34-1 :
+
+a) La nature, les caractéristiques et la zone de couverture géographique du service ;
+
+b) Le calendrier d'ouverture commerciale du service.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2005-605 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+
+
+###### Article R9-7
+
+Dès qu'il reçoit une demande d'autorisation, le président de l'Autorité de régulation des télécommunications en accuse
+réception.
+
+Dans un délai de dix jours ouvrables à compter de la réception de toute demande relevant de l'article L. 34-1, et dans un
+délai de vingt jours ouvrables pour les demandes relevant de l'article L. 33-1 ou conjointement des articles L. 33-1 et L.
+34-1, le président de l'Autorité informe le demandeur, par lettre recommandée avec demande d'avis de réception, soit que la
+demande est complète, soit que la demande est incomplète ou comporte des pièces dont la traduction est requise. Il invite
+alors le demandeur, le cas échéant, à fournir les pièces complémentaires et en accuse réception.
+
+Le président de l'Autorité de régulation des télécommunications informe le ministre chargé des communications électroniques
+des demandes déposées dès que celles-ci sont complètes.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R9-10 (Ab)
+
+
+###### Article R9-8
+
+L'Autorité de régulation des télécommunications instruit les demandes dans un délai de quatre semaines pour les demandes
+relevant de l'article L. 34-1. Ce délai est porté à trois mois pour les demandes relevant de l'article L. 33-1 ou
+conjointement des articles L. 33-1 et L. 34-1. Il court à compter de la réception de la demande complète par l'Autorité de
+régulation des télécommunications.
+
+Dans le cadre de l'instruction de la demande, et dans la mesure nécessaire pour établir que la demande d'autorisation
+satisfait aux conditions prévues par le code des postes et communications électroniques, le président de l'Autorité de
+régulation des télécommunications peut inviter le demandeur à apporter des précisions sur les éléments que comporte la
+demande.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R9-11 (Ab)
+	  - Code des postes et des communications électronique - art. R9-9 (Ab)
+
+
+###### Article R9-9
+
+Dans le délai prévu à l'article précédent, l'Autorité de régulation des télécommunications transmet au ministre chargé des
+communications électroniques un dossier comportant les éléments suivants :
+
+1° La demande d'autorisation complète ;
+
+2° Un rapport d'instruction de cette demande, assorti d'une proposition de décision ;
+
+3° Le cas échéant, un projet d'arrêté d'autorisation et le cahier des charges annexé ;
+
+4° Les observations et les avis qu'elle a reçus dans le cadre de l'instruction de la demande.
+
+Dans un délai de deux semaines à compter de la réception de ce dossier, le ministre chargé des communications électroniques
+délivre l'autorisation relevant de l'article L. 34-1 ou notifie son refus au demandeur. Ce délai est porté à un mois pour les
+autorisations relevant de l'article L. 33-1 ou conjointement des articles L. 33-1 et L. 34-1. Le ministre informe
+immédiatement l'Autorité de régulation des télécommunications de sa décision.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - Code des postes et des communications électronique - art. R9-8 (M)
+
+
+###### Article R9-10
+
+Pour les autorisations relevant de l'article L. 34-1, le silence gardé pendant plus de six semaines par le ministre chargé
+des communications électroniques à compter de la réception de la demande par l'Autorité de régulation des télécommunications
+vaut décision de rejet. Ce délai est porté à quatre mois pour les autorisations relevant de l'article L. 33-1 ou
+conjointement des articles L. 33-1 et L. 34-1, et à huit mois pour les autorisations relevant du V de l'article L. 33-1.
+
+Lorsque, en application des dispositions de l'article R. 9-7, le président de l'Autorité a invité le demandeur à fournir des
+pièces complémentaires, le délai fixé à l'alinéa précédent part de la réception des pièces complétant le dossier.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - Code des postes et des communications électronique - art. R9-7 (M)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R9-11 (Ab)
+
+
+###### Article R9-11
+
+Les demandes d'autorisation relevant du V de l'article L. 33-1 ne sont pas soumises aux dispositions des articles R. 9-5 à R.
+9-9.
+
+Les demandes d'autorisation relevant du 1° de l'article L. 34-3 sont soumises aux mêmes dispositions que les demandes
+relevant de l'article L. 33-1.
+
+Les demandes d'autorisation relevant du troisième alinéa de l'article L. 34-4 sont soumises aux mêmes dispositions que les
+demandes relevant de l'article L. 34-1. Toutefois, pour ces autorisations, l'Autorité de régulation des télécommunications
+consulte la commune ou le groupement de communes ayant établi le réseau ou autorisé son établissement. Les délais prévus aux
+articles R. 9-8, R. 9-9 et R. 9-10 sont alors portés respectivement à trois mois, un mois et quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - Code des postes et des communications électronique - art. L34-3 (M)
+	  - Code des postes et des communications électronique - art. L34-4 (M)
+	  - Code des postes et des communications électronique - art. R9-10 (M)
+	  - Code des postes et des communications électronique - art. R9-8 (M)
+	  - Code des postes et des communications électroniques L33-1, R9-5 à R9-9, L34-3, L34-4, L34-1, R9-8, R9-10
+
+
 ##### SECTION 4 : De l'interconnexion.
 
 ###### Article R11-1
@@ -8434,7 +8749,7 @@ l'exclusion de toute commutation contrôlée par cet utilisateur.
 
 #### CHAPITRE II : Régime juridique
 
-##### SECTION 3 : Dispositions communes
+##### SECTION 3 : Procédure et dispositions communes
 
 ###### Article R10-1
 
@@ -8460,7 +8775,7 @@ peuvent être utilisées ou communiquées aux seules fins d'édition des listes 
 
 	**Modifié par**:
 
-	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
 
 	**Codifié par**:
 
@@ -8501,7 +8816,7 @@ télécopie, de l'amende prévue pour les contraventions de la 3e classe.
 
 	**Modifié par**:
 
-	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
 
 	**Codifié par**:
 
@@ -8528,9 +8843,13 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L78
+
 	**Modifié par**:
 
-	  - Décret n°97-245 du 12 mars 1997 - art. 1 () JORF 19 mars 1997
+	  - Décret n°99-25 du 13 janvier 1999 - art. 1 () JORF 15 janvier 1999
 
 	**Codifié par**:
 
@@ -8539,10 +8858,6 @@ l'amende prévue pour les contraventions de la 3e classe [*troisième classe, sa
 	**Nouveaux textes**:
 
 	  - Code des postes et des communications électronique - art. R10-11 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L78
 
 
 ##### SECTION 5 : Contrôles.
