@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1987-02-06
 
 # Partie législative
 
@@ -6480,6 +6480,31 @@ résultent du paiement des soldes de comptes internationaux.
 	**Créé par**:
 
 	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
+
+
+###### Article R*54-2
+
+L'agent comptable des postes et télécommunications est autorisé à reverser au concessionnaire chargé du réseau public de
+transmission de données par paquets (société Transpac) les redevances perçues pour son compte par l'administration auprès des
+usagers en exécution des conventions conclues entre ce concessionnaire et l'Etat.
+
+**Nota:**
+
+[*Dispositions prises en Conseil d'Etat en exécution de l'article 45 de l'ordonnance n° 59-2 du 2 janvier 1959.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-69 1987-02-02 art. 1 JORF 6 février 1987
+
+	**Abrogé par**:
+
+	  - Décret n°97-290 du 24 mars 1997 - art. 1 (V) JORF 29 mars 1997
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ###### Article R*55
