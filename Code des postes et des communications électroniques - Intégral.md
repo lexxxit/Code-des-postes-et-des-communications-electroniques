@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1991-07-13
+Version Consolidée au 1991-10-01
 
 # Partie législative
 
@@ -2664,9 +2664,9 @@ l'intéressé ordonner mainlevée de la saisie.
 
 ###### Article L41
 
-Tout agent de l'exploitant public, d'un exploitant de réseau autorisé en vertu de l'article L. 33-1 ou d'un fournisseur de
-services de télécommunications qui viole le secret de la correspondance confiée au service auquel il participe est puni des
-peines mentionnées à l'article 187 du code pénal.
+Tout agent de l'exploitant public, tout agent d'un exploitant de réseau de télécommunications autorisé ou d'un fournisseur de
+services de télécommunications qui viole le secret des correspondances émises par la voie des télécommunications est puni des
+peines mentionnées à l'article 186-1 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -2686,11 +2686,15 @@ peines mentionnées à l'article 187 du code pénal.
 
 	**Modifié par**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
+	  - Loi n°91-646 du 10 juillet 1991 - art. 25 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 202 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
-	  - Code pénal 187
+	  - Code pénal 187, 186-1
 	  - Code des postes et télécommunications L33-1
 
 	**Codifié par**:
@@ -2701,45 +2705,6 @@ peines mentionnées à l'article 187 du code pénal.
 
 	  - Code des postes, télégraphes et téléphones L77
 	  - Loi n°1850-11-29 art. 5
-
-
-###### Article L42
-
-Toute personne qui, sans l'autorisation de l'expéditeur ou du destinataire, divulgue, publie ou utilise le contenu des
-correspondances transmises par la voie radioélectrique ou révèle leur existence [*infraction*] est punie [*sanction*] des
-peines portées à l'article 378 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°90-1170 du 29 décembre 1990 - art. 1 () JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°91-646 du 10 juillet 1991 - art. 25 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
-
-	**Cité par**:
-
-	  - Arrêté du 30 janvier 2009 (V)
-	  - Décret n°2009-948 du 29 juillet 2009 (V)
-	  - Code des postes et des communications électroni... - art. D99-4 (Ab)
-	  - Code des postes et des communications électroni... - art. L36-6 (V)
-	  - Code des postes et des communications électroni... - art. L41-1 (V)
-	  - Code des postes et des communications électroni... - art. R20-44-9-12 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L80
-	  - Loi n°1938-06-15 art. 1
-
-	**Cite**:
-
-	  - Code pénal 378
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
 
 
 ###### Article L43
