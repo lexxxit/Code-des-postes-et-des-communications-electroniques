@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2004-11-18
+Version Consolidée au 2004-11-19
 
 # Partie législative
 
@@ -9844,25 +9844,27 @@ rectification, leur mise à jour ou leur destruction.
 
 ###### Article R10-8
 
-L'annuaire universel sous forme imprimée que France Télécom édite en application de l'article L. 35-4 est publié chaque année
-à une date portée à la connaissance du public.
+L'annuaire universel sous forme imprimée édité en application de l'article L. 35-4 est publié chaque année à une date portée
+à la connaissance du public.
 
 L'annuaire universel sous forme électronique prévu par les mêmes dispositions permet l'accès immédiat du public, à un tarif
 abordable, aux informations qu'il contient et qui sont régulièrement mises à jour.
 
-France Télécom met gratuitement à la disposition de tout abonné au service téléphonique au public un exemplaire des volumes
-départementaux de l'annuaire universel du département dans lequel l'abonnement a été souscrit, y compris lorsque l'intéressé
-a fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
-dispose de plusieurs abonnements correspondant à une même adresse, il est mis à disposition un seul exemplaire gratuit.
-France Télécom propose à la vente l'annuaire universel à un tarif abordable.
+L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
+l'article L. 35-1 met gratuitement à la disposition de tout abonné au service téléphonique au public un exemplaire des
+volumes départementaux de l'annuaire universel du département dans lequel l'abonnement a été souscrit ou, lorsqu'il s'agit
+d'un abonnement à la téléphonie mobile, du département où se situe l'adresse de facturation, y compris lorsque l'intéressé a
+fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
+dispose de plusieurs abonnements correspondant à une même adresse, il est mis à disposition un seul exemplaire gratuit. Cet
+opérateur propose à la vente l'annuaire universel à un tarif abordable.
 
-Le service universel de renseignements assuré par France Télécom est accessible à un tarif abordable.
+Le service universel de renseignements assuré par cet opérateur est accessible à un tarif abordable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 14 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -9870,6 +9872,8 @@ Le service universel de renseignements assuré par France Télécom est accessib
 
 	**Cite**:
 
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
 	  - Code des postes et des communications électronique - art. L35-4 (M)
 	  - Code des postes et des communications électronique - art. R10 (M)
 
@@ -11264,47 +11268,30 @@ communications électroniques et à l'Agence nationale des fréquences.
 	  - Code des postes et des communications électronique - art. R20-30-1 (M)
 
 
-#### CHAPITRE III : Service public des communications électroniques
+#### Chapitre III : Les obligations de service public.
 
-##### SECTION 1 : Dispositions particulières.
+##### Section 1 : Le service universel et les modalités de désignation des opérateurs chargés du service universel.
 
 ###### Article R20-30
 
-Un régime forfaitaire est applicable aux abonnements téléphoniques souscrits :
+Le service universel est assuré sur l'ensemble du territoire de la métropole, des départements d'outre-mer et des
+collectivités de Mayotte et de Saint-Pierre-et-Miquelon dans les conditions fixées par la présente section.
 
-Par les questures de l'Assemblée nationale et du Sénat pour le compte des services et des membres de ces assemblées ;
+Tout opérateur chargé de fournir une des composantes du service universel, en application de l'article L. 35-2, ou un service
+obligatoire, en application de l'article L. 35-5, assure en permanence la disponibilité de ce service pour l'ensemble des
+utilisateurs, dans le respect des principes d'égalité, de continuité et d'adaptabilité.
 
-Par les ministres et les secrétaires d'Etat.
-
-Ce régime donne aux bénéficiaires, contre paiement de la redevance d'abonnement applicable aux abonnements principaux
-ordinaires, le droit à l'exonération des taxes afférentes à l'utilisation du poste jusqu'à concurrence de :
-
-Pour les postes installés dans la circonscription de taxe téléphonique de Paris, 250 taxes de base par mois ;
-
-Pour les postes installés dans la première zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
-275 taxes de base par mois ;
-
-Pour les postes installés dans la deuxième zone de taxation périphérique de la circonscription de taxe téléphonique de Paris,
-350 taxes de base par mois ;
-
-Pour les autres postes, selon la distance à vol d'oiseau entre Paris et le chef-lieu du département où ils sont installés :
-
-De 25 à 50 kilomètres : 375 taxes de base par mois ;
-
-De 50 à 100 kilomètres : 450 taxes de base par mois ;
-
-De 100 à 200 kilomètres : 550 taxes de base par mois ;
-
-Plus de 200 kilomètres : 625 taxes de base par mois.
-
-Ledit régime est applicable, au choix de chaque membre des assemblées, de chaque ministre ou secrétaire d'Etat, au poste
-téléphonique installé à sa résidence de Paris, d'un département de la métropole ou d'un département d'outre-mer.
+Un opérateur peut confier, après accord du ministre chargé des communications électroniques, la fourniture ou la
+commercialisation d'une partie du service universel ou des services obligatoires à une ou plusieurs autres sociétés. Il
+conclut avec elles des conventions qui garantissent le maintien des obligations définies par le présent code et par son
+cahier des charges. L'opérateur reste seul responsable de l'exécution de ces obligations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
 
 	**Cité par**:
 
@@ -11315,10 +11302,6 @@ téléphonique installé à sa résidence de Paris, d'un département de la mét
 
 	  - Décret n°62-274 1962-03-12
 
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. R20-24 (M)
-
 	**Anciens textes**:
 
 	  - Code des postes et télécommunications R12
@@ -11326,15 +11309,49 @@ téléphonique installé à sa résidence de Paris, d'un département de la mét
 
 ###### Article R20-30-1
 
-Lorsque l'exploitant public estime que la mise en permanence de jour et de nuit d'un poste téléphonique d'abonnement à la
-disposition du public, dans des conditions préalablement fixées, présente un caractère d'intérêt général, il peut accorder
-aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la redevance annuelle d'abonnement.
+L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionné au 1° de
+l'article L. 35-1 fournit à toute personne relevant du champ d'application défini à l'article R. 20-30 qui en fait la
+demande :
+
+- un raccordement à un réseau téléphonique public ;
+
+- une offre d'abonnement permettant d'émettre et de recevoir des communications téléphoniques, des communications par
+télécopie et des communications de données à un débit suffisant pour permettre un accès à internet ; le débit suffisant
+correspond à celui normalement offert par une ligne téléphonique ;
+
+- une offre de communications téléphoniques en provenance et à destination de la métropole, des départements d'outre-mer, des
+collectivités de Mayotte et de Saint-Pierre-et-Miquelon, de la Nouvelle-Calédonie, de la Polynésie française, de Wallis et
+Futuna et des Terres australes et antarctiques françaises, ainsi que des pays étrangers.
+
+L'opérateur chargé, en application de l'article L. 35-2, de fournir cette composante du service universel effectue les
+raccordements nécessaires dans les meilleurs délais, conformément aux objectifs de qualité de service définis en application
+de l'article R. 20-30-7. Lorsque cette obligation n'est pas respectée, l'abonné bénéficie d'une compensation financière ou
+commerciale.
+
+Cet opérateur fournit gratuitement aux abonnés, sur leur demande, une facturation détaillée ainsi que les services énumérés
+ci-après d'interdiction sélective des appels sortants proposés dans le cadre de son offre de service téléphonique :
+
+- interdiction des appels internationaux ;
+
+- interdiction des appels interurbains ;
+
+- interdiction des appels nationaux vers les mobiles ;
+
+- interdiction des appels vers les numéros du plan national de numérotation mettant en oeuvre des mécanismes de reversement
+au destinataire final de la communication ou partiellement payés par celui-ci.
+
+Cet opérateur fournit l'offre de tarifs spécifiques à certaines catégories de personnes rencontrant des difficultés
+particulières dans l'accès au service téléphonique en raison de leur revenu prévue à l'article R. 20-34.
+
+Cet opérateur fournit les services obligatoires définis à l'article L. 35-5 dans les conditions prévues par son cahier des
+charges.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -11344,41 +11361,398 @@ aux titulaires de ce poste une réduction de 50 p. 100 sur le montant de la rede
 
 	  - Code des postes et des communications électroni... - art. R20-34 (V)
 
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. R20-26 (M)
-	  - Code des postes et des communications électronique - art. R20-27 (M)
-	  - Code des postes et des communications électronique - art. R20-28 (M)
-
 	**Anciens textes**:
 
 	  - Code des postes et télécommunications R14
 
 
-##### SECTION 2 : Financement du service universel des communications électroniques.
+###### Article R20-30-2
 
-###### Article R20-31
-
-Les coûts imputables aux obligations de service universel et faisant l'objet d'une compensation sont composés :
-
-a) Du coût net des obligations tarifaires correspondant aux obligations de péréquation géographique mentionnées au 1° du II
-de l'article L. 35-3, évalué selon la méthode définie à l'article R. 20-33 ;
-
-b) Des coûts nets de l'offre et des obligations mentionnées au deuxième alinéa du 2° du II de l'article L. 35-3. Ces coûts
-sont évalués selon les méthodes définies aux articles R. 20-34, R. 20-35 et R. 20-36.
-
-L'évaluation de ces coûts comprend la rémunération du capital utilisé au titre du service universel, calculée selon la
-méthode définie à l'article R. 20-37. Elle prend en compte, dans les conditions fixées à l'article R. 20-37-1, l'avantage sur
-le marché que les opérateurs retirent, le cas échéant, des obligations de service universel.
-
-L'obligation mentionnée à l'article L. 35-1, alinéa 1, d'acheminer gratuitement les appels d'urgence ne fait pas l'objet
-d'une compensation, l'ensemble des fournisseurs de services téléphoniques au public y étant soumis.
+L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
+l'article L. 35-1 édite un annuaire universel des abonnés au service téléphonique au public, fixe et mobile, sous forme
+imprimée et électronique, et fournit un service universel de renseignements dans les conditions prévues aux articles L. 35-4,
+R. 10-7 et R. 10-8.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-30-3
+
+L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 3° de
+l'article L. 35-1 met à disposition du public sur le domaine public des installations, dénommées publiphones, permettant
+d'accéder sans restriction au service téléphonique au public.
+
+Cet opérateur met à disposition du public au moins un publiphone dans chaque commune. Dans les communes dont la population
+dépasse 1 000 habitants, cet opérateur implante au moins un second publiphone.
+
+Cet opérateur assure à partir de ces publiphones l'acheminement des communications en provenance et à destination de la
+métropole, des départements d'outre-mer, des collectivités de Mayotte et de Saint-Pierre-et-Miquelon, de la Nouvelle-
+Calédonie, de la Polynésie française, de Wallis-et-Futuna et des Terres australes et antarctiques françaises ainsi que des
+pays étrangers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-30-4 (M)
+	  - Code des postes et des communications électroni... - art. R20-35 (Ab)
+
+
+###### Article R20-30-4
+
+En application du 4° de l'article L. 35-1, les opérateurs chargés, en application de l'article L. 35-2, de fournir une ou
+plusieurs des composantes du service universel assurent aux utilisateurs handicapés l'accès à ce service, dans la limite des
+technologies disponibles pouvant être mises en oeuvre à un coût raisonnable.
+
+A cet effet :
+
+1° L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 1° de
+l'article L. 35-1 assure aux abonnés handicapés l'accès aux informations tarifaires, aux documents contractuels et de
+facturation par un moyen adapté à leur handicap ;
+
+2° L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
+l'article L. 35-1 fournit aux abonnés qui sont dans l'impossibilité de consulter l'annuaire universel en raison de leur
+handicap visuel un accès gratuit au service universel de renseignements ;
+
+3° L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 3° de
+l'article L. 35-1 veille à ce que des publiphones établis en application de l'article R. 20-30-3 soient accessibles aux
+handicapés moteurs et aux aveugles ; le nombre de ces publiphones et leur répartition géographique tiennent compte des
+besoins de la population concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-30-5
+
+Dans le respect des dispositions des articles R. 20-30-8 et R. 20-30-11, les opérateurs chargés, en application de l'article
+L. 35-2, de fournir les composantes du service universel mentionnées aux 1° et 3° de l'article L. 35-1 proposent un ou
+plusieurs tarifs réduits pour les communications au départ ou à destination des départements d'outre-mer, des collectivités
+de Mayotte et de Saint-Pierre-et-Miquelon, de la Nouvelle-Calédonie, de la Polynésie française, de Wallis-et-Futuna et des
+Terres australes et antarctiques françaises aux heures de faible demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-30-6
+
+La transmission et l'acheminement gratuits des appels téléphoniques d'urgence dans les conditions prévues à l'article L.
+33-1, par les opérateurs chargés, en application de l'article L. 35-2, de fournir les composantes du service universel
+mentionnées aux 1° et 3° de l'article L. 35-1 ne donnent pas lieu à compensation au titre du service universel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+
+
+###### Article R20-30-7
+
+Les opérateurs chargés, en application de l'article L. 35-2, de fournir une ou plusieurs des composantes du service universel
+se conforment aux obligations de qualité de service définies par leur cahier des charges.
+
+Ces opérateurs publient, dans les conditions prévues par leur cahier des charges, les valeurs des indicateurs de qualité de
+service fixés par leur cahier des charges. Ces indicateurs comprennent ceux figurant à l'annexe III de la directive 2002/22/
+CE du Parlement européen et du Conseil du 7 mars 2002 concernant le service universel et les droits des utilisateurs à
+l'égard des réseaux et services de communications électroniques (directive "service universel").
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
+
+
+###### Article R20-30-8
+
+Les opérateurs chargés, en application de l'article L. 35-2, de fournir une ou plusieurs des composantes du service universel
+informent les utilisateurs de leur offre de service universel, des tarifs correspondants et de leurs éventuelles
+modifications, suspensions ou suppressions dans les conditions prévues par le présent code, par le code de la consommation
+et, le cas échéant, par leur cahier des charges.
+
+Ils assurent aux utilisateurs handicapés un accès à ces informations adapté à leur handicap.
+
+Ils mettent ces informations régulièrement mises à jour à la disposition du public dans toutes leurs agences commerciales et
+tous leurs points de contact avec les clients, ainsi que par un moyen électronique accessible en temps réel à un tarif
+raisonnable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
+
+
+###### Article R20-30-9
+
+Les opérateurs chargés, en application de l'article L. 35-2, de fournir les composantes du service universel mentionnées aux
+1° et 2° de l'article L. 35-1 ne peuvent modifier les conditions matérielles d'utilisation d'une des prestations de service
+universel qu'après information des utilisateurs et des organisations d'utilisateurs concernées et recueil de leurs remarques
+éventuelles. Les conditions et les délais de résiliation ou de modification sont publiés au moins six mois à l'avance.
+
+Lorsqu'il s'agit de modifications techniques entraînant des remplacements ou des adaptations significatives des installations
+connectées au réseau, ces opérateurs informent au moins dix-huit mois à l'avance les utilisateurs. Les opérateurs informent
+les utilisateurs et les associations d'utilisateurs concernées et recueillent leurs remarques éventuelles.
+
+Les projets de modifications mentionnées aux deux alinéas précédents, leurs conditions de mise en oeuvre et les délais de
+mise en conformité des équipements font l'objet d'une approbation préalable par l'Autorité de régulation des
+télécommunications. Celle-ci peut également, à la demande de l'opérateur, réduire à 6 mois minimum le délai prévu à l'alinéa
+précédent.
+
+Sans préjudice des dispositions de l'article L. 121-84 du code de la consommation, les informations relatives à de nouvelles
+offres relevant du service universel et les modifications des offres existantes, autres que tarifaires ou relevant des deux
+premiers alinéas du présent article, sont publiées par les opérateurs en respectant un délai de préavis de huit jours.
+
+Les dispositions du présent article s'appliquent sans préjudice des obligations résultant de l'article L. 33-1 et des
+prescriptions techniques définies en application de l'article L. 36-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-84 (V)
+	  - Code des postes et des communications électronique - art. L33-1 (M)
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+	  - Code des postes et des communications électronique - art. L36-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-30-10
+
+Lorsqu'un opérateur chargé, en application de l'article L. 35-2, de fournir une des composantes du service universel propose
+directement ou indirectement une prestation globale, incluant une offre de service universel et des prestations ne relevant
+pas du service universel, cet opérateur sépare, au titre de l'offre et de la facturation, ainsi que dans le contrat conclu
+avec l'utilisateur, ce qui relève, d'une part, du service universel et, d'autre part, des autres services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 31 octobre 2013 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-30-11
+
+I. - Les tarifs des offres associées à la fourniture d'une des composantes du service universel sont fixés par l'opérateur
+qui en est chargé en application de l'article L. 35-2, de manière à respecter les principes de transparence, de non-
+discrimination et d'orientation vers les coûts et ne dépendent pas de la nature de l'usage qui est fait du service par les
+utilisateurs, dès lors que cela n'affecte pas les conditions de fourniture du service.
+
+Les tarifs du service universel respectent le principe d'égalité et sont notamment établis de manière à éviter une
+discrimination fondée sur la localisation géographique de l'utilisateur. Toutefois, l'opérateur chargé de la composante du
+service universel mentionnée au 1° de l'article L. 35-1 prévoit, à son catalogue des prix, les conditions dans lesquelles
+sont effectués les raccordements de certains abonnés en cas de difficultés exceptionnelles et les tarifs correspondants.
+
+L'Autorité de régulation des télécommunications peut imposer à l'opérateur chargé de fournir la composante du service
+universel mentionnée au 1° de l'article L. 35-1 de proposer une formule de paiement échelonné des frais de raccordement.
+
+II. - Tout opérateur chargé, en application de l'article L. 35-2, de fournir une des composantes du service universel établit
+un catalogue des tarifs pour le service universel et, le cas échéant, des prix des services obligatoires. Ce catalogue est
+consultable librement dans les agences commerciales de l'opérateur et les points de contact avec les clients, et est
+accessible à un tarif raisonnable par un moyen électronique. L'opérateur veille à ce que les utilisateurs handicapés aient
+accès à ce catalogue dans des conditions adaptées à leur handicap.
+
+Cet opérateur communique ses tarifs au ministre chargé des communications électroniques et à l'Autorité de régulation des
+télécommunications au moins huit jours avant leur application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 14 février 2012 - art. (V)
+	  - Arrêté du 31 octobre 2013 - art. (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code des postes et des communications électroni... - art. R20-30-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+
+
+###### Article R20-30-12
+
+Le ministre chargé des communications électroniques lance des appels de candidatures pour la fourniture de chacune des
+composantes du service universel mentionnées aux 1°, 2° et 3° de l'article L. 35-1.
+
+Ces appels de candidatures fixent :
+
+1° Les obligations minimales incombant à l'opérateur chargé de fournir la composante du service universel concernée,
+notamment en termes de qualité de service ;
+
+2° Les informations à fournir par les candidats incluant, le cas échéant, leur coût net de fourniture de la composante du
+service universel concernée ;
+
+3° Les critères de sélection de l'opérateur chargé de la composante du service universel concernée ; ces critères sont fondés
+notamment sur l'aptitude de l'opérateur à fournir un service de qualité sur l'ensemble du territoire à un prix abordable à
+toute personne qui en fait la demande ;
+
+4° La durée de dévolution de la mission de service universel, sans préjudice des dispositions de l'article L. 35-8 ; cette
+durée ne peut excéder cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 2 () JORF 19 novembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### Section 2 : Financement du service universel des communications électroniques.
+
+###### Article R*20-40
+
+Les opérateurs soumis à des obligations de service universel adressent des données constatées relatives aux tarifs et aux
+conditions d'offre concernant l'année considérée au ministre chargé des communications électroniques et à l'Autorité de
+régulation des télécommunications au plus tard le 15 juillet de l'année suivant l'année considérée.
+
+L'opérateur chargé du service universel fournit ses données constatées portant notamment sur les coûts, les chiffres
+d'affaires et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article R. 20-34.
+
+Les autres opérateurs fournissent leurs données constatées de chiffre d'affaires. Ceux d'entre eux qui appliquent les
+dispositions de l'article R. 20-34 précisent le nombre d'abonnés correspondants.
+
+L'Autorité de régulation des télécommunications évalue chaque année les coûts, les bénéfices et le taux de rémunération du
+capital mentionnés aux articles R. 20-33 à R. 20-38 ; elle publie préalablement les règles employées pour l'application des
+méthodes mentionnées dans ces articles ainsi que pour celles de l'article R. 20-39.
+
+**Nota:**
+
+NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
+télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
+et "télécommunications" sont remplacés par les mots "communications électroniques".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-669 2004-07-09 art. 1
+	  - Code des postes et des communications électronique - art. R20-34 (M)
+	  - Code des postes et des communications électronique - art. R20-39 (M)
+	  - Code des postes et des communications électroniques R20-34, R20-33 à R20-38, R20-39
+
+	**Modifié par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 12 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-31
+
+Les coûts imputables aux obligations de service universel et pouvant faire l'objet d'une compensation sont composés :
+
+a) Du coût net des obligations tarifaires correspondant aux obligations de péréquation géographique des tarifs de la
+composante mentionnée au 1° de l'article L. 35-1, évalué selon la méthode définie aux articles R. 20-33 et R. 20-34 ;
+
+b) Des coûts nets de l'offre et des obligations mentionnées aux 2° et 3° de l'article L. 35-1 et au troisième alinéa du II de
+l'article L. 35-3. Ces coûts sont évalués selon les méthodes définies aux articles R. 20-35 et R. 20-36.
+
+L'évaluation de ces coûts comprend la rémunération du capital utilisé au titre du service universel, calculée selon la
+méthode définie à l'article R. 20-37. Elle prend en compte, dans les conditions fixées à l'article R. 20-37-1, l'avantage sur
+le marché que les opérateurs retirent, le cas échéant, des obligations de service universel.
+
+L'obligation mentionnée à l'article L. 35-1, d'acheminer gratuitement les appels d'urgence ne fait pas l'objet d'une
+compensation, l'ensemble des fournisseurs de services téléphoniques au public y étant soumis. Les obligations qui sont
+mentionnées au 4° de l'article L. 35-1 et qui s'imposent à l'ensemble des opérateurs ne peuvent faire l'objet d'une
+compensation.
+
+Le coût net du service universel est rendu public par l'Autorité de régulation des télécommunications.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -11388,6 +11762,11 @@ d'une compensation, l'ensemble des fournisseurs de services téléphoniques au p
 	  - Arrêté du 14 février 2012 - art. (V)
 	  - Arrêté du 6 décembre 2012 - art. (V)
 	  - Arrêté du 31 octobre 2013 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 3 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -11405,50 +11784,73 @@ d'une compensation, l'ensemble des fournisseurs de services téléphoniques au p
 	  - Code des postes et des communications électronique - art. R20-37-1 (M)
 
 
-###### Article R20-33
+###### Article R20-32
 
-I. - Le coût net des obligations tarifaires correspondant aux obligations de péréquation géographique est la somme, d'une
-part, des coûts nets pertinents dans les zones non rentables, c'est-à-dire les zones qui, en raison des coûts élevés de
-fonctionnement et d'investissement du réseau local et de l'obligation de fournir à tous un service téléphonique de qualité à
-un prix abordable, ne seraient pas desservies par un opérateur agissant dans les conditions du marché et, d'autre part, des
-coûts nets pertinents des abonnés situés dans les zones rentables qui, en raison des coûts élevés d'investissement et de
-fonctionnement des lignes de ces abonnés et de l'obligation de fournir à tous un service téléphonique de qualité à un prix
-abordable, ne seraient pas desservies par un opérateur agissant dans les conditions du marché.
+Tout opérateur chargé d'une obligation de service universel en application de l'article L. 35-2 tient un système
+d'information ainsi qu'une comptabilité des services et des activités qui doivent permettre, notamment, d'évaluer le coût net
+de cette obligation et de vérifier le respect du principe de l'orientation des tarifs vers les coûts.
 
-La dimension des zones est fondée sur l'organisation technique du réseau téléphonique de l'opérateur de service universel et
-prend en compte les décisions d'investissement et l'activité commerciale d'un opérateur qui ne serait pas soumis aux
-obligations de service universel. Les zones retenues ont une taille au plus égale à celle des zones de répartition locale au
-sein desquelles elles sont définies.
-
-II. - Le coût net pertinent dans chacune des zones non rentables est égal au solde des recettes qui seraient perdues par
-l'opérateur et des coûts d'investissement et de fonctionnement qui ne seraient pas encourus par l'opérateur, si la zone
-n'était pas desservie, évalués à partir de la comptabilité analytique des recettes et des dépenses auditée dans les
-conditions prévues au I de l'article L. 35-3. Ce solde prend en compte les bénéfices mentionnés aux a, b et c de l'article R.
-20-37-1.
-
-Les recettes pertinentes comprennent les recettes fixes du réseau, les recettes tirées des communications sur le réseau
-téléphonique émises ou reçues par les abonnés de la zone et l'ensemble des recettes indirectes tirées des communications
-émises ou reçues par les abonnés de la zone, notamment les recettes des services facturés entièrement ou partiellement à
-l'appelé ainsi que les recettes résultant de la faculté de ne pas figurer sur les listes publiées d'abonnés ou d'utilisateurs
-prévue à l'article L. 33-4.
-
-Les coûts pertinents d'investissements et de fonctionnement comprennent, d'une part, les coûts de desserte et de gestion des
-abonnés de la zone considérée et, d'autre part, les coûts de réseau de commutation et de transmission correspondant à
-l'écoulement du trafic entrant et sortant relatif à cette zone. Les coûts d'investissement sont fondés sur les coûts de
-remplacement calculés sur la base des meilleures technologies industriellement disponibles.
-
-III. - Le coût net pertinent des abonnés situés dans les zones rentables qui ne seraient pas desservies par un opérateur
-agissant dans les conditions du marché est évalué en utilisant la même méthode que celle décrite au II.
-
-IV. - L'Autorité de régulation des télécommunications précise et publie les règles d'imputation comptable des coûts et des
-recettes nécessaires aux calculs prévus au II et au III et contrôle les modèles utilisés pour évaluer les coûts nets, et
-délimiter les zones considérées.
+Les éléments pertinents du système d'information et les données comptables sont mis à la disposition de l'Autorité de
+régulation des télécommunications à la demande de cette dernière. Ils sont audités périodiquement aux frais de l'opérateur
+par un organisme indépendant désigné par l'Autorité de régulation des télécommunications, de manière à permettre une mise à
+jour annuelle des éléments et données nécessaires à l'application de la présente section. Les auditeurs doivent être
+indépendants de l'opérateur et de ses commissaires aux comptes. Les conclusions de l'audit sont rendues publiques par
+l'Autorité de régulation des télécommunications.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 4 () JORF 19 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
+	  - Arrêté du 14 février 2012 - art. (V)
+	  - Arrêté du 31 octobre 2013 - art. (V)
+	  - Code des postes et des communications électronique - art. R20-36 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L35-2 (M)
+
+
+###### Article R20-33
+
+I. Le coût net des obligations tarifaires correspondant aux obligations de péréquation géographique est la somme des coûts
+nets pertinents dans les zones non rentables, c'est-à-dire les zones qui, en raison des coûts élevés de fonctionnement et
+d'investissement du réseau local et de l'obligation de fournir à tous un service téléphonique de qualité à un prix abordable,
+ne seraient pas desservies par un opérateur agissant dans les conditions du marché.
+
+La dimension des zones est fondée sur l'organisation technique du réseau téléphonique de l'opérateur désigné en application
+de l'article L. 35-2 pour la fourniture de la composante mentionnée au 1° de l'article L. 35-1 et prend en compte les
+décisions d'investissement et l'activité commerciale d'un opérateur qui ne serait pas soumis aux obligations de service
+universel.
+
+II. - Le coût net pertinent dans chacune des zones non rentables est égal au solde des recettes qui seraient perdues par
+l'opérateur et des coûts d'investissement et de fonctionnement qui ne seraient pas encourus par l'opérateur, si la zone
+n'était pas desservie, évalués à partir de la comptabilité analytique des recettes et des dépenses auditée dans les
+conditions prévues au I de l'article L. 35-3.
+
+Les recettes pertinentes comprennent les recettes directes et indirectes retirées de la desserte des abonnés de la zone,
+notamment les recettes des services facturés entièrement ou partiellement à l'appelé. Les coûts pertinents d'investissements
+et de fonctionne ment comprennent, d'une part, les coûts de desserte et de gestion des abonnés de la zone considérée et,
+d'autre part, les coûts de réseau de commutation et de transmission correspondant à l'écoulement du trafic entrant et sortant
+relatif à cette zone. Les coûts pris en compte sont ceux d'un opérateur efficace.
+
+III. - L'Autorité de régulation des télécommunications précise et publie les règles d'imputation comptable des coûts et des
+recettes nécessaires aux calculs prévus au II et contrôle les modèles utilisés pour évaluer les coûts nets, et délimiter les
+zones considérées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 5 () JORF 19 novembre 2004
 
 	**Cité par**:
 
@@ -11464,9 +11866,9 @@ délimiter les zones considérées.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L33-4 (M)
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-2 (M)
 	  - Code des postes et des communications électronique - art. L35-3 (M)
-	  - Code des postes et des communications électronique - art. R20-37-1 (M)
 
 
 ###### Article R20-34
@@ -11549,7 +11951,7 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
 
 	**Cité par**:
 
@@ -11573,13 +11975,13 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 ###### Article R20-35
 
-Lorsque les obligations relatives à la publiphonie définies dans le cahier des charges de l'opérateur chargé du service
-universel sont satisfaites, le coût net de l'obligation d'assurer la desserte du territoire en cabines téléphoniques
-installées sur le domaine public est évalué pour chaque commune du territoire par la différence entre, d'une part, les coûts
-supportés par l'opérateur pour l'installation et l'entretien de ses cabines installées dans cette commune et pour le trafic
-émis et reçu par ces cabines et, d'autre part, les recettes générées directement et indirectement par ces cabines. Lorsque
-ces recettes sont supérieures aux coûts, ou lorsque le nombre de cabines installées sur le domaine public dans la commune est
-supérieur au nombre de cabines tel que résultant des obligations de service universel, aucune compensation n'est due.
+Lorsque les obligations relatives à la publiphonie prévues à l'article R. 20-30-3 sont satisfaites, le coût net de
+l'obligation d'assurer la desserte du territoire en cabines téléphoniques installées sur le domaine public est évalué pour
+chaque commune du territoire par la différence entre, d'une part, les coûts supportés par l'opérateur pour l'installation et
+l'entretien de ses cabines installées dans cette commune et pour le trafic émis et reçu par ces cabines et, d'autre part, les
+recettes générées directement et indirectement par ces cabines. Lorsque ces recettes sont supérieures aux coûts, ou lorsque
+le nombre de cabines installées sur le domaine public dans la commune est supérieur au nombre de cabines tel que résultant
+des obligations de service universel, aucune compensation n'est due.
 
 L'opérateur de service universel fournit à l'Autorité de régulation des télécommunications les éléments permettant de
 réaliser l'évaluation décrite à l'alinéa précédent.
@@ -11594,7 +11996,8 @@ prorata du trafic des cabines.
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 6 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -11605,6 +12008,10 @@ prorata du trafic des cabines.
 	  - Code des postes et des communications électroni... - art. R20-31 (M)
 	  - Code des postes et des communications électroni... - art. R20-37 (V)
 
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. R20-30-3 (V)
+
 
 ###### Article R20-36
 
@@ -11612,25 +12019,45 @@ Le coût net des obligations correspondant à la fourniture du service universel
 d'abonnés sous formes imprimée et électronique fourni par l'opérateur en charge du service universel est égal à la différence
 des coûts et des recettes imputables à ces obligations.
 
-Les coûts pris en compte concernent : les coûts d'achat des listes d'abonnés tels que prévus à l'article L. 33-4, les coûts
-directement affectables à l'édition, à l'impression et à la distribution des annuaires, ainsi que les coûts directement
-entraînés par la fourniture d'un service de renseignements et d'annuaire universel sous forme électronique, notamment les
-coûts relatifs aux centres de renseignements, aux équipements dédiés au service d'annuaire électronique, à l'accès au réseau
-téléphonique.
+Les coûts pris en compte concernent, le cas échéant : les coûts d'achat des listes d'abonnés tels que prévus à l'article L.
+33-4, les coûts directement affectables à l'édition, à l'impression et à la distribution des annuaires, ainsi que les coûts
+directement entraînés par la fourniture d'un service de renseignements et d'annuaire universel sous forme électronique,
+notamment les coûts relatifs aux centres de renseignements, aux équipements dédiés au service d'annuaire électronique, à
+l'accès au réseau téléphonique.
 
-Les recettes prises en compte concernent : les recettes tirées de la vente et de la publicité dans les annuaires imprimés, y
-compris la publicité pour les produits d'un opérateur en charge du service universel ; les recettes tirées des services de
-renseignements et d'annuaire électronique, y compris la publicité ; les recettes nettes résultant du trafic induit par la
-consultation des services d'annuaires et de renseignements ; les recettes nettes des produits dérivés, notamment celles
-provenant des ventes de fichiers.
+Les recettes prises en compte concernent, le cas échéant : les recettes tirées de la vente et de la publicité dans les
+annuaires imprimés, y compris la publicité pour les produits d'un opérateur en charge du service universel ; les recettes
+tirées des services de renseignements et d'annuaire électronique, y compris la publicité ; les recettes nettes résultant du
+trafic induit par la consultation des services d'annuaires et de renseignements ; les recettes nettes des produits dérivés,
+notamment celles provenant des ventes de fichiers de l'édition d'annuaires autres que l'annuaire universel ou de services
+associés au service universel de renseignements.
 
 Lorsque les recettes sont supérieures aux coûts, aucune compensation n'est due.
+
+Les opérateurs qui souhaitent offrir à leur client la possibilité de bénéficier des dispositions définies au 2° de l'article
+L. 35-1 dans les conditions prévues au troisième alinéa du II de l'article L. 35-3 transmettent leur demande simultanément au
+ministre chargé des communications électroniques et à l'Autorité de régulation des télécommunications selon la procédure
+décrite au premier alinéa du III de l'article R. 20-34. Le ministre se prononce au regard notamment de l'impact de la demande
+sur la qualité du service universel et sur le coût net total de la composante.
+
+Ces opérateurs respectent l'ensemble des obligations prévues par la section 1 du présent chapitre relatives aux prestations
+de service universel qu'ils fournissent.
+
+Ils transmettent annuellement à l'Autorité de régulation des télécommunications les comptes de ces prestations, audités
+conformément aux dispositions de l'article R. 20-32.
+
+**Nota:**
+
+NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
+2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
+même loi.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 7 () JORF 19 novembre 2004
 
 	**Cité par**:
 
@@ -11645,26 +12072,25 @@ Lorsque les recettes sont supérieures aux coûts, aucune compensation n'est due
 	**Cite**:
 
 	  - Code des postes et des communications électronique - art. L33-4 (M)
+	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électronique - art. L35-3 (M)
+	  - Code des postes et des communications électronique - art. R20-32 (Ab)
+	  - Code des postes et des communications électronique - art. R20-34 (M)
 
 
 ###### Article R20-37
 
 Pour évaluer les coûts mentionnés aux articles R. 20-33, R. 20-35 et R. 20-36, le taux de rémunération du capital utilisé est
-fixé par arrêté du ministre chargé des communications électroniques sur proposition de l'Autorité de régulation des
-télécommunications, en tenant compte du coût moyen pondéré des capitaux permanents pour l'opérateur chargé du service
-universel et de celui que supporterait un investisseur dans les activités de communications électroniques en France.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
+fixé par l'Autorité de régulation des télécommunications, en tenant compte du coût moyen pondéré des capitaux permanents pour
+l'opérateur chargé du service universel et de celui que supporterait un investisseur dans les activités de communications
+électroniques en France.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 8 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -11684,25 +12110,23 @@ et "télécommunications" sont remplacés par les mots "communications électron
 ###### Article R20-37-1
 
 L'avantage mentionné au I de l'article L. 35-3 que retirent, le cas échéant, les opérateurs des obligations de service
-universel qui leur incombent comprend :
+universel qui leur incombent comprend : 
 
 a) Le bénéfice technique et commercial résultant de l'étendue du réseau, par rapport à un opérateur agissant dans les
-conditions du marché, pour le raccordement de nouveaux abonnés ;
+conditions du marché, pour le raccordement de nouveaux abonnés ; 
 
-b) Le bénéfice lié à l'amélioration dans le temps des capacités économiques d'abonnés bénéficiant du service universel ;
+b) Le bénéfice lié à l'amélioration dans le temps des capacités économiques d'abonnés bénéficiant du service universel ; 
 
-c) Le bénéfice tiré de l'exploitation des données relatives aux abonnés, pour la connaissance du marché ;
+c) Le bénéfice tiré de l'exploitation des données relatives aux abonnés, pour la connaissance du marché ; 
 
 d) Le bénéfice tiré de l'image de marque associée à la position d'opérateur de service universel.
-
-L'avantage mentionné au d du présent article est réparti entre les composantes de coûts mentionnés aux articles R. 20-33 à R.
-20-36, au prorata du coût net de ces composantes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 9 () JORF 19 novembre 2004
 
 	**Cité par**:
 
@@ -11717,17 +12141,46 @@ L'avantage mentionné au d du présent article est réparti entre les composante
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L35-3 (M)
-	  - Code des postes et des communications électroniques L35-3, R20-33 à R20-36
+	  - Code des postes et des communications électroni... - art. L35-3 (V)
+
+
+###### Article R20-38
+
+Les coûts nets des composantes du service universel mentionnées aux 1°, 2° et 3° de l'article L. 35-1 prennent en compte, le
+cas échéant, le coût net de l'offre mentionnée au 4° du même article.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 10 () JORF 19 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ###### Article R20-39
 
-Les opérateurs qui contribuent au fonds de service universel créé par l'article L. 35-3 sont les exploitants de réseaux
-ouverts au public et les fournisseurs de services téléphoniques au public. La contribution de chaque opérateur est calculée
-au prorata de son volume de trafic. Pour chaque opérateur, le trafic considéré est égal à la somme des trafics au départ et à
-l'arrivée de tous les terminaux connectés à ses réseaux ouverts au public. La contribution mentionnée à l'article R. 20-33
-est calculée au prorata du trafic téléphonique.
+Les opérateurs qui contribuent au fonds de service universel sont les exploitants de réseaux ouverts au public et les
+fournisseurs de services de communications électroniques au public.
+
+La contribution de chaque opérateur au financement du service universel est calculée au prorata de son chiffre d'affaires
+réalisé au titre des services de communications électroniques, à l'exclusion :
+
+1° Du chiffre d'affaires réalisé au titre des prestations d'interconnexion et d'accès faisant l'objet des conventions
+définies au I de l'article L. 34-8 et des autres prestations réalisées ou facturées pour le compte d'opérateurs tiers ;
+
+2° Du chiffre d'affaires réalisé au titre de l'acheminement et de la diffusion de services de radio et de télévision ainsi
+que de l'exploitation d'antennes collectives.
+
+Dans le cadre d'offres associant des services de radio ou de télévision à des services de communications électroniques, la
+contribution de l'opérateur est établie au prorata du seul chiffre d'affaires lié aux services de communications
+électroniques.
+
+Pour le calcul de la contribution, il est pratiqué un abattement de 5 millions d'euros sur le chiffre d'affaires annuel ainsi
+calculé.
 
 Est porté au crédit du compte d'un opérateur donné le coût net éventuel relatif aux prestations de service universel rendues
 par cet opérateur.
@@ -11743,6 +12196,9 @@ ou diminués des montants résultant de l'application de l'alinéa suivant. Les 
 cours de l'année considérée, en deux versements d'un montant égal à la moitié des sommes dues, le 15 janvier et le 15
 septembre.
 
+La décision prévue au premier alinéa du III de l'article L. 35-3 du code des postes et des communications électroniques est
+prise par l'Autorité de tes régulation des télécommunications.
+
 Si un nouvel opérateur fournit le service universel, l'Autorité de régulation des télécommunications évalue le coût
 prévisionnel de ce service à partir d'informations concernant l'année précédant l'année de fourniture du service,
 communiquées par le nouvel opérateur, au plus tard le 31 octobre de l'année précédant l'année en cause.
@@ -11751,15 +12207,14 @@ L'Autorité de régulation des télécommunications notifie le montant des contr
 et consignations et à chaque opérateur au plus tard le 15 décembre de l'année précédant l'année considérée. La Caisse des
 dépôts et consignations traite ces informations de manière confidentielle.
 
-Les soldes définitifs relatifs à l'année considérée sont constatés et rendus publics par le ministre chargé des
-communications électroniques au plus tard le 31 mai de la deuxième année suivant l'année considérée sur proposition de
-l'Autorité de régulation des télécommunications, exprimée au plus tard le 30 avril de la deuxième année suivant l'année
-considérée. L'Autorité de régulation des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des dépôts
-et consignations au plus tard le 30 juin de la deuxième année suivant l'année considérée. Elle évalue ces soldes notamment
-sur la base des résultats de la comptabilité auditée des opérateurs relative à l'année considérée, mentionnée au I de
-l'article L. 35-3, et des volumes constatés pour cette même année. Les versements de la régulation des contributions
-interviennent au plus tard le 20 septembre de la deuxième année suivant l'année considérée. Ceux-ci comprennent le versement
-d'un intérêt au taux de l'Euribor 12 mois qui court des dates d'échéance à la date de régularisation.
+Les soldes définitifs relatifs à l'année considérée sont constatés et rendus publics par l'Autorité de  régulation des
+télécommunications au plus tard le 30 avril de la deuxième année suivant l'année considérée. L'Autorité de régulation des
+télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des dépôts et consignations au plus tard le 31 mai
+de la deuxième année suivant l'année considérée. Elle évalue ces soldes notamment sur la base des résultats de la
+comptabilité auditée des opérateurs relative à l'année considérée, mentionnée au I de l'article L. 35-3, et des chiffre
+d'affaires pour cette même année. Les versements de la régulation des contributions interviennent au plus tard le 20
+septembre de la deuxième année suivant l'année considérée. Ceux-ci comprennent le versement d'un intérêt au taux de l'Euribor
+12 mois qui court des dates d'échéance à la date de régularisation.
 
 En cas de défaillance d'un opérateur, et si les sommes dues par cet opérateur ne sont pas recouvrées dans un délai d'un an à
 compter de la défaillance telle que mentionnée à l'article R. 20-43, elles sont imputées lors de l'exercice suivant cette
@@ -11767,12 +12222,6 @@ constatation sur les comptes des autres opérateurs au prorata de la part de cha
 et payées en même temps que le solde définitif suivant.
 
 Les reversements du fonds aux opérateurs créditeurs sont effectués selon les modalités prévues à l'article R. 20-42.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
 
 **Liens relatifs à cet article**
 
@@ -11784,66 +12233,26 @@ et "télécommunications" sont remplacés par les mots "communications électron
 	  - Code des postes et des communications électroni... - art. R20-40 (V)
 	  - Code des postes et des communications électroni... - art. R20-42 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
 	**Cite**:
 
+	  - Loi n°2004-669 2004-07-09 art. 1
+	  - Code des postes et des communications électronique - art. L34-8 (M)
 	  - Code des postes et des communications électronique - art. L35-3 (M)
-	  - Code des postes et des communications électronique - art. R20-33 (M)
-	  - Code des postes et des communications électronique - art. R20-43 (M)
-
-
-###### Article R20-40
-
-Les opérateurs soumis à des obligations de service universel adressent des données constatées relatives aux tarifs et aux
-conditions d'offre concernant l'année considérée au ministre chargé des communications électroniques et à l'Autorité de
-régulation des télécommunications au plus tard le 15 juillet de l'année suivant l'année considérée.
-
-L'opérateur chargé du service universel fournit ses données constatées portant notamment sur les coûts, les recettes, les
-volumes de trafic et le nombre d'abonnés, notamment ceux bénéficiant des dispositions de l'article R. 20-34.
-
-Les autres opérateurs mentionnés aux articles L. 33-1 et L. 34-1 fournissent leurs données constatées de volume de trafic.
-Ceux d'entre eux qui appliquent les dispositions de l'article R. 20-34 précisent le nombre d'abonnés correspondants.
-
-L'Autorité de régulation des télécommunications évalue chaque année les coûts, les bénéfices et le taux de rémunération du
-capital mentionnés aux articles R. 20-33 à R. 20-37-1 ; elle publie les règles employées pour l'application des méthodes
-mentionnées dans ces articles ainsi que pour celles de l'article R. 20-39.
-
-**Nota:**
-
-NOTA : Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et
-télécommunications devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication"
-et "télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 11 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L33-1 (M)
-	  - Code des postes et des communications électronique - art. L34-1 (M)
-	  - Code des postes et des communications électronique - art. R20-34 (M)
-	  - Code des postes et des communications électronique - art. R20-39 (M)
-	  - Code des postes et des communications électroniques R20-34, L33-1, L34-1, R20-33 à R20-37-1, R20-39
 
 
 ###### Article R20-41
 
-La Caisse des dépôts et consignations assure la gestion comptable et financière du fonds de service universel créé au 2° du
-II de l'article L. 35-3, dans un compte spécifique créé à cet effet. Elle est chargée :
+La Caisse des dépôts et consignations assure la gestion comptable et financière du fonds de service universel, dans un compte
+spécifique créé à cet effet. Elle est chargée :
 
 1° D'effectuer les opérations de recouvrement et de reversement afférent à chacun des opérateurs et de tenir pour chaque
 année la comptabilité les retraçant ;
@@ -11859,7 +12268,8 @@ financière du fonds de service universel.
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 13 () JORF 19 novembre 2004
 
 	**Cité par**:
 
@@ -11870,10 +12280,6 @@ financière du fonds de service universel.
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L35-3 (M)
 
 
 ###### Article R20-42
@@ -11910,7 +12316,7 @@ reporté sur l'exercice suivant.
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -11941,7 +12347,7 @@ recouvrement.
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
 
 	**Codifié par**:
 
@@ -11949,7 +12355,7 @@ recouvrement.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R20-41 (M)
+	  - Code des postes et des communications électroni... - art. R*20-41 (V)
 
 
 ###### Article R20-44
@@ -11976,7 +12382,7 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 1 () JORF 9 octobre 2003
+	  - Décret n°2004-1222 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
 
 	**Cité par**:
 
