@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 1994-10-22
+Version Consolidée au 1995-02-03
 
 # Partie législative
 
@@ -19178,6 +19178,26 @@ l'interopérabilité des services.
 	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
+###### Article D376
+
+L'autorité réglementaire détermine les catégories de liaisons louées conformes à des caractéristiques techniques harmonisées
+dans l'Espace économique européen, dont la fourniture est assurée par l'exploitant public. Cette liste peut être complétée,
+après consultation de l'exploitant public, par une offre obligatoire additionnelle de liaisons louées.
+
+L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
+défini au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Modifié par**:
+
+	  - Décret n°95-107 du 31 janvier 1995 - art. 1 () JORF 3 février 1995
+
+
 ###### Article D377
 
 Les tarifs des liaisons louées respectent le principe de l'orientation vers les coûts et sont fixés selon des règles
@@ -20704,36 +20724,6 @@ En cas de récidive, les surtaxes précitées sont doublées.
 	**Abrogé par**:
 
 	  - Décret n°98-14 du 6 janvier 1998 - art. 1 (V) JORF 9 janvier 1998
-
-
-## LIVRE II : Le service des télécommunications
-
-### TITRE Ier : Dispositions générales
-
-#### CHAPITRE  V : Services particuliers des télécommunications
-
-##### SECTION 2 : Liaisons louées
-
-##### Paragraphe 1er : Régime général.
-
-###### Article D376
-
-L'autorité réglementaire détermine les catégories de liaisons louées conformes à des caractéristiques techniques harmonisées
-dans la Communauté européenne, dont la fourniture est assurée par l'exploitant public. Cette liste peut être complétée, après
-consultation de l'exploitant public, par une offre obligatoire additionnelle de liaisons louées.
-
-L'offre de liaisons louées relevant d'autres catégories ne dispense pas l'exploitant public de fournir l'ensemble minimal
-défini au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°93-961 1993-07-28 art. 1 JORF 29 juillet 1993
 
 
 ## LIVRE III : Les services financiers
