@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2004-07-10
+Version Consolidée au 2004-08-07
 
 # Partie législative
 
@@ -1070,117 +1070,6 @@ de la santé publique, l'insertion dans les envois postaux d'opium, de morphine,
 	  - Code de la santé publique - art. L627 (M)
 
 
-## LIVRE II : Les télécommunications
-
-### TITRE Ier : Dispositions générales
-
-#### CHAPITRE Ier : Définitions et principes.
-
-###### Article L32-5
-
-Les opérateurs exploitant un réseau radioélectrique de communication ouvert au public ou fournissant des services de
-radiocommunication au public sont tenus de mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
-des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des communications émises au moyen de terminaux mobiles,
-identifiés et qui leur ont été déclarés volés.
-
-Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après accord donné par le procureur de la République
-ou le juge d'instruction, de ne pas appliquer les dispositions du premier alinéa.
-
-**Nota:**
-
-NOTA : Loi 2003-239 du 18 mars 2003 art. 72 II : Les présentes dispositions entrent en application pour le territoire
-métropolitain le 1er janvier 2004. En tant que de besoin, les modalités d'application en sont fixées par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 72 (V) JORF 19 mars 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. L32-4 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. L34-3 (M)
-
-
-#### CHAPITRE II : Régime juridique
-
-##### SECTION 2 : Services
-
-###### Article L34-1-1
-
-Sans préjudice des dispositions de l'article L. 35-2, les opérateurs inscrits sur la liste établie en application du a du 7°
-de l'article L. 36-7 :
-
-1° Fixent les tarifs du service téléphonique au public de manière à ce qu'ils reflètent les coûts correspondants. Ces tarifs
-sont indépendants de la nature de l'utilisation qui est faite du service par les utilisateurs. Ils sont suffisamment
-détaillés pour que l'utilisateur ne soit pas obligé de payer des compléments de services qui ne sont pas nécessaires à la
-fourniture du service demandé. Les opérateurs portent ces tarifs et leurs modifications à la connaissance du public au moins
-huit jours avant la date de leur mise en application ;
-
-2° Publient et appliquent de façon non discriminatoire toute formule de réduction tarifaire. L'Autorité de régulation des
-télécommunications peut, dans les conditions prévues à l'article L. 36-11, exiger d'un opérateur qu'il modifie ou retire des
-formules de réduction lorsque celles-ci ne sont pas conformes aux dispositions du présent article ;
-
-3° Disposent d'un système d'information et tiennent une comptabilité des services et des activités qui permettent notamment
-de vérifier le respect des obligations prévues au 1°. Cette comptabilité est vérifiée périodiquement, à leurs frais, par un
-organisme indépendant agréé par l'Autorité de régulation des télécommunications. Les résultats du contrôle sont communiqués à
-l'Autorité de régulation des télécommunications et au ministre chargé des télécommunications. L'organisme agréé publie
-annuellement une attestation de conformité établie en application des présentes dispositions ;
-
-4° Fournissent une offre de services avancés de téléphonie vocale dont le contenu est fixé par arrêté ministériel ;
-
-5° Se conforment aux obligations de qualité de service fixées, le cas échéant, par arrêté ministériel et, lorsque des
-indicateurs de qualité on été définis par arrêté ministériel, enregistrent les valeurs résultant de l'application de ces
-indicateurs. Les valeurs enregistrées sont communiquées, à leur demande, au ministre chargé des télécommunications et à
-l'Autorité de régulation des télécommunications. Celle-ci peut demander une vérification des données fournies par un
-organisme indépendant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L35-2, L36-7, L36-11
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 18 () JORF 28 juillet 2001
-
-	**Cité par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
-	  - Arrêté du 26 mars 2012 - art. 1 (V)
-	  - Arrêté du 26 mars 2012 - art. 4 (V)
-	  - Code de la sécurité intérieure - art. L222-2 (VT)
-	  - Code de la sécurité intérieure - art. L243-12 (VT)
-	  - Code de la sécurité intérieure - art. L243-7 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-15 (VT)
-	  - Code des postes et des communications électroni... - art. R10-16 (VT)
-	  - Code des postes et des communications électroni... - art. R10-17 (VT)
-	  - Code des postes et des communications électroni... - art. R10-18 (VT)
-	  - Code des postes et des communications électroni... - art. R10-21 (VT)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 20 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-
 ## LIVRE II : Les communications électroniques
 
 ### TITRE Ier : Dispositions générales
@@ -2126,7 +2015,7 @@ auxquelles sont établis, à partir de ces listes, des annuaires et services de 
 d'utilisation reposant sur des fonctions de recherche intégrées à leur version électronique, d'interdire que les informations
 nominatives la concernant soient utilisées dans des opérations commerciales, ainsi que de pouvoir obtenir communication
 desdites informations nominatives et exiger qu'elles soient rectifiées, complétées, clarifiées, mises à jour ou effacées,
-dans les conditions prévues aux articles 35 et 36 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+dans les conditions prévues aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 fichiers et aux libertés.
 
 Le consentement préalable des abonnés à un opérateur de téléphonie mobile est requis pour toute inscription dans les listes
@@ -2155,7 +2044,7 @@ précédent peuvent être soumis à l'Autorité de régulation des télécommuni
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 9 () JORF 10 juillet 2004
+	  - Loi n°2004-801 du 6 août 2004 - art. 17 () JORF 7 août 2004
 
 	**Cité par**:
 
