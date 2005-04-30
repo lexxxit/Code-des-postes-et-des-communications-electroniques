@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-04-30
+Version Consolidée au 2005-05-01
 
 # Partie législative
 
@@ -18312,91 +18312,6 @@ d'interconnexion susceptibles d'être imposées aux opérateurs en application d
 	  - Code des postes et des communications électronique - art. L34-8 (M)
 	  - Code des postes et des communications électronique - art. L37-2 (M)
 	  - Code des postes et des communications électronique - art. L37-3 (M)
-
-
-#### CHAPITRE III : Télégraphe
-
-##### SECTION 3 : Service télex
-
-##### Paragraphe 3 : Communications.
-
-###### Article D285
-
-Les taxes applicables aux communications télex demandées à partir des postes d'abonnement sont fixées :
-
-- dans le régime intérieur : dans les conditions fixées par les décrets de taxes ;
-
-- dans le régime international : d'après leur durée et sur les bases fixées par des accords bilatéraux entre l'administration
-des postes et communications électroniques et ses correspondants. Les quotes-parts terminales et de transit françaises sont
-fixées en francs-or par arrêté du ministre des postes et des communications électroniques.
-
-Les taxes et surtaxes applicables aux télégrammes déposés par les abonnés télex dans les bureaux de l'administration sont
-celles prévues pour les télégrammes déposés aux guichets des bureaux de poste.
-
-**Nota:**
-
-Selon les dispositions de l'article 1er de la loi n° 2004-669 du 9 juillet 2004, le code des postes et télécommunications
-devient le code des postes et des communications électroniques. Dans ce code, les mots "télécommunication" et
-"télécommunications" sont remplacés par les mots "communications électroniques".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-###### Article D286
-
-La transmission des communications télex échangées à partir des postes publics télex peut être assurée soit par le personnel
-de l'administration, soit, sur autorisation spéciale, par l'usager.
-
-Les taxes des communications télex des régimes intérieur et international demandées à partir des postes publics télex sont
-celles applicables aux communications demandées à partir des postes d'abonnement, majorées d'une surtaxe ; cette même surtaxe
-est applicable pendant la durée d'utilisation du dispositif de perforation lorsque l'appareil est équipé pour la transmission
-automatique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
-
-
-##### Paragraphe 4 : Suspension d'une ligne d'abonnement télex.
-
-###### Article D287
-
-Un abonné télex ne doit en aucun cas interrompre, sans autorisation préalable de l'administration, l'alimentation en courant
-industriel d'un appareil téléimprimeur mis à sa disposition.
-
-Si une intervention des services de dérangements est provoquée par une interruption volontaire non autorisée du courant
-d'alimentation de l'appareil téléimprimeur, les frais d'intervention sont mis à la charge de l'abonné.
-
-Les lignes d'abonnement ayant fait l'objet d'une autorisation de suspension sont raccordées sur un dispositif spécial du
-centre de rattachement.
-
-Cette autorisation peut être donnée une fois pour toutes pour une suspension systématique à heures fixes ou,
-occasionnellement, sur demande spéciale. Elle donne lieu à perception de taxes spéciales, suivant les différents cas, fixées
-par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°91-644 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
 
 
 #### Chapitre IV : La régulation des communications électroniques.
