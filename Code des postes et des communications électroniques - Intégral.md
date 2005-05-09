@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-05-01
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -14174,10 +14174,10 @@ fois par an. Le président est tenu de convoquer le conseil d'administration si 
 communications électroniques ou le tiers de ses membres le demande. Il fixe l'ordre du jour des séances.
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour des séances sont portés au moins deux semaines à l'avance à la
-connaissance des membres du conseil d'administration et du contrôleur financier. Le directeur général de l'agence, le
-contrôleur financier et l'agent comptable assistent aux séances avec voix consultative. Le président peut également appeler à
-participer aux séances avec voix consultative toute personne dont il juge la présence utile pour l'étude d'un point
-particulier de l'ordre du jour.
+connaissance des membres du conseil d'administration et du membre du corps du contrôle général économique et financier. Le
+directeur général de l'agence, le membre du corps du contrôle général économique et financier et l'agent comptable assistent
+aux séances avec voix consultative. Le président peut également appeler à participer aux séances avec voix consultative toute
+personne dont il juge la présence utile pour l'étude d'un point particulier de l'ordre du jour.
 
 Le conseil d'administration ne peut valablement délibérer que si la majorité des membres sont présents ou représentés. Si ce
 quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai minimum de huit jours et
@@ -14185,8 +14185,8 @@ un délai maximum de vingt jours. Il délibère alors sans condition de quorum.
 
 La voix du président du conseil d'administration est prépondérante.
 
-Les délibérations font l'objet de procès-verbaux signés par le président et notifiés aux membres du conseil et au contrôleur
-financier dans le mois qui suit la séance.
+Les délibérations font l'objet de procès-verbaux signés par le président et notifiés aux membres du conseil et au membre du
+corps du contrôle général économique et financier dans le mois qui suit la séance.
 
 Le conseil d'administration délibère à la majorité des membres présents ou représentés. Lorsque la délibération porte sur les
 points mentionnés aux 1° et 2° de l'article R. 52-2-4 ainsi que sur la délégation donnée au directeur général, le président
@@ -14203,13 +14203,21 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. R20-44-16 (M)
 
 	**Cite**:
 
@@ -14221,23 +14229,32 @@ et "télécommunications" sont remplacés par les mots "communications électron
 Le conseil d'administration arrête son règlement intérieur. Les délibérations relatives aux questions mentionnées aux 4°, 6°,
 7°, 11°, 13° et 15° de l'article R. 52-2-4 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé du
 budget. En l'absence d'opposition de sa part, cette approbation est réputée acquise un mois après la réception par le
-ministre du procès-verbal des délibérations. Les autres délibérations sont exécutoires de plein droit. Cependant, le
-contrôleur financier peut faire opposition aux délibérations ayant des conséquences financières dans les quinze jours qui
-suivent la réception du procès-verbal de la séance.
+ministre du procès-verbal des délibérations. Les autres délibérations sont exécutoires de plein droit. Cependant, le membre
+du corps du contrôle général économique et financier peut faire opposition aux délibérations ayant des conséquences
+financières dans les quinze jours qui suivent la réception du procès-verbal de la séance.
 
-Dans le cas où il forme opposition, le contrôleur financier en réfère immédiatement au ministre chargé du budget, qui doit se
-prononcer dans un délai d'un mois. A défaut de décision expresse dans ce délai, la délibération du conseil d'administration
-est exécutoire. Le conseil est informé de l'opposition du contrôleur financier.
+Dans le cas où il forme opposition, le membre du corps du contrôle général économique et financier en réfère immédiatement au
+ministre chargé du budget, qui doit se prononcer dans un délai d'un mois. A défaut de décision expresse dans ce délai, la
+délibération du conseil d'administration est exécutoire. Le conseil est informé de l'opposition du membre du corps du
+contrôle général économique et financier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. R20-44-17 (M)
 
 	**Cite**:
 
@@ -14367,9 +14384,9 @@ désignés par le directeur général après avis de l'agent comptable principal
 ###### Article R*52-2-11
 
 L'agence est soumise au contrôle financier de l'Etat institué par le décret du 25 octobre 1935 instituant le contrôle
-financier des offices et établissements publics autonomes de l'Etat. Ce contrôle est assuré par un contrôleur financier dont
-les attributions sont précisées par arrêté du ministre chargé des communications électroniques et du ministre chargé du
-budget.
+financier des offices et établissements publics autonomes de l'Etat. Ce contrôle est assuré par un membre du corps du
+contrôle général économique et financier dont les attributions sont précisées par arrêté du ministre chargé des
+communications électroniques et du ministre chargé du budget.
 
 **Nota:**
 
@@ -14383,13 +14400,21 @@ et "télécommunications" sont remplacés par les mots "communications électron
 
 	  - Décret n°1935-10-25
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. R20-44-21 (V)
 
 
 ###### Article R*52-2-12
@@ -14462,8 +14487,8 @@ Les fonds de l'agence sont placés auprès du Trésor public dans les conditions
 
 ###### Article R*52-2-14
 
-Des régies de recettes et de dépenses peuvent être créées après avis du contrôleur financier dans les conditions fixées par
-le décret n° 92-681 du 20 juillet 1992.
+Des régies de recettes et de dépenses peuvent être créées après avis du membre du corps du contrôle général économique et
+financier dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992.
 
 **Liens relatifs à cet article**
 
@@ -14471,13 +14496,21 @@ le décret n° 92-681 du 20 juillet 1992.
 
 	  - Décret n°92-681 1992-07-20
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-1178 du 27 décembre 1996 - art. 1 () JORF 29 décembre 1996 en vigueur le 1er janvier 1997
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électronique - art. R20-44-24 (M)
 
 
 #### Chapitre IV : Dispositions particulières
