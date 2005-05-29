@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-05-29
+Version Consolidée au 2005-05-30
 
 # Partie législative
 
@@ -8993,320 +8993,6 @@ effet par le ministre chargé des communications électroniques et assermentés 
 
 #### Chapitre II : Régime juridique.
 
-##### SECTION 3 bis : Annuaires universels et services universels de renseignements.
-
-###### Article R10-1
-
-Le fait d'utiliser, dans des opérations de prospection directe, des données à caractère personnel contenues dans les listes
-d'abonnés ou d'utilisateurs du service téléphonique au public relatives aux personnes ayant exprimé leur opposition, par
-application des dispositions du 4 de l'article R. 10, quel que soit le mode d'accès à ces données, est puni, pour chaque
-correspondance ou chaque appel, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
-l'application du premier alinéa de l'article 226-18 du code pénal.
-
-La prospection directe des personnes physiques en violation des dispositions du premier alinéa de l'article L. 34-5 est
-punie, pour chaque communication, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
-l'application du premier alinéa de l'article 226-18 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Cite**:
-
-	  - Code pénal - art. 226-18 (M)
-	  - Code des postes et des communications électronique - art. L34-5 (M)
-	  - Code des postes et des communications électronique - art. R10 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R48-1 (VT)
-	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-11 (V)
-	  - Code des postes et des communications électronique - art. R11 (T)
-
-
-###### Article R10-2
-
-Les personnes qui ont souscrit un abonnement au service télex peuvent demander à être inscrite gratuitement dans le fichier
-institué par l'article 10 de la loi n° 89-1008 du 31 décembre 1989, établi et mis à jour par l'opérateur chargé du service
-obligatoire de télex en application de l'article L. 35-5.
-
-Est interdite la prospection directe effectuée par télex de toute personne inscrite dans ce fichier. Cette interdiction prend
-effet immédiatement lorsque la demande d'inscription est formulée au moment de la souscription de l'abonnement. Elle prend
-effet deux mois après la date de la demande lorsque celle-ci est postérieure à la souscription de l'abonnement.
-
-Le fait de contrevenir à l'interdiction édictée à l'alinéa précédent est puni, sans préjudice de l'application du premier
-alinéa de l'article 226-18 du code pénal, pour chaque exemplaire du message expédié par télex, de l'amende prévue pour les
-contraventions de la quatrième classe.
-
-Tout fournisseur au public d'un service télex ou tout distributeur d'un tel service fait connaître à chaque abonné la
-possibilité prévue au premier alinéa et lui fait parvenir un formulaire permettant d'exprimer son choix. Lorsque l'abonné
-demande son inscription dans le fichier, le fournisseur du service ou son distributeur lui notifie la date à laquelle son
-inscription est effective.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°89-1008 1989-12-31 art. 10
-	  - Code pénal - art. 226-18 (M)
-	  - Code des postes et des communications électronique - art. L35-5 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R48-1 (VT)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-	  - Code des postes et des communications électronique - art. R10-10 (MMN)
-	  - Code des postes et des communications électronique - art. R11 (MMN)
-
-
-###### Article R10-3
-
-I. - Les opérateurs établissent les listes d'abonnés et d'utilisateurs mentionnées au troisième alinéa de l'article L. 33-4
-(1).
-
-Ces listes contiennent les données permettant d'identifier les abonnés ou les utilisateurs, d'empêcher toute confusion entre
-les personnes et de prendre connaissance des oppositions qui ont été formulées en application de l'article R. 10.
-
-Sans préjudice des dispositions des 1, 2 et 3 de l'article R. 10, ces données sont constituées par les noms, prénoms et, le
-cas échéant, les raisons sociales ou dénominations sociales, adresses et numéros de téléphone des abonnés au service
-téléphonique au public et de ses utilisateurs. Les abonnés à la téléphonie fixe peuvent demander l'insertion dans les listes
-des données relatives aux autres utilisateurs de la ligne concernée, sous réserve de leur accord, qui doit accompagner la
-demande.
-
-Les opérateurs insèrent dans les listes la mention de la profession ou activité des personnes qui en font la demande sous
-leur responsabilité. Ils peuvent également proposer l'insertion des adresses électroniques des abonnés ou utilisateurs.
-
-Les listes font apparaître les oppositions que les abonnés ou utilisateurs ont formulées en application de l'article R. 10.
-
-II. - Les opérateurs prennent, chacun en ce qui le concerne, les précautions nécessaires afin d'assurer le contrôle de
-l'exactitude des données figurant dans les listes et de la qualité, notamment technique, de ces listes qui doivent être mises
-à jour.
-
-Afin que les données correspondantes soient prises en compte dans ces listes, les distributeurs transmettent à chaque
-opérateur, dans un délai d'un jour suivant la date de la souscription du contrat, les données relatives à l'abonné avec
-lequel un contrat a été signé.
-
-**Nota:**
-
-NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
-2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
-même loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R10 (V)
-	  - Code des postes et des communications électroni... - art. R10-7 (V)
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L33-4 (M)
-
-
-###### Article R10-4
-
-I. - Les opérateurs communiquent les listes d'abonnés et d'utilisateurs prévues au troisième alinéa de l'article L. 33-4 à
-toute personne souhaitant éditer un annuaire universel ou fournir un service universel de renseignements dans les conditions
-suivantes :
-
-- soit sous la forme d'un fichier ;
-
-- soit par accès à une base de données que les opérateurs sont tenus de mettre à jour dans un délai n'excédant pas deux jours
-ouvrables suivant la souscription du contrat par l'abonné ou la réception des données utiles transmises par des
-distributeurs.
-
-Les données communiquées concernent soit l'ensemble des abonnés et des utilisateurs domiciliés en France, soit les abonnés et
-utilisateurs domiciliés dans la ou les communes de la zone géographique faisant l'objet de la demande.
-
-Les modalités d'accès à cette base de données, le format des données ainsi que les caractéristiques du fichier mentionné au
-deuxième alinéa sont définis par accord entre le demandeur et l'opérateur.
-
-Préalablement à toute communication des listes qu'ils ont constituées, les opérateurs en retirent les données relatives aux
-abonnés et utilisateurs qui ont demandé à la fois le bénéfice des dispositions du 1 et du 5 de l'article R. 10.
-
-II. - L'usage des listes obtenues par application du troisième alinéa de l'article L. 33-4 à d'autres fins que la fourniture
-d'annuaires universels ou de services universels de renseignements téléphoniques est interdit.
-
-Sauf stipulations contractuelles contraires, toute vente des listes obtenues par application du troisième alinéa de l'article
-L. 33-4 est interdite.
-
-Sans préjudice de l'application des peines prévues à l'article 226-21 du code pénal, le fait de contrevenir aux dispositions
-du II du présent article est puni, pour chaque abonné concerné, de l'amende prévue pour les contraventions de la quatrième
-classe.
-
-**Nota:**
-
-NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
-2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
-même loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Cite**:
-
-	  - Code pénal - art. 226-21 (M)
-	  - Code des postes et des communications électronique - art. L33-4 (M)
-	  - Code des postes et des communications électronique - art. R10 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R48-1 (V)
-	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-11 (V)
-	  - Code des postes et des communications électronique - art. D98-1 (M)
-	  - Code des postes et des communications électronique - art. D98-7 (V)
-	  - Code des postes et des communications électronique - art. R11 (T)
-
-
-###### Article R10-5
-
-Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements prennent les mesures nécessaires
-pour préserver, compte tenu des techniques disponibles, la sécurité des informations qui leur ont été communiquées en
-application de l'article L. 33-4 afin d'empêcher l'altération, la destruction ou la communication à des tiers non autorisés
-des fichiers et des données qu'ils contiennent. Ils prennent toutes dispositions, notamment contractuelles, vis-à-vis de
-leurs agents et de leurs partenaires commerciaux afin que ceux-ci respectent la confidentialité des informations qui leur ont
-été, le cas échéant, confiées.
-
-Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements ne doivent pas effectuer ou
-permettre à quiconque d'effectuer des opérations tendant à isoler au sein des listes mentionnées au premier alinéa les
-abonnés d'un opérateur ou d'un distributeur particulier.
-
-Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements traitent et présentent de
-manière non discriminatoire les données relatives aux abonnés qui leur sont communiquées par les opérateurs. Ils
-s'abstiennent notamment de toute discrimination en fonction de l'opérateur ou du distributeur.
-
-Les insertions publicitaires ou autres prestations permettant aux professionnels qui le souhaitent d'apparaître dans les
-annuaires universels de manière particulière doivent être identifiées comme telles.
-
-Lorsqu'une personne disposant de plusieurs contrats d'abonnement fait usage des droits prévus à l'article R. 10 de manière
-différente selon les opérateurs, les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements
-doivent appliquer aux données à caractère personnel la concernant soit l'ensemble des protections qu'elle a choisies auprès
-des différents opérateurs, soit la protection la plus forte qu'elle a choisie auprès de l'un des opérateurs.
-
-**Nota:**
-
-NOTA : L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n°
-2004-669 du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette
-même loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L33-4 (M)
-
-
-###### Article R10-6
-
-La communication des listes d'abonnés et d'utilisateurs, par application du troisième alinéa de l'article L. 33-4, donne lieu
-à rémunération des opérateurs ayant communiqué ces données.
-
-Les tarifs de cette communication, qui reflètent le coût du service rendu, sont établis par chaque opérateur selon les
-principes suivants :
-
-1. Les coûts pris en compte pour la fixation du tarif sont ceux qui sont causés, directement ou indirectement, par la
-fourniture des listes d'abonnés. Ces coûts peuvent notamment comprendre une part liée à l'amortissement du matériel
-informatique et des logiciels nécessaires et une rémunération normale des capitaux employés.
-
-2. Les coûts qui sont spécifiques à la fourniture des listes d'abonnés sont entièrement pris en compte dans la fixation du
-tarif. Les coûts liés à d'autres activités de l'opérateur en sont exclus.
-
-**Nota:**
-
-L'article L. 33-4 du code des postes et des communications électroniques a été abrogé par l'article 8 I de la loi n° 2004-669
-du 9 juillet 2004.Le nouvel article L. 33-4 est issu du transfert de l'article L. 34-5 par l'article 8 II de cette même loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L33-4 (M)
-
-
-###### Article R10-8
-
-L'annuaire universel sous forme imprimée édité en application de l'article L. 35-4 est publié chaque année à une date portée
-à la connaissance du public.
-
-L'annuaire universel sous forme électronique prévu par les mêmes dispositions permet l'accès immédiat du public, à un tarif
-abordable, aux informations qu'il contient et qui sont régulièrement mises à jour.
-
-L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
-l'article L. 35-1 met gratuitement à la disposition de tout abonné au service téléphonique au public un exemplaire des
-volumes départementaux de l'annuaire universel du département dans lequel l'abonnement a été souscrit ou, lorsqu'il s'agit
-d'un abonnement à la téléphonie mobile, du département où se situe l'adresse de facturation, y compris lorsque l'intéressé a
-fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
-dispose de plusieurs abonnements correspondant à une même adresse, il est mis à disposition un seul exemplaire gratuit. Cet
-opérateur propose à la vente l'annuaire universel à un tarif abordable.
-
-Le service universel de renseignements assuré par cet opérateur est accessible à un tarif abordable.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-1222 du 17 novembre 2004 - art. 14 () JORF 19 novembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L35-1 (M)
-	  - Code des postes et des communications électronique - art. L35-2 (M)
-	  - Code des postes et des communications électronique - art. L35-4 (M)
-	  - Code des postes et des communications électronique - art. R10 (M)
-
-
 ##### Section 2 : Annuaires et services de renseignements.
 
 ###### Article R10
@@ -9384,6 +9070,224 @@ informations prévues au premier alinéa du présent article.
 	  - Code des postes et des communications électronique - art. L34-5 (M)
 
 
+###### Article R10-1
+
+Le fait d'utiliser, dans des opérations de prospection directe, des données à caractère personnel contenues dans les listes
+d'abonnés ou d'utilisateurs du service téléphonique au public relatives aux personnes ayant exprimé leur opposition, par
+application des dispositions du 4 de l'article R. 10, quel que soit le mode d'accès à ces données, est puni, pour chaque
+correspondance ou chaque appel, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
+l'application du premier alinéa de l'article 226-18 du code pénal.
+
+La prospection directe des personnes physiques en violation des dispositions du premier alinéa de l'article L. 34-5 est
+punie, pour chaque communication, de l'amende prévue pour les contraventions de la quatrième classe, sans préjudice de
+l'application du premier alinéa de l'article 226-18 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-18 (M)
+	  - Code des postes et des communications électronique - art. L34-5 (M)
+	  - Code des postes et des communications électronique - art. R10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R48-1 (VT)
+	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-11 (V)
+	  - Code des postes et des communications électronique - art. R11 (T)
+
+
+###### Article R10-3
+
+I.-Les opérateurs établissent les listes d'abonnés et d'utilisateurs mentionnées au quatrième alinéa de l'article L. 34. 
+
+Ces listes contiennent les données permettant d'identifier les abonnés ou les utilisateurs, d'empêcher toute confusion entre
+les personnes et de prendre connaissance des oppositions qui ont été formulées en application de l'article R. 10. 
+
+Sans préjudice des dispositions des 1,2 et 3 de l'article R. 10, ces données sont constituées par les noms, prénoms et, le
+cas échéant, les raisons sociales ou dénominations sociales, adresses et numéros de téléphone des abonnés au service
+téléphonique au public et de ses utilisateurs. Les abonnés à la téléphonie fixe ou mobile peuvent demander l'insertion dans
+les listes des données relatives aux autres utilisateurs de la ligne concernée, sous réserve de leur accord, qui doit
+accompagner la demande. 
+
+Les opérateurs insèrent dans les listes la mention de la profession ou activité des personnes qui en font la demande sous la
+responsabilité du demandeur. Ils peuvent également proposer l'insertion des adresses électroniques des abonnés ou
+utilisateurs. Pour un abonné professionnel, l'opérateur n'insère que le ou les principaux numéros de cet abonné ainsi que
+ceux dont ce dernier a, le cas échéant, demandé l'inscription et ne fait figurer le nom des personnes physiques
+utilisatrices, si l'abonné le demande, qu'après que celui-ci ait attesté avoir recueilli le consentement préalable de ces
+personnes. 
+
+Les listes font apparaître les oppositions que les abonnés ou utilisateurs ont formulées en application de l'article R. 10. 
+
+II.-Les opérateurs prennent, chacun en ce qui le concerne, les précautions nécessaires afin d'assurer le contrôle de
+l'exactitude des données figurant dans les listes et de la qualité, notamment technique, de ces listes qui doivent être mises
+à jour sous réserve des dispositions du quatrième alinéa du I du présent article. 
+
+Afin que les données correspondantes soient prises en compte dans ces listes, les distributeurs transmettent à chaque
+opérateur, dans un délai d'un jour suivant la date de la souscription du contrat, les données relatives à l'abonné avec
+lequel un contrat a été signé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-606 2005-05-27 art. 1 I, II, V JORF 29 mai 2005
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L34 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R10 (V)
+	  - Code des postes et des communications électroni... - art. R10-7 (V)
+
+
+###### Article R10-4
+
+I.-Les opérateurs communiquent, sous la forme d'un fichier transmis sur support électronique, les listes d'abonnés et
+d'utilisateurs prévues au quatrième alinéa de l'article L. 34, à toute personne souhaitant éditer un annuaire universel ou
+fournir un service universel de renseignements. 
+
+Les données communiquées concernent soit l'ensemble des abonnés et des utilisateurs domiciliés en France, soit les abonnés et
+utilisateurs domiciliés dans la ou les communes de la zone géographique faisant l'objet de la demande. 
+
+Les modalités d'accès à cette base de données, le format des données ainsi que les caractéristiques du fichier mentionné au
+deuxième alinéa sont définis par accord entre le demandeur et l'opérateur. 
+
+Préalablement à toute communication des listes qu'ils ont constituées, les opérateurs en retirent les données relatives aux
+abonnés et utilisateurs qui bénéficient des dispositions du 1 de l'article R. 10. 
+
+II.-L'usage des listes obtenues par application du quatrième alinéa de l'article L. 34 à d'autres fins que la fourniture
+d'annuaires universels ou de services universels de renseignements téléphoniques est interdit. 
+
+Sauf stipulations contractuelles contraires, toute vente des listes obtenues par application du quatrième alinéa de l'article
+L. 34 est interdite. 
+
+Sans préjudice de l'application des peines prévues à l'article 226-21 du code pénal, le fait de contrevenir aux dispositions
+du II du présent article est puni, pour chaque abonné concerné, de l'amende prévue pour les contraventions de la quatrième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-606 2005-05-27 art. 1 I, II, VI JORF 29 mai 2005
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-21 (V)
+	  - Code des postes et des communications électroni... - art. L34 (V)
+	  - Code des postes et des communications électroni... - art. R10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R48-1 (V)
+	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-11 (V)
+	  - Code des postes et des communications électronique - art. D98-1 (M)
+	  - Code des postes et des communications électronique - art. D98-7 (V)
+	  - Code des postes et des communications électronique - art. R11 (T)
+
+
+###### Article R10-5
+
+Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements prennent les mesures nécessaires
+pour préserver, compte tenu des techniques disponibles, la sécurité des informations qui leur ont été communiquées en
+application de l'article L. 34 afin d'empêcher l'altération, la destruction ou la communication à des tiers non autorisés des
+fichiers et des données qu'ils contiennent. Ils prennent toutes dispositions, notamment contractuelles, vis-à-vis de leurs
+agents et de leurs partenaires commerciaux afin que ceux-ci respectent la confidentialité des informations qui leur ont été,
+le cas échéant, confiées. 
+
+Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements ne doivent pas effectuer ou
+permettre à quiconque d'effectuer des opérations tendant à isoler au sein des listes mentionnées au premier alinéa les
+abonnés d'un opérateur ou d'un distributeur particulier. 
+
+Les éditeurs d'annuaire universel et les fournisseurs de service universel de renseignements traitent et présentent de
+manière non discriminatoire les données relatives aux abonnés qui leur sont communiquées par les opérateurs. Ils
+s'abstiennent notamment de toute discrimination en fonction de l'opérateur ou du distributeur. 
+
+Les insertions publicitaires ou autres prestations permettant aux professionnels qui le souhaitent d'apparaître dans les
+annuaires universels de manière particulière doivent être identifiées comme telles. 
+
+Lorsqu'une personne dispose de plusieurs contrats d'abonnement, elle peut faire usage des droits prévus à l'article R. 10 de
+manière différente pour chaque abonnement. Pour les abonnements qu'une personne a choisi d'inscrire dans les listes d'abonnés
+et si elle n'a pas choisi le même degré de protection pour chacun d'entre eux, les opérateurs, les éditeurs d'annuaires
+universels et les fournisseurs de services universels de renseignements doivent appliquer aux données à caractère personnel
+relatives à cet abonné la protection la plus forte qu'il a choisie. 
+
+Les éditeurs d'annuaires universels et les fournisseurs de services universels de renseignements sont tenus de mettre à jour
+les informations publiées dans un délai de deux jours ouvrables suivant la réception des informations utiles, pour les
+annuaires sous forme électronique et pour les services de renseignements, et dans un délai compatible avec la périodicité de
+leur publication, dans le cas des annuaires imprimés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-606 2005-05-27 art. 1 I, II, VII JORF 29 mai 2005
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L34 (V)
+	  - Code des postes et des communications électroni... - art. R10 (V)
+
+
+###### Article R10-6
+
+La communication des listes d'abonnés et d'utilisateurs, par application du quatrième alinéa de l'article L. 34, donne lieu à
+rémunération des opérateurs ayant communiqué ces données. 
+
+Les tarifs de cette communication, qui reflètent le coût du service rendu, sont établis par chaque opérateur selon les
+principes suivants : 
+
+1. Les coûts pris en compte pour la fixation du tarif sont ceux qui sont causés, directement ou indirectement, par la
+fourniture des listes d'abonnés. Ces coûts peuvent notamment comprendre une part liée à l'amortissement du matériel
+informatique et des logiciels nécessaires et une rémunération normale des capitaux employés. 
+
+2. Les coûts qui sont spécifiques à la fourniture des listes d'abonnés sont entièrement pris en compte dans la fixation du
+tarif. Les coûts liés à d'autres activités de l'opérateur en sont exclus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-606 2005-05-27 art. 1 I, II JORF 29 mai 2005
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L34 (V)
+
+
 ###### Article R10-7
 
 Sous réserve des dispositions des 1,2,3 et 5 de l'article R. 10, tout annuaire universel sous forme imprimée ou électronique
@@ -9423,6 +9327,35 @@ rectification, leur mise à jour ou leur destruction.
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 302 bis KH (V)
+
+
+###### Article R10-8
+
+L'annuaire universel sous forme imprimée édité en application de l'article L. 35-4 est publié chaque année à une date portée
+à la connaissance du public.
+
+L'annuaire universel sous forme électronique prévu par les mêmes dispositions permet l'accès immédiat du public, à un tarif
+abordable, aux informations qu'il contient et qui sont régulièrement mises à jour.
+
+L'opérateur chargé, en application de l'article L. 35-2, de fournir la composante du service universel mentionnée au 2° de
+l'article L. 35-1 met gratuitement à la disposition de tout abonné au service téléphonique au public un exemplaire des
+volumes départementaux de l'annuaire universel du département dans lequel l'abonnement a été souscrit ou, lorsqu'il s'agit
+d'un abonnement à la téléphonie mobile, du département où se situe l'adresse de facturation, y compris lorsque l'intéressé a
+fait usage des droits prévus à l'article R. 10. Lorsque plusieurs abonnés ont le même domicile ou lorsque la même personne
+dispose de plusieurs abonnements correspondant à une même adresse, il est mis à disposition un seul exemplaire gratuit. Cet
+opérateur propose à la vente l'annuaire universel à un tarif abordable.
+
+Le service universel de renseignements assuré par cet opérateur est accessible à un tarif abordable.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ###### Article R10-9
@@ -9485,19 +9418,22 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 	  - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 bis : Annuaires universels et services universels de renseignement.
-
 ###### Article R11
 
 Ainsi que le prévoit l'article R. 48-1 du code de procédure pénale, les dispositions de l'article 529 du code de procédure
-pénale relatives à l'amende forfaitaire sont applicables aux infractions définies aux articles R. 10-1, R. 10-2, R. 10-4 et
-R. 10-9 du présent code.
+pénale relatives à l'amende forfaitaire sont applicables aux infractions définies aux articles R. 10-1, R. 10-4 et R. 10-9 du
+présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-752 du 1 août 2003 - art. 1 () JORF 6 août 2003
+	  - Décret n°2005-606 2005-05-27 art. 1 I, IV JORF 29 mai 2005
+	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Transféré par**:
+
+	  - Décret n°2006-358 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
 	**Codifié par**:
 
@@ -9506,7 +9442,6 @@ R. 10-9 du présent code.
 	**Cite**:
 
 	  - Code des postes et des communications électronique - art. R10-1 (M)
-	  - Code des postes et des communications électronique - art. R10-2 (M)
 	  - Code des postes et des communications électronique - art. R10-4 (M)
 	  - Code des postes et des communications électronique - art. R10-9 (M)
 	  - CODE DE PROCEDURE PENALE - art. 529 (M)
