@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-09-16
 
 # Partie législative
 
@@ -11947,6 +11947,65 @@ Les dispositions du présent article ne s'appliquent pas aux installations de l'
 	  - Code des postes et des communications électroniques R52-1
 
 
+###### Article R20-44-6
+
+Sur demande de l'administration ou de l'autorité affectataire tenue de procéder ou de faire procéder à un réaménagement de
+fréquences, l'Agence nationale des fréquences arrête les dépenses et frais nécessaires à ces réaménagements et qui font
+l'objet d'une intervention du fonds de réaménagement du spectre ou d'un préfinancement par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 2 () JORF 16 septembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2009-948 du 29 juillet 2009 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électroniques R52-1
+
+
+###### Article R20-44-7
+
+Les dépenses et frais faisant l'objet d'un préfinancement, définis à l'article R. 20-44-6, sont répartis entre les titulaires
+d'une autorisation d'utilisation de fréquences assignées à l'issue des réaménagements selon les modalités fixées par l'Agence
+nationale des fréquences. L'agence tient notamment compte de la largeur de bande du spectre attribué et, lorsque ce critère
+s'applique, de la population de la zone couverte. 
+
+L'agence fixe également le calendrier des contributions au remboursement dues par les titulaires des autorisations
+d'utilisation des fréquences. La durée du préfinancement ne peut excéder 5 ans à compter de la date de l'autorisation
+d'utilisation de fréquences du titulaire. 
+
+A l'issue des opérations de réaménagement, l'Agence nationale des fréquences arrête le montant définitif de celles-ci et des
+remboursements dus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 2 () JORF 16 septembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-6 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électroniques R52-1
+
+
 ##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.
 
 ###### Article R20-44-9
@@ -12026,13 +12085,16 @@ domaine de compétence.
 Elle coordonne l'action de la représentation française dans les comités, commissions, groupes d'experts et groupes de travail
 créés par ces instances, avec lesquelles elle assure des liaisons permanentes.
 
+Elle entretient des relations avec les administrations étrangères chargées de la gestion du spectre. A ce titre, elle peut
+notamment procéder à des échanges d'experts.
+
 2° L'agence mène des analyses prospectives du spectre des fréquences radioélectriques en vue de son utilisation optimale par
 les utilisateurs publics ou privés sans préjudice des compétences propres des administrations et autorités affectataires.
 Elle procède à l'examen périodique de l'utilisation du spectre et recommande les aménagements qui lui paraissent nécessaires.
 
-3° Elle prépare et soumet à l'approbation du Premier ministre qui l'approuve, en application de l'article 21 de la loi du 30
-septembre 1986 susvisée, la répartition des bandes de fréquences entre catégories de services au sens du règlement des
-radiocommunications de l'Union internationale des télécommunications et entre administrations et autorités affectataires.
+3° Elle prépare et soumet à l'approbation du Premier ministre, en application de l'article L. 41, la répartition des bandes
+de fréquences entre catégories de services au sens du règlement des radiocommunications de l'Union internationale des
+télécommunications et entre administrations et autorités affectataires.
 
 Elle établit et tient à jour le tableau national de répartition des bandes de fréquences.
 
@@ -12051,40 +12113,31 @@ Les dossiers de demande d'assignation ou de tenue à jour des fichiers d'assigna
 l'utilisateur à l'agence si l'administration ou l'autorité affectataire en est d'accord. L'agence informe alors directement
 l'utilisateur et l'administration ou l'autorité affectataire du résultat de la procédure.
 
-5° Afin d'assurer une utilisation optimale des sites disponibles permettant d'atteindre la meilleure compatibilité
-électromagnétique d'ensemble, les décisions d'implantation, de transfert ou de modification des stations radioélectriques
-sont prises après avis ou avec l'accord de l'agence.
-
-Elles sont prises après avis de l'agence lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel.
-
-L'accord de l'agence est obligatoire dans tous les autres cas, à l'exception des décisions d'implantation de stations
-radioélectriques non militaires suivantes :
-
-- les stations radioélectriques mentionnées à l'article L. 33-3 ;
-
-- les stations terminales d'usager des réseaux ouverts au public et des réseaux indépendants installées et utilisées
-conformément aux normes ou réglementations en vigueur ;
-
-- les stations installées dans les parties intérieures des bâtiments ou en façade d'immeuble sur la voirie urbaine, et
-répondant à des normes définies par arrêté. Cet arrêté pris sur proposition de l'agence précise également celles de ces
-stations qui donnent toutefois lieu à déclaration auprès de l'agence.
+5° L'accord ou l'avis de l'agence prévu au dernier alinéa du I de l'article L. 43 n'est pas requis pour les décisions
+d'implantation, de transfert ou de modification des installations radioélectriques non militaires mentionnées à l'article L.
+33-3 ou des stations dont la puissance est inférieure à un niveau défini par arrêté du ministre chargé des communications
+électroniques. Le même arrêté fixe les conditions dans lesquelles l'agence est informée de l'implantation et des
+caractéristiques techniques de ces stations et installations.
 
 Le dossier de demande d'avis ou d'accord peut être transmis directement par l'utilisateur à l'agence si l'administration ou
 l'autorité affectataire en est d'accord. L'agence informe alors directement l'utilisateur et l'administration ou l'autorité
 affectataire de l'avis ou de l'accord.
 
 Devant le silence gardé par l'agence, l'avis ou l'accord est réputé acquis au terme d'un délai de deux mois après la saisine
-de l'agence.
+de l'agence. Les avis et accords mentionnés au présent 5° sont caducs en l'absence de tout commencement d'exécution des
+opérations qu'ils concernent dans un délai de douze mois à compter de leur notification ou, si elle est postérieure, de
+l'entrée en vigueur de l'autorisation d'utilisation de fréquences.
 
 L'agence est consultée sur les projets de servitudes radioélectriques dans les conditions prévues par le présent code. Elle
 constitue, tient à jour et diffuse la documentation relative aux servitudes établies en ce domaine au titre des différents
-ministères.
+ministères et autorités affectataires.
 
 En liaison avec les services et organismes compétents, elle établit et diffuse les documents, répertoires et fichiers
-relatifs aux installations radioélectriques et aux zones de groupement des installations radioélectriques.
+relatifs aux stations radioélectriques et aux zones de groupement des stations radioélectriques.
 
-6° Elle fait toutes propositions en matière de règles de compatibilité électromagnétique, d'ingénierie du spectre et de
-normes propres à assurer une bonne utilisation des systèmes radioélectriques.
+6° Elle fait toutes propositions en matière de règles de compatibilité électromagnétique, d'ingénierie du spectre, de
+limitation de l'exposition du public aux champs électromagnétiques, et de normes propres à assurer une bonne utilisation des
+systèmes radioélectriques.
 
 7° Dans son domaine de compétence, elle est chargée de prévoir, en liaison avec le secrétariat général de la défense
 nationale et selon ses directives, la mise en oeuvre des mesures entraînées par l'application de l'article L. 1111-2 du code
@@ -12094,13 +12147,16 @@ ministre chargé des communications électroniques et les autres ministres conce
 8° Elle est responsable de la coordination internationale des fréquences aux frontières et de celle des systèmes de
 communications électroniques par satellite.
 
-9° Elle évalue le coût des opérations de réaménagement du spectre des fréquences radioélectriques, en établit un calendrier
-de réalisations, veille à sa mise en oeuvre et gère les crédits qui sont destinés à ce réaménagement.
+9° Elle évalue le coût des opérations de réaménagement du spectre des fréquences radioélectriques, fixe le montant et les
+modalités de répartition des contributions correspondantes, en établit un calendrier de réalisations, veille à leur mise en
+oeuvre et gère le fonds de réaménagement du spectre.
 
 10° Elle organise et coordonne le contrôle de l'utilisation des fréquences, sans préjudice des compétences de contrôle
 spécifique exercé par les administrations et autorités affectataires. Elle peut être saisie par ces dernières ou par des
 tiers des cas de brouillage, qu'elle instruit. Elle transmet son rapport d'instruction à l'administration ou autorité
 affectataire.
+
+Elle veille au respect des exigences de qualité prévues par l'article L. 34-9-1.
 
 Elle assure les fonctions de bureau centralisateur prévu par le règlement des radiocommunications de l'Union internationale
 des télécommunications.
@@ -12110,17 +12166,37 @@ avec elles, assurer tout ou partie de la gestion de leurs plans de fréquences e
 demandes d'autorisation, délivrer les documents administratifs découlant de ces autorisations et effectuer les contrôles
 nécessaires. La comptabilité de l'agence permet de déterminer et de suivre le coût d'exécution de chaque convention.
 
+12° Elle procède à des contrôles en vue de rechercher et de constater les infractions relatives à la conformité des
+équipements visés à l'article L. 34-9. Elle reçoit les déclarations prévues à l'article R. 20-11.
+
+13° Elle procède aux visites de contrôle des navires, pour les questions radioélectriques, conformément à l'article 3 de la
+loi n° 83-581 modifiée du 5 juillet 1983 sur la sauvegarde de la vie humaine en mer et l'habitabilité à bord des navires et
+la prévention de la pollution.
+
+14° Elle organise pour le compte du ministre chargé des communications électroniques les examens donnant accès aux
+certificats d'opérateur des services d'amateur et gère les indicatifs des séries internationales attribués aux stations
+radioélectriques des services d'amateur.
+
+15° Elle reçoit et instruit pour le compte du ministre chargé des communications électroniques les demandes d'assignation de
+fréquence relative à un système satellitaire visées à l'article L. 97-2..
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1067 1986-09-30 art. 21
+	  - Loi n°83-581 du 5 juillet 1983 - art. 3, v. init.
 	  - Code des postes et des communications électronique - art. L33-3 (M)
-	  - Code de la défense. - art. L1111-2 (V)
+	  - Code des postes et des communications électronique - art. L34-9 (M)
+	  - Code des postes et des communications électronique - art. L34-9-1 (V)
+	  - Code des postes et des communications électronique - art. L41 (M)
+	  - Code des postes et des communications électronique - art. L43 (M)
+	  - Code des postes et des communications électronique - art. L97-2 (M)
+	  - Code des postes et des communications électronique - art. R20-11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 3 () JORF 16 septembre 2005
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -12224,54 +12300,61 @@ sont remplacés pour la durée restant à courir jusqu'au terme de celui-ci.
 ###### Article R20-44-14
 
 Le conseil d'administration arrête les orientations générales des activités de l'établissement et délibère notamment sur les
-questions suivantes :
+questions suivantes : 
 
 1° Approbation du projet de tableau national de répartition des bandes de fréquences entre les administrations et les
-autorités affectataires et catégories de services auxquels sont destinées ces bandes ;
+autorités affectataires et catégories de services auxquels sont destinées ces bandes ; 
 
 2° Proposition du mandat et de la composition de la délégation française aux conférences internationales traitant de
-radiocommunications ;
+radiocommunications ; 
 
-3° Approbation du programme des activités et des investissements de l'agence ;
+3° Approbation du programme des activités et des investissements de l'agence ; 
 
 4° Approbation du budget de l'agence et des modifications au budget qui comportent soit une augmentation des dépenses, soit
 une diminution des recettes, soit des virements de crédits entre les sections des opérations en capital et la section de
-fonctionnement ;
+fonctionnement ; 
 
-5° Approbation du rapport annuel d'activité ;
+5° Approbation du rapport annuel d'activité ; 
 
-6° Approbation du compte financier ;
+6° Approbation du compte financier ; 
 
-7° Fixation et affectation des résultats de l'exercice ;
+7° Fixation et affectation des résultats de l'exercice ; 
 
-8° Approbation de l'organisation générale de l'établissement ;
+8° Approbation de l'organisation générale de l'établissement ; 
 
-9° Approbation des conventions mentionnées au 11° de l'article R. 52-2-1 ;
+9° Approbation des conventions mentionnées au 11° de l'article R. 20-44-11 ; 
 
 10° Fixation des conditions dans lesquelles les projets de marchés, d'aides au réaménagement du spectre et de conventions
-sont soumis à son approbation ;
+sont soumis à son approbation ; 
 
 11° Approbation des projets de constructions, d'achats ou ventes d'immeubles, constitution d'hypothèque ou de droits réels,
-projets de baux et locations d'immeubles ;
+projets de baux et locations d'immeubles ; 
 
-12° Acceptation ou refus des dons et legs ;
+12° Acceptation ou refus des dons et legs ; 
 
-13° Fixation des conditions générales de recrutement, d'emploi et de rémunération du personnel contractuel ;
+13° Fixation des conditions générales de recrutement, d'emploi et de rémunération du personnel contractuel ; 
 
-14° Formation et composition de commissions consultatives compétentes dans le cadre des différentes missions de l'agence ;
+14° Formation et composition de commissions consultatives compétentes dans le cadre des différentes missions de l'agence ; 
 
-15° Approbation des conventions passées avec des personnes publiques ou privées relatives aux conditions de versements et de
-réutilisation des contributions au réaménagement du spectre.
+15° Intervention du fonds de réaménagement du spectre ou préfinancement par celui-ci des opérations de réaménagements, sur
+demande des administrations ou autorités affectataires, coût de ces opérations et approbation des conventions passées avec
+des personnes publiques ou privées relatives aux conditions de versements et de réutilisation des contributions au
+réaménagement du spectre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 2005-09-13 art. 4 I, II JORF 16 septembre 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
 
 	**Cité par**:
 
@@ -12284,36 +12367,32 @@ réutilisation des contributions au réaménagement du spectre.
 	  - Code des postes et des communications électronique - art. R*52-2-4 (T)
 	  - Code des postes et des communications électroniques R52-2-4
 
-	**Cite**:
-
-	  - Code des postes et des communications électroniques R52-2-1
-
 
 ###### Article R20-44-15
 
 Le conseil d'administration peut donner au directeur général de l'agence délégation pour exercer, au nom de l'établissement,
 les compétences qui lui sont dévolues, à l'exception de celles mentionnées aux 1°, 3° à 10° et 12° à 14° de l'article R.
-52-2-4. Il précise les conditions de cette délégation et peut, notamment, subordonner l'exercice de la compétence déléguée à
-la réunion de l'une des commissions consultatives prévues au 14° du même article.
+20-44-14. Il précise les conditions de cette délégation et peut, notamment, subordonner l'exercice de la compétence déléguée
+à la réunion de l'une des commissions consultatives prévues au 14° du même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-14 (V)
+
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-5 (T)
 	  - Code des postes et des communications électroniques R52-2-5
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques R52-2-4
 
 
 ###### Article R20-44-16
@@ -12338,7 +12417,7 @@ Les délibérations font l'objet de procès-verbaux signés par le président et
 corps du contrôle général économique et financier dans le mois qui suit la séance.
 
 Le conseil d'administration délibère à la majorité des membres présents ou représentés. Lorsque la délibération porte sur les
-points mentionnés aux 1° et 2° de l'article R. 52-2-4 ainsi que sur la délégation donnée au directeur général, le président
+points mentionnés aux 1° et 2° de l'article R. 20-44-14 ainsi que sur la délégation donnée au directeur général, le président
 du conseil d'administration notifie au Premier ministre et à chacun des membres le projet de délibération adopté par le
 conseil tel qu'amendé pour tenir compte des observations exprimées. Ce projet de délibération devient définitif à l'issue
 d'un délai de quinze jours à compter de sa notification, sauf si le Premier ministre demande dans ce délai une nouvelle
@@ -12346,9 +12425,9 @@ délibération du conseil d'administration.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
@@ -12361,13 +12440,13 @@ délibération du conseil d'administration.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques R52-2-4
+	  - Code des postes et des communications électronique - art. R20-44-14 (M)
 
 
 ###### Article R20-44-17
 
 Le conseil d'administration arrête son règlement intérieur. Les délibérations relatives aux questions mentionnées aux 4°, 6°,
-7°, 11°, 13° et 15° de l'article R. 52-2-4 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé du
+7°, 11°, 13° et 15° de l'article R. 20-44-14 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé du
 budget. En l'absence d'opposition de sa part, cette approbation est réputée acquise un mois après la réception par le
 ministre du procès-verbal des délibérations. Les autres délibérations sont exécutoires de plein droit. Cependant, le membre
 du corps du contrôle général économique et financier peut faire opposition aux délibérations ayant des conséquences
@@ -12380,9 +12459,9 @@ contrôle général économique et financier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
@@ -12395,7 +12474,7 @@ contrôle général économique et financier.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques R52-2-4
+	  - Code des postes et des communications électronique - art. R20-44-14 (M)
 
 
 ###### Article R20-44-18
@@ -12543,13 +12622,13 @@ communications électroniques et du ministre chargé du budget.
 
 ###### Article R20-44-22
 
-Les marchés sont passés dans les formes et conditions prescrites pour les marchés de l'Etat.
+Les marchés sont passés dans les formes et conditions prescrites par le code des marchés publics.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 5 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
@@ -12567,19 +12646,19 @@ Les ressources de l'agence sont :
 
 1° Les subventions publiques ;
 
-2° Le produit des redevances de mise à disposition et de gestion des fréquences radioélectriques qui lui est affecté ;
+2° Le produit de la redevance mentionnée à l'article L. 97-2 ;
 
-3° Les contributions des personnes publiques ou privées versées à des fins de réaménagement du spectre dans le cadre de la
-mission définie au 9° de l'article R. 52-2-1 ;
+3° La rémunération des services rendus ;
 
-4° La rémunération des services rendus ;
+4° Les revenus du portefeuille ;
 
-5° Les revenus du portefeuille ;
+5° Le produit des dons et legs.
 
-6° Le produit des dons et legs.
+L'agence perçoit au bénéfice du fonds de réaménagement du spectre les contributions des personnes publiques ou privées
+versées à des fins de réaménagement du spectre.
 
-Les fonds de l'agence sont placés auprès du Trésor public dans les conditions définies aux articles 174 et 175 du décret n°
-62-1587 du 29 décembre 1962.
+Les fonds de l'agence, ainsi que ceux du fonds de réaménagement du spectre, sont placés auprès du Trésor public dans les
+conditions définies aux articles 174 et 175 du décret n° 62-1587 du 29 décembre 1962.
 
 **Liens relatifs à cet article**
 
@@ -12589,9 +12668,9 @@ Les fonds de l'agence sont placés auprès du Trésor public dans les conditions
 	  - Décret n°62-1587 du 29 décembre 1962 - art. 175 (V)
 	  - Code des postes et des communications électroniques R52-2-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 6 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
@@ -12605,18 +12684,21 @@ Les fonds de l'agence sont placés auprès du Trésor public dans les conditions
 
 ###### Article R20-44-24
 
-Des régies de recettes et de dépenses peuvent être créées après avis du membre du corps du contrôle général économique et
-financier dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992.
+Des régies de recettes et d'avances peuvent être créées après avis du membre du corps du contrôle général économique et
+financier dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 ou après son accord dans les conditions
+fixées par l'arrêté du 23 décembre 1992 relatif aux conditions dans lesquelles les directeurs d'établissements publics
+nationaux peuvent instituer des régies d'avances et des régies de recettes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Arrêté 1992-12-23
 	  - Décret n°92-681 1992-07-20
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1168 du 13 septembre 2005 - art. 7 () JORF 16 septembre 2005
 
 	**Codifié par**:
 
