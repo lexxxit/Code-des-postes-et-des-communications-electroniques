@@ -1,51 +1,11 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-09-16
+Version Consolidée au 2005-11-01
 
 # Partie législative
 
 ## LIVRE Ier : Le service postal
 
 ### TITRE Ier : Dispositions générales
-
-#### CHAPITRE Ier : Le monopole postal.
-
-##### (en vigueur jusqu'au 1er novembre 2005).
-
-###### Article L4
-
-Tout capitaine ou membre de l'équipage d'un navire arrivant dans un port de France est tenu de porter ou envoyer sur-le-champ
-au bureau de poste du lieu toutes les lettres et tous les paquets qui lui ont été confiés autres que ceux constituant la
-cargaison de son bâtiment.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté AN10-GE-19 19 germinal an X art. 7
-	  - Code des postes, télégraphes et téléphones L9
-
-	**Cité par**:
-
-	  - Loi n°90-568 du 2 juillet 1990 - art. 2 (VD)
-	  - Décret n°2012-484 du 13 avril 2012 - art. 1 (V)
-	  - Code des postes et des communications électroni... - art. L2 (V)
-	  - Code des postes et des communications électroni... - art. L5-2 (VD)
-	  - Code des postes et des communications électronique - art. L24 (Ab)
-	  - Code des postes et des communications électronique - art. L28 (V)
-	  - Code des postes et des communications électronique - art. R2 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
 
 #### Chapitre Ier : Le service universel postal et les obligations du service postal.
 
@@ -470,6 +430,48 @@ prévue à l'article L. 3 peuvent assurer ce service.
 
 #### Chapitre II : La régulation des activités postales.
 
+###### Article L4
+
+Le ministre chargé des postes prépare et met en oeuvre la réglementation applicable aux services postaux. 
+
+Les ministres chargés des postes et de l'économie homologuent, après avis public de l'Autorité de régulation des
+communications électroniques et des postes, les tarifs des prestations offertes à la presse au titre du service public du
+transport et de la distribution de la presse, et soumises au régime spécifique prévu par le présent code. La structure
+tarifaire de ces prestations doit favoriser le pluralisme, notamment celui de l'information politique et générale. 
+
+Le ministre chargé des postes peut demander à l'Autorité de régulation des communications électroniques et des postes
+d'engager la procédure de sanction prévue à l'article L. 5-3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté AN10-GE-19 19 germinal an X art. 7
+	  - Code des postes, télégraphes et téléphones L9
+
+	**Cité par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 2 (VD)
+	  - Décret n°2012-484 du 13 avril 2012 - art. 1 (V)
+	  - Code des postes et des communications électroni... - art. L2 (V)
+	  - Code des postes et des communications électroni... - art. L5-2 (VD)
+	  - Code des postes et des communications électronique - art. L24 (Ab)
+	  - Code des postes et des communications électronique - art. L28 (V)
+	  - Code des postes et des communications électronique - art. R2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L5-3 (V)
+
+
 ###### Article L5
 
 L'Autorité de régulation des communications électroniques et des postes est consultée sur les projets de loi ou de règlement
@@ -497,6 +499,508 @@ organisations internationales et communautaires compétentes.
 	**Codifié par**:
 
 	  - Décret n°62-273 1962-03-12
+
+
+###### Article L5-1
+
+L'Autorité de régulation des communications électroniques et des postes est chargée de délivrer l'autorisation demandée par
+les prestataires mentionnés à l'article L. 3. L'autorisation est délivrée pour une durée de dix ans. Elle est renouvelable.
+Elle n'est pas cessible.
+
+L'autorité ne peut refuser l'autorisation que par une décision motivée, fondée sur des motifs tirés de l'incapacité
+technique, économique ou financière du demandeur de faire face durablement aux obligations attachées à son activité postale,
+et notamment aux règles mentionnées à l'article L. 3-2, ou de ce que le demandeur a fait l'objet d'une des sanctions
+mentionnées aux articles L. 5-3, L. 17, L. 18 et L. 19. Elle ne peut invoquer des motifs tirés de la sauvegarde de l'ordre
+public, des nécessités de la défense ou de la sécurité publique que sur un avis motivé du ministre chargé des postes.
+
+La décision d'octroi indique les caractéristiques de l'offre de services postaux autorisée, le territoire sur lequel elle
+peut être fournie, les procédures de traitement des réclamations des utilisateurs de ces services, en cas de perte, de vol ou
+de non-respect des normes de qualité du service, y compris dans les cas où plusieurs prestataires sont impliqués, ainsi que
+les obligations imposées au titulaire pour permettre l'exercice du contrôle de son activité postale par l'Autorité de
+régulation des communications électroniques et des postes.
+
+Un décret en Conseil d'Etat précise les conditions et les modalités d'application du présent article et notamment les normes
+de qualité du service et les conditions de leur contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L3 (VD)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L17 (M)
+	  - Code des postes et des communications électronique - art. L18 (M)
+	  - Code des postes et des communications électronique - art. L19 (M)
+	  - Code des postes et des communications électronique - art. L3-2 (V)
+	  - Code des postes et des communications électronique - art. L5-3 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+
+###### Article L5-2
+
+L'Autorité de régulation des communications électroniques et des postes :
+
+1° Veille au respect, par le prestataire du service universel et par les titulaires de l'autorisation prévue à l'article L.
+3, des obligations résultant des dispositions législatives et réglementaires afférentes à l'exercice du service universel et
+des activités mentionnées à l'article L. 3 et des décisions prises pour l'application de ces dispositions. Elle sanctionne
+les manquements constatés dans les conditions prévues à l'article L. 5-3 ;
+
+2° Est informée par le prestataire du service universel des conditions techniques et tarifaires dans lesquelles les
+titulaires de l'autorisation prévue à l'article L. 3 peuvent accéder aux moyens indispensables à l'exercice de l'activité
+postale visés à l'article L. 3-1 et reçoit communication, à cette fin, des conventions signées au titre de l'article L. 3-1 ;
+
+3° Décide, après examen de la proposition de La Poste ou, à défaut de proposition, d'office après l'en avoir informée, des
+caractéristiques d'encadrement pluriannuel des tarifs des prestations du service universel, pouvant le cas échéant distinguer
+les envois en nombre des envois égrenés, et veille à leur respect. Elle approuve les tarifs des prestations relevant du
+secteur réservé. Le silence gardé par l'autorité pendant plus d'un mois à compter de la réception de la demande complète vaut
+approbation ; l'autorité formule son opposition par une décision motivée explicitant les analyses, notamment économiques, qui
+la sous-tendent. L'autorité est informée par le prestataire du service universel, préalablement à leur entrée en vigueur et
+dans un délai précisé par le décret prévu à l'article L. 2, des tarifs des prestations du service universel non réservées.
+Elle peut rendre public son avis. L'autorité tient compte, dans ses décisions ou avis, de la situation concurrentielle des
+marchés, en particulier pour l'examen des tarifs des envois en nombre ;
+
+4° Veille au respect des objectifs de qualité du service universel, fixés par arrêté du ministre chargé des postes selon des
+modalités établies par le décret prévu à l'article L. 2 ; elle fait réaliser annuellement par un organisme indépendant une
+étude de qualité de service, dont elle publie les résultats ;
+
+5° Emet un avis public sur les aspects économiques des tarifs visés au deuxième alinéa de l'article L. 4, préalablement à
+leur homologation par les ministres chargés des postes et de l'économie ;
+
+6° Afin de mettre en oeuvre les principes de séparation et de transparence des comptes, en particulier pour garantir les
+conditions de financement du service universel, précise les règles de comptabilisation des coûts, établit les spécifications
+des systèmes de comptabilisation et veille au respect, par le prestataire du service universel, des obligations relatives à
+la comptabilité analytique fixées dans le décret prévu à l'article L. 2. A ce titre, dans le champ du service universel,
+l'autorité reçoit communication des résultats des vérifications des commissaires aux comptes, sans que puisse lui être opposé
+le secret professionnel. Elle fait vérifier annuellement, aux frais du prestataire du service universel, par un organisme
+qu'elle agrée, compétent et indépendant du prestataire du service universel, la conformité des comptes du prestataire du
+service universel aux règles qu'elle a établies. Elle veille à la publication, par les soins de l'organisme indépendant
+agréé, d'une déclaration de conformité ;
+
+7° Prend en considération, dans tous ses avis et décisions motivés, l'équilibre financier des obligations de service
+universel, en explicitant ses analyses, notamment économiques ;
+
+8° Recommande au ministre chargé des postes, s'il apparaît que le service universel ne peut être financé par le prestataire
+de ce service dans des conditions équitables, toutes mesures utiles pour garantir la fourniture de ce service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L2-2 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L2 (M)
+	  - Code des postes et des communications électronique - art. L3 (M)
+	  - Code des postes et des communications électronique - art. L3-1 (V)
+	  - Code des postes et des communications électronique - art. L4 (Ab)
+	  - Code des postes et des communications électronique - art. L5-3 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+
+###### Article L5-3
+
+L'Autorité de régulation des communications électroniques et des postes peut, d'office ou à la demande du ministre chargé des
+postes, d'une organisation professionnelle, d'une association agréée d'utilisateurs, d'une personne physique ou morale
+concernée, du prestataire du service universel postal ou d'un titulaire de l'autorisation prévue à l'article L. 3, prononcer,
+dans les conditions prévues au présent article, des sanctions à l'encontre du prestataire du service universel ou d'un
+titulaire de l'autorisation prévue à l'article L. 3. 
+
+Ce pouvoir de sanction est exercé dans les conditions suivantes : 
+
+1° En cas d'infraction du prestataire du service universel ou d'un titulaire de l'autorisation prévue à l'article L. 3 à une
+disposition législative ou réglementaire afférente à son activité, aux décisions prises pour en assurer la mise en oeuvre ou
+aux prescriptions du titre en vertu duquel il l'exerce, le directeur des services de l'Autorité de régulation des
+communications électroniques et des postes le met en demeure de s'y conformer dans un délai déterminé ; ce délai ne peut être
+inférieur à un mois sauf en cas d'infraction grave et répétée ; l'autorité peut rendre publique cette mise en demeure ; 
+
+2° Lorsque l'intéressé ne se conforme pas dans le délai fixé à une décision prise en application de l'article L. 5-4 ou L.
+5-5 ou à la mise en demeure prévue au 1°, ou fournit des renseignements incomplets ou erronés, l'Autorité de régulation des
+communications électroniques et des postes peut prononcer, compte tenu de la gravité du manquement, une des sanctions
+suivantes : 
+
+a) Pour un titulaire de l'autorisation prévue à l'article L. 3 :
+
+- l'avertissement ;
+
+- la réduction d'une année de la durée de l'autorisation ;
+
+- la suspension de l'autorisation pour un mois au plus ;
+
+- le retrait de l'autorisation ; 
+
+b) Pour le prestataire du service universel ou un titulaire de l'autorisation prévue à l'article L. 3, si le manquement n'est
+pas constitutif d'une infraction pénale, une sanction pécuniaire dont le montant est proportionné à la gravité du manquement,
+à la situation de l'intéressé, à l'ampleur du dommage et aux avantages qui en sont tirés, sans pouvoir excéder 5 % du chiffre
+d'affaires hors taxes du dernier exercice clos, ce plafond étant porté à 10 % en cas de nouvelle infraction. A défaut
+d'activité antérieure permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 Euros, porté à
+375 000 Euros en cas de nouvelle violation de la même obligation. 
+
+Lorsque le prestataire du service universel ou un titulaire de l'autorisation prévue à l'article L. 3 communique des
+informations inexactes, refuse de fournir les informations demandées ou fait obstacle au déroulement de l'enquête menée par
+les fonctionnaires ou agents habilités, l'Autorité de régulation des communications électroniques et des postes peut, après
+mise en demeure restée infructueuse du directeur des services de l'autorité, prononcer une sanction pécuniaire d'un montant
+qui ne peut excéder 15 000 Euros. 
+
+Les sanctions sont prononcées après que l'intéressé a reçu notification des griefs et a été mis à même de consulter le
+dossier et de présenter ses observations écrites et orales. 
+
+Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine. 
+
+L'Autorité de régulation des communications électroniques et des postes ne peut être saisie de faits remontant à plus de
+trois ans, s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur sanction. 
+
+Les décisions de sanction sont motivées, notifiées à l'intéressé et publiées au Journal officiel. Elles peuvent faire l'objet
+d'un recours de pleine juridiction et d'une demande de suspension présentée conformément à l'article L. 521-1 du code de
+justice administrative, devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L521-1 (V)
+	  - Code des postes et des communications électronique - art. L3 (M)
+	  - Code des postes et des communications électronique - art. L5-4 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L311-4 (VD)
+	  - Code des postes et des communications électroni... - art. D594 (V)
+	  - Code des postes et des communications électroni... - art. D595 (V)
+	  - Code des postes et des communications électroni... - art. L130 (V)
+	  - Code des postes et des communications électroni... - art. L2-2 (V)
+	  - Code des postes et des communications électroni... - art. L4 (V)
+	  - Code des postes et des communications électroni... - art. L5-1 (VD)
+	  - Code des postes et des communications électroni... - art. L5-2 (VD)
+
+
+###### Article L5-4
+
+L'Autorité de régulation des communications électroniques et des postes peut être saisie par l'une ou l'autre partie d'un
+différend portant sur la conclusion ou l'exécution des contrats dérogeant aux conditions générales de l'offre du service
+universel d'envoi de correspondances, lorsque ce différend est relatif aux règles mentionnées au deuxième alinéa de l'article
+L. 2-1. Elle se prononce dans un délai de quatre mois après avoir mis les parties à même de présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+	  - Code des postes et des communications électroni... - art. L130 (V)
+	  - Code des postes et des communications électroni... - art. L5-6 (V)
+	  - Code des postes et des communications électroni... - art. L5-7 (V)
+	  - Code des postes et des communications électroni... - art. L5-8 (V)
+	  - Code des postes et des communications électroni... - art. R1-2-11 (V)
+	  - Code des postes et des communications électronique - art. L5-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L2-1 (V)
+
+
+###### Article L5-5
+
+En cas de différend entre le prestataire du service universel et un titulaire de l'autorisation prévue à l'article L. 3 sur
+la conclusion ou l'exécution de stipulations techniques et tarifaires d'une convention relative à l'accès aux moyens
+indispensables à l'exercice de l'activité postale visés à l'article L. 3-1, l'Autorité de régulation des communications
+électroniques et des postes peut être saisie par l'une ou l'autre des parties. 
+
+L'Autorité de régulation des communications électroniques et des postes s'assure que les conditions techniques et tarifaires
+offertes sont transparentes et non discriminatoires et n'affectent pas la bonne réalisation des missions du service public
+des envois postaux. Elle se prononce dans un délai de quatre mois après avoir mis les parties à même de présenter leurs
+observations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L3 (V)
+	  - Code des postes et des communications électroni... - art. L3-1 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. L5-8 (V)
+	  - Code des postes et des communications électronique - art. R1-2-11 (M)
+
+
+###### Article L5-6
+
+Les décisions prises par l'Autorité de régulation des communications électroniques et des postes en application des articles
+L. 5-4 et L. 5-5 sont motivées et précisent, le cas échéant, les conditions d'ordre technique et financier dans lesquelles
+les prestations doivent être assurées. L'Autorité notifie ses décisions aux parties et les rend publiques sous réserve des
+secrets protégés par la loi. 
+
+Elle peut, avant de prendre sa décision, entendre toute personne dont l'audition lui paraît utile. 
+
+Elle peut refuser la communication des pièces mettant en jeu le secret des affaires. Ces pièces sont alors retirées du
+dossier. 
+
+Les décisions prises par l'Autorité de régulation des communications électroniques et des postes peuvent faire l'objet,
+devant la cour d'appel de Paris, d'un recours en annulation ou en réformation dans le délai d'un mois à compter de leur
+notification. La cour d'appel de Paris peut également être saisie si, à l'expiration du délai mentionné à l'article L. 5-4 ou
+à l'article L. 5-5, l'Autorité de régulation des communications électroniques et des postes ne s'est pas prononcée. 
+
+Le recours n'est pas suspensif. Toutefois, le juge peut ordonner le sursis à exécution de la décision, si cette dernière est
+susceptible d'entraîner des conséquences manifestement excessives ou s'il est survenu, postérieurement à sa notification, des
+faits nouveaux d'une exceptionnelle gravité. 
+
+Le pourvoi en cassation formé, le cas échéant, contre l'arrêt de la cour d'appel est exercé dans le délai d'un mois suivant
+la notification de cet arrêt. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L5-4 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-13 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+
+###### Article L5-7
+
+L'Autorité de régulation des communications électroniques et des postes peut être saisie d'une demande de conciliation par le
+prestataire du service universel, les expéditeurs d'envois de correspondance en nombre, les intermédiaires groupant les
+envois de correspondance de plusieurs clients ou les titulaires de l'autorisation prévue à l'article L. 3, en vue de régler
+les litiges les opposant qui ne relèvent pas des articles L. 5-4 et L. 5-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L3 (V)
+	  - Code des postes et des communications électroni... - art. L5-4 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-9 (V)
+
+
+###### Article L5-8
+
+Le président de l'Autorité de régulation des communications électroniques et des postes saisit le Conseil de la concurrence
+des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il peut avoir connaissance
+dans le domaine des activités postales, notamment lorsqu'un différend lui est soumis en application des articles L. 5-4 et L.
+5-5. Lorsque le Conseil de la concurrence est saisi dans le cadre d'une procédure d'urgence, il se prononce dans les trente
+jours ouvrables suivant la date de la saisine. 
+
+Le président de l'Autorité de régulation des communications électroniques et des postes peut également saisir pour avis le
+Conseil de la concurrence de toute autre question relevant de sa compétence.
+
+Le Conseil de la concurrence communique à l'Autorité de régulation des communications électroniques et des postes toute
+saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le
+domaine des activités postales. 
+
+Le président de l'Autorité de régulation des communications électroniques et des postes informe le procureur de la République
+des faits qui sont susceptibles de recevoir une qualification pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L5-4 (V)
+	  - Code des postes et des communications électronique - art. L5-5 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+
+###### Article L5-9
+
+Dans les conditions définies au présent article, le ministre chargé des postes et l'Autorité de régulation des communications
+électroniques et des postes peuvent, de manière proportionnée aux besoins liés à l'accomplissement de leurs missions, et sur
+la base d'une décision motivée, recueillir, auprès du prestataire du service universel et des titulaires de l'autorisation
+prévue à l'article L. 3, toutes les informations ou documents nécessaires pour s'assurer du respect par ces personnes des
+dispositions législatives ou réglementaires afférentes à leur activité, des décisions prises pour garantir la mise en oeuvre
+de ces dispositions et des prescriptions du titre en vertu duquel ces personnes exercent leur activité.
+
+Les enquêtes sont menées par des fonctionnaires et agents du ministère chargé des postes et de l'Autorité de régulation des
+communications électroniques et des postes habilités à cet effet par le ministre chargé des postes et assermentés dans des
+conditions fixées par décret en Conseil d'Etat.
+
+Les enquêtes donnent lieu à procès-verbal. Un double en est transmis dans les cinq jours aux parties intéressées.
+
+Le ministre chargé des postes ou l'Autorité de régulation des communications électroniques et des postes désigne, et veille à
+ce que soit assermentée dans les mêmes conditions qu'indiquées précédemment, toute personne compétente pour réaliser, le cas
+échéant, une expertise.
+
+Les fonctionnaires et agents chargés de l'enquête accèdent à toutes les informations utiles détenues par les prestataires de
+services postaux ou les personnes exerçant une activité postale. Ils reçoivent, à leur demande, communication des documents
+comptables et factures, de toute pièce ou document utile, en prennent copie, et recueillent, sur convocation ou sur place,
+les renseignements et justifications propres à l'accomplissement de leur mission.
+
+Ils peuvent accéder à tous locaux, terrains et véhicules à usage professionnel, à l'exclusion des domiciles et parties de
+locaux servant de domicile, relevant de ces personnes, sauf autorisation du président du tribunal de grande instance ou du
+magistrat qu'il délègue à cette fin. Ils ne peuvent accéder à ces locaux qu'entre 6 heures et 21 heures ou pendant leurs
+heures d'ouverture s'ils sont ouverts au public.
+
+Le ministre chargé des postes et le président de l'Autorité de régulation des communications électroniques et des postes
+veillent à ce que ne soient pas divulguées les informations recueillies en application du présent article lorsqu'elles sont
+protégées par un secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
+relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
+	  - Code des postes et des communications électronique - art. L3 (M)
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L130 (V)
+	  - Code des postes et des communications électroni... - art. L20 (V)
+	  - Code des postes et des communications électroni... - art. R1-2-14 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+
+###### Article L5-10
+
+Afin d'être en mesure d'assurer la distribution d'envois postaux, le prestataire du service universel et les titulaires de
+l'autorisation prévue à l'article L. 3 ont accès, selon des modalités identiques et définies par décret en Conseil d'Etat,
+pris après avis de l'Autorité de régulation des communications électroniques et des postes, aux boîtes aux lettres
+particulières.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2006 - art. 2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-6-3 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L3 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes, télégraphes et téléphones L13
+	  - Loi n°1921-12-31 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
 
 
 #### Chapitre III : Dérogations à l'inviolabilité et au secret des correspondances.
@@ -533,6 +1037,39 @@ connaissance.
 	**Nouveaux textes**:
 
 	  - Code des postes et des communications électronique - art. L6-1 (V)
+
+
+###### Article L6-1
+
+1. Ainsi qu'il est dit à l'article 66 du code des douanes, La Poste est autorisée à soumettre au contrôle douanier, dans les
+conditions prévues par les conventions et arrangements de l'Union postale universelle, les envois frappés de prohibition à
+l'importation, passibles de droits ou taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à
+l'entrée.
+
+2. La Poste est également autorisée à soumettre au contrôle douanier les envois frappés de prohibition à l'exportation,
+passibles de droits ou taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à la sortie.
+
+3. Les fonctionnaires des douanes ont accès dans les bureaux de postes sédentaires ou ambulants, y compris les salles de tri,
+en correspondance directe avec l'extérieur pour y rechercher, en présence des agents des postes, les envois clos ou non
+d'origine intérieure ou extérieure, à l'exception des envois en transit, renfermant ou paraissant renfermer des objets de la
+nature de ceux visés au présent article.
+
+4. Il ne peut, en aucun cas, être porté atteinte au secret des correspondances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 5 () JORF 21 mai 2005 en vigueur le 1er novembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. L6 (M)
+	  - Code des postes et des communications électronique - art. L6 (T)
 
 
 #### Chapitre IV : Régime de responsabilité applicable aux services postaux.
