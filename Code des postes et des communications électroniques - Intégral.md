@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -12511,6 +12511,284 @@ n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil
 
 #### Chapitre III : Droits de passage sur le domaine public routier et servitudes.
 
+##### Section 1 : Droits de passage.
+
+###### Article R*20-45
+
+La permission de voirie prévue au premier alinéa de l'article L. 47 est délivrée :
+
+- par le préfet sur les autoroutes non concédées et les routes nationales, à l'exception des ouvrages concédés ;
+
+- par les concessionnaires sur les autoroutes et les ouvrages concédés ;
+
+- par l'exécutif de la collectivité territoriale ou de l'établissement public de coopération intercommunale gestionnaire du
+domaine dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code de la voirie routière - art. R*113-2 (V)
+	  - Code de la voirie routière - art. R*122-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L47 (V)
+
+
+###### Article R20-46
+
+La permission de voirie ne peut être délivrée que si elle est compatible avec la destination du domaine public routier,
+l'intégrité des ouvrages et la sécurité des utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-47
+
+La demande de permission de voirie mentionnée à l'article R. 20-45 indique l'objet et la durée de l'occupation. Elle est
+accompagnée d'un dossier technique dont le contenu est fixé par un arrêté du ministre chargé des communications
+électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-47 (V)
+
+
+###### Article R20-48
+
+Lorsque la satisfaction de la demande d'un opérateur, entraînant l'utilisation de la totalité du domaine public disponible
+pour l'usage envisagé, ferait obstacle à tout nouvel usage supplémentaire équivalent, le gestionnaire du domaine peut
+subordonner l'octroi de la permission de voirie à la réalisation de travaux permettant le partage ultérieur des installations
+avec d'autres opérateurs et rend publiques les conditions d'accès à ces installations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-49
+
+Lorsqu'il procède à des travaux rendant nécessaires le déplacement ou la modification de l'installation, le gestionnaire
+informe l'occupant de la date à laquelle le déplacement ou la modification devront être réalisés avec un préavis qui, sauf
+urgence, ne peut être inférieur à deux mois.
+
+Sont présumés réalisés dans l'intérêt du domaine occupé les travaux destinés à permettre le partage d'installations entre
+opérateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-50
+
+Pour mettre en oeuvre les dispositions du troisième alinéa de l'article L. 47, l'autorité compétente invite les parties à se
+rapprocher en vue d'une utilisation partagée d'installations. Elle notifie cette invitation aux intéressés dans un délai d'un
+mois à compter du dépôt de la demande de permission de voirie par l'opérateur dont le droit de passage peut être ainsi
+assuré.
+
+En cas d'échec des négociations sur le partage des installations et dans un délai maximal de trois mois à compter de
+l'invitation à partager les installations, prolongé, le cas échéant, jusqu'à la décision de l'Autorité de régulation des
+communications électroniques et des postes, l'opérateur qui n'a pu obtenir un partage des installations existantes peut
+confirmer sa demande de permission de voirie, en précisant les raisons pour lesquelles il n'a pas été possible d'utiliser les
+installations existantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L47 (M)
+
+
+###### Article R20-51
+
+Le montant des redevances tient compte de la durée de l'occupation, de la valeur locative de l'emplacement occupé et des
+avantages matériels, économiques, juridiques et opérationnels qu'en tire le permissionnaire.
+
+Le gestionnaire du domaine public peut fixer un montant de redevance inférieur pour les fourreaux non occupés par rapport à
+celui fixé pour les fourreaux occupés.
+
+Le produit des redevances est versé au gestionnaire ou au concessionnaire du domaine occupé, dans les conditions fixées par
+la permission de voirie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-52 (V)
+	  - Code des postes et des communications électroni... - art. R20-54 (V)
+
+
+###### Article R20-52
+
+Le montant annuel des redevances, déterminé, dans chaque cas, conformément à l'article R. 20-51, en fonction de la durée de
+l'occupation, des avantages qu'en tire le permissionnaire et de la valeur locative de l'emplacement occupé, ne peut
+excéder : 
+
+I.-Sur le domaine public routier : 
+
+1° Dans le cas d'une utilisation du sol ou du sous-sol, par kilomètre et par artère : 300 Euros pour les autoroutes ; 30
+Euros pour le reste de la voirie routière ; 
+
+2° Dans les autres cas, par kilomètre et par artère : 
+
+40 Euros ; 
+
+3° S'agissant des installations autres que les stations radioélectriques : 20 Euros par mètre carré au sol. L'emprise des
+supports des artères mentionnées aux 1° et 2° ne donne toutefois pas lieu à redevance. 
+
+II.-Sur le domaine public non routier, à l'exclusion du domaine public maritime : 
+
+a) Sur le domaine public fluvial : 
+
+1° Dans le cas d'une utilisation du sol ou du sous-sol, par kilomètre et par artère : 1 000 Euros ; 
+
+2° Dans les autres cas, par kilomètre et par artère : 
+
+1 000 Euros ; 
+
+3° S'agissant des installations autres que les stations radioélectriques : 650 Euros par mètre carré au sol. L'emprise des
+supports des artères mentionnées aux 1° et 2° ne donne toutefois pas lieu à redevance. 
+
+b) Sur le domaine public ferroviaire : 
+
+1° Dans le cas d'une utilisation du sol ou du sous-sol, par kilomètre et par artère : 3 000 Euros ; 
+
+2° Dans les autres cas, par kilomètre et par artère : 
+
+3 000 Euros ; 
+
+3° S'agissant des installations autres que les stations radioélectriques : 650 Euros par mètre carré au sol. L'emprise des
+supports des artères mentionnées aux 1° et 2° ne donne toutefois pas lieu à redevance. 
+
+c) Sur les autres dépendances du domaine public non routier : 
+
+1° Dans le cas d'une utilisation du sol ou du sous-sol, par kilomètre et par artère : 1 000 Euros ; 
+
+2° Dans les autres cas, par kilomètre et par artère : 
+
+1 000 Euros ; 
+
+3° S'agissant des installations autres que les stations radioélectriques : 650 Euros par mètre carré au sol. L'emprise des
+supports des artères mentionnées aux 1° et 2° ne donne toutefois pas lieu à redevance. 
+
+On entend par artère : 
+
+a) Dans le cas d'une utilisation du sol ou du sous-sol, un fourreau contenant ou non des câbles, ou un câble en pleine
+terre ; 
+
+b) Dans les autres cas, l'ensemble des câbles tirés entre deux supports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-51 (V)
+
+
+###### Article R20-53
+
+Les montants figurant à l'article précédent sont révisés au 1er janvier de chaque année, par application de la moyenne des
+quatre dernières valeurs trimestrielles de l'index général relatif aux travaux publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-54
+
+Saisi d'une demande d'occupation, l'autorité compétente peut conclure avec le pétitionnaire une convention prévoyant que
+l'investissement est partagé entre les parties. L'utilisation de l'ouvrage de télécommunication fait, dans ce cas, l'objet de
+stipulations relatives notamment à la répartition des produits résultant d'un partage futur de l'installation avec un ou
+plusieurs opérateurs. Dans ce cas, le montant de la redevance est fixé, dans les conditions fixées à l'article R. 20-51, en
+tenant compte de l'intérêt de l'investissement pour le gestionnaire du domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-51 (V)
+
+
 ##### Section 2 : Servitudes.
 
 ###### Article R*20-60
@@ -12574,15 +12852,14 @@ ou à son mandataire ou, en cas de copropriété, au syndicat représenté par l
 
 ###### Article R20-55
 
-Lorsqu'il demande l'institution de la servitude prévue à l'article L. 45-1, l'opérateur autorisé en vertu de l'article L.
-33-1 adresse au maire de la commune dans laquelle est située la propriété sur laquelle il envisage d'établir l'ouvrage, en
-autant d'exemplaires qu'il y a de propriétaires ou, en cas de copropriété, de syndics concernés plus trois, un dossier
-indiquant :
+Lorsqu'il demande l'institution de la servitude prévue à l'article L. 45-1, l'exploitant de réseau ouvert au public adresse
+au maire de la commune dans laquelle est située la propriété sur laquelle il envisage d'établir l'ouvrage, en autant
+d'exemplaires qu'il y a de propriétaires ou, en cas de copropriété, de syndics concernés plus trois, un dossier indiquant : 
 
-1° La localisation cadastrale de l'immeuble, du groupe d'immeubles ou de la propriété non bâtie, accompagnée de la liste des
-propriétaires concernés ;
+1° La localisation cadastrale de l'immeuble, du groupe d'immeubles ou de la propriété, accompagnée de la liste des
+propriétaires concernés ; 
 
-2° Les motifs qui justifient le recours à la servitude ;
+2° Les motifs qui justifient le recours à la servitude ; 
 
 3° L'emplacement des installations, à l'aide notamment d'un schéma. Une notice précise les raisons pour lesquelles, en vue de
 respecter la qualité esthétique des lieux et d'éviter d'éventuelles conséquences dommageables pour la propriété, ces
@@ -12594,21 +12871,19 @@ Un échéancier prévisionnel de réalisation indique la date de commencement de
 
 	**Modifié par**:
 
-	  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 2 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L45-1 (V)
+
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R20-56 (VD)
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L33-1 (M)
-	  - Code des postes et des communications électronique - art. L45-1 (MMN)
 
 
 ###### Article R20-56
@@ -12661,11 +12936,11 @@ existantes.
 
 ###### Article R20-58
 
-Dans le mois suivant l'expiration du délai mentionné au deuxième alinéa de l'article L. 48 du code des postes et des
+Dans le mois suivant l'expiration du délai mentionné au cinquième alinéa de l'article L. 48 du code des postes et des
 communications électroniques, qui ne peut être supérieur à quatre mois, et au vu des observations qui ont été présentées, le
 maire agissant au nom de l'Etat institue la servitude. Cet arrêté spécifie les opérations que comportent la réalisation et
 l'exploitation des installations et mentionne les motifs qui justifient l'institution de la servitude et le choix de
-l'emplacement.
+l'emplacement. 
 
 Aux frais du pétitionnaire, l'arrêté du maire est notifié au propriétaire ou, en cas de copropriété, au syndic et affiché à
 la mairie.
@@ -12674,9 +12949,7 @@ la mairie.
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2005-1676 du 27 décembre 2005 - art. 2 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12689,7 +12962,7 @@ la mairie.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L48 (M)
+	  - Code des postes et des communications électroni... - art. L48 (V)
 
 
 ###### Article R20-59
