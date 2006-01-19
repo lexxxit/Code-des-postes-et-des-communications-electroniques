@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-20
 
 # Partie législative
 
@@ -17657,6 +17657,63 @@ d'interconnexion susceptibles d'être imposées aux opérateurs en application d
 	  - Code des postes et des communications électronique - art. L34-8 (M)
 	  - Code des postes et des communications électronique - art. L37-2 (M)
 	  - Code des postes et des communications électronique - art. L37-3 (M)
+
+
+##### Section 4 : Vérification du respect des valeurs limites d'exposition du public aux champs électromagnétiques.
+
+###### Article D100
+
+Peut procéder à la vérification sur place du respect des valeurs limites prévues à l'article L. 34-9-1 tout organisme qui
+remplit les conditions suivantes :
+
+- être accrédité dans le domaine "essais", pour la mesure de champs électromagnétiques in situ, par le Comité français
+d'accréditation (COFRAC) ou par un organisme d'accréditation ayant signé l'accord de reconnaissance multilatéral "essais"
+dans le cadre de la coordination européenne des organismes d'accréditation (European co-operation for accreditation) ;
+
+- ne pas être un exploitant de réseau ou un fournisseur de services de communications électroniques, ne pas participer
+directement à la fabrication, à la commercialisation, à l'installation ou à la maintenance d'équipements utilisés dans les
+réseaux de communications électroniques ou d'installations radioélectriques ni représenter les parties engagées dans ces
+activités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
+
+	**Cité par**:
+
+	  - Arrêté du 4 août 2006 - art. 2 (V)
+	  - Code des postes et des communications électronique - art. D101 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-9-1 (V)
+
+
+###### Article D101
+
+La vérification mentionnée à l'article D. 100 s'effectue conformément aux dispositions prévues par le décret n° 2002-775 du 3
+mai 2002.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Cite**:
+
+	  - Décret n°2002-775 2002-05-03
+	  - Code des postes et des communications électronique - art. D100 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-61 du 18 janvier 2006 - art. 1 () JORF 20 janvier 2006
 
 
 #### Chapitre IV : La régulation des communications électroniques.
