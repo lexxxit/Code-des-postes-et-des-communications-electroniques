@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-01-20
+Version Consolidée au 2006-01-24
 
 # Partie législative
 
@@ -2596,6 +2596,10 @@ I. - Les opérateurs de communications électroniques, et notamment les personne
 services de communication au public en ligne, effacent ou rendent anonyme toute donnée relative au trafic, sous réserve des
 dispositions des II, III, IV et V.
 
+Les personnes qui, au titre d'une activité professionnelle principale ou accessoire, offrent au public une connexion
+permettant une communication en ligne par l'intermédiaire d'un accès au réseau, y compris à titre gratuit, sont soumises au
+respect des dispositions applicables aux opérateurs de communications électroniques en vertu du présent article.
+
 II. - Pour les besoins de la recherche, de la constatation et de la poursuite des infractions pénales, et dans le seul but de
 permettre, en tant que de besoin, la mise à disposition de l'autorité judiciaire d'informations, il peut être différé pour
 une durée maximale d'un an aux opérations tendant à effacer ou à rendre anonymes certaines catégories de données techniques.
@@ -2648,8 +2652,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 2004-07-09 art. 10 I, II JORF 10 juillet 2004
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 5 () JORF 24 janvier 2006
 
 	**Cité par**:
 
@@ -2709,6 +2712,77 @@ présent article.
 
 	  - Code des postes et des communications électronique - art. L32-3-1 (T)
 	  - Code des postes et télécommunications L32-3-1
+
+
+###### Article L34-1-1
+
+Afin de prévenir les actes de terrorisme, les agents individuellement désignés et dûment habilités des services de police et
+de gendarmerie nationales spécialement chargés de ces missions peuvent exiger des opérateurs et personnes mentionnés au I de
+l'article L. 34-1 la communication des données conservées et traitées par ces derniers en application dudit article.
+
+Les données pouvant faire l'objet de cette demande sont limitées aux données techniques relatives à l'identification des
+numéros d'abonnement ou de connexion à des services de communications électroniques, au recensement de l'ensemble des numéros
+d'abonnement ou de connexion d'une personne désignée, aux données relatives à la localisation des équipements terminaux
+utilisés ainsi qu'aux données techniques relatives aux communications d'un abonné portant sur la liste des numéros appelés et
+appelants, la durée et la date des communications.
+
+Les surcoûts identifiables et spécifiques éventuellement exposés par les opérateurs et personnes mentionnés au premier alinéa
+pour répondre à ces demandes font l'objet d'une compensation financière.
+
+Les demandes des agents sont motivées et soumises à la décision d'une personnalité qualifiée, placée auprès du ministre de
+l'intérieur. Cette personnalité est désignée pour une durée de trois ans renouvelable par la Commission nationale de contrôle
+des interceptions de sécurité sur proposition du ministre de l'intérieur qui lui présente une liste d'au moins trois noms.
+Des adjoints pouvant la suppléer sont désignés dans les mêmes conditions. La personnalité qualifiée établit un rapport
+d'activité annuel adressé à la Commission nationale de contrôle des interceptions de sécurité. Les demandes, accompagnées de
+leur motif, font l'objet d'un enregistrement et sont communiquées à la Commission nationale de contrôle des interceptions de
+sécurité.
+
+Cette instance peut à tout moment procéder à des contrôles relatifs aux opérations de communication des données techniques.
+Lorsqu'elle constate un manquement aux règles définies par le présent article ou une atteinte aux droits et libertés, elle
+saisit le ministre de l'intérieur d'une recommandation. Celui-ci lui fait connaître dans un délai de quinze jours les mesures
+qu'il a prises pour remédier aux manquements constatés.
+
+Les modalités d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat, pris après avis de
+la Commission nationale de l'informatique et des libertés et de la Commission nationale de contrôle des interceptions de
+sécurité, qui précise notamment la procédure de suivi des demandes et les conditions et durée de conservation des données
+transmises.
+
+**Nota:**
+
+Loi n° 2006-64 du 23 janvier 2006 article 32 : L'article L. 34-1-1 est en vigueur jusqu'au 31 décembre 2008.
+
+Conformément à la loi n° 2008-1245 du 1er décembre 2008, les dispositions de l'article 32 de la loi n° 2006-64 du 23 janvier
+2006 déterminant la durée d'application des dispositions introduites par les articles 3, 6 et 9 de la même loi sont prorogées
+jusqu'au 31 décembre 2012. La loi n° 2012-1432 du 21 décembre 2012, article 1er, a prorogé ces mêmes dispositions jusqu'au 31
+décembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
+	  - Arrêté du 26 mars 2012 - art. 1 (V)
+	  - Arrêté du 26 mars 2012 - art. 4 (V)
+	  - Code de la sécurité intérieure - art. L222-2 (VT)
+	  - Code de la sécurité intérieure - art. L243-12 (VT)
+	  - Code de la sécurité intérieure - art. L243-7 (Ab)
+	  - Code des postes et des communications électroni... - art. R10-15 (VT)
+	  - Code des postes et des communications électroni... - art. R10-16 (VT)
+	  - Code des postes et des communications électroni... - art. R10-17 (VT)
+	  - Code des postes et des communications électroni... - art. R10-18 (VT)
+	  - Code des postes et des communications électroni... - art. R10-21 (VT)
+
+	**Abrogé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 6
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 6 () JORF 24 janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-273 1962-03-12
 
 
 ###### Article L34-2
