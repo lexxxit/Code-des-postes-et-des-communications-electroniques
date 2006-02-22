@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-01-28
+Version Consolidée au 2006-02-23
 
 # Partie législative
 
@@ -9574,6 +9574,30 @@ connaître au fabricant s'il y a lieu ou non de procéder à une nouvelle évalu
 	  - Code des postes et des communications électroni... - art. R20-7 (V)
 
 
+###### Article R20-9-1
+
+Un arrêté du ministre chargé des communications électroniques précise les conditions d'application des articles R. 20-6 à R.
+20-9, notamment le contenu de la documentation technique prévue à l'article R. 20-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-207 du 20 février 2006 - art. 1 () JORF 23 février 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-6 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-9 (V)
+
+
 ###### Article R20-10
 
 I. - Tout équipement dont la conformité a été évaluée en application des dispositions de l'article R. 20-5 doit faire
@@ -9589,9 +9613,9 @@ l'article R. 20-5 doivent en outre comporter le numéro d'identification de l'or
 radioélectriques, l'identificateur de la catégorie d'équipements qui, le cas échéant, indique l'existence de restrictions ou
 de conditions particulières à l'utilisation de l'équipement dans certains Etats membres de la Communauté européenne.
 
-Ces marquages, apposés sous la responsabilité de la personne responsable, respectent les modèles définis par l'Autorité de
-régulation des communications électroniques et des postes, en conformité, pour le marquage CE mentionné au b ci-dessus, avec
-le modèle figurant à l'annexe VII de la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999.
+Ces marquages, apposés sous la responsabilité de la personne responsable, respectent les modèles définis par arrêté du
+ministre chargé des communications électroniques, en conformité, pour le marquage CE mentionné au b ci-dessus, avec le modèle
+figurant à l'annexe VII de la directive 1999/5/CE du Parlement européen et du Conseil du 9 mars 1999.
 
 II. - Chaque exemplaire de l'équipement mis sur le marché doit être accompagné d'une déclaration de conformité aux exigences
 essentielles et des informations sur l'usage auquel l'équipement est destiné. Ces informations indiquent ou permettent
@@ -9608,8 +9632,7 @@ de l'exposition de l'utilisateur au champ électromagnétique et le débit d'abs
 pour les équipements terminaux radioélectriques.
 
 La déclaration et les informations prévues au II du présent article sont rédigées en langue française. Elles sont conformes
-aux prescriptions fixées par l'Autorité de régulation des communications électroniques et des postes en application de
-l'article L. 36-6.
+aux prescriptions fixées par arrêté du ministre chargé des communications électroniques.
 
 La nature des informations prévues au c ci-dessus est définie par arrêté conjoint du ministre chargé des communications
 électroniques, du ministre chargé de la santé et du ministre chargé de la consommation.
@@ -9618,8 +9641,7 @@ La nature des informations prévues au c ci-dessus est définie par arrêté con
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Décret n°2006-207 du 20 février 2006 - art. 2 () JORF 23 février 2006
 
 	**Codifié par**:
 
@@ -9640,7 +9662,6 @@ La nature des informations prévues au c ci-dessus est définie par arrêté con
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L36-6 (M)
 	  - Code des postes et des communications électronique - art. R20-5 (M)
 	  - Directive 1999-5 CE 1999-03-09
 
@@ -9759,33 +9780,6 @@ des communications électroniques en vue de la notification à la Commission eur
 	  - Directive 1999-5 CE 1999-03-09
 
 
-###### Article R20-15
-
-L'Autorité de régulation des communications électroniques et des postes précise, dans les conditions prévues à l'article L.
-36-6, les modalités d'application des articles R. 20-6 à R. 20-9, et notamment le contenu de la documentation technique
-prévue à l'article R. 20-6.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-207 du 20 février 2006 - art. 3 () JORF 23 février 2006
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L36-6 (M)
-	  - Code des postes et des communications électroniques L36-6, R20-6 à R20-9
-
-
 ###### Article R20-16
 
 Lorsqu'elle constate que les normes harmonisées sont insuffisantes pour assurer le respect des exigences essentielles ou
@@ -9864,15 +9858,15 @@ cet Etat peuvent être mis sur le marché dès lors qu'ils sont conformes aux di
 
 ###### Article R20-19
 
-La mise en service des équipements est subordonnée au respect par ces équipements de spécifications techniques :
+La mise en service des équipements est subordonnée au respect par ces équipements de spécifications techniques : 
 
 a) Arrêtées par le ministre chargé des communications électroniques, pour des raisons liées à l'utilisation du spectre
 radioélectrique ou à la nécessité d'éviter des interférences dommageables ou, conjointement avec le ministre chargé de la
-santé, pour des raisons de santé publique ;
+santé, pour des raisons de santé publique ; 
 
-b) Fixées, en application du 12° de l'article L. 32, s'agissant des valeurs limites que ne doivent pas dépasser les champs
+b) Fixées, en application de l'article L. 34-9-1, s'agissant des valeurs limites que ne doivent pas dépasser les champs
 électromagnétiques émis par les équipements utilisés dans les réseaux de communications électroniques ou par les
-installations radioélectriques, lorsque le public y est exposé.
+installations radioélectriques, lorsque le public y est exposé. 
 
 Pour les mêmes motifs et dans les mêmes conditions, un équipement peut faire l'objet de restrictions quant aux lieux et aux
 conditions de son utilisation.
@@ -9881,11 +9875,15 @@ conditions de son utilisation.
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+	  - Décret n°2006-207 du 20 février 2006 - art. 4 () JORF 23 février 2006
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L34-9-1 (V)
 
 	**Cité par**:
 
@@ -9896,10 +9894,6 @@ conditions de son utilisation.
 	  - Code des postes et des communications électroni... - art. R20-4 (V)
 	  - Code des postes et des communications électroni... - art. R20-8 (M)
 	  - Code des postes et des communications électronique - art. R20-25 (M)
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L32 (M)
 
 
 ###### Article R20-20
