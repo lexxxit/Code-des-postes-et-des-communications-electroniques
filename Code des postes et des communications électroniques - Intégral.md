@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-02-23
+Version Consolidée au 2006-03-09
 
 # Partie législative
 
@@ -16527,13 +16527,19 @@ Le récépissé comporte un numéro d'enregistrement qui constitue pour le décl
 Les dispositions des articles D. 98-4 à D. 98-13 s'appliquent, lorsqu'elles sont pertinentes, aux exploitants de réseaux
 ouverts au public et aux fournisseurs de services de communications électroniques au public, à l'exception :
 
-- des règles mentionnées aux 3, 4 et 5 du II de l'article D. 98-5 et à l'article D. 98-9, qui ne s'appliquent qu'aux
+- des règles mentionnées aux troisième et quatrième alinéas de l'article D. 98-4, qui ne s'appliquent qu'aux fournisseurs de
+service de radiocommunications mobiles terrestres au public ;
+
+- des règles mentionnées à l'article D. 98-6-1, qui ne s'appliquent qu'aux exploitants de réseaux de radiocommunications
+mobiles terrestres ouverts au public ;
+
+- des règles mentionnées aux 3,4 et 5 du II de l'article D. 98-5 et à l'article D. 98-9, qui ne s'appliquent qu'aux
 fournisseurs de service téléphonique au public ;
 
 - des règles mentionnées au I et aux 1 et 2 du II de l'article D. 98-5 et à l'article D. 98-13, qui ne s'appliquent qu'aux
 fournisseurs de services de communications électroniques au public ;
 
-- des règles mentionnées à l'article D. 98-10, qui ne s'appliquent qu'aux exploitants de réseaux ouverts au public.
+- des règles mentionnées à l'article D. 98-10, qui ne s'appliquent qu'aux exploitants de réseaux ouverts au public. 
 
 Seules les dispositions de l'article D. 98-12 s'appliquent aux installations mentionnées au 2° de l'article L. 33.
 
@@ -16545,16 +16551,17 @@ Seules les dispositions de l'article D. 98-12 s'appliquent aux installations men
 
 	**Modifié par**:
 
-	  - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
+	  - Décret n°2006-268 du 7 mars 2006 - art. 1 () JORF 9 mars 2006
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. D98-10 (V)
-	  - Code des postes et des communications électronique - art. D98-12 (V)
-	  - Code des postes et des communications électronique - art. D98-5 (M)
-	  - Code des postes et des communications électronique - art. D98-9 (M)
-	  - Code des postes et des communications électronique - art. L33 (M)
-	  - Code des postes et des communications électroniques D98-4 à D98-13, D98-5, D98-9, D98-10, D98-12, L33
+	  - Code des postes et des communications électroni... - art. D98-10 (V)
+	  - Code des postes et des communications électroni... - art. D98-13 (V)
+	  - Code des postes et des communications électroni... - art. D98-4 (V)
+	  - Code des postes et des communications électroni... - art. D98-5 (V)
+	  - Code des postes et des communications électroni... - art. D98-6-1 (V)
+	  - Code des postes et des communications électroni... - art. D98-9 (V)
+	  - Code des postes et des communications électroni... - art. L33 (V)
 
 	**Cité par**:
 
@@ -16581,6 +16588,18 @@ L'opérateur met en oeuvre les équipements et les procédures nécessaires, afi
 demeurent au niveau prévu par les normes en vigueur en particulier au sein de l'UIT et de l'ETSI, notamment pour ce qui
 concerne les taux de disponibilité et les taux d'erreur de bout en bout.
 
+L'opérateur publie tous les ans avant le 30 juin un rapport de l'avancement des actions qu'il a engagées pour l'adaptation et
+l'amélioration de l'accessibilité des services de radiocommunications mobiles aux personnes handicapées en matière de
+terminaux et de services, et ce pour les différentes catégories de handicaps. Le rapport peut être intégré au rapport
+d'activité annuel de l'opérateur s'il le souhaite et fait notamment un point sur l'avancement des nouvelles technologies
+disponibles et leur mise en oeuvre par l'opérateur, en particulier en ce qui concerne la fourniture de services de
+localisation utilisables par les personnes handicapées. Ce rapport est transmis à l'Autorité de régulation des communications
+électroniques et des postes.
+
+L'opérateur met en place une signalétique destinée à ses clients indiquant les terminaux et services les mieux adaptés à
+chacun des handicaps considérés, évalués sur la base de critères objectifs et transparents, parmi la gamme de terminaux et
+services commercialisés par l'opérateur.
+
 L'opérateur mesure la valeur des indicateurs de qualité de service définis par l'Autorité de régulation des communications
 électroniques et des postes dans les conditions prévues par l'article L. 36-6. Les modalités de mise à disposition du public
 du résultat de ces mesures sont fixées par l'Autorité de régulation des communications électroniques et des postes dans les
@@ -16594,7 +16613,7 @@ mêmes conditions.
 
 	**Modifié par**:
 
-	  - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
+	  - Décret n°2006-268 du 7 mars 2006 - art. 1 () JORF 9 mars 2006
 
 	**Cité par**:
 
@@ -16755,6 +16774,43 @@ caractéristiques de son réseau qui affectent le bon fonctionnement des équipe
 	  - Code des postes et des communications électroni... - art. D99-8 (V)
 	  - Code des postes et des communications électroni... - art. L36-6 (V)
 	  - Code des postes et des communications électroni... - art. L42-1 (V)
+
+
+###### Article D98-6-1
+
+Règles portant sur la protection de la santé et de l'environnement.
+
+I. - Les opérateurs s'assurent qu'est mise à la disposition du public une liste actualisée d'implantation de leurs sites
+radioélectriques.
+
+II. - L'opérateur fait en sorte, dans la mesure du possible, de partager les sites radioélectriques avec les autres
+utilisateurs de ces sites.
+
+Lorsque l'opérateur envisage d'établir un site ou un pylône et sous réserve de faisabilité technique, il doit à la fois :
+
+- privilégier toute solution de partage avec un site ou un pylône existant ;
+
+- veiller à ce que les conditions d'établissement de chacun des sites ou pylônes rendent possible, sur ces mêmes sites et
+sous réserve de compatibilité technique, l'accueil ultérieur d'infrastructures d'autres opérateurs ;
+
+- répondre aux demandes raisonnables de partage de ses sites ou pylônes émanant d'autres opérateurs.
+
+Au terme de son autorisation d'utilisation des fréquences radioélectriques, l'opérateur démonte les antennes et les pylônes
+qu'il aurait installés et qui ne seraient pas utilisés à un autre usage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-275 1962-03-12
+
+	**Créé par**:
+
+	  - Décret n°2006-268 du 7 mars 2006 - art. 1 () JORF 9 mars 2006
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D98-3 (V)
 
 
 ###### Article D98-7
