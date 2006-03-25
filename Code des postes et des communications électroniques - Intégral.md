@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-03-09
+Version Consolidée au 2006-03-26
 
 # Partie législative
 
@@ -8966,7 +8966,7 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 	  - Décret n°62-274 1962-03-12
 
 
-###### Article R11
+###### Article R10-11
 
 Ainsi que le prévoit l'article R. 48-1 du code de procédure pénale, les dispositions de l'article 529 du code de procédure
 pénale relatives à l'amende forfaitaire sont applicables aux infractions définies aux articles R. 10-1, R. 10-4 et R. 10-9 du
@@ -8974,12 +8974,7 @@ présent code.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2005-606 2005-05-27 art. 1 I, IV JORF 29 mai 2005
-	  - Décret n°2005-606 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2006-358 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
 
@@ -8989,19 +8984,136 @@ présent code.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R10-1 (M)
-	  - Code des postes et des communications électronique - art. R10-4 (M)
-	  - Code des postes et des communications électronique - art. R10-9 (M)
-	  - CODE DE PROCEDURE PENALE - art. 529 (M)
-	  - CODE DE PROCEDURE PENALE - art. R48-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électronique - art. R10-11 (V)
+	  - Code des postes et des communications électroni... - art. R10-1 (V)
+	  - Code des postes et des communications électroni... - art. R10-4 (V)
+	  - Code des postes et des communications électroni... - art. R10-9 (V)
+	  - Code de procédure pénale - art. 529 (V)
+	  - Code de procédure pénale - art. R48-1 (VT)
 
 	**Anciens textes**:
 
-	  - Code des postes, télégraphes et téléphones L78
+	  - Code des postes et des communications électronique - art. R11 (M)
+	  - Code des postes et des communications électronique - art. R11 (T)
+
+
+##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.
+
+###### Article R10-12
+
+Pour l'application des II et III de l'article L. 34-1, les données relatives au trafic s'entendent des informations rendues
+disponibles par les procédés de communication électronique, susceptibles d'être enregistrées par l'opérateur à l'occasion des
+communications électroniques dont il assure la transmission et qui sont pertinentes au regard des finalités poursuivies par
+la loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-358 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+
+
+###### Article R10-13
+
+I. - En application du II de l'article L. 34-1 les opérateurs de communications électroniques conservent pour les besoins de
+la recherche, de la constatation et de la poursuite des infractions pénales :
+
+a) Les informations permettant d'identifier l'utilisateur ;
+
+b) Les données relatives aux équipements terminaux de communication utilisés ;
+
+c) Les caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication ;
+
+d) Les données relatives aux services complémentaires demandés ou utilisés et leurs fournisseurs ;
+
+e) Les données permettant d'identifier le ou les destinataires de la communication.
+
+II. - Pour les activités de téléphonie l'opérateur conserve les données mentionnées au I et, en outre, celles permettant
+d'identifier l'origine et la localisation de la communication.
+
+III. - La durée de conservation des données mentionnées au présent article est d'un an à compter du jour de l'enregistrement.
+
+IV. - Les surcoûts identifiables et spécifiques supportés par les opérateurs requis par les autorités judiciaires pour la
+fourniture des données relevant des catégories mentionnées au présent article sont compensés selon les modalités prévues à
+l'article R. 213-1 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-358 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
+	  - CODE DE PROCEDURE PENALE - art. A43-4 (M)
+	  - Code de la sécurité intérieure - art. R246-1 (Ab)
+	  - Code de procédure pénale - art. A43-9 (V)
+	  - Code de procédure pénale - art. R40-43 (V)
+	  - Code de procédure pénale - art. R40-46 (V)
+	  - Code des postes et des communications électroni... - art. R10-14 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R213-1 (Ab)
+
+
+###### Article R10-14
+
+I. - En application du III de l'article L. 34-1 les opérateurs de communications électroniques sont autorisés à conserver
+pour les besoins de leurs opérations de facturation et de paiement les données à caractère technique permettant d'identifier
+l'utilisateur ainsi que celles mentionnées aux b, c et d du I de l'article R. 10-13.
+
+II. - Pour les activités de téléphonie, les opérateurs peuvent conserver, outre les données mentionnées au I, les données à
+caractère technique relatives à la localisation de la communication, à l'identification du ou des destinataires de la
+communication et les données permettant d'établir la facturation.
+
+III. - Les données mentionnées aux I et II du présent article ne peuvent être conservées que si elles sont nécessaires à la
+facturation et au paiement des services rendus. Leur conservation devra se limiter au temps strictement nécessaire à cette
+finalité sans excéder un an.
+
+IV. - Pour la sécurité des réseaux et des installations, les opérateurs peuvent conserver pour une durée n'excédant pas trois
+mois :
+
+a) Les données permettant d'identifier l'origine de la communication ;
+
+b) Les caractéristiques techniques ainsi que la date, l'horaire et la durée de chaque communication ;
+
+c) Les données à caractère technique permettant d'identifier le ou les destinataires de la communication ;
+
+d) Les données relatives aux services complémentaires demandés ou utilisés et leurs fournisseurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-358 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R40-43 (V)
+	  - Code de procédure pénale - art. R40-46 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L34-1 (M)
+	  - Code des postes et des communications électronique - art. R10-13 (V)
 
 
 ##### Section 4 : Interconnexion et accès aux réseaux.
@@ -14583,24 +14695,22 @@ f) Publications dont le prix est compris dans une cotisation à une association 
 Sous réserve de répondre aux dispositions des 1°, 2° et 3° de l'article D. 18, de n'entrer dans aucune des catégories
 mentionnées aux a, b, c, d et e du 6° de ce même article, et à condition qu'elles présentent un lien avec l'actualité et que
 la publicité et les annonces n'excèdent pas 20 % de la surface totale, les publications suivantes peuvent bénéficier d'un
-tarif spécifique, qui ne peut être inférieur à celui prévu à l'article précédent :
+tarif spécifique, qui ne peut être inférieur à celui prévu à l'article précédent : 
 
-1° Sous réserve de l'avis favorable du ministre chargé des anciens combattants, les publications d'anciens combattants,
-mutilés ou victimes de guerre ;
+1° Les publications d'anciens combattants, mutilés ou victimes de guerre ; 
 
-2° Sous réserve de l'avis favorable du ministre intéressé, les publications d'information professionnelle éditées par les
-organisations syndicales représentatives de salariés ;
+2° Les publications d'information professionnelle éditées par les organisations syndicales représentatives de salariés ; 
 
 3° Les publications ayant pour objet essentiel de promouvoir une action ou une philosophie politique, qui ne sont pas éditées
-par ou pour le compte d'une personne morale de droit public ;
+par ou pour le compte d'une personne morale de droit public ; 
 
-4° Sous réserve de l'avis favorable du ministre chargé des affaires sociales, les publications éditées par les sociétés
-mutuelles régies par le code de la mutualité ainsi que celles éditées par les groupements constitués et fonctionnant
-conformément audit code ;
+4° Les publications éditées par les sociétés mutuelles régies par le code de la mutualité ainsi que celles éditées par les
+groupements constitués et fonctionnant conformément audit code ; 
 
-5° Sous réserve de l'avis favorable du ministre compétent, les publications éditées par des organismes à but non lucratif
-ayant pour objet de contribuer, à titre manifestement désintéressé, à la défense des grandes causes humanitaires, nationales
-ou internationales ;
+5° Les publications, de diffusion nationale ou internationale, éditées par des organismes à but non lucratif ayant pour objet
+de contribuer, à titre manifestement désintéressé, à lutter par des actions ou programmes, contre les atteintes ou menaces
+graves à la dignité, à la santé et à la vie humaines, sous réserve d'être destinées à un public large et diversifié et de
+faire appel au soutien du lecteur ; 
 
 6° Les journaux scolaires publiés ou imprimés, sous la direction et la responsabilité des instituteurs ou des professeurs,
 dans le but d'éduquer les enfants et de renseigner sur la vie et le travail de l'école les parents d'élèves et les écoles
@@ -14608,17 +14718,17 @@ correspondantes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications D18
-
 	**Codifié par**:
 
 	  - Décret n°62-275 1962-03-12
 
 	**Modifié par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2006-359 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. D18 (V)
 
 	**Cité par**:
 
