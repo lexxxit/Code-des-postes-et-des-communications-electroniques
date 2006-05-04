@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-03-26
+Version Consolidée au 2006-05-05
 
 # Partie législative
 
@@ -8074,52 +8074,98 @@ détérioration ou de non-respect des engagements de qualité du service, ainsi 
 	  - Code des postes, télégraphes et téléphones L3 al.1 et L7
 
 
-#### CHAPITRE II : Le Médiateur du service universel postal
+#### CHAPITRE II : La régulation des activités postales
 
-##### SECTION 1 : Modalités de désignation, compétences et moyens du Médiateur
+##### SECTION 1 : Les autorisations
 
-###### Article R1-1
+##### Sous-section 1 : Les procédures d'attribution des autorisations
 
-Il est institué un Médiateur du service universel postal auprès du ministre chargé des postes.
+###### Article R1-2-1
+
+Doivent être titulaires d'une autorisation les prestataires des services postaux non réservés ci-après :
+
+a) Envois de correspondance intérieure incluant la distribution ;
+
+b) Envois de correspondance transfrontalière.
+
+L'autorisation précise, le cas échéant, que son titulaire est autorisé à assurer un service d'envois de recommandés utilisés
+dans le cadre des procédures administratives et juridictionnelles.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
-	**Abrogé par**:
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-2-2
+
+L'autorisation fait l'objet d'une demande rédigée en français, adressée à l'Autorité de régulation des communications
+électroniques et des postes par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
 	**Cité par**:
 
-	  - Décret n°2011-849 du 18 juillet 2011 - art. 1 (V)
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
 
-###### Article R1-2
+###### Article R1-2-3
 
-Le Médiateur du service universel postal est nommé par décret, pris sur le rapport du ministre chargé des postes, à partir
-d'une liste de trois personnes dressée par le président de la Commission supérieure du service public des postes et des
-communications électroniques.
+La demande comporte les informations suivantes :
 
-Le Médiateur du service universel postal est nommé pour une durée de cinq ans. Il ne peut être mis fin à ses fonctions avant
-l'expiration de ce délai que sur sa demande ou en cas d'empêchement permanent. Son mandat n'est pas renouvelable.
+1° Informations relatives au demandeur :
 
-La fonction de Médiateur du service universel postal est incompatible avec toute autre activité professionnelle permanente
-publique ou privée. Le Médiateur ne peut détenir, directement ou indirectement, des intérêts dans le secteur postal.
+a) L'identité du demandeur (dénomination, siège social, immatriculation au registre du commerce et des sociétés ou au
+répertoire des métiers, statuts) ;
+
+b) La composition du capital ;
+
+c) Les comptes sociaux annuels des deux derniers exercices ;
+
+d) La description des activités industrielles et commerciales exercées notamment dans le domaine des services postaux ;
+
+e) L'information sur les accords de partenariat industriel, commercial et financier conclus dans le domaine des activités
+postales et la description des accords envisagés pour l'activité faisant l'objet de la demande ;
+
+f) Les autorisations dont le demandeur est déjà titulaire.
+
+2° Description des caractéristiques techniques du projet faisant l'objet de la demande :
+
+a) La nature, les caractéristiques et la zone de couverture géographique du service ;
+
+b) Les mesures prévues pour garantir l'exécution, la fiabilité et la qualité du service postal conformément à l'offre ;
+
+c) Les outils utilisés pour mesurer la qualité de service ou ceux qui seront mis en place si la demande d'autorisation
+concerne une activité nouvelle pour l'opérateur ;
+
+d) Le calendrier de mise en service de l'activité ;
+
+e) Les modalités d'exercice ou de sous-traitance.
+
+3° Description des caractéristiques commerciales du projet incluant les prévisions de marché et d'exploitation sur une
+période d'au moins trois années suivant la délivrance de l'autorisation ;
+
+4° Informations justifiant la capacité technique à réaliser le projet ;
+
+5° Informations justifiant la capacité financière à réaliser le projet, portant sur une période d'au moins trois années
+suivant la délivrance de l'autorisation et mentionnant les investissements et les financements prévus.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
 
 	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
@@ -8127,30 +8173,54 @@ publique ou privée. Le Médiateur ne peut détenir, directement ou indirectemen
 
 	  - Décret n°62-274 1962-03-12
 
+	**Cité par**:
 
-###### Article R1-3
+	  - Code des postes et des communications électroni... - art. R1-2-8 (V)
 
-Le Médiateur du service universel postal reçoit et instruit les réclamations des usagers relatives à des prestations relevant
-du service universel postal dans les conditions prévues à l'article R. 1-8.
 
-Lorsqu'elles portent sur l'exécution d'un contrat comportant des clauses particulières par rapport aux conditions générales
-de l'offre du service universel postal, ces réclamations sont reçues et instruites dans les conditions prévues à l'article R.
-1-9.
+###### Article R1-2-4
 
-Dans les cas et selon les modalités prévus à l'article R. 1-10, le Médiateur donne un avis sur l'élaboration et la
-modification des contrats relatifs à des prestations du service universel postal comportant des clauses particulières par
-rapport aux conditions générales de l'offre de ce service.
+Dès qu'il reçoit une demande d'autorisation, le président de l'Autorité de régulation des communications électroniques et des
+postes en accuse réception. Dans un délai de 20 jours ouvrables, il informe le demandeur par lettre recommandée avec demande
+d'avis de réception soit que la demande est complète, soit qu'elle est incomplète ou qu'elle comporte des pièces dont le
+demandeur devra assurer la traduction.
 
-Il informe le ministre chargé des postes de tout manquement aux obligations du prestataire du service universel postal dont
-il a connaissance.
+Le président de l'Autorité de régulation des communications électroniques et des postes peut faire réaliser des visites sur
+place avant qu'il soit statué sur la demande.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
-	**Abrogé par**:
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-5 (V)
+
+
+###### Article R1-2-5
+
+L'octroi de l'autorisation fait l'objet d'une décision expresse de l'Autorité de régulation des communications électroniques
+et des postes.
+
+Toutefois, pour les demandes portant exclusivement sur les services d'envois de correspondance transfrontalière, ainsi que
+sur les services d'envois de correspondance intérieure incluant la distribution offerts par les porteurs et les vendeurs
+colporteurs de presse, le silence gardé pendant plus de deux mois par l'Autorité de régulation des communications
+électroniques et des postes vaut décision d'acceptation. Ce délai court à compter de la réception par le demandeur de la
+lettre recommandée mentionnée à l'article R. 1-2-4, l'informant que son dossier est complet, ou, à défaut, à l'expiration du
+délai de 20 jours ouvrables prévu au même article.
+
+L'Autorité de régulation des communications électroniques et des postes publie et tient à la disposition du public la liste
+des autorisations qu'elle a délivrées, avec l'indication de leur objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
@@ -8160,26 +8230,33 @@ il a connaissance.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-10 (Ab)
-	  - Code des postes et des communications électronique - art. R1-8 (Ab)
-	  - Code des postes et des communications électronique - art. R1-9 (Ab)
+	  - Code des postes et des communications électronique - art. R1-2-4 (M)
 
 
-###### Article R1-4
+##### Sous-section 2 : Les obligations des prestataires autorisés
 
-Le ministre chargé des postes informe le Médiateur de la transmission par le prestataire du service universel postal, en
-application des articles 4, 23 ou 33 du cahier des charges de La Poste, des projets de contrats ou de modification de
-contrats existants comportant des clauses particulières par rapport à l'offre du service universel.
+###### Article R1-2-6
 
-Le ministre transmet au Médiateur les contrats mentionnés au premier alinéa lors de leur entrée en application.
+Les obligations que doivent respecter les titulaires d'une autorisation portent sur :
+
+1° La garantie de la sécurité des utilisateurs, des personnels et des installations du prestataire de services ;
+
+2° La garantie de la confidentialité des envois de correspondance et l'intégrité de leur contenu ;
+
+3° L'accès des utilisateurs à une procédure de réclamation simple, transparente et gratuite ;
+
+4° La protection des données à caractère personnel et de la vie privée ;
+
+5° Le respect de l'objectif de préservation de l'environnement quant à la mise en oeuvre des conditions techniques de
+réalisation des prestations.
+
+Un arrêté du ministre chargé des postes, pris sur proposition de l'Autorité de régulation des communications électroniques et
+des postes, précise le contenu des obligations qui peuvent être imposées aux titulaires d'une autorisation en application du
+présent article.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
 
 	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
@@ -8188,18 +8265,17 @@ Le ministre transmet au Médiateur les contrats mentionnés au premier alinéa l
 	  - Décret n°62-274 1962-03-12
 
 
-###### Article R1-5
+###### Article R1-2-7
 
-Le Médiateur du service universel postal dispose de moyens et de personnels spécifiques nécessaires à l'exercice de ses
-missions.
+Les titulaires d'une autorisation fournissent chaque année à l'Autorité de régulation des communications électroniques et des
+postes les informations statistiques concernant l'utilisation, la zone de couverture et les modalités d'accès à leur service.
+Ces informations comprennent notamment des éléments relatifs à la nature et au volume des différents services d'envois
+postaux de leur activité autorisée. L'Autorité de régulation des communications électroniques et des postes respecte le
+secret des affaires dans l'utilisation de ces informations.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
 
 	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
@@ -8208,242 +8284,16 @@ missions.
 	  - Décret n°62-274 1962-03-12
 
 
-###### Article R1-6
+###### Article R1-2-8
 
-Pour l'ensemble de ses activités, le Médiateur du service universel postal peut procéder à toute consultation qui lui semble
-opportune et faire appel à toute personne qualifiée à des fins d'expertise.
-
-A l'occasion des réclamations et des demandes d'avis dont il est saisi, le Médiateur du service universel postal peut
-demander aux parties intéressées ainsi qu'au ministre chargé des postes les informations utiles à l'exercice de ses missions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R1-7
-
-Le Médiateur du service universel postal présente au ministre chargé des postes un rapport annuel dans lequel il établit le
-bilan de son activité. Dans ce cadre, il peut émettre toute recommandation et faire toute proposition tendant à améliorer les
-prestations du service universel postal. Ce rapport est rendu public.
+Les modifications susceptibles d'affecter significativement les éléments énumérés à l'article R. 1-2-3 postérieurement à la
+délivrance de l'autorisation doivent être portées à la connaissance de l'Autorité de régulation des communications
+électroniques et des postes qui peut, par décision motivée, indiquer à l'intéressé qu'il y a lieu de présenter une nouvelle
+demande d'autorisation.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-##### SECTION 2 : Les procédures suivies par le Médiateur
-
-###### Article R1-8
-
-I. - Sans préjudice des autres possibilités de recours prévues par les lois et règlements, tout usager, soit
-individuellement, soit par l'intermédiaire d'une organisation professionnelle ou d'une organisation de consommateurs agréée
-au plan national, peut saisir par écrit le Médiateur du service universel postal d'une réclamation sur les conditions
-d'exécution de ce service.
-
-La réclamation doit avoir été préalablement adressée au prestataire du service universel postal et avoir fait l'objet d'un
-rejet total ou partiel ou d'une absence de réponse dans un délai de deux mois.
-
-La saisine du Médiateur ne constitue pas un préalable à l'exercice d'un recours devant les juridictions compétentes.
-
-II. - Le Médiateur du service universel postal formule une recommandation motivée au prestataire du service universel postal
-au plus tard dans un délai de deux mois à partir de sa saisine. Dans le cas où celle-ci doit être complétée pour permettre
-son traitement, le délai est porté à trois mois. La recommandation est transmise à l'auteur de la réclamation et au
-prestataire du service universel postal par lettre recommandée avec accusé de réception.
-
-Le Médiateur est informé par le prestataire du service universel postal de la suite donnée à sa recommandation.
-
-A défaut de réponse du prestataire du service universel postal faisant droit à la recommandation dans le délai qu'il a fixé,
-le médiateur informe le ministre chargé des postes. Il peut également rendre publique sa recommandation, sous réserve de la
-protection du secret des affaires.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R1-11 (Ab)
-	  - Code des postes et des communications électronique - art. R1-3 (Ab)
-
-
-###### Article R1-9
-
-I. - Sans préjudice des autres possibilités de recours prévues par les lois et règlements, un cocontractant ou une
-organisation professionnelle peuvent saisir par écrit le Médiateur du service universel postal d'une réclamation, en cas de
-désaccord sur l'exécution des contrats comportant des clauses particulières par rapport aux conditions générales de l'offre
-du service universel postal.
-
-La saisine du Médiateur ne constitue pas un préalable à l'exercice d'un recours devant les juridictions compétentes.
-
-II. - Le Médiateur entend l'auteur de la réclamation ainsi que le prestataire du service universel postal, s'il l'estime
-utile ou si ceux-ci le demandent.
-
-III. - Le Médiateur du service universel postal formule une recommandation motivée au prestataire du service universel postal
-au plus tard dans un délai de deux mois à partir de sa saisine. Dans le cas où celle-ci doit être complétée pour permettre
-son traitement, le délai est porté à trois mois. La recommandation est transmise à l'auteur de la réclamation et au
-prestataire du service universel postal par lettre recommandée avec accusé de réception.
-
-Le Médiateur est informé par le prestataire du service universel postal de la suite donnée à sa recommandation.
-
-A défaut de réponse du prestataire du service universel postal faisant droit à la recommandation dans le délai qu'il a fixé,
-le Médiateur informe le ministre chargé des postes, qui, le cas échéant, lui fait part, dans un délai d'un mois, des suites
-qu'il envisage de donner. Le Médiateur communique au prestataire du service universel postal et à l'auteur de la réclamation
-la réponse du ministre.
-
-Le Médiateur peut rendre publique sa recommandation, sous réserve de la protection du secret des affaires.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R1-11 (Ab)
-	  - Code des postes et des communications électronique - art. R1-3 (Ab)
-
-
-###### Article R1-10
-
-I. - a) Le Médiateur du service universel postal peut être saisi, soit par le prestataire du service universel postal, soit
-par une organisation professionnelle, ou toute autre partie intéressée, d'un désaccord sur un projet de contrat ou de
-modification d'un contrat existant comportant des clauses particulières par rapport à l'offre du service universel.
-
-La saisine du Médiateur doit être faite avant l'entrée en application des nouvelles clauses contractuelles.
-
-Le Médiateur informe le ministre chargé des postes des saisines qu'il reçoit.
-
-b) Lorsque la saisine du Médiateur porte sur un projet de contrat ou de modification d'un contrat existant qui est ou a été
-transmis au ministre par le prestataire du service universel postal, en application des articles 4, 23 ou 33 du cahier des
-charges de La Poste, le ministre communique au Médiateur le dossier qui lui a été adressé à cette occasion.
-
-c) Lorsque la saisine du Médiateur porte sur un projet de contrat ou de modification d'un contrat existant qui est ou a été
-transmis au ministre par le prestataire du service universel postal, en application du b du 1° de l'article 33 du cahier des
-charges de La Poste, le Médiateur peut demander au ministre de faire usage du pouvoir d'opposition prévu par lesdites
-dispositions du cahier des charges, afin de suspendre l'homologation pendant le délai de sa consultation tel qu'il est fixé
-au III du présent article.
-
-d) L'auteur de la saisine transmet au Médiateur toutes informations utiles relatives au projet de contrat ou de modification
-d'un contrat existant, notamment les éléments permettant d'apprécier ;
-
-- les contraintes techniques imposées par le projet de contrat ou de modification ;
-
-- les conditions financières et tarifaires, notamment la prise en compte des coûts ;
-
-- les obligations respectives des cocontractants.
-
-Les observations et pièces transmises au Médiateur par une partie sont communiquées aux autres parties, sous réserve des
-informations confidentielles, relevant notamment du secret des affaires, qu'elles peuvent contenir, afin de leur permettre de
-présenter leurs observations.
-
-Le Médiateur entend les parties, s'il l'estime utile ou si celles-ci le demandent.
-
-II. - Le ministre chargé des postes peut consulter le Médiateur à tout moment de la procédure d'établissement ou de
-modification de contrats comportant des clauses particulières par rapport à l'offre du service universel transmis par le
-prestataire du service universel, en application des articles 4, 23 ou 33 du cahier des charges de La Poste.
-
-Le ministre chargé des postes transmet au Médiateur les informations utiles.
-
-Le Médiateur communique aux parties intéressées, afin de leur permettre de présenter leurs observations, ces informations,
-sous réserve des éléments confidentiels, relevant notamment du secret des affaires, qu'elles peuvent contenir.
-
-Le Médiateur entend les parties intéressées et le prestataire du service universel postal, s'il l'estime utile ou si ceux-ci
-le demandent.
-
-III. - Dans tous les cas où il a été saisi, le Médiateur rend son avis dans un délai d'un mois à compter de sa saisine. Il
-peut, à son initiative ou sur demande des parties, prolonger ce délai d'un mois. Dans ce cas, le report du délai est motivé
-et notifié aux parties par lettre recommandée avec accusé de réception.
-
-Toutefois, lorsque le Médiateur est consulté au titre du II du présent article, l'avis est rendu dans un délai fixé par le
-ministre, dans la limite du délai maximum prévu à l'alinéa précédent.
-
-La saisine du Conseil de la concurrence, dans les conditions prévues aux articles L. 462-1 à L. 462-5 du code de commerce,
-sur le cas dont est saisi le Médiateur, interrompt ces délais jusqu'à ce que le conseil se soit prononcé.
-
-L'avis du Médiateur est motivé. Il est communiqué à l'auteur de la saisine par lettre recommandée avec accusé de réception.
-Il est également adressé aux autres parties.
-
-Dans tous les cas, l'avis est transmis au ministre chargé des postes, qui, le cas échéant, fait part au Médiateur, dans un
-délai d'un mois, des suites qu'il envisage de donner. Le médiateur communique au prestataire du service universel postal et à
-l'auteur de la saisine la réponse du ministre.
-
-Le Médiateur peut rendre public son avis, sous réserve de la protection du secret des affaires.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de commerce L462-1 à L462-5
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R1-3 (Ab)
-
-
-###### Article R1-11
-
-Le Médiateur veille au respect de la confidentialité des informations qui lui sont transmises dans le cadre des procédures
-définies par les articles R. 1-8, R. 1-9, et R. 1-10.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
-
-	**Abrogé par**:
 
 	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
 
@@ -8453,8 +8303,240 @@ définies par les articles R. 1-8, R. 1-9, et R. 1-10.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-8 (Ab)
-	  - Code des postes et des communications électronique - art. R1-9 (Ab)
+	  - Code des postes et des communications électronique - art. R1-2-3 (M)
+
+
+##### SECTION 2 : La procédure de conciliation
+
+###### Article R1-2-9
+
+Lorsque l'Autorité de régulation des communications électroniques et des postes est saisie d'une demande de conciliation
+présentée en application de l'article L. 5-7 du présent code, un membre du collège est désigné par le président pour assurer
+la conciliation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L5-7 (V)
+
+
+###### Article R1-2-10
+
+En cas de conciliation, même partielle, il est établi un constat d'accord signé par les intéressés et le conciliateur.
+
+Un exemplaire de ce document est remis à chaque intéressé et un exemplaire est conservé par l'Autorité de régulation des
+communications électroniques et des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### SECTION 3 : Le règlement des différends
+
+###### Article R1-2-11
+
+Pour le règlement des différends mentionnés aux articles L. 5-4 et L. 5-5, l'Autorité de régulation des communications
+électroniques et des postes communique à chacune des parties les observations et pièces déposées par les autres parties et
+fixe, s'il y a lieu, le délai dans lequel il doit y être répondu. L'Autorité de régulation des communications électroniques
+et des postes peut entendre les parties. Elle est tenue de les entendre si elles en font la demande.
+
+Dans l'hypothèse où l'Autorité de régulation des communications électroniques et des postes décide d'entendre les parties,
+l'audition est publique, sauf demande conjointe des parties ou, en cas de désaccord entre elles, sur décision de l'Autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Cité par**:
+
+	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L5-4 (V)
+	  - Code des postes et des communications électronique - art. L5-5 (V)
+
+
+###### Article R1-2-12
+
+Les décisions de l'Autorité de régulation des communications électroniques et des postes statuant sur les règlements de
+différends sont notifiées aux parties.
+
+La lettre de notification doit indiquer le délai de recours ainsi que les modalités selon lesquelles celui-ci peut être
+exercé.
+
+Les décisions de l'Autorité de régulation des communications électroniques et des postes en matière de règlement de
+différends sont rendues publiques sous réserve des secrets protégés par la loi, selon les modalités appréciées par l'Autorité
+de régulation des communications électroniques et des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-2-13
+
+Par dérogation aux dispositions du titre VI du livre II du nouveau code de procédure civile, le recours contre les décisions
+de l'Autorité de régulation des communications électroniques et des postes prévu au quatrième alinéa de l'article L. 5-6 est
+formé, instruit et jugé conformément aux dispositions des articles R. 11-3 à R. 11-6 et R. 11-8 et R. 11-9 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L5-6 (V)
+	  - Code des postes et des communications électronique - art. R11-8 (M)
+	  - Code des postes et des communications électronique - art. R11-9 (M)
+	  - Code des postes et des communications électroniques R11-3 à R11-6, R11-8, R11-9, L5-6
+
+
+##### SECTION 4 : Habilitation des agents chargés des enquêtes
+
+###### Article R1-2-14
+
+Un arrêté du ministre chargé des postes habilite, parmi les fonctionnaires et les agents du ministère chargé des postes et de
+l'Autorité de régulation des communications électroniques et des postes ayant les compétences techniques et juridiques
+nécessaires, après avis du procureur de la République auprès du tribunal de grande instance de leur résidence administrative,
+les personnes chargées de procéder aux enquêtes prévues à l'article L. 5-9 et de rechercher et constater les infractions
+entrant dans le champ d'application de l'article L. 20.
+
+Le président de l'Autorité de régulation des communications électroniques et des postes désigne, à cet effet, les personnes
+placées sous son autorité qu'il souhaite faire habiliter.
+
+L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
+l'agent a vocation à rechercher et constater les infractions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-2-15 (V)
+	  - Code des postes et des communications électroni... - art. R1-2-16 (V)
+	  - Code des postes et des communications électroni... - art. R1-2-17 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L20 (M)
+	  - Code des postes et des communications électronique - art. L5-9 (V)
+
+
+###### Article R1-2-15
+
+Les fonctionnaires et agents habilités en application de l'article R. 1-2-14 prêtent serment devant le tribunal de grande
+instance de leur résidence administrative.
+
+La formule du serment est la suivante :
+
+"Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
+jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
+fonctions."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. R1-2-14 (M)
+
+
+###### Article R1-2-16
+
+L'habilitation prévue à l'article R. 1-2-14 est retirée par arrêté du ministre chargé des postes, le cas échéant à la demande
+du président de l'Autorité de régulation des communications électroniques et des postes, pour les personnes placées sous son
+autorité, lorsque cette mesure est justifiée par les nécessités du service ou compte tenu du comportement du fonctionnaire ou
+de l'agent dans l'exercice de ses fonctions, après, dans ce dernier cas, que l'intéressé a été mis à même de présenter ses
+observations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. R1-2-14 (M)
+
+
+###### Article R1-2-17
+
+Une carte professionnelle portant mention de l'habilitation, de son objet et de sa durée est délivrée, ou son renouvellement
+assuré, par le ministre chargé des postes, ou par le président de l'Autorité de régulation des communications électroniques
+et des postes, chacun pour ce qui le concerne, aux fonctionnaires et agents placés sous leur autorité mentionnés à l'article
+R. 1-2-14.
+
+Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance.
+
+Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. R1-2-14 (M)
 
 
 ## LIVRE II : Les communications électroniques
