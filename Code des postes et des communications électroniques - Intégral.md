@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-08-12
+Version Consolidée au 2006-08-17
 
 # Partie législative
 
@@ -8538,6 +8538,119 @@ Le modèle de la carte professionnelle est établi par les autorités susmention
 	**Cite**:
 
 	  - Code des postes et des communications électronique - art. R1-2-14 (M)
+
+
+### TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.
+
+###### Article R2-1
+
+Les indemnités susceptibles, en application de l'article L. 7, d'être mises à la charge des prestataires de services postaux
+du fait de la perte ou de l'avarie des envois postaux, autres que les colis, qui leur ont été confiés, ne peuvent excéder : 
+
+1° Pour les envois ordinaires, une somme égale à deux fois le tarif d'affranchissement ; 
+
+2° Pour les envois bénéficiant, à la demande de l'expéditeur, d'un procédé de suivi entre leur dépôt dans le réseau du
+prestataire et leur distribution, une somme égale à trois fois le tarif d'affranchissement ; 
+
+3° Pour les envois faisant l'objet, selon les modalités fixées par arrêté du ministre chargé des postes, de formalités
+attestant leur dépôt et leur distribution, la somme de 16 euros ; 
+
+4° Pour les envois comportant des valeurs déclarées, le montant déclaré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1020 du 11 août 2006 - art. 1 () JORF 17 août 2006
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2007 - art. 1 (V)
+	  - Arrêté du 4 septembre 2014 (V)
+	  - Arrêté du 4 septembre 2014 - art. Annexe 5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L7 (V)
+
+
+###### Article R2-2
+
+Les indemnités susceptibles, en application de l'article L. 7, d'être mises à la charge des prestataires de services postaux
+du fait de la perte ou de l'avarie des colis postaux qui leur ont été confiés ne peuvent excéder 23 euros par kilogramme de
+poids brut de marchandises manquantes ou avariées ; le poids brut s'entend du poids des marchandises augmenté de celui de
+leur emballage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1020 du 11 août 2006 - art. 1 () JORF 17 août 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L7 (V)
+
+
+###### Article R2-3
+
+Est considéré comme perdu un envoi postal qui n'a pas été distribué à son destinataire dans un délai de quarante jours à
+compter de la date de son dépôt dans le réseau du prestataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1020 du 11 août 2006 - art. 1 () JORF 17 août 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R2-4
+
+Les indemnités susceptibles, en application de l'article L. 8, d'être mises à la charge des prestataires de services postaux
+du fait du retard dans la distribution des envois postaux qui leur ont été confiés ne peuvent excéder le montant du tarif
+d'affranchissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1020 du 11 août 2006 - art. 1 () JORF 17 août 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L8 (V)
+
+
+###### Article R2-5
+
+Les règles d'indemnisation fixées au présent titre s'appliquent à défaut de stipulations plus favorables prévues par les
+conditions générales de vente ou par les contrats conclus entre prestataires et expéditeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1020 du 11 août 2006 - art. 1 () JORF 17 août 2006
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 
 ## LIVRE II : Les communications électroniques
