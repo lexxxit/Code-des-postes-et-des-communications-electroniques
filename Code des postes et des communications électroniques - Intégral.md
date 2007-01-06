@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-07
 
 # Partie législative
 
@@ -7845,252 +7845,50 @@ Le présent code est applicable à Mayotte.
 
 ## LIVRE Ier : Le service postal
 
-### TITRE VIII : Dispositions pénales.
+### TITRE Ier : Dispositions générales
 
-###### Article R2
+#### Chapitre Ier : Le service universel postal et les obligations du service postal.
 
-Le fait de transporter des correspondances ou des envois recommandés dont le service est réservé au prestataire du service
-universel, en application de l'article L. 2, est puni des peines prévues pour les contraventions de la 5e classe.
-
-Les contrevenants aux dispositions des articles L. 3 et L. 4 sont passibles des mêmes peines.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L2 (M)
-	  - Code des postes et des communications électronique - art. L3 (M)
-	  - Code des postes et des communications électronique - art. L4 (Ab)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L12
-
-	**Modifié par**:
-
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 2 () JORF 30 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R3
-
-Sera punie de l'amende prévue pour les contraventions de la 5e classe :
-
-1° L'insertion de billets de banque français ou étrangers ou d'autres valeurs au porteur dans les envois ordinaires ou
-simplement recommandés *infraction*.
-
-La peine ne sera pas encourue lorsque l'insertion de tels billets et valeurs dans les lettres recommandées n'excède pas le
-montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux de garantie choisi par l'expéditeur au moment
-de l'envoi.
-
-2° L'insertion de matières d'or ou d'argent, de bijoux ou autres objets précieux dans les envois ordinaires ou simplement
-recommandés.
-
-La peine ne sera pas encourue lorsque l'insertion de telles matières, bijoux ou objets dans les paquets recommandés n'excède
-pas une valeur égale au montant maximum de l'indemnité accordée, en cas de perte, en fonction du taux de garantie choisi par
-l'expéditeur au moment de l'envoi.
-
-3° L'insertion de pièces de monnaie françaises ou étrangères ayant cours légal dans tout envoi autre qu'une lettre ou boîte
-avec valeur déclarée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R4 (Ab)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L65
-
-
-###### Article R4
-
-Les dispositions de l'article R. 3 sont applicables selon le cas à l'insertion dans les colis postaux, sans déclaration de
-valeur, d'espèces monnayées, de matières d'or ou d'argent ou d'autres objets précieux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. R3 (M)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L66
-
-
-###### Article R5
-
-Il est interdit, sous les peines édictées à l'article R. 1, d'insérer dans un envoi confié à la poste :
-
-Des matières ou objets dangereux ou salissants ;
-
-Des marchandises soumises à des droits de douane, de régie, ainsi que des marchandises prohibées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. R1 (M)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L68 al. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-
-###### Article R6
-
-Seront punis de l'amende prévue pour les contraventions de la 4e classe :
-
-1° Ceux qui auront fait usage d'un timbre-poste ou d'une empreinte d'affranchissement ayant déjà été utilisé ;
-
-2° Ceux qui auront inséré dans un envoi en franchise postale ou en dispense d'affranchissement une lettre, un document, un
-imprimé ou tout autre objet pour lequel ce mode d'expédition n'est pas prévu par la réglementation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-###### Article R7
-
-Les dispositions de l'article R. 5229, premier alinéa, du code de la santé publique, s'appliquent aux infractions visées par
-l'article L. 31 constatées dans le service postal.
-
-**Nota:**
-
-NOTA : l'article R. 5229 du code de la santé publique a été abrogé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L69 al. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°62-274 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L31 (M)
-	  - Code de la santé publique R5229 al. 1
-
-
-###### Article R8
-
-Est interdit pour toutes les opérations effectuées sans l'intermédiaire de La Poste l'usage des formules qu'elle met à la
-disposition du public ou d'imprimés reproduisant ou imitant lesdites formules.
-
-Est interdite également la distribution de tout document, de quelque nature qu'il soit, revêtu de vignettes, de timbres,
-d'empreintes ou de mentions lui donnant faussement l'apparence d'objet de correspondance ayant transité par le service
-postal.
-
-Toute infraction aux dispositions de deux alinéas précédents est punie de l'amende prévue pour les contraventions de la 3e
-classe par formule utilisée ou par document mis en distribution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L70
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 3 () JORF 7 janvier 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-
-### TITRE Ier : Le service universel postal
-
-#### CHAPITRE Ier : Le traitement des réclamations des usagers par le prestataire du service universel postal
+##### Section 1 : Les caractéristiques du service universel.
 
 ###### Article R1
 
-Les réclamations portant sur des prestations du service universel postal sont traitées par le prestataire de ce service selon
-des modalités fixées par arrêté du ministre chargé des postes, sur proposition du prestataire du service universel postal,
-après avis du Médiateur du service universel postal.
+Le service universel postal comprend l'offre des services d'envois postaux nationaux et transfrontaliers suivants :
 
-Le traitement des réclamations par le prestataire du service universel postal est gratuit pour les usagers.
+a) Les services d'envois de correspondance pesant au plus 2 kg comprenant :
 
-La proposition du prestataire du service universel postal mentionnée au premier alinéa porte sur la procédure interne de
-traitement des réclamations, sur la liste des prestations qui font l'objet d'un dédommagement en cas de perte, de vol, de
-détérioration ou de non-respect des engagements de qualité du service, ainsi que sur les barèmes de dédommagement.
+1° Les services d'envois ordinaires égrenés ou en nombre, les services d'envois nationaux égrenés incluant des services
+d'envois prioritaires et non prioritaires ;
+
+2° Les services d'envois recommandés avec ou sans avis de réception ;
+
+b) Les services d'envois de journaux et imprimés périodiques pesant au plus 2 kg ;
+
+c) Les services d'envois de catalogues et autres imprimés pesant au plus 2 kg ;
+
+d) Les services d'envois de colis postaux pesant au plus 20 kg, en envoi ordinaire ou en recommandé, offerts au public à
+l'unité, à l'exclusion des services d'envois offerts à des entreprises en exécution de contrats portant sur plusieurs
+envois ;
+
+e) Les services d'envois à valeur déclarée dont le montant est inférieur à un seuil fixé par arrêté du ministre chargé des
+postes ;
+
+f) Le service de réexpédition des envois postaux mentionnés au présent article ;
+
+g) Dans les conditions fixées par arrêté du ministre chargé des postes, des services d'envois de cécogrammes à titre gratuit
+en envoi ordinaire ou en recommandé.
+
+Les envois prioritaires relevant du service universel postal sont distribués le jour ouvrable suivant le jour de leur dépôt.
+
+Les services d'envois en nombre portent sur le dépôt simultané d'un nombre d'objets homogènes ou classés en catégories
+homogènes, supérieur à un nombre arrêté par le ministre chargé des postes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-1335 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+	  - Décret n°2007-29 2007-01-05 art. 1 I, II JORF 7 janvier 2007
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Cité par**:
 
@@ -8103,18 +7901,663 @@ détérioration ou de non-respect des engagements de qualité du service, ainsi 
 
 	  - Décret n°62-274 1962-03-12
 
+
+###### Article R1-1
+
+Les prestations du service universel postal sont offertes à l'ensemble des usagers de manière permanente sur tout le
+territoire métropolitain, dans les départements d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon.
+
+Les prestations du service universel sont accessibles aux usagers.
+
+En particulier, les points de contact avec le public donnant accès aux prestations du service universel autres que les envois
+en nombre et à l'information sur ces prestations doivent permettre qu'au moins 99 % de la population nationale et au moins 95
+% de la population de chaque département soit à moins de 10 kilomètres d'un point de contact et que toutes les communes de
+plus de 10 000 habitants disposent d'au moins un point de contact par tranche de 20 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2011-849 du 18 juillet 2011 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-1
+
+La levée et la distribution des envois postaux relevant du service universel sont, sauf circonstances exceptionnelles,
+assurées tous les jours ouvrables.
+
+Lorsque les infrastructures de transport ou les caractéristiques géographiques de certaines zones font obstacle à
+l'accomplissement régulier des obligations prévues au premier alinéa, le prestataire du service universel définit un projet
+d'organisation particulière permettant d'assurer le service dans les meilleures conditions. Il transmet ce projet au ministre
+chargé des postes qui peut s'y opposer par une décision motivée notifiée dans le délai de deux mois suivant la réception du
+projet. En l'absence d'opposition, le prestataire du service universel communique le projet à l'Autorité de régulation des
+communications électroniques et des postes.
+
+Le dépôt et la distribution des envois à valeur déclarée peuvent être soumis à des conditions particulières rendues
+nécessaires par la réglementation applicable au transport des fonds et valeurs et par les exigences de la sécurité tant des
+usagers que des personnes et des installations concourant à la réalisation des prestations. Les aménagements ainsi prévus et
+leurs justifications sont communiqués par le prestataire du service universel au ministre chargé des postes et à l'Autorité
+de régulation des communications électroniques et des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 2007-01-05 art. 1 I, II JORF 7 janvier 2007
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-2
+
+La levée des envois postaux est assurée à heures régulières dans les points de contact et dans des boîtes aux lettres
+accessibles en permanence sur la voie publique. L'information sur l'heure de la levée la plus tardive figure sur ces
+installations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-3
+
+Les envois de correspondance, autres que les envois en nombre, confiés au prestataire du service universel sont payés par
+l'expéditeur au moyen de timbres ou de vignettes d'affranchissement. Tout autre moyen de paiement est défini
+contractuellement entre le prestataire du service universel et l'usager.
+
+En cas d'insuffisance d'affranchissement, les envois postaux sont délivrés au destinataire sous réserve qu'il verse un
+complément d'affranchissement. A défaut, les envois sont renvoyés à l'expéditeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-4
+
+Sauf pour les envois en nombre, un tarif unique est appliqué aux envois à destination de l'ensemble du territoire
+métropolitain.
+
+Le tarif appliqué aux lettres en provenance et à destination des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-
+Miquelon est celui en vigueur sur le territoire métropolitain, lorsque ces lettres relèvent de la première tranche de poids.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 4
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+
+###### Article R1-1-5
+
+Le conditionnement et l'emballage des envois postaux relevant du service universel doivent être adaptés à la forme et à la
+nature du contenu de l'envoi et aux conditions de transport permettant d'en préserver l'intégrité et la confidentialité. Les
+conditions requises pour satisfaire à ces dispositions sont précisées dans le catalogue prévu à l'article R. 1-1-10. 
+
+Tout envoi postal appartient à l'expéditeur aussi longtemps qu'il n'a pas été délivré au destinataire, sans préjudice de
+l'application des articles L. 7 à L. 11. 
+
+La distribution est assurée à l'adresse indiquée par l'expéditeur. A la demande du destinataire, la distribution peut être
+assurée selon d'autres modalités fixées par voie contractuelle. 
+
+L'expéditeur doit libeller l'adresse du destinataire de manière à permettre la bonne exécution de la distribution postale. A
+défaut, les envois sont renvoyés à l'expéditeur lorsque celui-ci est identifiable. 
+
+La distribution est subordonnée à l'existence, chez le destinataire, d'une installation de réception des envois de
+correspondance accessible et conforme aux spécifications établies dans le respect de la réglementation en vigueur. Cette
+disposition ne s'applique pas aux objets qui relèvent, par leur nature, d'une distribution à la personne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L1 (M)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L3 al.1 et L7
+	  - Code des postes et des communications électroni... - art. L7 (V)
+	  - Code des postes et des communications électroni... - art. R1-1-10 (V)
 
 
-#### CHAPITRE II : La régulation des activités postales
+###### Article R1-1-6
 
-##### SECTION 1 : Les autorisations
+Lorsque la distribution d'un envoi postal recommandé relevant du service universel est impossible, le destinataire est avisé
+que l'objet est conservé en instance pendant quinze jours calendaires. A l'expiration de ce délai, l'envoi postal est renvoyé
+à l'expéditeur lorsque celui-ci est identifiable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-7
+
+La nature des prestations du service universel et les tarifs en vigueur ainsi que les modifications, suspensions ou
+suppression de ces offres et tarifs sont portés à la connaissance des usagers dans le catalogue prévu à l'article R. 1-1-10,
+mis à leur disposition dans les points de contact et par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-10 (V)
+
+
+###### Article R1-1-8
+
+Le ministre chargé des postes, après avoir mis le prestataire du service universel en mesure de présenter ses observations et
+avoir recueilli les avis de l'Autorité de régulation des communications électroniques et des postes et de la Commission
+supérieure du service public des postes et communications électroniques, arrête des objectifs de qualité applicables aux
+prestations du service universel qu'il détermine. Ces objectifs portent sur la rapidité et la fiabilité avec lesquelles ces
+prestations sont assurées.
+
+Le prestataire du service universel procède périodiquement à des mesures de la qualité des services en recourant à des
+méthodes normalisées sur le plan européen ou national. Les résultats de ces mesures sont portés à la connaissance des usagers
+et de l'Autorité de régulation des communications électroniques et des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-9
+
+L'usager du service universel est informé, par affichage dans chaque point de contact, des modalités de réclamation et des
+conditions de dédommagement. Il y dispose de formulaires de réclamation. La réclamation fait l'objet d'un enregistrement
+nominatif et donne lieu à un accusé de réception indiquant le délai de réponse. Le délai de réponse à une réclamation
+relative à un envoi national ne peut être supérieur à deux mois à compter de la réception de la réclamation assortie des
+justificatifs. Le traitement de la réclamation par le prestataire du service universel est gratuit pour l'usager. 
+
+Si l'usager n'est pas satisfait de la réponse donnée à titre définitif à sa réclamation, il peut, sans préjudice de toute
+autre voie de recours, saisir le médiateur de La Poste institué en application de l'article R. 1-1-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-18 (V)
+
+
+##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.
+
+##### Sous-section 1 : Droits et obligations de La Poste, prestataire du service universel
+
+###### Article R1-1-10
+
+La Poste établit et tient à jour le catalogue des prestations relevant du service universel et du secteur réservé ainsi que
+des tarifs en vigueur.
+
+La Poste transmet simultanément au ministre chargé des postes et à l'Autorité de régulation des communications électroniques
+et des postes ses propositions de modifications substantielles du catalogue, autres que tarifaires, qui ont pour objet des
+services relevant du service universel portant sur des envois égrenés. L'Autorité de régulation des communications
+électroniques et des postes dispose d'un délai d'un mois suivant la réception du document pour émettre son avis et le
+transmettre au ministre chargé des postes. A défaut d'opposition notifiée par le ministre chargé des postes dans les deux
+mois suivant la réception du document, les modifications sont réputées approuvées.
+
+La Poste informe le ministre chargé des postes et l'Autorité de régulation des communications électroniques et des postes des
+modifications du catalogue portant sur les services d'envois en nombre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-5 (V)
+	  - Code des postes et des communications électroni... - art. R1-1-7 (V)
+
+
+###### Article R1-1-11
+
+Lorsque La Poste propose des prestations associées incluant une prestation relevant du service universel postal, elle
+distingue dans son offre, le cas échéant dans le contrat conclu avec l'utilisateur et lors de la facturation, ce qui relève,
+d'une part, du service universel et, d'autre part, des prestations complémentaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-12
+
+Lorsque, en raison de circonstances exceptionnelles indépendantes de la volonté de La Poste, le service universel est
+interrompu ou perturbé, La Poste prend toutes les dispositions utiles pour rétablir le service dans les meilleurs délais. La
+Poste informe le ministre chargé des postes et l'Autorité de régulation des communications électroniques et des postes des
+mesures prises et des délais nécessaires pour rétablir le service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-13
+
+La Poste fournit à l'Autorité de régulation des communications électroniques et des postes un mois au moins avant leur entrée
+en vigueur toute information utile sur les tarifs des services non réservés relevant du service universel.
+
+Ces tarifs sont communiqués pour information au ministre chargé des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-14
+
+La Poste présente une comptabilité analytique comportant des comptes séparés pour chacun des services dont l'exclusivité lui
+est réservée et distinguant, parmi les autres services, ceux qui relèvent de l'offre de service universel, de la mission de
+transport de la presse bénéficiant de l'agrément de la commission paritaire des publications et agences de presse et de ses
+autres activités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-15
+
+La Poste fournit à l'Autorité de régulation des communications électroniques et des postes l'information statistique prévue à
+l'article L. 135, selon des procédures déterminées par l'Autorité après consultation de La Poste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L135 (V)
+
+
+###### Article R1-1-16
+
+La Poste fournit les informations que l'Autorité de régulation des communications électroniques et des postes lui demande
+pour l'accomplissement de ses missions et l'exercice de son contrôle du service universel postal. Les demandes de l'Autorité
+sont motivées et proportionnées à ses besoins ; elles précisent le niveau de détail de la réponse et les délais impartis pour
+la produire.
+
+La Poste adresse chaque année à l'Autorité de régulation des communications électroniques et des postes un bilan du service
+universel qu'elle a offert. Elle en transmet une copie au ministre chargé des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### Sous-section 2 : Le transport de la presse
+
+###### Article R1-1-17
+
+Les envois de publications périodiques bénéficiant de l'agrément de la commission paritaire des publications et agences de
+presse sont acheminés dans les conditions du service universel postal. La structure des tarifs applicables à ces envois a
+pour objectif de favoriser le pluralisme, notamment celui de la presse d'information politique et générale. 
+
+La Poste soumet son projet de tarifs à l'approbation des ministres chargés des postes et de l'économie. Le ministre chargé
+des postes saisit l'Autorité de régulation des communications électroniques et des postes qui dispose d'un mois pour rendre
+son avis sur les aspects économiques du projet. Sauf décision contraire des ministres dans le délai de deux mois suivant la
+réception du projet, les tarifs sont réputés approuvés. 
+
+Les sujétions particulières supportées par La Poste en raison du régime d'acheminement et de distribution de la presse font
+l'objet d'une compensation financière déterminée dans les conditions prévues à l'article R. 1-1-26.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-26 (V)
+
+
+##### Sous-section 3 : Dispositions diverses
+
+###### Article R1-1-18
+
+La Poste institue un médiateur rattaché directement au président et nommé par celui-ci pour une durée supérieure à deux ans.
+Le médiateur peut être saisi sans frais par les usagers dont les réclamations ont fait l'objet d'un rejet définitif. Il émet
+son avis dans un délai de deux mois sur les situations qui lui sont soumises.
+
+Le médiateur dispose des moyens nécessaires à l'accomplissement de sa mission. Il ne peut être démis que pour faute grave et
+avec l'accord du conseil d'administration.
+
+Il publie des recommandations et transmet chaque année un bilan statistique et qualitatif de son activité au président de La
+Poste, au ministre chargé des postes et à l'Autorité de régulation des communications électroniques et des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-9 (V)
+
+
+###### Article R1-1-19
+
+La Poste met en oeuvre, pour ce qui la concerne, les engagements internationaux pris par l'Etat dans le cadre de l'Union
+postale universelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-20
+
+La Poste informe le ministre chargé des postes des accords internationaux qu'elle conclut et des dispositions qu'elle prend
+pour assurer les interconnexions nécessaires avec les réseaux étrangers.
+
+La Poste prend les dispositions permettant d'assurer, dans les meilleures conditions de coût et d'efficacité, l'exécution sur
+le territoire national de services de courrier au profit des services postaux étrangers ou des autres opérateurs avec
+lesquels elle a conclu des accords.
+
+Pour établir ou exploiter des services postaux à l'étranger La Poste peut prendre toutes participations financières dans les
+organismes de son choix ou créer des filiales dans les conditions prévues par les textes qui la régissent.
+
+La Poste peut être associée par les autorités de l'Etat à la négociation des accords internationaux relatifs aux activités
+postales. Elle peut être habilitée à signer certains accords techniques relatifs à l'exploitation des services de courrier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-21
+
+Selon les orientations définies par les ministres dont relève la politique de coopération internationale et à la demande du
+ministre chargé des postes, La Poste contribue à l'élaboration et participe à la mise en oeuvre de la politique de l'Etat en
+matière de coopération internationale. A ce titre, elle fournit les personnels nécessaires pour remplir des missions
+d'assistance technique auprès des organismes des postes étrangers ou internationaux. Elle organise des actions d'information
+et de perfectionnement au profit de stagiaires étrangers et des coopérants français.
+
+La Poste peut être chargée de missions par le ministre chargé des postes au sein des institutions internationales de
+coopération pour le développement des services de courrier. Les modalités selon lesquelles l'Etat et les organismes nationaux
+ou internationaux remboursent à La Poste les dépenses engagées au titre des activités prévues au présent article sont fixées
+par voie de conventions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-22
+
+A la demande du ministre chargé des postes, La Poste apporte son concours à la définition des positions françaises auprès des
+organisations européennes et internationales compétentes en matière de réglementation et de normalisation dans le domaine des
+services postaux.
+
+Dans ce même domaine, La Poste apporte son concours technique aux organismes compétents en matière de normalisation aux plans
+national, européen et international.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-23
+
+Pour développer ses recherches, La Poste peut créer des laboratoires, s'associer ou coopérer avec tous organismes ou
+entreprises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-24
+
+Dans les conditions fixées par une convention passée avec l'Etat, La Poste est chargée de la conservation, de la mise en
+valeur et de l'enrichissement du patrimoine philatélique et postal qui lui a été dévolu ou affecté.
+
+Elle tient à jour l'inventaire et l'évaluation des collections, objets et documents qu'elle détient, en distinguant les biens
+appartenant à l'Etat et ceux qui relèvent de son patrimoine propre.
+
+Elle présente au public ces collections, objets et documents et, pour ceux qui ne sont pas exposés, assure leur accès aux
+personnes habilitées par le ministre chargé des postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R1-1-25
+
+La Poste prend, conformément aux directives du ministre chargé des postes, toute mesure utile pour assurer l'exécution des
+missions de défense nationale et de sécurité publique qui lui sont prescrites. 
+
+A ce titre, elle accomplit toute opération considérée comme indispensable à la continuité de l'action gouvernementale. Elle
+assure la sécurité des envois qui lui sont confiés. Elle protège ses installations contre toute agression et, d'une manière
+générale, elle exécute toute mission nécessaire au maintien des activités essentielles de la nation. 
+
+Elle met en oeuvre les moyens demandés par les autorités gouvernementales et leurs représentants territoriaux pour
+l'exécution des plans de secours. 
+
+Le ministre chargé des postes déclare d'importance vitale les installations de La Poste répondant aux conditions de l'article
+L. 1332-1 du code de la défense. A la demande du ministre chargé des postes, La Poste apporte son concours dans le domaine
+des services postaux aux activités de divers organismes au sein desquels sont spécialement traitées des questions ayant des
+incidences directes ou indirectes en matière de défense nationale et de sécurité publique. 
+
+La Poste veille à la satisfaction, par l'ensemble de son groupe, des obligations qui lui incombent en matière de défense
+nationale et de sécurité publique. 
+
+La Poste concourt à l'organisation et à l'exécution du service de la poste aux armées, selon des modalités précisées par une
+convention passée avec l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1330 du 10 septembre 2007 - art. 20 (V)
+	  - Décret n°2007-1331 du 10 septembre 2007 - art. 15 (V)
+	  - Décret n°2007-1332 du 10 septembre 2007 - art. 23 (V)
+	  - Décret n°2007-1333 du 10 septembre 2007 - art. 17 (V)
+	  - Code des postes et des communications électroni... - art. R1-1-26 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1 (V)
+
+
+###### Article R1-1-26
+
+Les prestations fournies par La Poste à l'Etat ou, sur la demande de l'Etat, à un tiers sont rémunérées aux tarifs en
+vigueur, sauf dans les cas limitativement énumérés au présent article.
+
+Les correspondances ordinaires adressées au Président de la République sont admises en franchise. Le volume de ce courrier
+est évalué par La Poste à partir d'un comptage effectué par sondage. Une indemnité annuelle couvrant le coût de ce service
+est versée par l'Etat à La Poste.
+
+La contribution de La Poste à l'organisation et à l'exécution du service de la poste aux armées est rémunérée sur la base des
+coûts du service, selon des modalités précisées par la convention prévue à l'article R. 1-1-25.
+
+Le contrat de plan détermine la compensation prévue à l'article R. 1-1-17 compte tenu de l'évaluation prévisionnelle des
+volumes transportés communiquée par La Poste lors de l'élaboration du contrat de plan, des tarifs existants, de la nature des
+prestations assurées et des gains de productivité prévus. La Poste adresse chaque année, avant le 1er mai, au ministre chargé
+des postes et au ministre chargé du budget, une actualisation de ces informations. En vue de son inscription dans la loi de
+finances initiale, les ministres arrêtent, en liaison avec l'exploitant public, le montant de la contribution de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-17 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. R1-1-25 (V)
+
+
+#### Chapitre II : La régulation des activités postales.
+
+##### Section 1 : Les autorisations.
 
 ##### Sous-section 1 : Les procédures d'attribution des autorisations
 
@@ -8131,9 +8574,9 @@ dans le cadre des procédures administratives et juridictionnelles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8147,9 +8590,9 @@ L'autorisation fait l'objet d'une demande rédigée en français, adressée à l
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Cité par**:
 
@@ -8203,9 +8646,9 @@ suivant la délivrance de l'autorisation et mentionnant les investissements et l
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8228,9 +8671,9 @@ place avant qu'il soit statué sur la demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8244,23 +8687,23 @@ place avant qu'il soit statué sur la demande.
 ###### Article R1-2-5
 
 L'octroi de l'autorisation fait l'objet d'une décision expresse de l'Autorité de régulation des communications électroniques
-et des postes.
+et des postes. 
 
 Toutefois, pour les demandes portant exclusivement sur les services d'envois de correspondance transfrontalière, ainsi que
 sur les services d'envois de correspondance intérieure incluant la distribution offerts par les porteurs et les vendeurs
 colporteurs de presse, le silence gardé pendant plus de deux mois par l'Autorité de régulation des communications
 électroniques et des postes vaut décision d'acceptation. Ce délai court à compter de la réception par le demandeur de la
 lettre recommandée mentionnée à l'article R. 1-2-4, l'informant que son dossier est complet, ou, à défaut, à l'expiration du
-délai de 20 jours ouvrables prévu au même article.
+délai de 20 jours ouvrables prévu au même article. 
 
 L'Autorité de régulation des communications électroniques et des postes publie et tient à la disposition du public la liste
 des autorisations qu'elle a délivrées, avec l'indication de leur objet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8268,7 +8711,7 @@ des autorisations qu'elle a délivrées, avec l'indication de leur objet.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-2-4 (M)
+	  - Code des postes et des communications électroni... - art. R1-2-4 (V)
 
 
 ##### Sous-section 2 : Les obligations des prestataires autorisés
@@ -8294,9 +8737,9 @@ présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8313,9 +8756,9 @@ secret des affaires dans l'utilisation de ces informations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8331,9 +8774,9 @@ demande d'autorisation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8341,10 +8784,10 @@ demande d'autorisation.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-2-3 (M)
+	  - Code des postes et des communications électroni... - art. R1-2-3 (V)
 
 
-##### SECTION 2 : La procédure de conciliation
+##### Section 2 : La procédure de conciliation.
 
 ###### Article R1-2-9
 
@@ -8354,9 +8797,9 @@ la conciliation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8364,7 +8807,7 @@ la conciliation.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L5-7 (V)
+	  - Code des postes et des communications électroni... - art. L5-7 (V)
 
 
 ###### Article R1-2-10
@@ -8376,32 +8819,32 @@ communications électroniques et des postes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
 
-##### SECTION 3 : Le règlement des différends
+##### Section 3 : Le règlement des différends.
 
 ###### Article R1-2-11
 
 Pour le règlement des différends mentionnés aux articles L. 5-4 et L. 5-5, l'Autorité de régulation des communications
 électroniques et des postes communique à chacune des parties les observations et pièces déposées par les autres parties et
 fixe, s'il y a lieu, le délai dans lequel il doit y être répondu. L'Autorité de régulation des communications électroniques
-et des postes peut entendre les parties. Elle est tenue de les entendre si elles en font la demande.
+et des postes peut entendre les parties. Elle est tenue de les entendre si elles en font la demande. 
 
 Dans l'hypothèse où l'Autorité de régulation des communications électroniques et des postes décide d'entendre les parties,
 l'audition est publique, sauf demande conjointe des parties ou, en cas de désaccord entre elles, sur décision de l'Autorité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Cité par**:
 
@@ -8413,8 +8856,7 @@ l'audition est publique, sauf demande conjointe des parties ou, en cas de désac
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L5-4 (V)
-	  - Code des postes et des communications électronique - art. L5-5 (V)
+	  - Code des postes et des communications électroni... - art. L5-4 (V)
 
 
 ###### Article R1-2-12
@@ -8431,9 +8873,9 @@ de régulation des communications électroniques et des postes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8448,23 +8890,16 @@ formé, instruit et jugé conformément aux dispositions des articles R. 11-3 à
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
 
-	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L5-6 (V)
-	  - Code des postes et des communications électronique - art. R11-8 (M)
-	  - Code des postes et des communications électronique - art. R11-9 (M)
-	  - Code des postes et des communications électroniques R11-3 à R11-6, R11-8, R11-9, L5-6
-
-
-##### SECTION 4 : Habilitation des agents chargés des enquêtes
+##### Section 4 : Habilitation des agents chargés des enquêtes.
 
 ###### Article R1-2-14
 
@@ -8475,20 +8910,25 @@ les personnes chargées de procéder aux enquêtes prévues à l'article L. 5-9 
 entrant dans le champ d'application de l'article L. 20.
 
 Le président de l'Autorité de régulation des communications électroniques et des postes désigne, à cet effet, les personnes
-placées sous son autorité qu'il souhaite faire habiliter.
+placées sous son autorité qu'il souhaite faire habiliter. 
 
 L'arrêté mentionné au premier alinéa précise l'objet de l'habilitation et la durée pendant laquelle le fonctionnaire ou
 l'agent a vocation à rechercher et constater les infractions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L20 (V)
+	  - Code des postes et des communications électroni... - art. L5-9 (V)
 
 	**Cité par**:
 
@@ -8496,28 +8936,23 @@ l'agent a vocation à rechercher et constater les infractions.
 	  - Code des postes et des communications électroni... - art. R1-2-16 (V)
 	  - Code des postes et des communications électroni... - art. R1-2-17 (V)
 
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L20 (M)
-	  - Code des postes et des communications électronique - art. L5-9 (V)
-
 
 ###### Article R1-2-15
 
 Les fonctionnaires et agents habilités en application de l'article R. 1-2-14 prêtent serment devant le tribunal de grande
-instance de leur résidence administrative.
+instance de leur résidence administrative. 
 
-La formule du serment est la suivante :
+La formule du serment est la suivante : 
 
-"Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
+" Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
-fonctions."
+fonctions. "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8525,7 +8960,7 @@ fonctions."
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-2-14 (M)
+	  - Code des postes et des communications électroni... - art. R1-2-14 (V)
 
 
 ###### Article R1-2-16
@@ -8538,9 +8973,9 @@ observations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8548,7 +8983,7 @@ observations.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-2-14 (M)
+	  - Code des postes et des communications électroni... - art. R1-2-14 (V)
 
 
 ###### Article R1-2-17
@@ -8556,17 +8991,17 @@ observations.
 Une carte professionnelle portant mention de l'habilitation, de son objet et de sa durée est délivrée, ou son renouvellement
 assuré, par le ministre chargé des postes, ou par le président de l'Autorité de régulation des communications électroniques
 et des postes, chacun pour ce qui le concerne, aux fonctionnaires et agents placés sous leur autorité mentionnés à l'article
-R. 1-2-14.
+R. 1-2-14. 
 
-Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance.
+Mention de la prestation de serment est portée sur cette carte par les soins du greffier du tribunal de grande instance. 
 
 Le modèle de la carte professionnelle est établi par les autorités susmentionnées, chacune pour ce qui la concerne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-507 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
+	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
 
 	**Codifié par**:
 
@@ -8574,7 +9009,7 @@ Le modèle de la carte professionnelle est établi par les autorités susmention
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-2-14 (M)
+	  - Code des postes et des communications électroni... - art. R1-2-14 (V)
 
 
 ### TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.
