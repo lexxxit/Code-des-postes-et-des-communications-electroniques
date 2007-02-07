@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2007-01-07
+Version Consolidée au 2007-02-08
 
 # Partie législative
 
@@ -13748,26 +13748,30 @@ relatifs aux installations radioélectriques et aux zones de groupement des inst
 
 #### Chapitre II : Numérotation et adressage.
 
+##### Section 1 : Numérotation.
+
 ###### Article R20-44-27
 
 L'attribution par l'Autorité de régulation des communications électroniques et des postes de ressources de numérotation à un
 opérateur entraîne le versement d'une redevance due par année civile, y compris l'année de l'attribution.
 
-**Nota:**
-
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-31 (V)
 
 
 ###### Article R20-44-28
@@ -13794,21 +13798,23 @@ CATEGORIE de numéro attribué : A un chiffre
 
 MONTANT par numéro : 20 000 000 a
 
-**Nota:**
-
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-32 (V)
 
 	**Cité par**:
 
@@ -13823,21 +13829,23 @@ mêmes ressources.
 
 Si l'opérateur renonce à sa réservation, la redevance au titre de l'année en cours reste due.
 
-**Nota:**
-
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-33 (V)
 
 	**Cité par**:
 
@@ -13849,21 +13857,23 @@ n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil
 A compter du 1er janvier 2006, le montant dû au titre de la réservation ou de l'attribution est calculé au prorata de leur
 durée.
 
-**Nota:**
-
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-34 (V)
 
 
 ###### Article R20-44-31
@@ -13881,33 +13891,29 @@ postes à la fourniture des services associés à une offre d'accès à un rése
 restructuration du plan national de numérotation, de nouvelles ressources se substituant aux ressources déjà attribuées à un
 opérateur, jusqu'à l'achèvement de la substitution des nouvelles ressources aux anciennes.
 
-**Nota:**
-
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-35 (V)
 
 
 ###### Article R20-44-32
 
 Les redevances mentionnées aux articles R. 20-44-28 et R. 20-44-29 sont recouvrées par les comptables du Trésor selon les
 modalités fixées aux articles 80 à 95 du décret du 29 décembre 1962 portant règlement général sur la comptabilité publique.
-
-**Nota:**
-
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
 
 **Liens relatifs à cet article**
 
@@ -13917,13 +13923,21 @@ n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil
 	  - Code des postes et des communications électronique - art. R20-44-28 (M)
 	  - Code des postes et des communications électronique - art. R20-44-29 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-36 (V)
 
 	**Cité par**:
 
@@ -13936,21 +13950,220 @@ Le silence gardé par l'Autorité de régulation des communications électroniqu
 compter de la date de réception d'une demande d'attribution de ressources de numérotation relevant de l'article L. 44 vaut
 décision de rejet.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-Par décision n° 287486 en date du 25 avril 2007, le Conseil d'Etat a annulé les dispositions du VIII de l'article 4 du décret
-n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil d'Etat) du code des postes et des communications
-électroniques.
+	**Modifié par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. Annexe (VD)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L44 (M)
+
+
+##### Section 2 : Attribution et gestion des noms de domaine de l'internet.
+
+##### Paragraphe I : Modalités de désignation et obligations des organismes chargés d'attribuer et de gérer les noms de domaine, au sein des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant au territoire national
+
+###### Article R20-44-34
+
+Les personnes morales chargées d'attribuer et de gérer les noms de domaine de l'internet mentionnés à l'article L. 45 du code
+des postes et des communications électroniques sont dénommées "offices d'enregistrement".
+
+Les personnes morales qui, dans le cadre de contrats conclus avec un office d'enregistrement, fournissent des services
+d'enregistrement de nom de domaine sont dénommées "bureau d'enregistrement".
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
 
 	**Cité par**:
 
-	  - Arrêté du 19 février 2010 - art. Annexe (VD)
+	  - Code des postes et des communications électroni... - art. R20-44-39 (Ab)
+	  - Code des postes et des communications électroni... - art. R20-44-44 (T)
+
+	**Cite**:
+
+	  - Code des postes et des communications électronique - art. L45 (M)
+
+
+###### Article R20-44-35
+
+Chaque office est choisi, après consultation publique, par arrêté du ministre chargé des communications électroniques. La
+consultation publique comporte un appel de candidatures publié au Journal officiel de la République française, précisant
+notamment, s'il y a lieu, la partie du territoire national concernée et les prescriptions dont pourra être assortie la
+désignation en application de l'article R. 20-44-36.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-34 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
+
+
+###### Article R20-44-36
+
+La désignation d'un office peut être assortie de prescriptions portant notamment sur :
+
+- les règles de désignation et d'enregistrement des noms de domaine ;
+
+- les critères d'éligibilité à l'attribution d'un nom de domaine ;
+
+- les termes dont l'enregistrement n'est pas autorisé, notamment en raison de leur caractère illicite ou contraire à l'ordre
+public, ou est réservé à l'office ou aux pouvoirs publics ;
+
+- les procédures d'accès aux services des bureaux d'enregistrement ;
+
+- les dispositions nécessaires pour assurer la concertation avec l'ensemble des parties intéressées par les décisions de
+l'office, notamment les bureaux d'enregistrement, les demandeurs de noms de domaine et les utilisateurs d'internet ;
+
+- la mise en place de procédures de règlement des différends ;
+
+- les exigences de permanence, de qualité et de disponibilité du service ;
+
+- la mise en place d'un dispositif permettant à toute personne de porter à la connaissance de l'office un nom de domaine
+présentant un caractère illicite ou contraire à l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 2 (VD)
+	  - Code des postes et des communications électroni... - art. R20-44-35 (T)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-37
+
+Chaque office est tenu de rendre publics les prix des prestations d'attribution et de gestion des noms de domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-38
+
+La durée pour laquelle un office est désigné est au minimum de cinq ans et au maximum de dix ans. Deux ans avant la date
+d'expiration de la période pour laquelle l'office a été désigné, le ministre chargé des communications électroniques lui
+notifie les conditions de renouvellement de la désignation ou les motifs d'un refus de renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-47 (M)
+
+
+###### Article R20-44-39
+
+Les offices doivent avoir leur siège en France ou sur le territoire d'un autre Etat membre de l'Union européenne.
+
+Les offices, ainsi que les sociétés qu'ils contrôlent au sens de l'article L. 233-3 du code de commerce, ne peuvent, pendant
+toute la durée de la mission qui leur est confiée, exercer l'activité de bureau d'enregistrement de noms de domaine pour la
+gestion et l'attribution desquels ils ont été désignés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Cité par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-38 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-40 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-41 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-44 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-45 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-40
+
+Avant le 30 juin de chaque année, chaque office adresse au ministre chargé des communications électroniques un rapport sur
+son activité de l'année précédente.
+
+La liste des informations que doit contenir ce rapport est fixée par arrêté du ministre chargé des communications
+électroniques.
+
+Chaque office est, en outre, tenu de répondre aux demandes du ministre chargé des communications électroniques relatives au
+contrôle du respect des principes d'intérêt général régissant l'attribution des noms de domaine prévu au deuxième alinéa de
+l'article L. 45 du code des postes et des communications électroniques et au paragraphe 2 ci-dessous de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Cité par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
 
 	**Codifié par**:
 
@@ -13958,7 +14171,289 @@ n° 2005‑605 du 27 mai 2005 modifiant la deuxième partie (Décrets en Conseil
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L44 (M)
+	  - Code des postes et des communications électronique - art. L45 (M)
+
+
+###### Article R20-44-41
+
+Le ministre chargé des communications électroniques peut procéder au retrait de la désignation d'un office avant son terme en
+cas d'incapacité technique ou financière de l'office à faire face durablement aux obligations résultant des conditions
+d'exercice de son activité ou de méconnaissance par lui des obligations fixées par le présent code et par les textes pris
+pour son application ou des prescriptions fixées lors de sa désignation.
+
+Le ministre notifie le projet de retrait de la désignation et ses motifs à l'office en cause. Celui-ci dispose d'un délai de
+deux mois pour présenter ses observations. Le retrait de la désignation ne peut intervenir moins de trois mois après la
+notification susmentionnée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-39 (V)
+
+
+##### Paragraphe II : Principes d'intérêt général régissant l'attribution des noms de domaine au sein de chaque domaine de premier niveau du système d'adressage de l'internet correspondant au territoire national
+
+###### Article R20-44-42
+
+Les règles d'attribution des noms de domaine au sein des noms de domaine de premier niveau correspondant au territoire
+national sont conformes aux dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-43
+
+I. - Le nom de la République française, de ses institutions nationales et des services publics nationaux, seul ou associé à
+des mots faisant référence à ces institutions ou services, ne peut être enregistré comme nom de domaine au sein des domaines
+de premier niveau correspondant au territoire national que par ces institutions ou services.
+
+II. - Sauf autorisation de l'assemblée délibérante, le nom d'une collectivité territoriale ou d'un établissement public de
+coopération intercommunale à fiscalité propre, seul ou associé à des mots ou abréviations faisant référence aux institutions
+locales, peut uniquement être enregistré par cette collectivité ou cet établissement public comme nom de domaine au sein des
+domaines de premier niveau correspondant au territoire national.
+
+III. - Le nom d'un titulaire d'un mandat électoral, associé à des mots faisant référence à ses fonctions électives, peut
+uniquement être enregistré par cet élu comme nom de domaine au sein des domaines de premier niveau du système d'adressage par
+domaine de l'internet correspondant au territoire national.
+
+IV. -  Les dispositions du présent article ne font pas obstacle au renouvellement des noms de domaine enregistrés avant
+l'entrée en vigueur du présent décret :
+
+- par une société ayant une dénomination sociale identique au nom enregistré et ayant déposé ce nom en tant que marque avant
+le 1er janvier 2004 ;
+
+- par une association de défense et de promotion de l'appellation d'origine dont le nom est enregistré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-44
+
+Le choix d'un nom de domaine au sein des domaines de premier niveau correspondant au territoire national ne peut porter
+atteinte au nom, à l'image ou à la renommée de la République française, de ses institutions nationales, des services publics
+nationaux, d'une collectivité territoriale ou d'un groupement de collectivités territoriales, ou avoir pour objet ou pour
+effet d'induire une confusion dans l'esprit du public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-45
+
+Un nom identique ou susceptible d'être confondu avec un nom sur lequel est conféré un droit de propriété intellectuelle par
+les règles nationales ou communautaires ou par le présent code ne peut être choisi pour nom de domaine, sauf si le demandeur
+a un droit ou un intérêt légitime à faire valoir sur ce nom et agit de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+
+###### Article R20-44-46
+
+Un nom identique à un nom patronymique ne peut être choisi pour nom de domaine, sauf si le demandeur a un droit ou un intérêt
+légitime à faire valoir sur ce nom et agit de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+###### Article R20-44-47
+
+Chaque office informe sans délai les autorités publiques compétentes des noms de domaine, au sein des domaines de premier
+niveau correspondant au territoire national, présentant un caractère illicite ou contraire à l'ordre public qu'il aurait
+constaté ou qui lui serait signalé en application des cinquième et huitième alinéas de l'article 24 de la loi du 29 juillet
+1881 modifiée sur la liberté de la presse et des articles 227-23 et 410-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 227-23
+	  - Code pénal - art. 410-1
+	  - Loi n°1881-07-29 art. 24
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+
+##### Paragraphe III : Rôles des offices et bureaux d'enregistrement
+
+###### Article R20-44-48
+
+Les offices collectent, en tant que de besoin auprès des bureaux d'enregistrement, et conservent les données de toute nature
+nécessaires à l'identification des personnes morales ou physiques titulaires de noms de domaine. Ils mettent en place une
+base de données publique d'information relative aux titulaires de noms de domaine, dans le respect de la loi n° 78-17 du 6
+janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+
+###### Article R20-44-49
+
+Les offices peuvent supprimer ou transférer des noms de domaine de leur propre initiative lorsque le titulaire ne répond pas
+aux critères d'éligibilité définis dans les prescriptions fixées lors de la désignation de l'office, ou que l'information
+fournie par le titulaire pour son identification est inexacte.
+
+Chaque office établit à cette fin une procédure comportant notamment l'envoi d'un avis au titulaire du nom de domaine pour
+lui donner la possibilité de prendre les mesures appropriées.
+
+Les offices sont tenus de bloquer, supprimer ou transférer, selon le cas, des noms de domaine :
+
+- lorsqu'ils constatent qu'un enregistrement a été effectué en violation des règles fixées par la présente section du code
+des postes et des communications électroniques ;
+
+- en application d'une décision rendue à l'issue d'une procédure judiciaire ou extrajudiciaire de résolution des litiges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. Annexe (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+
+###### Article R20-44-50
+
+L'office établit des procédures transparentes et non discriminatoires d'accès à ses services pour les bureaux
+d'enregistrement.
+
+Chaque bureau d'enregistrement s'engage contractuellement envers l'office à se conformer aux principes d'intérêt général
+fixés au deuxième alinéa de l'article L. 45 du code des postes et des communications électroniques et au paragraphe 2 de la
+présente section ainsi que dans les conditions de désignation de l'office.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45
+
+
+##### Paragraphe IV : Dispositions particulières
+
+###### Article R20-44-51
+
+Les articles R. 20-44-34 à R. 20-44-50 sont applicables à Wallis et Futuna et dans les Terres australes et antarctiques
+françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-162 du 6 février 2007 - art. 2 () JORF 8 février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 1962-03-12
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques
 
 
 #### Chapitre III : Droits de passage sur le domaine public routier et servitudes.
