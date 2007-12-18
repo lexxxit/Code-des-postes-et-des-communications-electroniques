@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2007-10-25
+Version Consolidée au 2007-12-19
 
 # Partie législative
 
@@ -3239,6 +3239,58 @@ décret.
 	  - Code des postes et des communications électronique - art. L33-3 (M)
 
 
+##### Section 6 : Dispositions particulières aux prestations d'itinérance intranationale.
+
+###### Article L34-10
+
+Tout opérateur de radiocommunications mobiles autorisé sur le territoire de la France métropolitaine, d'un département
+d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin ou de Saint-Pierre-et-Miquelon et accueillant sur son réseau le
+client d'un opérateur de radiocommunications mobiles autorisé dans un autre de ces territoires respecte les dispositions
+tarifaires de l'article 3 du règlement (CE) n° 717 / 2007 du Parlement européen et du Conseil, du 27 juin 2007, concernant
+l'itinérance sur les réseaux publics de téléphonie mobile à l'intérieur de la Communauté et modifiant la directive 2002 /
+21 / CE dans sa rédaction applicable à la date d'entrée en vigueur de la loi n° 2007-1774 du 17 décembre 2007 portant
+diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier, pour la rémunération de
+la prestation fournie au titre des communications téléphoniques. 
+
+Les tarifs des appels téléphoniques reçus ou émis à destination du territoire d'un Etat membre de la Communauté européenne,
+de Mayotte ou de Saint-Pierre-et-Miquelon par un client d'un opérateur de radiocommunications mobiles autorisé sur le
+territoire de la France métropolitaine, d'un département d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin ou de
+Saint-Pierre-et-Miquelon accueilli sur le réseau d'un opérateur de radiocommunications mobiles autorisé dans un autre de ces
+territoires respectent les dispositions tarifaires de l'article 4 du règlement (CE) n° 717 / 2007 du Parlement européen et du
+Conseil, du 27 juin 2007, précité dans sa rédaction applicable à la date d'entrée en vigueur de la loi n° 2007-1774 du 17
+décembre 2007 précitée. 
+
+Le présent article cesse d'être applicable le 1er juillet 2010.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Arrêté du 14 juin 1996 - art. Annexe (V)
+	  - Arrêté du 12 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 31 décembre 1996 - art. ANNEXE (V)
+	  - Arrêté du 18 décembre 1997 - art. ANNEXE (V)
+	  - Arrêté du 16 avril 1998 - art. ANNEXE (V)
+	  - Arrêté du 26 mai 1998 - art. ANNEXE (V)
+	  - Arrêté du 28 juillet 1998 - art. ANNEXE (V)
+	  - Arrêté du 6 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 19 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 28 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 20 octobre 1998 - art. ANNEXE (V)
+	  - Arrêté du 11 février 1999 - art. ANNEXE (V)
+	  - Code des postes et des communications électronique - art. D97-1 (T)
+	  - Code des postes et des communications électronique - art. D97-2 (T)
+
+	**Cite**:
+
+	  - Loi n°2007-1774 du 17 décembre 2007
+
+	**Modifié par**:
+
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 4
+
+
 #### Chapitre III : Les obligations de service public.
 
 ###### Article L35
@@ -3844,28 +3896,30 @@ communications électroniques, publiées au Journal officiel.
 
 ###### Article L36-7
 
-L'Autorité de régulation des communications électroniques et des postes :
+L'Autorité de régulation des communications électroniques et des postes : 
 
-1° Reçoit les déclarations prévues à l'article L. 33-1 ;
+1° Reçoit les déclarations prévues à l'article L. 33-1 ; 
 
-2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ;
+2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ; 
 
 3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
-sont applicables en vertu du présent code et des autorisations dont ils bénéficient et sanctionne les manquements constatés
-dans les conditions prévues aux articles L. 36-10 et L. 36-11 ;
+sont applicables en vertu du présent code, du règlement (CE) n° 717 / 2007 du Parlement européen et du Conseil, du 27 juin
+2007, concernant l'itinérance sur les réseaux publics de téléphonie mobile à l'intérieur de la Communauté et modifiant la
+directive 2002 / 21 / CE et des autorisations dont ils bénéficient et sanctionne les manquements constatés dans les
+conditions prévues aux articles L. 36-10 et L. 36-11 ; 
 
 4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
 contributions au financement des obligations de service universel et assure la surveillance des mécanismes de ce
-financement ;
+financement ; 
 
 5° Le cas échéant, définit des mesures d'encadrement pluriannuel des tarifs et émet un avis public sur la mise en oeuvre d'un
-tarif ou s'y oppose, en application des articles L. 35-2 et L. 38-1 ;
+tarif ou s'y oppose, en application des articles L. 35-2 et L. 38-1 ; 
 
 6° Assigne aux opérateurs et aux utilisateurs les fréquences nécessaires à l'exercice de leur activité dans les conditions
-prévues à l'article L. 42-1 et veille à leur bonne utilisation ;
+prévues à l'article L. 42-1 et veille à leur bonne utilisation ; 
 
 7° Etablit le plan national de numérotation téléphonique, attribue aux opérateurs les ressources en numérotation nécessaires
-à leur activité dans les conditions prévues à l'article L. 44 et veille à leur bonne utilisation ;
+à leur activité dans les conditions prévues à l'article L. 44 et veille à leur bonne utilisation ; 
 
 8° Etablit la liste des opérateurs réputés exercer une influence significative sur un marché du secteur des communications
 électroniques et fixe leurs obligations, dans les conditions prévues aux articles L. 37-1 et L. 37-2.
@@ -3914,25 +3968,21 @@ prévues à l'article L. 42-1 et veille à leur bonne utilisation ;
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 5
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L33-1 (M)
-	  - Code des postes et des communications électronique - art. L34-9 (M)
-	  - Code des postes et des communications électronique - art. L35-2 (M)
-	  - Code des postes et des communications électronique - art. L35-3 (M)
-	  - Code des postes et des communications électronique - art. L36-10 (M)
-	  - Code des postes et des communications électronique - art. L36-11 (M)
-	  - Code des postes et des communications électronique - art. L37-1 (M)
-	  - Code des postes et des communications électronique - art. L37-2 (M)
-	  - Code des postes et des communications électronique - art. L38-1 (M)
-	  - Code des postes et des communications électronique - art. L42-1 (M)
-	  - Code des postes et des communications électronique - art. L44 (M)
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L34-9 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L35-3 (V)
+	  - Code des postes et des communications électroni... - art. L36-10 (V)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L37-1 (V)
+	  - Code des postes et des communications électroni... - art. L37-2 (V)
+	  - Code des postes et des communications électroni... - art. L38-1 (V)
+	  - Code des postes et des communications électroni... - art. L42-1 (V)
+	  - Code des postes et des communications électroni... - art. L44 (V)
 
 
 ###### Article L36-8
@@ -4095,19 +4145,21 @@ chargé des communications électroniques, d'une organisation professionnelle, d
 personne physique ou morale concernée, sanctionner les manquements qu'elle constate, de la part des exploitants de réseaux ou
 des fournisseurs de services de communications électroniques, aux dispositions législatives et réglementaires afférentes à
 leur activité ou aux décisions prises pour en assurer la mise en oeuvre. Ce pouvoir de sanction est exercé dans les
-conditions ci-après :
+conditions ci-après : 
 
 1° En cas d'infraction d'un exploitant de réseau ou d'un fournisseur de services aux dispositions du présent code et des
-textes et décisions pris pour son application, ainsi qu'aux prescriptions d'une décision d'attribution ou d'assignation de
-fréquence prise par l'autorité en application de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté
-de communication, l'exploitant ou le fournisseur est mis en demeure par le directeur des services de l'Autorité de régulation
-des communications électroniques et des postes de s'y conformer dans un délai déterminé. Ce délai ne peut être inférieur à un
+textes et décisions pris pour son application ou du règlement (CE) n° 717 / 2007 du Parlement européen et du Conseil, du 27
+juin 2007, concernant l'itinérance sur les réseaux publics de téléphonie mobile à l'intérieur de la Communauté et modifiant
+la directive 2002 / 21 / CE, ainsi qu'aux prescriptions d'une décision d'attribution ou d'assignation de fréquence prise par
+l'autorité en application de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication,
+l'exploitant ou le fournisseur est mis en demeure par le directeur des services de l'Autorité de régulation des
+communications électroniques et des postes de s'y conformer dans un délai déterminé. Ce délai ne peut être inférieur à un
 mois sauf en cas d'infractions graves et répétées ou si l'exploitant ou le fournisseur en est d'accord. L'autorité peut
-rendre publique cette mise en demeure ;
+rendre publique cette mise en demeure ; 
 
 2° Lorsqu'un exploitant de réseau ou un fournisseur de services ne se conforme pas dans les délais fixés à une décision prise
 en application de l'article L. 36-8 ou à la mise en demeure prévue au 1° ci-dessus, l'Autorité de régulation des
-communications électroniques et des postes peut prononcer à son encontre une des sanctions suivantes :
+communications électroniques et des postes peut prononcer à son encontre une des sanctions suivantes : 
 
 a) Soit, en fonction de la gravité du manquement :
 
@@ -4115,31 +4167,31 @@ a) Soit, en fonction de la gravité du manquement :
 fournir un service de communications électroniques, ou le retrait de ce droit, dans la limite de trois ans ;
 
 - la suspension totale ou partielle, pour un mois au plus, la réduction de la durée, dans la limite d'une année, ou le
-retrait de la décision d'attribution ou d'assignation prise en application des articles L. 42-1 ou L. 44.
+retrait de la décision d'attribution ou d'assignation prise en application des articles L. 42-1 ou L. 44. 
 
 b) Soit, si le manquement n'est pas constitutif d'une infraction pénale, une sanction pécuniaire, dont le montant est
-proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 3 p. 100 du chiffre
-d'affaires hors taxes du dernier exercice clos, taux porté à 5 p. 100 en cas de nouvelle violation de la même obligation. A
-défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 euros, porté à 375
-000 euros en cas de nouvelle violation de la même obligation.
+proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 3 % du chiffre d'affaires
+hors taxes du dernier exercice clos, taux porté à 5 % en cas de nouvelle violation de la même obligation. A défaut d'activité
+permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 euros, porté à 375 000 euros en cas de
+nouvelle violation de la même obligation. 
 
 Les sanctions sont prononcées après que la personne en cause a reçu notification des griefs et a été mis à même de consulter
 le dossier et, le cas échéant, les résultats des enquêtes ou expertises conduites par l'autorité et de présenter ses
-observations écrites et verbales.
+observations écrites et verbales. 
 
-Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine ;
+Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine ; 
 
 3° En cas d'atteinte grave et immédiate aux règles mentionnées au premier alinéa du présent article, l'Autorité de régulation
 des communications électroniques et des postes peut ordonner, sans mise en demeure préalable, des mesures conservatoires.
 L'autorité peut, le cas échéant, confirmer les mesures conservatoires, après avoir donné à la personne concernée la
-possibilité d'exprimer son point de vue et de proposer des solutions ;
+possibilité d'exprimer son point de vue et de proposer des solutions ; 
 
 4° L'Autorité de régulation des communications électroniques et des postes ne peut être saisie de faits remontant à plus de
-trois ans, s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur sanction ;
+trois ans, s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur sanction ; 
 
 5° Les décisions sont motivées, notifiées à l'intéressé et publiées au Journal officiel. Elles peuvent faire l'objet d'un
 recours de pleine juridiction et d'une demande de suspension présentée conformément à l'article L. 521-1 du code de justice
-administrative, devant le Conseil d'Etat ;
+administrative, devant le Conseil d'Etat ; 
 
 6° Lorsqu'un manquement constaté dans le cadre des dispositions du présent article est susceptible d'entraîner un préjudice
 grave pour un opérateur ou pour l'ensemble du marché, le président de l'Autorité de régulation des communications
@@ -4149,13 +4201,6 @@ du manquement ; le juge peut prendre, même d'office, toute mesure conservatoire
 de son ordonnance.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 26 (M)
-	  - Code de justice administrative. - art. L521-1 (V)
-	  - Code des postes et des communications électronique - art. L36-8 (M)
-	  - Code des postes et des communications électronique - art. L44 (M)
 
 	**Cité par**:
 
@@ -4175,11 +4220,7 @@ de son ordonnance.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 5
 
 
 ###### Article L36-13
