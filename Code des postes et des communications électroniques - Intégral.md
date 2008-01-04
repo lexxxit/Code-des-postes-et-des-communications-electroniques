@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2007-12-19
+Version Consolidée au 2008-01-05
 
 # Partie législative
 
@@ -3429,18 +3429,20 @@ universel.
 
 ###### Article L35-2
 
-Peut être chargé de fournir l'une des composantes du service universel mentionnées aux 1°, 2° et 3° de l'article L. 35-1 tout
-opérateur en acceptant la fourniture sur l'ensemble du territoire national et capable de l'assurer.
+En vue de garantir la fourniture du service universel sur l'ensemble du territoire national dans le respect des principes
+rappelés par l'article L. 35 et des dispositions de l'article L. 35-1, le ministre chargé des communications électroniques
+peut désigner, pour chacune des composantes du service universel mentionnées aux 1° et 3° de l'article L. 35-1 ou les
+éléments de celle décrite au 2° du même article, un ou plusieurs opérateurs chargés de fournir cette composante ou cet
+élément. 
 
-Le ministre chargé des communications électroniques désigne les opérateurs chargés de fournir les composantes du service
-universel à l'issue d'appels à candidatures portant sur les conditions techniques et tarifaires ainsi que, le cas échéant, le
-coût net de fourniture de ces prestations.
+La désignation intervient à l'issue d'appels à candidatures portant sur les conditions techniques et financières ainsi que,
+le cas échéant, le coût net de fourniture de ces prestations. 
 
-Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé des communications électroniques désigne un
-opérateur capable d'assurer le service en cause sur l'ensemble du territoire national.
+Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé des communications électroniques désigne un ou
+plusieurs opérateurs en vue d'assurer la prestation en cause sur l'ensemble du territoire national. 
 
 Le cahier des charges du ou des opérateurs en charge du service universel des communications électroniques est soumis pour
-avis à la Commission supérieure du service public des postes et des communications électroniques.
+avis à la Commission supérieure du service public des postes et des communications électroniques. 
 
 Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
 électroniques, détermine les modalités d'application du présent article. Il fixe les conditions dans lesquelles les tarifs du
@@ -3493,60 +3495,58 @@ de régulation des communications électroniques et des postes.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 15
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L35-1 (M)
+	  - Code des postes et des communications électroniques - art. L35
+	  - Code des postes et des communications électroniques - art. L35-1
 
 
 ###### Article L35-3
 
-I. - Les coûts nets imputables aux obligations de service universel sont évalués sur la base d'une comptabilité appropriée
+I.-Les coûts nets imputables aux obligations de service universel sont évalués sur la base d'une comptabilité appropriée
 tenue par les opérateurs désignés pour assurer ces obligations et auditée, à leurs frais, par un organisme indépendant
 désigné par l'Autorité de régulation des communications électroniques et des postes. L'évaluation de ces coûts nets prend en
 compte l'avantage sur le marché que les opérateurs soumis à des obligations de service universel retirent, le cas échéant, de
 ces obligations. Les coûts nets pris en compte en application du III ne peuvent être supérieurs aux engagements pris, le cas
 échéant, dans le cadre des appels à candidatures prévus à l'article L. 35-2, par les opérateurs désignés pour assurer les
-obligations du service universel.
+obligations du service universel. 
 
-II. - La contribution de chaque opérateur au financement du service universel est calculée au prorata de son chiffre
-d'affaires réalisé au titre des services de communications électroniques, à l'exclusion de celui réalisé au titre des
-prestations d'interconnexion et d'accès faisant l'objet des conventions définies au I de l'article L. 34-8 et des autres
-prestations réalisées ou facturées pour le compte d'opérateurs tiers.
+II.-La contribution de chaque opérateur au financement du service universel est calculée au prorata de son chiffre d'affaires
+réalisé au titre des services de communications électroniques, à l'exclusion de celui réalisé au titre des prestations
+d'interconnexion et d'accès faisant l'objet des conventions définies au I de l'article L. 34-8 et des autres prestations
+réalisées ou facturées pour le compte d'opérateurs tiers. 
 
 Toutefois, les opérateurs dont le chiffre d'affaires est inférieur à un montant fixé par le décret en Conseil d'Etat prévu au
-IV du présent article sont exonérés de contribution au financement du service universel.
+IV du présent article sont exonérés de contribution au financement du service universel. 
 
 Si un opérateur accepte de fournir des prestations de service universel, dans des conditions tarifaires et techniques
-spécifiques à certaines catégories d'abonnés telles que mentionnées à l'article L. 35-1, ou l'un des éléments de l'offre
-mentionnée au 2° du même article, le coût net de cette offre est déduit de sa contribution.
+spécifiques à certaines catégories d'abonnés telles que mentionnées à l'article L. 35-1, le coût net de cette offre est
+déduit de sa contribution. 
 
 Les trois alinéas précédents s'appliquent à l'évaluation définitive réalisée au titre de l'année 2002 et aux suivantes.
-L'évaluation définitive au titre de l'année 2002 est réalisée au plus tard le 2 novembre 2004.
+L'évaluation définitive au titre de l'année 2002 est réalisée au plus tard le 2 novembre 2004. 
 
-III. - Un fonds de service universel des communications électroniques assure le financement des coûts nets des obligations du
+III.-Un fonds de service universel des communications électroniques assure le financement des coûts nets des obligations du
 service universel définis au I. Toutefois, quand les coûts nets d'un opérateur soumis à des obligations de service universel
-ne représentent pas une charge excessive pour cet opérateur, aucun versement ne lui est dû.
+ne représentent pas une charge excessive pour cet opérateur, aucun versement ne lui est dû. 
 
 Le montant des contributions nettes dont les opérateurs sont redevables au fonds en application du II et le montant des
 sommes dues par le fonds aux opérateurs désignés pour assurer les obligations du service universel sont déterminés par
-l'Autorité de régulation des communications électroniques et des postes.
+l'Autorité de régulation des communications électroniques et des postes. 
 
 La gestion comptable et financière du fonds est assurée par la Caisse des dépôts et consignations dans un compte spécifique.
 Les frais de gestion exposés par la caisse sont imputés sur le fonds. Les contributions des opérateurs sont recouvrées par la
-caisse, selon les modalités prévues pour le recouvrement des créances de cet établissement.
+caisse, selon les modalités prévues pour le recouvrement des créances de cet établissement. 
 
 En cas de défaut de versement de sa contribution par un opérateur, l'Autorité de régulation des communications électroniques
 et des postes prononce une des sanctions prévues à l'article L. 36-11. En cas de nouvelle défaillance, elle peut prononcer
 l'interdiction d'exploiter un réseau ouvert au public ou de fournir au public des services de communications électroniques.
-Si les sommes dues ne sont pas recouvrées dans un délai d'un an, elles sont imputées sur le fonds lors de l'exercice suivant.
+Si les sommes dues ne sont pas recouvrées dans un délai d'un an, elles sont imputées sur le fonds lors de l'exercice
+suivant. 
 
-IV. - Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des
+IV.-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des
 communications électroniques, fixe les modalités d'application du présent article. Il précise notamment les conditions
 d'attribution, les méthodes de l'évaluation qui répondent à des exigences de transparence et de publicité, de la compensation
 et du partage des coûts nets du service universel, ainsi que des modalités de gestion du fonds de service universel des
@@ -3584,19 +3584,14 @@ activités comprennent notamment l'acheminement et la diffusion de services de r
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 15
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L34-8 (M)
-	  - Code des postes et des communications électronique - art. L35-1 (M)
-	  - Code des postes et des communications électronique - art. L35-2 (M)
-	  - Code des postes et des communications électronique - art. L36-11 (M)
+	  - Code des postes et des communications électroni... - art. L34-8 (V)
+	  - Code des postes et des communications électroni... - art. L35-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
 
 
 ###### Article L35-4
@@ -5614,6 +5609,9 @@ services de communications électroniques et l'équivalence des formats de numé
 technique et économique, aux utilisateurs situés dans d'autres Etats membres de la Communauté européenne d'accéder aux
 numéros non géographiques accessibles sur l'ensemble du territoire national.
 
+L'autorité identifie, au sein du plan national de numérotation téléphonique, la liste des numéros ou blocs de numéros pouvant
+être surtaxés. Les numéros ou blocs de numéros qui ne figurent pas sur cette liste ne sont pas surtaxés.
+
 L'autorité attribue, dans des conditions objectives, transparentes et non discriminatoires, aux opérateurs qui le demandent,
 des préfixes et des numéros ou blocs de numéros.
 
@@ -5695,6 +5693,10 @@ opérateur, jusqu'à l'achèvement de la substitution des nouvelles ressources a
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 16
+
 	**Cité par**:
 
 	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
@@ -5712,10 +5714,6 @@ opérateur, jusqu'à l'achèvement de la substitution des nouvelles ressources a
 	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
 	  - Code des postes et des communications électronique - art. D99-5 (V)
 	  - Code des postes et des communications électronique - art. R20-44-33 (T)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
 
 
 ###### Article L45
