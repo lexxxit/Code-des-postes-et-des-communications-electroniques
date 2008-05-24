@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2008-01-05
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -8917,19 +8917,21 @@ de régulation des communications électroniques et des postes.
 
 ###### Article R1-2-13
 
-Par dérogation aux dispositions du titre VI du livre II du nouveau code de procédure civile, le recours contre les décisions
-de l'Autorité de régulation des communications électroniques et des postes prévu au quatrième alinéa de l'article L. 5-6 est
+Par dérogation aux dispositions du titre VI du livre II du code de procédure civile, le recours contre les décisions de
+l'Autorité de régulation des communications électroniques et des postes prévu au quatrième alinéa de l'article L. 5-6 est
 formé, instruit et jugé conformément aux dispositions des articles R. 11-3 à R. 11-6 et R. 11-8 et R. 11-9 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Code des postes et des communications électroni... - art. L5-6 (V)
+	  - Code des postes et des communications électroni... - art. R11-3 (V)
+	  - Code des postes et des communications électroni... - art. R11-8 (V)
 
 
 ##### Section 4 : Habilitation des agents chargés des enquêtes.
@@ -10098,19 +10100,19 @@ de cette saisine.
 
 ###### Article R11-2
 
-Par dérogation aux dispositions du titre VI du livre II du nouveau code de procédure civile, les recours contre les décisions
-de l'Autorité de régulation des communications électroniques et des postes prévues à l'article L. 36-8 sont formés, instruits
-et jugés conformément aux dispositions suivantes.
+Par dérogation aux dispositions du titre VI du livre II du code de procédure civile, les recours contre les décisions de
+l'Autorité de régulation des communications électroniques et des postes prévues à l'article L. 36-8 sont formés, instruits et
+jugés conformément aux dispositions suivantes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 
 
 ###### Article R11-3
