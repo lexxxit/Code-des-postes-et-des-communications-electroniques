@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2009-02-15
+Version Consolidée au 2009-02-19
 
 # Partie législative
 
@@ -5967,19 +5967,16 @@ effet le 1er juillet 2011 dans les conditions fixées au considérant 7.
 
 ###### Article L45-1
 
-Les exploitants de réseaux ouverts au public bénéficient d'un droit de passage sur le domaine public routier et de servitudes
-sur les propriétés privées mentionnées à l'article L. 48, dans les conditions indiquées ci-après.
+Les exploitants de réseaux ouverts au public bénéficient d'un droit de passage, sur le domaine public routier et dans les
+réseaux publics relevant du domaine public routier et non routier, à l'exception des réseaux et infrastructures de
+communications électroniques, et de servitudes sur les propriétés privées mentionnées à l'article L. 48, dans les conditions
+indiquées ci-après. 
 
-Les autorités concessionnaires ou gestionnaires du domaine public non routier, lorsqu'elles donnent accès à des exploitants
-de réseaux de communications électroniques, doivent le faire sous la forme de convention, dans des conditions transparentes
-et non discriminatoires et dans toute la mesure où cette occupation n'est pas incompatible avec son affectation ou avec les
-capacités disponibles. La convention donnant accès au domaine public non routier ne peut contenir de dispositions relatives
-aux conditions commerciales de l'exploitation. Elle peut donner lieu à versement de redevances dues à l'autorité
-concessionnaire ou gestionnaire du domaine public concerné dans le respect du principe d'égalité entre les opérateurs. Ces
-redevances sont raisonnables et proportionnées à l'usage du domaine.
+Les autorités concessionnaires ou gestionnaires du domaine public non routier peuvent autoriser les exploitants de réseaux
+ouverts au public à occuper ce domaine, dans les conditions indiquées ci-après.
 
-Un décret en Conseil d'Etat détermine le montant maximum des redevances assorties à l'occupation du domaine public non
-routier.
+L'occupation du domaine public routier ou non routier peut donner lieu au versement de redevances aux conditions prévues aux
+articles L. 46 et L. 47. 
 
 Le prix facturé pour l'occupation ou la vente de tout ou partie de fourreaux reflète les coûts de construction et d'entretien
 de ceux-ci.
@@ -6012,21 +6009,33 @@ esthétique des lieux, et dans les conditions les moins dommageables pour les pr
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
+	  - Loi n°2009-179 du 17 février 2009 - art. 23
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°62-273 1962-03-12
+	  - TRANSFERE: Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. L45-9 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L46
 
 
 ###### Article L46
 
-Les exploitants de réseaux ouverts au public peuvent occuper le domaine public routier, en y implantant des ouvrages dans la
-mesure où cette occupation n'est pas incompatible avec son affectation.
+Les autorités concessionnaires ou gestionnaires du domaine public non routier,  lorsqu'elles donnent accès à des exploitants
+de réseaux de communications  électroniques, doivent le faire sous la forme de convention, dans des conditions  transparentes
+et non discriminatoires et dans toute la mesure où cette  occupation n'est pas incompatible avec son affectation ou avec les
+capacités  disponibles. La convention donnant accès au domaine public non routier ne peut  contenir de dispositions relatives
+aux conditions commerciales de  l'exploitation. Elle peut donner lieu à versement de redevances dues à  l'autorité
+concessionnaire ou gestionnaire du domaine public concerné dans le  respect du principe d'égalité entre les opérateurs. Ces
+redevances sont  raisonnables et proportionnées à l'usage du domaine.
 
-Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont effectués conformément aux règlements de voirie,
-et notamment aux dispositions de l'article L. 115-1 du code de la voirie routière.
+Un  décret en Conseil d'Etat détermine le montant maximum des redevances assorties à  l'occupation du domaine public non
+routier.
 
 **Liens relatifs à cet article**
 
@@ -6046,24 +6055,16 @@ et notamment aux dispositions de l'article L. 115-1 du code de la voirie routiè
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 25 () JORF 10 juillet 2004
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L115-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L84
-	  - Loi n°1885-07-28 art. 1
+	  - Loi n°2009-179 du 17 février 2009 - art. 23
 
 
 ###### Article L47
+
+Les exploitants de réseaux ouverts au public peuvent occuper le domaine public routier, en y implantant des ouvrages dans la
+mesure où cette occupation n'est pas incompatible avec son affectation. 
+
+Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont effectués conformément aux règlements de voirie,
+et notamment aux dispositions de l'article L. 115-1 du code de la voirie routière.
 
 L'occupation du domaine routier fait l'objet d'une permission de voirie, délivrée par l'autorité compétente, suivant la
 nature de la voie empruntée, dans les conditions fixées par le code de la voirie routière. La permission peut préciser les
@@ -6072,7 +6073,7 @@ prescriptions d'implantation et d'exploitation nécessaires à la circulation pu
 L'autorité mentionnée à l'alinéa précédent doit prendre toutes dispositions utiles pour permettre l'accomplissement de
 l'obligation d'assurer le service universel des communications électroniques. Elle ne peut faire obstacle au droit de passage
 des exploitants de réseaux ouverts au public qu'en vue d'assurer, dans les limites de ses compétences, le respect des
-exigences essentielles, la protection de l'environnement et le respect des règles d'urbanisme.
+exigences essentielles, la protection de l'environnement et le respect des règles d'urbanisme. 
 
 Lorsqu'il est constaté que le droit de passage de l'opérateur peut être assuré, dans des conditions équivalentes à celles qui
 résulteraient d'une occupation autorisée, par l'utilisation des installations existantes d'un autre occupant du domaine
@@ -6082,13 +6083,13 @@ financières d'une utilisation partagée des installations en cause. Dans ce cas
 installations accueillant l'opérateur autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des
 infrastructures et des équipements qui empruntent ses installations et qui sont placés sous sa responsabilité, moyennant
 paiement d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des
-communications électroniques et des postes peut être saisie, dans les conditions fixées à l'article L. 36-8.
+communications électroniques et des postes peut être saisie, dans les conditions fixées à l'article L. 36-8. 
 
 La permission de voirie ne peut contenir des dispositions relatives aux conditions commerciales de l'exploitation. Elle donne
 lieu à versement de redevances dues à la collectivité publique concernée pour l'occupation de son domaine public dans le
 respect du principe d'égalité entre tous les opérateurs.
 
-L'autorité mentionnée au premier alinéa se prononce dans un délai de deux mois sur les demandes de permission de voirie.
+L'autorité mentionnée au troisième alinéa se prononce dans un délai de deux mois sur les demandes de permission de voirie. 
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article et notamment le montant maximum de la
 redevance mentionnée à l'alinéa ci-dessus.
@@ -6110,17 +6111,47 @@ redevance mentionnée à l'alinéa ci-dessus.
 	  - Code des postes et des communications électroni... - art. R*20-45 (V)
 	  - Code des postes et des communications électroni... - art. R20-50 (V)
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L85
-
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Loi n°2009-179 du 17 février 2009 - art. 23
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Code de la voirie routière - art. L115-1
+
+
+###### Article L47-1
+
+L'autorisation d'occuper les réseaux publics visés à l'article L. 45-1 et appartenant au domaine public routier ou non
+routier est refusée lorsque l'occupation est incompatible avec l'affectation desdits réseaux ou avec les capacités
+disponibles. 
+
+Est seule incompatible avec l'affectation du réseau public l'occupation qui en empêche le fonctionnement, qui ne permet pas
+sa remise en état ou qui n'est pas réversible. 
+
+Le droit de passage dans les réseaux publics visés à l'article L. 45-1 et relevant du domaine public routier ou non routier
+s'exerce dans le cadre d'une convention et dans les conditions du cinquième alinéa de l'article L. 47. 
+
+La convention d'occupation du réseau public ne peut contenir des dispositions relatives aux conditions commerciales de
+l'exploitation. Elle donne lieu à versement de redevances dues à l'autorité concessionnaire ou gestionnaire du domaine public
+concerné, dans le respect du principe d'égalité entre tous les opérateurs. Le montant maximum de la redevance applicable est
+respectivement fixé dans le respect des articles L. 46 et L. 47, selon que le réseau public relève du domaine public non
+routier ou du domaine public routier. 
+
+Lorsque l'autorisation d'occuper le réseau public est consentie par l'autorité visée à l'alinéa précédent, la convention
+afférente est établie dans un délai de deux mois à compter de ladite autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-179 du 17 février 2009 - art. 23
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45-1
+	  - Code des postes et des communications électroniques - art. L46
+	  - Code des postes et des communications électroniques - art. L47
 
 
 ###### Article L48
@@ -6151,7 +6182,10 @@ des installations en cause. Dans ce cas, et sauf accord contraire, le propriéta
 autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui
 empruntent ses installations et qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec
 l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des communications électroniques et des postes peut
-être saisie, dans les conditions fixées à l'article L. 36-8.
+être saisie, dans les conditions fixées à l'article L. 36-8. Dès lors  qu'elle résulte du partage d'une installation déjà
+autorisée au titre d'une  autre servitude et qu'elle n'accroît pas l'atteinte portée à la propriété  privée, la servitude
+prévue à l'article L. 45-1 est exonérée de la procédure  prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
+dans les  conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
 démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
@@ -6191,18 +6225,9 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code des postes et des communications électroni... - art. R20-58 (V)
 	  - Code des postes et des communications électronique - art. L32-1 (M)
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L86
-	  - Loi n°51-1606 1951-12-31 art. 3
-
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2009-179 du 17 février 2009 - art. 24
 
 
 ###### Article L53
