@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2009-04-04
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -1400,35 +1400,24 @@ d) L'affichage ou la diffusion de la décision prononcée, dans les conditions p
 
 ###### Article L19
 
-Les personnes morales peuvent être déclarées responsables pénalement de l'une des infractions définies à l'article L. 17 dans
-les conditions prévues par l'article 121-2 du code pénal et sont passibles de l'amende suivant les modalités prévues par
-l'article 131-38 dudit code.
-
-Les personnes coupables de l'une des infractions définies à l'article L. 17 encourent les peines complémentaires mentionnées
-aux 2°, 3°, 4°, 5°, 8° et 9° de l'article 131-39 du code pénal ; l'interdiction mentionnée au 2° du même article porte sur
-l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'une des infractions définies à l'article L. 17 encourent, outre l'amende suivant les modalités prévues par l'article 131-38
+du code pénal, les peines prévues par les 2° à 5°, 8° et 9° de l'article 131-39 du même code.L'interdiction mentionnée au 2°
+de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction
+a été commise.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté 27 prairial an IX art. 9
-	  - Code des postes, télégraphes et téléphones L4
-
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 11 () JORF 21 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code des postes et des communications électronique - art. L17 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code des postes et des communications électroni... - art. L17 (V)
 
 	**Cité par**:
 
@@ -2502,21 +2491,22 @@ que pour la réception, les téléphones mobiles de tous types.
 
 ###### Article L33-4
 
-Sont placées auprès du ministre chargé des communications électroniques et de l'Autorité de régulation des communications
-électroniques et des postes deux commissions consultatives spécialisées, d'une part dans le domaine des réseaux et des
-services radioélectriques, d'autre part dans celui des autres réseaux et services. Elles comprennent, en nombre égal, des
-représentants des fournisseurs de services, des représentants des utilisateurs de services professionnels et particuliers et
-des personnalités qualifiées nommés par le ministre chargé des communications électroniques.
+Est placée auprès du ministre chargé des communications électroniques et de l'Autorité de régulation des communications
+électroniques et des postes une commission consultative spécialisée d'une part dans le domaine des réseaux et des services
+radioélectriques, d'autre part dans celui des autres réseaux et services. 
 
-La commission consultative compétente est consultée par le ministre chargé des communications électroniques ou par l'Autorité
-de régulation des communications électroniques et des postes sur tout projet de mesure visant à fixer ou à modifier les
-conditions techniques et d'exploitation, les spécifications et les prescriptions techniques des services relevant de son
-domaine de compétence, ainsi que sur les prescriptions relatives à l'interconnexion ou à l'accès et à la numérotation
-mentionnées aux articles L. 34-8 et L. 44. Ses conclusions sont transmises à la Commission supérieure du service public des
-postes et des communications électroniques.
+Elle comprend, en nombre égal, des représentants des fournisseurs de services, des représentants des utilisateurs de services
+professionnels et particuliers et des personnalités qualifiées nommés par le ministre chargé des communications
+électroniques. 
 
-Un décret détermine la composition, les attributions et les conditions de fonctionnement de chacune de ces deux commissions
-consultatives.
+Cette commission est consultée par le ministre chargé des communications électroniques ou par l'Autorité de régulation des
+communications électroniques et des postes sur tout projet de mesure visant à fixer ou à modifier les conditions techniques
+et d'exploitation, les spécifications et les prescriptions techniques des services relevant de son domaine de compétence,
+ainsi que sur les prescriptions relatives à l'interconnexion ou à l'accès et à la numérotation mentionnées aux articles L.
+34-8 et L. 44. Ses conclusions sont transmises à la Commission supérieure du service public des postes et des communications
+électroniques. 
+
+Un décret détermine la composition, les attributions et les conditions de fonctionnement de cette commission consultative.
 
 **Nota:**
 
@@ -2528,11 +2518,11 @@ abrogée par la loi 2004-669 art. 8 I. Le nouvel article L. 33-4 est issu du tra
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 94
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°2015-1566 du 1er décembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -2546,12 +2536,11 @@ abrogée par la loi 2004-669 art. 8 I. Le nouvel article L. 33-4 est issu du tra
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L34-5 (T)
-	  - Code des postes et télécommunications L34-5
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L34-8 (M)
-	  - Code des postes et des communications électronique - art. L44 (M)
+	  - Code des postes et des communications électroniques - art. L34-8
+	  - Code des postes et des communications électroniques - art. L44
 
 
 ###### Article L33-5
@@ -4942,24 +4931,20 @@ types, tant pour l'émission que pour la réception, en dehors des cas prévus �
 
 Le fait de contrevenir sciemment aux dispositions de l'article L. 34-3 est puni de 30 000 euros d'amende. Les personnes
 morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, du
-délit prévu au présent alinéa. La peine encourue par les personnes morales est l'amende, suivant les modalités prévues par
-l'article 131-38 du code pénal.
+délit prévu au présent alinéa.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 19 () JORF 10 juillet 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal L121-2, 131-38
-	  - Code des postes et des communications électronique - art. L34-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Code pénal
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38
+	  - Code des postes et des communications électroni... - art. L34-3 (V)
 
 	**Cité par**:
 
@@ -5074,29 +5059,6 @@ aux articles L. 32-4 et L. 40.
 	  - Code des postes et des communications électroni... - art. L42-1 (V)
 
 
-###### Article L39-5
-
-En cas de récidive, les peines prévues aux articles L. 39 à L. 39-4 pourront être portées au double.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 9 (V) JORF 27 juillet 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 122
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques
-
-
 ###### Article L39-6
 
 En cas de condamnation pour l'une des infractions prévues aux articles L. 39 et L. 39-1, le tribunal pourra, en outre,
@@ -5196,14 +5158,13 @@ L. 39-8 ou par le code pénal, la peine la plus forte est seule prononcée.
 
 ###### Article L39-10
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 39, L. 39-1 et L. 39-3.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 39, L. 39-1 et L. 39-3 encourent, outre l'amende suivant les modalités prévues par
+l'article 131-38 du code pénal : 
 
-Les peines encourues par les personnes morales sont :
+1° (Abrogé) ; 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° La peine mentionnée au 2° de l'article 131-39 du code pénal, pour une durée de cinq ans au plus ;
+2° La peine mentionnée au 2° de l'article 131-39 du code pénal, pour une durée de cinq ans au plus ; 
 
 3° La peine mentionnée au 9° de l'article 131-39 du code pénal.
 
@@ -5212,22 +5173,18 @@ l'occasion de l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-669 2004-07-09 art. 19 12° JORF 10 juillet 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code des postes et des communications électronique - art. L39 (M)
-	  - Code des postes et des communications électronique - art. L39-1 (M)
-	  - Code des postes et des communications électronique - art. L39-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code des postes et des communications électroni... - art. L39 (V)
+	  - Code des postes et des communications électroniques - art. L39-1
+	  - Code des postes et des communications électroniques - art. L39-3
 
 
 ###### Article L40
@@ -6780,27 +6737,11 @@ Lorsqu'il s'agit d'une installation comportant plusieurs câbles, il est prononc
 L'infraction visée au premier alinéa n'est pas constituée si l'emplacement des installations existantes dans l'emprise des
 travaux n'a pas été porté à la connaissance de l'entreprise avant l'ouverture du chantier.
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L130
-	  - Décret-loi 1851-12-27 art. 9
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
-
-	**Cite**:
-
-	  - Code pénal - art. 121-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cité par**:
 
@@ -6947,37 +6888,6 @@ A défaut de la déclaration exigée par l'article L. 72, les infractions prévu
 	**Modifié par**:
 
 	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
-
-
-###### Article L74
-
-En cas de récidive, le maximum des peines édictées ci-dessus est prononcé, ce maximum peut être élevé jusqu'au double.
-
-Il y a récidive pour les faits prévus par l'article L. 81 lorsque, à une époque quelconque, il a été rendu contre le
-délinquant un jugement définitif pour infraction aux dispositions de cet article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L151
-	  - Loi n°1884-12-20 art. 17
-
-	**Modifié par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 122
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L81
 
 
 ###### Article L75
@@ -7464,14 +7374,11 @@ VI. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
 Est puni d'un emprisonnement de six mois et d'une amende de 75 000 euros le fait d'exploiter une assignation de fréquence
 relative à un système satellitaire déclarée par la France à l'Union internationale des télécommunications, sans
 l'autorisation prévue à l'article L. 97-2, ou de poursuivre cette exploitation en violation d'une décision de suspension ou
-de retrait ou d'un constat de caducité de cette autorisation.
+de retrait ou d'un constat de caducité de cette autorisation. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies au présent article. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines prévues aux 4°, 5°, 8° et 9° de l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code
+pénal, les peines prévues par les 4°, 5°, 8° et 9° de l'article 131-39 du même code. 
 
 Les fonctionnaires et agents de l'administration des communications électroniques et de l'Agence nationale des fréquences
 mentionnés à l'article L. 40 peuvent rechercher et constater ces infractions dans les conditions fixées audit article.
@@ -7480,18 +7387,14 @@ mentionnés à l'article L. 40 peuvent rechercher et constater ces infractions d
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code des postes et des communications électronique - art. L40 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39
+	  - Code des postes et des communications électroniques - art. L40
 
 	**Cité par**:
 
