@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2009-06-25
+Version Consolidée au 2009-08-01
 
 # Partie législative
 
@@ -2418,28 +2418,27 @@ prévues aux articles L. 36-11 et L. 39.
 
 ###### Article L33-3
 
-Sous réserve de leur conformité aux dispositions du présent code, sont établis librement :
+Sous réserve de leur conformité aux dispositions du présent code, sont établis librement : 
 
-1° Les installations radioélectriques n'utilisant pas des fréquences spécifiquement assignées à leur utilisateur.
+1° Les installations radioélectriques n'utilisant pas des fréquences spécifiquement assignées à leur utilisateur. 
 
 2° Les installations radioélectriques permettant de rendre inopérants dans les salles de spectacles, tant pour l'émission que
-pour la réception, les téléphones mobiles de tous types dans l'enceinte des salles de spectacles.
+pour la réception, les téléphones mobiles de tous types dans l'enceinte des salles de spectacles. 
 
 Les salles de spectacles sont tout lieu dont l'aménagement spécifique est destiné à permettre la représentation ou la
-diffusion au public d'une oeuvre de l'esprit.
+diffusion au public d'une oeuvre de l'esprit. 
 
 3° Les installations radioélectriques permettant de rendre inopérants dans l'enceinte des établissements pénitentiaires, tant
-pour l'émission que pour la réception, les appareils de communications électroniques mobiles de tous types.
+pour l'émission que pour la réception, les appareils de communications électroniques mobiles de tous types ; 
+
+4° Les installations radioélectriques de l'Etat établies dans certains établissements affectés aux besoins de la défense et
+de la sécurité nationale et permettant de rendre inopérants, tant pour l'émission que pour la réception, les appareils de
+communications électroniques de tous types. 
 
 Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus, à l'exception de celles prévues au 3°,
 sont déterminées dans les conditions prévues à l'article L. 36-6.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 7 () JORF 10 juillet 2004
 
 	**Cité par**:
 
@@ -2462,9 +2461,9 @@ sont déterminées dans les conditions prévues à l'article L. 36-6.
 	  - Code des postes et des communications électronique - art. R*52-2-1 (T)
 	  - Code général des impôts, CGI. - art. 1519 H (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 14
 
 
 ###### Article L33-3-1
