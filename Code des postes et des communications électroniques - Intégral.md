@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -22508,20 +22508,15 @@ encouru.
 
 ###### Article D407-1
 
-Les réseaux téléphoniques intérieurs aux immeubles groupant plusieurs logements sont construits par les promoteurs jusqu'aux
-dispositifs de connexion placés dans chaque logement conformément à l'article R. 111-14 du code de la construction et de
-l'habitation.
+Les réseaux de communications électroniques intérieurs aux immeubles groupant plusieurs logements sont construits par les
+promoteurs jusqu'aux dispositifs de connexion placés dans chaque logement conformément à l'article R. 111-14 du code de la
+construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
 	**Modifié par**:
 
-	  - Décret n°2005-399 2005-04-27 art. 8 I, II JORF 30 avril 2005
-	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+	  - Décret n°2010-726 du 28 juin 2010 - art. 3
 
 	**Cité par**:
 
@@ -22529,7 +22524,7 @@ l'habitation.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation R111-14
+	  - Code de la construction et de l'habitation. - art. R111-14
 
 
 ###### Article D407-2
@@ -22577,6 +22572,81 @@ portent pas atteinte au service fourni par l'opérateur.
 
 	  - Décret n°2005-399 2005-04-27 art. 8 I, II JORF 30 avril 2005
 	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
+
+
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public.
+
+###### Article D407-4
+
+La longueur significative des opérations de travaux, mentionnée à l'article L. 49 est fixée : 
+
+― à 150 mètres pour les réseaux situés en totalité ou partiellement dans les agglomérations ; 
+
+― à 1 000 mètres pour les réseaux situés en dehors des agglomérations. 
+
+Pour les réseaux aériens, on entend par longueur significative la somme des portions continues du réseau qui font l'objet des
+travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-726 du 28 juin 2010 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-111 du 30 janvier 2017 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L49
+
+
+###### Article D407-5
+
+La demande motivée mentionnée au sixième alinéa de l'article L. 49 doit être formulée auprès du maître d'ouvrage de
+l'opération dans un délai de six semaines à compter de la publicité prévue au cinquième alinéa dudit article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-726 du 28 juin 2010 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-111 du 30 janvier 2017 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L49
+
+
+###### Article D407-6
+
+Sauf lorsque la convention entre le maître d'ouvrage et le demandeur prévue à l'article L. 49 en décide autrement, les coûts
+communs, notamment les coûts de terrassement pour les réseaux enterrés et les coûts de fourniture et de pose des appuis pour
+les réseaux aériens ainsi que les coûts d'études, sont partagés par le maître d'ouvrage et le demandeur à proportion de
+l'utilisation de l'ouvrage par leurs installations respectives, à savoir : 
+
+― pour les réseaux enterrés, au prorata de la somme des surfaces des sections des conduites ou des câbles en pleine terre de
+chaque propriétaire ; 
+
+― pour les réseaux aériens : 
+
+50 % au prorata du poids linéaire des câbles de chaque propriétaire ; 
+
+50 % au prorata du nombre de câbles de chaque propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-726 du 28 juin 2010 - art. 2
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L49
 
 
 ## LIVRE IV : Dispositions communes et finales
