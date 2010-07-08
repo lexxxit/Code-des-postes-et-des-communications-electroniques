@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-09
 
 # Partie législative
 
@@ -12257,14 +12257,16 @@ coûts nets, et délimiter les zones considérées.
 
 ###### Article R20-34
 
-I.-Les personnes physiques qui ont droit au revenu minimum d'insertion ou qui perçoivent l'allocation de solidarité
-spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès de
-l'opérateur qui les dessert, autorisé selon les conditions fixées au II, bénéficient, sur leur demande, d'une réduction de
-leur facture téléphonique. A cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le droit à réduction
-tarifaire est ouvert leur délivre chaque année une attestation. L'intéressé transmet ladite attestation accompagnée du nom de
-l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire, chargé par les opérateurs de la gestion du
-dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les informations suivantes aux opérateurs
-concernés : nom, prénom, adresse et numéro de téléphone. 
+I.-Les personnes physiques qui ont droit au revenu de solidarité active et dont les ressources annuelles du foyer, prises en
+compte pour le calcul du revenu de solidarité active conformément à l'article L. 262-3 du code de l'action sociale et des
+familles, n'excèdent pas le montant forfaitaire mentionné au 2° de l'article L. 262-2 du même code ou qui perçoivent
+l'allocation de solidarité spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un abonnement au service
+téléphonique fixe auprès de l'opérateur qui les dessert, autorisé selon les conditions fixées au II, bénéficient, sur leur
+demande, d'une réduction de leur facture téléphonique.A cette fin, l'organisme gestionnaire de la prestation au titre de
+laquelle le droit à réduction tarifaire est ouvert leur délivre chaque année une attestation.L'intéressé transmet ladite
+attestation accompagnée du nom de l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire, chargé par
+les opérateurs de la gestion du dispositif de réduction tarifaire, et autorise ce prestataire à communiquer les informations
+suivantes aux opérateurs concernés : nom, prénom, adresse et numéro de téléphone. 
 
 Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors taxes par mois, les invalides de guerre
 cumulant le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre
@@ -12286,17 +12288,13 @@ simultanément au ministre chargé des communications électroniques et à l'Aut
 électroniques et des postes qui peuvent lui demander de la compléter. Le ministre se prononce dans un délai de deux mois
 suivant la réception de la demande complète, après avis de l'Autorité de régulation des communications électroniques et des
 postes. Si l'Autorité de régulation des communications électroniques et des postes ne se prononce pas dans le délai d'un mois
-à compter de la réception de la demande complète, son avis est réputé positif. A défaut de réponse du ministre dans le délai
+à compter de la réception de la demande complète, son avis est réputé positif.A défaut de réponse du ministre dans le délai
 de deux mois, la demande est considérée comme acceptée. 
 
 Le montant total des réductions tarifaires accordées au titre du I ainsi que des frais de gestion considérés au I est au plus
 égal à 0, 8 % du chiffre d'affaires du service téléphonique au public.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-716 du 18 juin 2009 - art. 2
 
 	**Cité par**:
 
@@ -12307,10 +12305,16 @@ Le montant total des réductions tarifaires accordées au titre du I ainsi que d
 	  - Code des postes et des communications électronique - art. R20-31 (M)
 	  - Code des postes et des communications électronique - art. R20-36 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2010-760 du 6 juillet 2010 - art. 1
+
 	**Cite**:
 
-	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
-	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L189
+	  - Code des pensions militaires d'invalidité et de... - art. L16 (V)
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+	  - Code de l'action sociale et des familles - art. L262-2
+	  - Code de l'action sociale et des familles - art. L262-3
 
 
 ###### Article R20-35
