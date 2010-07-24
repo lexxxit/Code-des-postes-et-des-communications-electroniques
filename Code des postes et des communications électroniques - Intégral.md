@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-25
 
 # Partie législative
 
@@ -7603,44 +7603,29 @@ Un décret fixe les modalités d'application du présent article.
 
 L'Autorité de régulation des communications électroniques et des postes est composée de sept membres nommés en raison de leur
 qualification économique, juridique et technique, dans les domaines des communications électroniques, des postes et de
-l'économie des territoires pour un mandat de six ans. Le président est nommé par décret, après avis des commissions du
-Parlement compétentes en matière de postes et de communications électroniques. Deux membres sont nommés par décret. Deux
-membres sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat.
+l'économie des territoires pour un mandat de six ans. Le président est nommé par décret. Deux membres sont nommés par décret.
+Deux membres sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat. 
 
-Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans.
+Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans. 
 
 Les membres de l'autorité ne sont pas révocables.
 
 L'Autorité de régulation des communications électroniques et des postes ne peut délibérer que si cinq au moins de ses membres
-sont présents. Elle délibère à la majorité des membres présents.
+sont présents. Elle délibère à la majorité des membres présents. 
 
 Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
-fonctions pour la durée du mandat restant à courir.
+fonctions pour la durée du mandat restant à courir. 
 
 Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
-mandat, en application de l'alinéa ci-dessus, n'a pas excédé deux ans.
+mandat, en application de l'alinéa ci-dessus, n'a pas excédé deux ans. 
 
 Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
-
-**Nota:**
-
-Loi 2005-516 du 20 mai 2005
-
-- art. 13 II et III : Les membres de l'autorité visée à l'article L. 130 du code des postes et des communications
-électroniques qui sont en fonction à la date de publication de la présente loi exercent leur mandat jusqu'à son terme. Dès la
-publication de la présente loi, le Président de l'Assemblée nationale et le Président du Sénat nomment chacun un membre
-supplémentaire de l'Autorité de régulation des communications électroniques et des postes, pour un mandat de six ans prolongé
-jusqu'au 31 décembre de la dernière année de ce mandat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-309 du 5 mars 2007 - art. 17 () JORF 7 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
+	  - Loi n°2010-838 du 23 juillet 2010 - art. 2
 
 	**Cité par**:
 
@@ -7649,7 +7634,6 @@ jusqu'au 31 décembre de la dernière année de ce mandat.
 
 	**Anciens textes**:
 
-	  - Code des postes et des communications électronique - art. L36-1 (M)
 	  - Code des postes et des communications électronique - art. L36-1 (MMN)
 
 
