@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-01-14
+Version Consolidée au 2011-03-02
 
 # Partie législative
 
@@ -10234,13 +10234,13 @@ dans un traitement automatisé mis en oeuvre par le ministère de l'intérieur.
 
 ###### Article R10-19
 
-Les demandes approuvées par la personnalité qualifiée sont adressées, sans leur motivation, par un agent désigné dans les
-conditions prévues à l'article R. 10-15 aux opérateurs et personnes mentionnés au I de l'article L. 34-1, qui transmettent
-sans délai les données demandées à l'auteur de la demande.
+Les demandes approuvées par la personnalité qualifiée sont adressées, sans les éléments mentionnés aux a et c de l'article R.
+10-17, par un agent désigné dans les conditions prévues à l'article R. 10-15 aux opérateurs et personnes mentionnés au I de
+l'article L. 34-1, qui transmettent sans délai les données demandées à l'auteur de la demande. 
 
 Les transmissions prévues à l'alinéa précédent sont effectuées selon des modalités assurant leur sécurité, leur intégrité et
 leur suivi, définies par une convention conclue avec l'opérateur concerné ou, à défaut, par un arrêté conjoint du ministre de
-l'intérieur et du ministre chargé des communications électroniques.
+l'intérieur et du ministre chargé des communications électroniques. 
 
 Les données fournies par les opérateurs et personnes mentionnés au I de l'article L. 34-1 sont enregistrées et conservées
 pendant une durée maximale de trois ans dans des traitements automatisés mis en oeuvre par le ministère de l'intérieur.
@@ -10249,12 +10249,13 @@ pendant une durée maximale de trois ans dans des traitements automatisés mis e
 
 	**Modifié par**:
 
-	  - Décret n°2010-774 du 8 juillet 2010 - art. 1
+	  - Décret n°2011-219 du 25 février 2011 - art. 11
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L34-1
 	  - Code des postes et des communications électroniques - art. R10-15
+	  - Code des postes et des communications électroniques - art. R10-17
 
 
 ###### Article R10-20
