@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-03-02
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -2878,7 +2878,9 @@ dans un délai d'un an courant à compter de la date de leur exigibilité.
 Les opérateurs exploitant un réseau radioélectrique de communication ouvert au public ou fournissant des services de
 radiocommunication au public sont tenus de mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
 des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des communications émises au moyen de terminaux mobiles,
-identifiés et qui leur ont été déclarés volés.
+identifiés et qui leur ont été déclarés volés. Ces terminaux doivent être bloqués dans un délai de quatre jours ouvrés à
+compter de la réception par l'opérateur concerné de la déclaration officielle de vol, transmise par les services de police ou
+de gendarmerie. 
 
 Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après accord donné par le procureur de la République
 ou le juge d'instruction, de ne pas appliquer les dispositions du premier alinéa.
@@ -2887,11 +2889,11 @@ ou le juge d'instruction, de ne pas appliquer les dispositions du premier aliné
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+	  - Loi n°2011-267 du 14 mars 2011 - art. 42
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cité par**:
 
@@ -2905,7 +2907,6 @@ ou le juge d'instruction, de ne pas appliquer les dispositions du premier aliné
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L32-5 (T)
-	  - Code des postes et télécommunications L32-5
 
 
 ###### Article L34-4
