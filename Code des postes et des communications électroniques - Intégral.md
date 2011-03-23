@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-03-24
 
 # Partie législative
 
@@ -1794,6 +1794,9 @@ compétitivité dans le secteur des communications électroniques ;
 4° A la définition de conditions d'accès aux réseaux ouverts au public et d'interconnexion de ces réseaux qui garantissent la
 possibilité pour tous les utilisateurs de communiquer librement et l'égalité des conditions de la concurrence ; 
 
+4° bis A l'absence de discrimination, dans des circonstances analogues, dans les relations entre opérateurs et fournisseurs
+de services de communications au public en ligne pour l'acheminement du trafic et l'accès à ces services ;
+
 5° Au respect par les opérateurs de communications électroniques du secret des correspondances et du principe de neutralité
 au regard du contenu des messages transmis, ainsi que de la protection des données à caractère personnel ; 
 
@@ -1817,7 +1820,7 @@ la transparence des tarifs et des conditions d'utilisation des services de commu
 public ;
 
 12° bis. ― A un niveau élevé de protection de l'environnement et de la santé de la population, conjointement avec les
-ministres chargés de la santé et de l'environnement ;
+ministres chargés de la santé et de l'environnement ; 
 
 13° Au respect de la plus grande neutralité possible, d'un point de vue technologique, des mesures qu'ils prennent ; 
 
@@ -1876,7 +1879,7 @@ L'autorité met en place un service permettant de prendre connaissance des consu
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 183 (V)
+	  - Loi n°2011-302 du 22 mars 2011 - art. 18
 
 
 ###### Article L32-3
@@ -2528,13 +2531,15 @@ Les gestionnaires d'infrastructures de communications électroniques et les opé
 communiquent gratuitement à l'Etat, aux collectivités territoriales et à leurs groupements, à leur demande, les informations
 relatives à l'implantation et au déploiement de leurs infrastructures et de leurs réseaux sur leur territoire. Un décret
 précise les modalités d'application du présent article, notamment au regard des règles relatives à la sécurité publique et à
-la sécurité nationale.
+la sécurité nationale, des modalités de communication de ces informations à des tiers concourant à l'aménagement du
+territoire avec lesquels les collectivités et leurs groupements sont en relation contractuelle, ainsi que du format et de la
+structure de données selon lesquelles ces informations doivent être transmises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 109 (V)
+	  - Loi n°2011-302 du 22 mars 2011 - art. 20
 
 	**Cité par**:
 
