@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-03-24
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -2957,14 +2957,14 @@ française, à Wallis-et-Futuna et dans les Terres australes et antarctiques fra
 
 Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier électronique
 utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son consentement
-préalable à recevoir des prospections directes par ce moyen.
+préalable à recevoir des prospections directes par ce moyen. 
 
 Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
 informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
-prospection directe.
+prospection directe. 
 
 Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
-services ou l'image d'une personne vendant des biens ou fournissant des services.
+services ou l'image d'une personne vendant des biens ou fournissant des services. 
 
 Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
 recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
@@ -2972,22 +2972,22 @@ l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'un
 directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
 voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la
 transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
-fois qu'un courrier électronique de prospection lui est adressé.
+fois qu'un courrier électronique de prospection lui est adressé. 
 
 Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
 télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
 transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
 celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
-émise et de mentionner un objet sans rapport avec la prestation ou le service proposé.
+émise et de mentionner un objet sans rapport avec la prestation ou le service proposé. 
 
 La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
 coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
 reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
-plaintes relatives aux infractions aux dispositions du présent article.
+plaintes relatives aux infractions aux dispositions du présent article. 
 
 Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
-premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L.
-450-8, L. 470-1 et L. 470-5 du code de commerce.
+articles L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, 
+L. 470-1 et L. 470-5 du code de commerce. 
 
 Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
 aux différentes technologies utilisées.
@@ -2996,23 +2996,19 @@ aux différentes technologies utilisées.
 
 	**Cite**:
 
-	  - Loi n°78-17 1978-01-06
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-4 (M)
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code de commerce. - art. L470-1 (V)
-	  - Code de commerce. - art. L470-5 (V)
-	  - Code des postes et des communications éléctroniques L450-1
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de commerce - art. L450-1
+	  - Code de commerce - art. L450-7
+	  - Code de commerce - art. L470-1
+	  - Code de commerce - art. L470-5
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+	  - Loi n°2011-525 du 17 mai 2011 - art. 177
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cité par**:
 
@@ -3031,7 +3027,6 @@ aux différentes technologies utilisées.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L33-4-1 (T)
-	  - Code des postes et télécommunications L33-4-1
 
 
 ###### Article L34-6
@@ -3808,81 +3803,6 @@ précisent les modalités de réalisation ainsi que de financement.
 	  - Code des postes et des communications électroni... - art. L35 (V)
 	  - Code des postes et des communications électronique - art. D586 (V)
 	  - Code des postes et des communications électronique - art. D96-17 (T)
-
-
-###### Article L35-7
-
-Après consultation publique et avis de l'Autorité de régulation des communications électroniques et des postes et de la
-Commission supérieure du service public des postes et des communications électroniques, le Gouvernement remet au Parlement
-avant le 1er mars 2005, puis tous les trois ans, un rapport sur l'application du présent chapitre. Il comporte une analyse et
-une évaluation détaillée pour chaque catégorie d'usagers du coût de l'ensemble des services de communications électroniques,
-y compris ceux non mentionnés dans ce chapitre comme la téléphonie mobile et l'accès à Internet. Il évalue les sommes
-dépensées par les ménages pour avoir accès aux technologies de l'information. Il fait des propositions pour faire baisser le
-montant de la facture téléphonique des ménages ainsi que pour enrichir le contenu du service universel eu égard aux
-évolutions technologiques, aux besoins de la société et de l'aménagement équilibré du territoire.
-
-Le premier de ces rapports comporte un bilan de la couverture du territoire par les réseaux de radiotéléphonie mobile et de
-l'accès à Internet à haut débit et évalue les conditions de couverture du territoire national en bornes multimédias selon les
-conditions définies à l'article 6 du cahier des charges figurant en annexe au décret n° 96-1225 du 27 décembre 1996 portant
-approbation du cahier des charges de France Télécom. Il définit dans quelles conditions techniques et économiques les
-prestations de base de téléphonie mobile peuvent être incluses dans le service universel. Il examine également l'intérêt et
-la possibilité d'étendre le service universel à l'accès à Internet à haut débit.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
-	  - Code des postes et des communications électroni... - art. L35-8 (Ab)
-	  - Code des postes et des communications électronique - art. D576 (V)
-	  - Code des postes et des communications électronique - art. D96-7 (T)
-
-	**Cite**:
-
-	  - Décret n°96-1225 du 27 décembre 1996
-
-	**Modifié par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 du 12 mars 1962
-
-
-###### Article L35-8
-
-Une fois remis le rapport prévu par l'article L. 35-7, le ministre chargé des communications électroniques décide de
-l'opportunité de relancer les appels à candidatures prévus à l'article L. 35-2.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2003-1365 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Cité par**:
-
-	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
-	  - Code des postes et des communications électroni... - art. R20-30-12 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L35-2
-	  - Code des postes et des communications électroniques - art. L35-7
 
 
 #### Chapitre IV : La régulation des communications électroniques.
