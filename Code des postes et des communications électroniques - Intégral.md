@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-30
 
 # Partie législative
 
@@ -2476,7 +2476,7 @@ de radiodiffusion, les conditions d'installation, de gestion, d'entretien et de 
 électroniques à très haut débit en fibre optique établies par un opérateur à l'intérieur d'un immeuble de logements ou à
 usage mixte et permettant de desservir un ou plusieurs utilisateurs finals font l'objet d'une convention entre cet opérateur
 et le propriétaire ou le syndicat de copropriétaires, que l'opérateur bénéficie ou non de la servitude mentionnée aux
-articles L. 45-1 et L. 48. 
+articles L. 45-9 et L. 48. 
 
 La convention prévoit en particulier que les opérations d'installation, d'entretien et de remplacement mentionnées à l'alinéa
 précédent se font aux frais de l'opérateur. Elle fixe aussi la date de fin des travaux d'installation, qui doivent s'achever
@@ -2495,13 +2495,6 @@ notamment le suivi et la réception des travaux, les modalités d'accès aux par
 l'installation et les modalités d'information, par l'opérateur, du propriétaire ou du syndicat de copropriétaires et des
 autres opérateurs.
 
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 109 III 2° : Les conventions conclues antérieurement à la publication du
-décret pris pour l'application de l'article L. 33-6 du code des postes et des communications électroniques sont mises en
-conformité avec celui-ci dans les six mois suivant cette publication.A défaut, elles sont réputées avoir été conclues dans
-les conditions de cet article.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2516,12 +2509,12 @@ les conditions de cet article.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 109 (V)
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L34-8-3
-	  - Code des postes et des communications électroniques - art. L45-1
+	  - Code des postes et des communications électroniques - art. L45-9
 	  - Code des postes et des communications électroniques - art. L48
 
 
@@ -5785,41 +5778,20 @@ s'applique aux contrats en cours à la date de promulgation de la présente loi.
 
 ###### Article L45
 
-I.-Le ministre chargé des communications électroniques désigne, après consultation publique, les organismes chargés
-d'attribuer et de gérer les noms de domaine, au sein des domaines de premier niveau du système d'adressage par domaines de
-l'internet, correspondant au territoire national. L'exercice de leur mission ne confère pas aux organismes ainsi désignés des
-droits de propriété intellectuelle sur les noms de domaine.
+L'attribution et la gestion des noms de domaine rattachés à chaque domaine de premier niveau du système d'adressage par
+domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci sont centralisées par
+un organisme unique dénommé " office d'enregistrement ". 
 
-L'attribution d'un nom de domaine est assurée par ces organismes dans l'intérêt général, selon des règles non
-discriminatoires rendues publiques et qui veillent au respect, par le demandeur, des droits de la propriété intellectuelle. 
+Le ministre chargé des communications électroniques désigne, par arrêté, l'office d'enregistrement de chaque domaine, après
+consultation publique, pour une durée fixée par voie réglementaire. 
 
-En cas de cessation de l'activité de ces organismes, l'Etat dispose du droit d'usage de la base de données des noms de
-domaine qu'ils géraient. 
+Chaque office d'enregistrement établit chaque année un rapport d'activité qu'il transmet au ministre chargé des
+communications électroniques. 
 
-Le ministre chargé des communications électroniques veille au respect par ces organismes des principes énoncés au deuxième
-alinéa. Il peut procéder au retrait de la désignation d'un organisme, après avoir mis ce dernier à même de présenter ses
-observations, en cas de méconnaissance par celui-ci des dispositions du présent article. La décision du ministre chargé des
-communications électroniques tendant à la désignation, ou au retrait de la désignation, d'un organisme peut faire l'objet
-d'un recours devant le Conseil d'Etat. Chaque organisme adresse au ministre chargé des communications électroniques un
-rapport d'activité annuel.
-
-L'attribution et la gestion des noms de domaine rattachés à chaque domaine de premier niveau sont centralisées par un
-organisme unique. 
-
-Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article. 
-
-II.-Sans préjudice de leur application de plein droit à Mayotte en vertu du 8° du I de l'article 3 de la loi n° 2001-616 du
-11 juillet 2001 relative à Mayotte, les dispositions du I sont applicables à Wallis et Futuna et dans les Terres australes et
-antarctiques françaises. 
-
-Les organismes chargés d'attribuer les noms de domaine en Nouvelle-Calédonie et en Polynésie française ne détiennent pas de
-droits de propriété intellectuelle sur ces noms.
-
-**Nota:**
-
-Dans sa décision n° 2010-45 QPC du 6 octobre 2010 (NOR : CSCX1025574S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article L. 45 du code des postes et communications électroniques. La déclaration d'inconstitutionnalité prend
-effet le 1er juillet 2011 dans les conditions fixées au considérant 7.
+Le ministre chargé des communications électroniques veille au respect par les offices d'enregistrement des principes énoncés
+aux articles L. 45-1 à L. 45-6. En cas de méconnaissance par un office de ces dispositions ou d'incapacité financière ou
+technique à mener à bien ses missions, le ministre peut procéder au retrait de la désignation de cet office, après l'avoir
+mis à même de présenter ses observations.
 
 **Liens relatifs à cet article**
 
@@ -5836,42 +5808,33 @@ effet le 1er juillet 2011 dans les conditions fixées au considérant 7.
 	  - Code des postes et des communications électroni... - art. R20-44-50 (Ab)
 	  - Code des postes et des communications électronique - art. R20-44-34 (V)
 
-	**Cite**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 3 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 24 () JORF 10 juillet 2004
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
+	**Cite**:
 
-#### Chapitre III : Droits de passage et servitudes.
+	  - Code des postes et des communications électroniques - art. L45-1
 
-##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.
 
 ###### Article L45-1
 
-Les exploitants de réseaux ouverts au public bénéficient d'un droit de passage, sur le domaine public routier et dans les
-réseaux publics relevant du domaine public routier et non routier, à l'exception des réseaux et infrastructures de
-communications électroniques, et de servitudes sur les propriétés privées mentionnées à l'article L. 48, dans les conditions
-indiquées ci-après. 
+Les noms de domaine sont attribués et gérés dans l'intérêt général selon des règles non discriminatoires et transparentes,
+garantissant le respect de la liberté de communication, de la liberté d'entreprendre et des droits de propriété
+intellectuelle.
 
-Les autorités concessionnaires ou gestionnaires du domaine public non routier peuvent autoriser les exploitants de réseaux
-ouverts au public à occuper ce domaine, dans les conditions indiquées ci-après.
+Les noms de domaines sont attribués pour une durée limitée et renouvelable.
 
-L'occupation du domaine public routier ou non routier peut donner lieu au versement de redevances aux conditions prévues aux
-articles L. 46 et L. 47. 
+Sous réserve des dispositions de l'article L. 45-2, le nom de domaine est attribué au demandeur éligible ayant le premier
+fait régulièrement parvenir sa demande. Un nom de domaine attribué et en cours de validité ne peut faire l'objet d'une
+nouvelle demande d'enregistrement.
 
-Le prix facturé pour l'occupation ou la vente de tout ou partie de fourreaux reflète les coûts de construction et d'entretien
-de ceux-ci.
-
-L'installation des infrastructures et des équipements doit être réalisée dans le respect de l'environnement et de la qualité
-esthétique des lieux, et dans les conditions les moins dommageables pour les propriétés privées et le domaine public.
+L'enregistrement des noms de domaine s'effectue sur la base des déclarations faites par le demandeur et sous sa
+responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -5898,19 +5861,212 @@ esthétique des lieux, et dans les conditions les moins dommageables pour les pr
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 23
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
 
-	**Liens**:
 
-	  - TRANSFERE: Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+###### Article L45-2
 
-	**Nouveaux textes**:
+Dans le respect des principes rappelés à l'article L. 45-1, l'enregistrement ou le renouvellement des noms de domaine peut
+être refusé ou le nom de domaine supprimé lorsque le nom de domaine est : 
 
-	  - Code des postes et des communications électroni... - art. L45-9 (V)
+1° Susceptible de porter atteinte à l'ordre public ou aux bonnes mœurs ou à des droits garantis par la Constitution ou par la
+loi ; 
+
+2° Susceptible de porter atteinte à des droits de propriété intellectuelle ou de la personnalité, sauf si le demandeur
+justifie d'un intérêt légitime et agit de bonne foi ; 
+
+3° Identique ou apparenté à celui de la République française, d'une collectivité territoriale ou d'un groupement de
+collectivités territoriales ou d'une institution ou service public national ou local, sauf si le demandeur justifie d'un
+intérêt légitime et agit de bonne foi. 
+
+Le décret en Conseil d'Etat prévu à l'article L. 45-7 et les règles d'attribution de chaque office d'enregistrement
+définissent les éléments permettant d'établir un usage de mauvaise foi et l'absence d'intérêt légitime. 
+
+Le refus d'enregistrement ou de renouvellement ou la suppression du nom de domaine ne peuvent intervenir, pour l'un des
+motifs prévus au présent article, qu'après que l'office d'enregistrement a mis le demandeur en mesure de présenter ses
+observations et, le cas échéant, de régulariser sa situation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L45-6 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-40 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-43 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-46 (V)
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. L46
+	  - Code des postes et des communications électroniques - art. L45-1
+	  - Code des postes et des communications électroniques - art. L45-7
+
+
+###### Article L45-4
+
+L'attribution des noms de domaine est assurée par les offices d'enregistrement, par l'intermédiaire des bureaux
+d'enregistrement.L'exercice de leur mission ne confère ni aux offices, ni aux bureaux d'enregistrement de droits de propriété
+intellectuelle sur les noms de domaine. 
+
+Les bureaux d'enregistrement sont accrédités, selon des règles non discriminatoires et transparentes, par chacun des offices
+d'enregistrement, pour chaque domaine de premier niveau concerné. 
+
+Les bureaux d'enregistrement exercent leur activité sous le contrôle de l'office d'enregistrement qui les a accrédités. Le
+non-respect des règles fixées aux articles L. 45-1 à L. 45-3 et L. 45-5 peut entraîner la suppression de l'accréditation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-40 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-43 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45-1
+	  - Code des postes et des communications électroniques - art. L45-5
+
+
+###### Article L45-5
+
+Les offices d'enregistrement et les bureaux d'enregistrement rendent publics les prix de leurs prestations d'attribution et
+de gestion des noms de domaine. Les offices d'enregistrement publient quotidiennement les noms de domaine qu'ils ont
+enregistrés.
+
+Ils collectent les données nécessaires à l'identification des personnes physiques ou morales titulaires de noms et sont
+responsables du traitement de ces données au regard de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+L'Etat est titulaire de l'ensemble des droits sur la base de données ainsi constituée. Pour remplir leur mission et pendant
+la durée de celle-ci, les offices d'enregistrement disposent du droit d'usage de cette base de données.
+
+La fourniture de données inexactes par le titulaire peut emporter la suppression de l'enregistrement du nom de domaine
+correspondant. Celle-ci ne peut intervenir qu'après que l'office d'enregistrement a mis le titulaire en mesure de régulariser
+la situation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L45-4 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-45 (M)
+
+
+###### Article L45-6
+
+Toute personne démontrant un intérêt à agir peut demander à l'office d'enregistrement compétent la suppression ou le
+transfert à son profit d'un nom de domaine lorsque le nom de domaine entre dans les cas prévus à l'article L. 45-2.
+
+L'office statue sur cette demande dans un délai de deux mois suivant sa réception, selon une procédure contradictoire fixée
+par son règlement intérieur qui peut prévoir l'intervention d'un tiers choisi dans des conditions transparentes, non
+discriminatoires et rendues publiques. Le règlement intérieur fixe notamment les règles déontologiques applicables aux tiers
+et garantit le caractère impartial et contradictoire de leur intervention. 
+
+Le règlement intérieur de l'office est approuvé par arrêté du ministre chargé des communications électroniques. 
+
+Les décisions prises par l'office sont susceptibles de recours devant le juge judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45-2
+
+
+###### Article L45-7
+
+Les modalités d'application des articles L. 45 à L. 45-6 sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L45-2 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45
+
+
+###### Article L45-8
+
+Les articles L. 45 à L. 45-7 sont applicables à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45
+
+
+#### Chapitre III : Droits de passage et servitudes.
+
+##### Section 1 : Occupation du domaine public et servitudes sur les propriétés privées.
+
+###### Article L45-9
+
+Les exploitants de réseaux ouverts au public bénéficient d'un droit de passage, sur le domaine public routier et dans les
+réseaux publics relevant du domaine public routier et non routier, à l'exception des réseaux et infrastructures de
+communications électroniques, et de servitudes sur les propriétés privées mentionnées à l'article L. 48, dans les conditions
+indiquées ci-après. 
+
+Les autorités concessionnaires ou gestionnaires du domaine public non routier peuvent autoriser les exploitants de réseaux
+ouverts au public à occuper ce domaine, dans les conditions indiquées ci-après.
+
+L'occupation du domaine public routier ou non routier peut donner lieu au versement de redevances aux conditions prévues aux
+articles L. 46 et L. 47. 
+
+Le prix facturé pour l'occupation ou la vente de tout ou partie de fourreaux reflète les coûts de construction et d'entretien
+de ceux-ci.
+
+L'installation des infrastructures et des équipements doit être réalisée dans le respect de l'environnement et de la qualité
+esthétique des lieux, et dans les conditions les moins dommageables pour les propriétés privées et le domaine public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code des postes et des communications électroni... - art. L33-6 (V)
+	  - Code des postes et des communications électroni... - art. L47-1 (V)
+	  - Code des postes et des communications électroni... - art. L48 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électroni... - art. L45-1 (T)
 
 
 ###### Article L46
@@ -6011,14 +6167,14 @@ redevance mentionnée à l'alinéa ci-dessus.
 
 ###### Article L47-1
 
-L'autorisation d'occuper les réseaux publics visés à l'article L. 45-1 et appartenant au domaine public routier ou non
+L'autorisation d'occuper les réseaux publics visés à l'article L. 45-9 et appartenant au domaine public routier ou non
 routier est refusée lorsque l'occupation est incompatible avec l'affectation desdits réseaux ou avec les capacités
 disponibles. 
 
 Est seule incompatible avec l'affectation du réseau public l'occupation qui en empêche le fonctionnement, qui ne permet pas
 sa remise en état ou qui n'est pas réversible. 
 
-Le droit de passage dans les réseaux publics visés à l'article L. 45-1 et relevant du domaine public routier ou non routier
+Le droit de passage dans les réseaux publics visés à l'article L. 45-9 et relevant du domaine public routier ou non routier
 s'exerce dans le cadre d'une convention et dans les conditions du cinquième alinéa de l'article L. 47. 
 
 La convention d'occupation du réseau public ne peut contenir des dispositions relatives aux conditions commerciales de
@@ -6032,20 +6188,20 @@ afférente est établie dans un délai de deux mois à compter de ladite autoris
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 23
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. L45-1
+	  - Code des postes et des communications électroniques - art. L45-9
 	  - Code des postes et des communications électroniques - art. L46
 	  - Code des postes et des communications électroniques - art. L47
 
 
 ###### Article L48
 
-La servitude mentionnée à l'article L. 45-1 est instituée en vue de permettre l'installation et l'exploitation des
+La servitude mentionnée à l'article L. 45-9 est instituée en vue de permettre l'installation et l'exploitation des
 équipements du réseau, y compris les équipements des réseaux à très haut débit fixes et mobiles : 
 
 a) Sur et dans les parties des immeubles collectifs et des lotissements affectées à un usage commun, y compris celles pouvant
@@ -6075,7 +6231,7 @@ empruntent ses installations et qui sont placés sous sa responsabilité, moyenn
 l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des communications électroniques et des postes peut
 être saisie, dans les conditions fixées à l'article L. 36-8. Dès lors qu'elle résulte du partage d'une installation déjà
 autorisée au titre d'une autre servitude et qu'elle n'accroît pas l'atteinte portée à la propriété privée, la servitude
-prévue à l'article L. 45-1 est exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
+prévue à l'article L. 45-9 est exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
 dans les conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
@@ -6118,7 +6274,11 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 14
+	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45-9
 
 
 ###### Article L49
