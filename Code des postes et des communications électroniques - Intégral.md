@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-02-01
 
 # Partie législative
 
@@ -2471,25 +2471,20 @@ prévues aux articles L. 36-11 et L. 39.
 
 ###### Article L33-3
 
-Sous réserve de leur conformité aux dispositions du présent code, sont établis librement : 
+Sous réserve de leur conformité aux dispositions du présent code, les installations radioélectriques n'utilisant pas des
+fréquences spécifiquement assignées à leur utilisateur sont établies librement. 
 
-1° Les installations radioélectriques n'utilisant pas des fréquences spécifiquement assignées à leur utilisateur. 
+Les conditions d'utilisation de ces installations radioélectriques sont déterminées dans les conditions prévues à l'article
+L. 36-6.
 
-2° Les installations radioélectriques permettant de rendre inopérants dans les salles de spectacles, tant pour l'émission que
-pour la réception, les téléphones mobiles de tous types dans l'enceinte des salles de spectacles. 
+**Nota:**
 
-Les salles de spectacles sont tout lieu dont l'aménagement spécifique est destiné à permettre la représentation ou la
-diffusion au public d'une oeuvre de l'esprit. 
-
-3° Les installations radioélectriques permettant de rendre inopérants dans l'enceinte des établissements pénitentiaires, tant
-pour l'émission que pour la réception, les appareils de communications électroniques mobiles de tous types ; 
-
-4° Les installations radioélectriques de l'Etat établies dans certains établissements affectés aux besoins de la défense et
-de la sécurité nationale et permettant de rendre inopérants, tant pour l'émission que pour la réception, les appareils de
-communications électroniques de tous types. 
-
-Les conditions d'utilisation des installations radioélectriques mentionnées ci-dessus, à l'exception de celles prévues au 3°,
-sont déterminées dans les conditions prévues à l'article L. 36-6.
+Ordonnance n° 2011-1012, article 57: ces dispositions entrent en vigueur le 1er février 2012, toutefois, les installations
+radioélectriques permettant de rendre inopérants les téléphones mobiles de tous types tant pour l'émission que pour la
+réception, établies dans l'enceinte des salles de spectacles à la date de publication de la présente ordonnance, restent
+autorisées pendant un délai de cinq ans à compter de cette date. Pendant ce délai, l'utilisation de ces installations reste
+soumise aux conditions définies par application de l'article L. 36-6 du même code conformément au 2° de l'article L. 33-3
+dans sa rédaction antérieure à celle issue de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -2516,29 +2511,67 @@ sont déterminées dans les conditions prévues à l'article L. 36-6.
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 14
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 40
 
 
 ###### Article L33-3-1
 
-En Nouvelle-Calédonie et en Polynésie française sont établies sans être soumises à autorisation ou à déclaration les
-installations radioélectriques permettant de rendre inopérants dans les établissements pénitentiaires, tant pour l'émission
-que pour la réception, les téléphones mobiles de tous types.
+I. - Sont prohibées l'une quelconque des activités suivantes : l'importation, la publicité, la cession à titre gratuit ou
+onéreux, la mise en circulation, l'installation, la détention et l'utilisation de tout dispositif destiné à rendre inopérants
+des appareils de communications électroniques de tous types, tant pour l'émission que pour la réception. 
+
+II. - Par dérogation au premier alinéa, ces activités sont autorisées pour les besoins de l'ordre public, de la défense et de
+la sécurité nationale, ou du service public de la justice.
+
+**Nota:**
+
+Ordonnance n° 2011-1012, article 57: ces dispositions entrent en vigueur le 1er février 2012, toutefois, les installations
+radioélectriques permettant de rendre inopérants les téléphones mobiles de tous types tant pour l'émission que pour la
+réception, établies dans l'enceinte des salles de spectacles à la date de publication de la présente ordonnance, restent
+autorisées pendant un délai de cinq ans à compter de cette date. Pendant ce délai, l'utilisation de ces installations reste
+soumise aux conditions définies par application de l'article L. 36-6 du même code conformément au 2° de l'article L. 33-3
+dans sa rédaction antérieure à celle issue de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 40
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. L33-3-2 (V)
 	  - Code des postes et des communications électroni... - art. L39-1 (V)
+
+
+###### Article L33-3-2
+
+L'article L. 33-3-1 est applicable en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et
+antarctiques françaises et en Nouvelle-Calédonie sous réserve des compétences exercées par ces collectivités en application
+des statuts qui les régissent.
+
+**Nota:**
+
+Ordonnance n° 2011-1012, article 57 : ces dispositions entrent en vigueur le 1er février 2012, toutefois, les installations
+radioélectriques permettant de rendre inopérants les téléphones mobiles de tous types tant pour l'émission que pour la
+réception, établies dans l'enceinte des salles de spectacles à la date de publication de la présente ordonnance, restent
+autorisées pendant un délai de cinq ans à compter de cette date. Pendant ce délai, l'utilisation de ces installations reste
+soumise aux conditions définies par application de l'article L. 36-6 du même code conformément au 2° de l'article L. 33-3
+dans sa rédaction antérieure à celle issue de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 40
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L33-3-1 (V)
 
 
 ###### Article L33-4
