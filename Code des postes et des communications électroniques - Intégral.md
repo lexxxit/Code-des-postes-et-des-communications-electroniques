@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-04-01
+Version Consolidée au 2012-04-16
 
 # Partie législative
 
@@ -17945,64 +17945,66 @@ par arrêté du ministre des postes et des communications électroniques.
 
 Les journaux et écrits périodiques présentant un lien direct avec l'actualité, apprécié au regard de l'objet de la
 publication et présentant un apport éditorial significatif, peuvent bénéficier du tarif de presse s'ils remplissent les
-conditions suivantes :
+conditions suivantes : 
 
 1° Avoir un caractère d'intérêt général quant à la diffusion de la pensée : instruction, éducation, information, récréation
-du public ;
+du public ; 
 
-2° Satisfaire aux obligations de la loi du 29 juillet 1881 sur la liberté de la presse, et notamment :
+2° Satisfaire aux obligations de la loi du 29 juillet 1881 sur la liberté de la presse, et notamment : 
 
 a) Porter l'indication du nom et du domicile de l'imprimeur ; ces indications doivent se rapporter à l'imprimeur qui imprime
-réellement la publication ;
+réellement la publication ; 
 
-b) Avoir un directeur de la publication dont le nom est imprimé sur tous les exemplaires ;
-
-c) Avoir fait l'objet du dépôt prévu aux articles 7 et 10 de la loi précitée ;
+b) Avoir un directeur de la publication dont le nom est imprimé sur tous les exemplaires. 
 
 3° Paraître régulièrement au moins une fois par trimestre sans qu'il puisse y avoir un intervalle supérieur à quatre mois
-entre deux parutions ;
+entre deux parutions ; 
 
 4° Faire l'objet d'une vente effective au public, au numéro ou par abonnement, à un prix marqué ayant un lien réel avec les
 coûts, sans que la livraison du périodique s'accompagne de la fourniture gratuite ou payante de marchandises ou de
-prestations de services ne présentant pas un lien avec l'objet principal de la publication.
+prestations de services ne présentant pas un lien avec l'objet principal de la publication. 
 
 Un arrêté conjoint du ministre chargé de la communication, du ministre chargé des postes et du ministre chargé du budget
-précise, en tant que de besoin, les modalités d'application de la présente disposition ;
+précise, en tant que de besoin, les modalités d'application de la présente disposition ; 
 
 5° Avoir au plus les deux tiers de leur surface consacrés à la publicité, aux annonces classées, sans que ces dernières
-n'excèdent la moitié de la surface totale et aux annonces judiciaires et légales ;
+n'excèdent la moitié de la surface totale et aux annonces judiciaires et légales ; 
 
 6° N'être assimilables, malgré l'apparence de journaux ou de revues qu'elles pourraient présenter, à aucune des publications
-visées sous les catégories suivantes :
+visées sous les catégories suivantes : 
 
-a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs, répertoires, index, lexiques ;
+a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs, répertoires, index, lexiques ; 
 
 b) Ouvrages publiés par livraison et dont la publication embrasse une période de temps limitée ou qui constituent le
 complément ou la mise à jour d'ouvrages déjà parus. Toutefois, ce complément ou cette mise à jour peut bénéficier du tarif de
 presse pour la partie qui, au cours d'une année, n'accroît pas le nombre de pages que comportait l'ouvrage au 31 décembre de
-l'année précédente ;
+l'année précédente ; 
 
 c) Publications ayant pour objet principal la recherche ou le développement des transactions d'entreprises commerciales,
 industrielles, bancaires, d'assurances ou d'autre nature, dont elles sont en réalité les instruments de publicité ou de
-communication, ou qui apparaissent comme étant l'accessoire d'une activité commerciale ou industrielle ;
+communication, ou qui apparaissent comme étant l'accessoire d'une activité commerciale ou industrielle ; 
 
 d) Publications ayant pour objet principal la publication d'horaires de programmes, de modèles, plans ou dessins ou de
 cotations, à l'exception des publications ayant pour objet essentiel l'insertion à titre d'information des programmes de
-radiodiffusion et de télévision et des cotes de valeurs mobilières ;
+radiodiffusion et de télévision et des cotes de valeurs mobilières ; 
 
 e) Publications ayant pour objet principal d'informer sur la vie interne d'un groupement quelle que soit sa forme juridique
-ou constituant un instrument de publicité ou de propagande pour celui-ci ;
+ou constituant un instrument de publicité ou de propagande pour celui-ci ; 
 
-f) Publications dont le prix est compris dans une cotisation à une association ou à un groupement quelconque ;
+f) Publications dont le prix est compris dans une cotisation à une association ou à un groupement quelconque ; 
 
 7° N'être pas susceptible de choquer le lecteur par une représentation dégradante de la personne humaine portant atteinte à
 sa dignité et à la décence ou présentant sous un jour favorable la violence.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi du 29 juillet 1881 (V)
+
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Cité par**:
 
@@ -18020,11 +18022,7 @@ sa dignité et à la décence ou présentant sous un jour favorable la violence.
 
 	**Modifié par**:
 
-	  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
-
-	**Cite**:
-
-	  - Loi n°1881-07-29 art. 7, art. 10
+	  - Décret n°2012-484 du 13 avril 2012 - art. 51
 
 
 ###### Article D19
@@ -19916,50 +19914,42 @@ Seules les dispositions de l'article D. 98-12 s'appliquent aux installations men
 
 ###### Article D98-4
 
-Règles portant sur les conditions de permanence, de qualité et de disponibilité du réseau et du service.
+Règles portant sur les conditions de permanence, de qualité et de disponibilité du réseau et du service. 
 
-I. - Conditions de permanence du réseau et des services.
+I.-Conditions de permanence du réseau et des services. 
 
 L'opérateur doit prendre les dispositions nécessaires pour assurer de manière permanente et continue l'exploitation du réseau
 et des services de communications électroniques et pour qu'il soit remédié aux effets de la défaillance du système dégradant
 la qualité du service pour l'ensemble ou une partie des clients, dans les délais les plus brefs. Il prend toutes les mesures
-de nature à garantir un accès ininterrompu aux services d'urgence.
+de nature à garantir un accès ininterrompu aux services d'urgence. 
 
 L'opérateur met en oeuvre les protections et redondances nécessaires pour garantir une qualité et une disponibilité de
-service satisfaisantes.
+service satisfaisantes. 
 
-II. - Disponibilité et qualité du réseau et des services.
+II.-Disponibilité et qualité du réseau et des services. 
 
 L'opérateur met en oeuvre les équipements et les procédures nécessaires, afin que les objectifs de qualité de service
 demeurent au niveau prévu par les normes en vigueur en particulier au sein de l'UIT et de l'ETSI, notamment pour ce qui
-concerne les taux de disponibilité et les taux d'erreur de bout en bout.
-
-L'opérateur publie tous les ans avant le 30 juin un rapport de l'avancement des actions qu'il a engagées pour l'adaptation et
-l'amélioration de l'accessibilité des services de radiocommunications mobiles aux personnes handicapées en matière de
-terminaux et de services, et ce pour les différentes catégories de handicaps. Le rapport peut être intégré au rapport
-d'activité annuel de l'opérateur s'il le souhaite et fait notamment un point sur l'avancement des nouvelles technologies
-disponibles et leur mise en oeuvre par l'opérateur, en particulier en ce qui concerne la fourniture de services de
-localisation utilisables par les personnes handicapées. Ce rapport est transmis à l'Autorité de régulation des communications
-électroniques et des postes.
-
-L'opérateur met en place une signalétique destinée à ses clients indiquant les terminaux et services les mieux adaptés à
-chacun des handicaps considérés, évalués sur la base de critères objectifs et transparents, parmi la gamme de terminaux et
-services commercialisés par l'opérateur.
+concerne les taux de disponibilité et les taux d'erreur de bout en bout. 
 
 L'opérateur mesure la valeur des indicateurs de qualité de service définis par l'Autorité de régulation des communications
-électroniques et des postes dans les conditions prévues par l'article L. 36-6. Les modalités de mise à disposition du public
-du résultat de ces mesures sont fixées par l'Autorité de régulation des communications électroniques et des postes dans les
-mêmes conditions.
+électroniques et des postes dans les conditions prévues par l'article L. 36-6. L'Autorité peut demander la certification des
+méthodes de mesure de la qualité de service. Les modalités de mise à disposition du public du résultat de ces mesures sont
+fixées par l'Autorité de régulation des communications électroniques et des postes dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2006-268 du 7 mars 2006 - art. 1 () JORF 9 mars 2006
+	  - Décret n°2012-488 du 13 avril 2012 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
 
 	**Cité par**:
 
@@ -19967,39 +19957,41 @@ mêmes conditions.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L36-6 (M)
+	  - Code des postes et des communications électroni... - art. L36-6 (V)
 
 
 ###### Article D98-5
 
 Règles portant sur les conditions de confidentialité et de neutralité au regard des messages transmis et des informations
-liées aux communications.
+liées aux communications et sur la sécurité et l'intégrité des réseaux et services. 
 
-I. - Respect du secret des correspondances et neutralité.
+I.-Respect du secret des correspondances et neutralité. 
 
 L'opérateur prend les mesures nécessaires pour garantir la neutralité de ses services vis-à-vis du contenu des messages
-transmis sur son réseau et le secret des correspondances.
+transmis sur son réseau et le secret des correspondances. 
 
 A cet effet, l'opérateur assure ses services sans discrimination quelle que soit la nature des messages transmis et prend les
-dispositions utiles pour assurer l'intégrité des messages.
+dispositions utiles pour assurer l'intégrité des messages. 
 
 L'opérateur est tenu de porter à la connaissance de son personnel les obligations et peines qu'il encourt au titre des
-dispositions du code pénal, et notamment au titre des articles 226-13, 226-15 et 432-9 relatifs au secret des
-correspondances.
+dispositions du code pénal, et notamment au titre des articles 226-13,226-15 et 432-9 relatifs au secret des
+correspondances. 
 
-II. - Traitement des données à caractère personnel.
+II.-Traitement des données à caractère personnel. 
 
-L'opérateur prend les mesures propres à assurer la protection, l'intégrité et la confidentialité des données à caractère
-personnel qu'il détient et qu'il traite.
-
-L'opérateur est tenu d'exploiter les données à caractère personnel conformément aux finalités déclarées.
+Sans préjudice des dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux
+libertés, l'opérateur met en œuvre une politique de sécurité relative au traitement des données à caractère personnel et
+prend les mesures nécessaires garantissant que seules des personnes autorisées puissent avoir accès aux données à caractère
+personnel dans les cas prévus par des dispositions législatives et réglementaires et que les données à caractère personnel
+stockées ou transmises soient protégées contre la destruction accidentelle ou illicite, la perte ou l'altération
+accidentelles et le stockage, le traitement, l'accès et la divulgation non autorisés ou illicites. 
 
 1. L'opérateur garantit à tout client, outre les droits mentionnés à l'article R. 10, le droit :
 
 - d'exercer gratuitement son droit d'accès aux données à caractère personnel le concernant ainsi que son droit de
 rectification de celles-ci ;
 
-- de recevoir des factures non détaillées et, sur sa demande, des factures détaillées.
+- de recevoir des factures non détaillées et, sur sa demande, des factures détaillées. 
 
 2. Lorsque les clients de l'opérateur reçoivent une facturation détaillée, les factures adressées :
 
@@ -20008,69 +20000,111 @@ rectification de celles-ci ;
 - ne mentionnent pas les appels à destination des numéros gratuits pour l'utilisateur ;
 
 - n'indiquent pas les quatre derniers chiffres des numéros appelés, à moins que le client n'ait expressément demandé que cela
-soit le cas.
+soit le cas. 
 
 La facturation détaillée est disponible gratuitement pour l'abonné. Toutefois, des prestations supplémentaires peuvent être,
-le cas échéant, proposées à l'abonné à un tarif raisonnable.
+le cas échéant, proposées à l'abonné à un tarif raisonnable. 
 
 3. L'opérateur permet à chacun de ses clients de s'opposer gratuitement et par un moyen simple, appel par appel ou de façon
-permanente (secret permanent), à l'identification de sa ligne par les postes appelés.
+permanente (secret permanent), à l'identification de sa ligne par les postes appelés. 
 
 Lorsqu'un abonné dispose de plusieurs lignes, cette fonction est offerte pour chaque ligne. Cette fonction doit également
-être proposée pour des communications effectuées à partir de cabines téléphoniques publiques. L'opérateur met en oeuvre un
-dispositif particulier de suppression de cette fonction pour des raisons liées au fonctionnement des services d'urgence ou à
-la tranquillité de l'appelé, conformément à la réglementation en vigueur.
+être proposée pour des communications effectuées à partir de cabines téléphoniques publiques ou d'autres points d'accès au
+service téléphonique au public. L'opérateur met en oeuvre un dispositif particulier de suppression de cette fonction pour des
+raisons liées au fonctionnement des services d'urgence ou à la tranquillité de l'appelé, conformément à la réglementation en
+vigueur. 
 
 Lorsqu'un abonné dispose du secret permanent, l'opérateur lui permet de supprimer cette fonction, appel par appel,
-gratuitement et par un moyen simple.
+gratuitement et par un moyen simple. 
 
 4. L'opérateur informe les abonnés lorsqu'il propose un service d'identification de la ligne appelante ou de la ligne
-connectée. Il les informe également des possibilités prévues aux trois alinéas suivants :
+connectée. Il les informe également des possibilités prévues aux trois alinéas suivants : 
 
 Dans le cas où l'identification de la ligne appelante est offerte, l'opérateur permet à tout abonné d'empêcher par un moyen
-simple et gratuit que l'identification de la ligne appelante soit transmise vers son poste.
+simple et gratuit que l'identification de la ligne appelante soit transmise vers son poste. 
 
 Dans le cas où l'identification de la ligne appelante est offerte et est indiquée avant l'établissement de l'appel,
 l'opérateur permet à tout abonné de refuser, par un moyen simple, les appels entrants émanant d'une ligne non identifiée.
 L'opérateur peut, pour des raisons techniques justifiées, demander à l'Autorité de régulation des communications
-électroniques et des postes de disposer d'un délai pour la mise en oeuvre de cette fonction.
+électroniques et des postes de disposer d'un délai pour la mise en oeuvre de cette fonction. 
 
 Dans le cas où l'identification de la ligne obtenue est offerte, l'opérateur permet à tout abonné d'empêcher par un moyen
-simple et gratuit l'identification de la ligne obtenue auprès de la personne qui appelle.
+simple et gratuit l'identification de la ligne obtenue auprès de la personne qui appelle. 
 
 5. L'opérateur permet à l'abonné vers lequel des appels sont transférés d'interrompre ou de faire interrompre le transfert
-d'appel gratuitement et par un moyen simple.
+d'appel gratuitement et par un moyen simple. 
 
 L'opérateur informe tout abonné, préalablement à la souscription du contrat, des droits mentionnés au 1 du II du présent
-article.
+article. 
 
 Lorsque l'opérateur fait appel à des sociétés de commercialisation de services, il veille, dans les relations contractuelles
 avec celles-ci, au respect de ses obligations relatives aux conditions de confidentialité et de neutralité au regard des
-messages transmis et des informations liées aux communications.
+messages transmis et des informations liées aux communications. 
 
-III. - Sécurité des communications.
+III.-Sécurité et intégrité des réseaux et des services. 
 
-L'opérateur prend toutes les dispositions nécessaires pour assurer la sécurité des communications empruntant son réseau. Il
-se conforme aux prescriptions techniques en matière de sécurité éventuellement édictées par l'Autorité de régulation des
-communications électroniques et des postes dans les conditions de l'article L. 36-6. Dans ce cadre et à titre confidentiel,
-l'Autorité de régulation des communications électroniques et des postes peut se faire communiquer les dispositions prises
-pour la sécurisation du réseau.
+L'opérateur prend toutes les mesures appropriées pour assurer l'intégrité de ses réseaux et garantir la continuité des
+services fournis. 
+
+L'opérateur prend toutes les dispositions techniques et organisationnelles nécessaires pour assurer la sécurité de son réseau
+et de ses services à un niveau adapté au risque existant. En particulier, des mesures sont prises pour prévenir ou limiter
+les conséquences des atteintes à la sécurité pour les utilisateurs et les réseaux interconnectés. 
+
+L'opérateur prend les mesures utiles pour assurer la sécurité et l'intégrité des dispositifs intégrés aux équipements
+terminaux nécessaires à l'identification et à l'authentification des utilisateurs pour la fourniture de services de
+communications électroniques. 
+
+Il se conforme aux prescriptions techniques en matière de sécurité éventuellement édictées par arrêté du ministre chargé des
+communications électroniques. Ce dernier peut se faire communiquer à titre confidentiel les dispositions prises pour la
+sécurisation du réseau. 
 
 L'opérateur informe ses clients des services existants permettant, le cas échéant, de renforcer la sécurité des
-communications.
+communications. 
 
 Lorsqu'il existe un risque particulier de violation de la sécurité du réseau, l'opérateur informe les abonnés de ce risque
-ainsi que de tout moyen éventuel d'y remédier et du coût que cela implique.
+ainsi que de tout moyen éventuel d'y remédier et du coût que cela implique. 
+
+Dès qu'il en a connaissance, l'opérateur informe le ministre de l'intérieur de toute atteinte à la sécurité ou perte
+d'intégrité ayant un impact significatif sur le fonctionnement de ses réseaux ou de ses services. Ce dernier en informe le
+ministre chargé des communications électroniques ainsi que les services de secours et de sécurité susceptibles d'être
+concernés. Lorsque l'atteinte à la sécurité ou la perte d'intégrité résulte ou est susceptible de résulter d'une agression
+informatique, l'opérateur en informe également l'autorité nationale de défense des systèmes d'information. 
+
+Dès que l'opérateur a mené une analyse des causes et des conséquences des atteintes à la sécurité ou pertes d'intégrité, il
+en rend compte au ministre chargé des communications électroniques et à l'autorité nationale de défense des systèmes
+d'information dans le cas où cette dernière avait été informée ainsi que des mesures prises pour éviter leur renouvellement.
+Le ministre chargé des communications électroniques en informe les ministres intéressés. 
+
+Les administrations veillent à la confidentialité des informations qui leur sont communiquées. Toutefois, lorsqu'il est
+d'utilité publique de divulguer les faits, le ministre de l'intérieur peut en informer le public ou demander à l'opérateur en
+cause de le faire. 
+
+Lorsque l'atteinte à la sécurité ou la perte d'intégrité est susceptible d'avoir un impact significatif dans un ou des autres
+Etats membres de l'Union européenne, le ministre chargé des communications électroniques, en liaison avec l'autorité
+nationale de défense des systèmes d'information, informe les autorités compétentes des Etats membres et l'Agence européenne
+chargée de la sécurité des réseaux et de l'information des atteintes survenues. 
+
+Ces atteintes à la sécurité ou pertes d'intégrité font l'objet d'un rapport annuel remis par le ministre chargé des
+communications électroniques à la Commission européenne et à l'Agence européenne chargée de la sécurité des réseaux et de
+l'information.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-15
+	  - Code pénal - art. 432-9
+	  - Code des postes et des communications électroniques - art. R10
 
 	**Modifié par**:
 
-	  - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 2
 
 	**Cité par**:
 
@@ -20078,12 +20112,6 @@ ainsi que de tout moyen éventuel d'y remédier et du coût que cela implique.
 	  - Arrêté du 31 décembre 2013 - art. 3 (V)
 	  - Décret n°2017-428 du 28 mars 2017 - art. 1
 	  - Code des postes et des communications électroni... - art. D98-3 (V)
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L36-6 (M)
-	  - Code des postes et des communications électronique - art. R10 (M)
-	  - Code des postes et des communications électroniques 226-13, 226-15, 432-9, R10, L36-6
 
 
 ###### Article D98-6
@@ -20405,18 +20433,18 @@ I. - En prévision des circonstances évoquées aux articles L. 1111-2 et L. 133
 les décrets n° 65-28 du 13 janvier 1965 relatif à l'organisation de la défense civile et n° 83-321 du 20 avril 1983 relatif
 au pouvoir des préfets en matière de défense non militaire, l'opérateur prend les mesures utiles pour :
 
-- assurer le fonctionnement régulier de ses installations ;
+― assurer le fonctionnement régulier de ses installations ;
 
-- protéger ses installations, par des mesures appropriées, contre les risques, menaces et agressions de quelque nature
-qu'elles soient ;
+― protéger ses installations, réseaux et services, par des mesures appropriées, contre les risques, menaces et agressions de
+quelque nature qu'elles soient ;
 
-- garantir la mise en oeuvre, dans les meilleurs délais, de moyens techniques et humains susceptibles de pallier les
+― garantir la mise en oeuvre, dans les meilleurs délais, de moyens techniques et humains susceptibles de pallier les
 conséquences les plus graves des défaillances, neutralisation ou destruction des installations ;
 
-- pouvoir répondre pour sa part aux besoins en matière de défense nationale et de sécurité publique, et notamment mettre en
+― pouvoir répondre pour sa part aux besoins en matière de défense nationale et de sécurité publique, et notamment mettre en
 oeuvre les moyens demandés par les représentants territoriaux de l'Etat, dans le cadre des plans de secours ;
 
-- être en mesure, en temps de crise ou en cas de nécessité impérieuse, d'établir des liaisons spécialement étudiées ou
+― être en mesure, en temps de crise ou en cas de nécessité impérieuse, d'établir des liaisons spécialement étudiées ou
 réservées pour la défense ou la sécurité publique, selon les modalités techniques et financières fixées par voie de
 convention avec les services de l'Etat concernés. 
 
@@ -20434,14 +20462,14 @@ matérielles nécessaires à la mise en place des interceptions de correspondanc
 
 Ces moyens sont mis en place et mis en œuvre dans les conditions suivantes : 
 
-- ils sont mis en place sur le territoire national ; 
+― ils sont mis en place sur le territoire national ; 
 
-- ils sont mis en œuvre sur le territoire national et ne peuvent pas l'être à partir d'un pays étranger ; 
+― ils sont mis en œuvre sur le territoire national et ne peuvent pas l'être à partir d'un pays étranger ; 
 
-- les données produites par les systèmes utilisés sont chiffrées par un moyen validé par l'Etat lorsque ces données doivent
+― les données produites par les systèmes utilisés sont chiffrées par un moyen validé par l'Etat lorsque ces données doivent
 transiter par voie électronique en dehors du territoire national ; 
 
-- seuls les agents qualifiés mentionnés au premier alinéa du présent III peuvent utiliser et contrôler les systèmes utilisés
+― seuls les agents qualifiés mentionnés au premier alinéa du présent III peuvent utiliser et contrôler les systèmes utilisés
 pour les interceptions de communications électroniques, accéder aux données produites par ces systèmes et les communiquer aux
 demandeurs autorisés. 
 
@@ -20454,13 +20482,13 @@ regard du nombre d'interceptions susceptibles d'être demandées à cet opérate
 IV. - L'Etat garantit à l'opérateur une juste rémunération des dispositions prises par ce dernier au titre du III du présent
 article. La juste rémunération de l'opérateur correspond à la couverture : 
 
-a) Des coûts exposés pour les études, l'ingénierie, la conception et le déploiement des systèmes demandés pour les
-interceptions de communications électroniques ; 
+a) Des coûts exposés pour les études, l'ingénierie, la conception et le déploiement des systèmes demandés au titre du III du
+présent article ; 
 
 b) Des coûts liés à la maintenance et, le cas échéant, à la location des moyens permettant le fonctionnement des systèmes
-demandés pour les interceptions de communications électroniques ; 
+demandés au titre du III du présent article ; 
 
-c) Des coûts liés au traitement des demandes d'interception. 
+c) Des coûts liés au traitement des demandes. 
 
 Les choix opérés par l'opérateur au titre du a, du b et du c font l'objet d'une validation par le ministre chargé des
 communications électroniques. 
@@ -20470,23 +20498,24 @@ La rémunération de l'opérateur au titre du a et du b est assurée dans le cad
 La rémunération de l'opérateur au titre du c est fixée par arrêté du ministre chargé des communications électroniques et du
 ministre chargé du budget. 
 
-V. - Dans le cadre des missions judiciaires ou d'interventions de secours, l'opérateur permet aux services visés au dernier
-alinéa de l'article L. 35-5 d'accéder sans délai, directement ou par son seul intermédiaire, à sa liste d'abonnés et
-d'utilisateurs non expurgée des données couvertes par le troisième alinéa de l'article R. 10 et mise à jour dans les délais
-prescrits à l'article R. 10-4. Les quatrième, cinquième et septième alinéas de l'article R. 10 ne sont pas opposables auxdits
-services. 
+V. - Dans le cadre des missions judiciaires ou d'interventions de secours, l'opérateur permet aux services visés au V de
+l'article L. 33-1 d'accéder sans délai, directement ou par son seul intermédiaire, à sa liste d'abonnés et d'utilisateurs non
+expurgée des données couvertes par le troisième alinéa de l'article R. 10 et mise à jour dans les délais prescrits à
+l'article R. 10-4. Les quatrième, cinquième et septième alinéas de l'article R. 10 ne sont pas opposables auxdits services. 
 
-Dans le cadre de l'application des dispositions du présent article, l'opérateur se conforme aux décisions ou instructions des
-autorités judiciaires, militaires ou de police ainsi qu'à celles du ministre chargé des communications électroniques.
+VI. - Pour répondre aux menaces ou aux atteintes à la sécurité des systèmes d'information des autorités publiques et des
+opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 du code de la défense, l'opérateur prend les mesures utiles pour
+pouvoir répondre aux prescriptions de l'autorité nationale de défense des systèmes d'information. 
+
+VII. - Dans le cadre de l'application des dispositions du présent article, l'opérateur se conforme aux décisions ou
+instructions des autorités judiciaires, militaires ou de police ainsi qu'à celles du ministre chargé des communications
+électroniques et à celles de l'autorité nationale de défense des systèmes d'information.
 
 **Nota:**
 
 Décret n° 2012-436 du 30 mars 2012 art. 30 : Les dispositions prévues au cinquième alinéa du III de l'article D. 98-7 du code
 des postes et des communications électroniques dans sa rédaction issue de l'article 27 du présent décret sont applicables à
 compter du 1er juillet 2012.
-
-Art. 31 : Les III et IV de l'article D. 98-7 du code des postes et des communications électroniques dans sa rédaction issue
-de l'article 27 du présent décret peuvent être modifiés par décret.
 
 **Liens relatifs à cet article**
 
@@ -20497,14 +20526,12 @@ de l'article 27 du présent décret peuvent être modifiés par décret.
 	**Cite**:
 
 	  - Décret n°65-28 du 13 janvier 1965
+	  - Décret n°83-321 du 20 avril 1983
 	  - Loi n°91-646 du 10 juillet 1991
 	  - Décret n°93-119 du 28 janvier 1993
 	  - Code des postes et des communications électroniques - art. R10
 	  - Code de la défense. - art. L1111-2
-
-	**Modifié par**:
-
-	  - Décret n°2012-436 du 30 mars 2012 - art. 27
+	  - Code de la défense. - art. L1332-1 (V)
 
 	**Cité par**:
 
@@ -20512,16 +20539,23 @@ de l'article 27 du présent décret peuvent être modifiés par décret.
 	  - Code des postes et des communications électronique - art. D98-5 (M)
 	  - Code des postes et des communications électronique - art. D98-8 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2012-488 du 13 avril 2012 - art. 3
+
 
 ###### Article D98-8
 
 Règles portant sur l'acheminement et la localisation des appels d'urgence.
 
 L'opérateur prend les mesures nécessaires pour acheminer gratuitement les appels d'urgence à partir des points d'accès
-publics, des points d'abonnement et des points d'interconnexion, vers le centre compétent correspondant à la localisation de
-l'appelant, en fonction des informations et listes transmises par les représentants de l'Etat dans les départements. Il ne
-reçoit pas de compensation financière de la part de l'Etat à ce titre. L'opérateur s'abstient de faire figurer sur les
-factures les numéros appelés à ce titre. 
+publics, des points d'abonnement et des points d'interconnexion vers le centre compétent correspondant à la localisation de
+l'appelant, en fonction des informations et listes transmises par les représentants de l'Etat dans les départements et pour
+fournir gratuitement aux utilisateurs finals handicapés un accès aux services d'urgence équivalent à celui dont bénéficie la
+majorité des utilisateurs finals. Pour les utilisateurs finals handicapés, lorsque le moyen de communication utilisé n'est
+pas le service téléphonique, cet accès est assuré dans la limite des contraintes techniques inhérentes au mode de
+communication utilisé. L'opérateur ne reçoit pas de compensation financière de la part de l'Etat à ce titre. L'opérateur
+s'abstient de faire figurer sur les factures les numéros appelés à ce titre. 
 
 Afin de permettre la transmission des informations relatives à l'acheminement des appels d'urgence, l'opérateur communique
 ses coordonnées, avant l'ouverture du service dans un département, au préfet de ce département. Il agit de même à chaque
@@ -20540,10 +20574,11 @@ On entend par appels d'urgence les appels à destination des numéros d'appel d'
 La liste des numéros d'appel d'urgence est précisée par l'Autorité de régulation des communications électroniques et des
 postes dans les conditions prévues à l'article L. 36-6. 
 
-Lors d'un appel d'urgence, l'opérateur transmet aux services de secours les données de localisation de l'appelant, lorsque
-les équipements dont il dispose lui permettent de connaître ces données. On entend par données de localisation l'adresse de
-l'installation téléphonique, l'adresse de provenance de l'appel ou, dans le cas du service mobile, le lieu géographique de
-provenance de l'appel le plus précis que lesdits équipements sont en mesure d'identifier. 
+Lors d'un appel d'urgence, l'opérateur met sans délai à la disposition des services de secours, agissant dans le cadre de
+missions d'interventions de secours, les données de localisation de l'appelant par un procédé sécurisé. On entend par données
+de localisation l'adresse de l'appelant issue de la liste d'abonnés et d'utilisateurs de l'opérateur complète, non expurgée
+et mise à jour et, dans le cas du service mobile, le lieu géographique de provenance de l'appel le plus précis que les
+équipements dont l'opérateur dispose sont en mesure d'identifier.  
 
 Les opérateurs de téléphonie mobile acheminent vers le numéro 112 les seuls appels en provenance des terminaux dont le
 dispositif d'identification du client par l'opérateur est actif lors de l'appel. 
@@ -20559,10 +20594,6 @@ chargé des communications électroniques des mesures prises et se conforment, l
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2009-41 du 12 janvier 2009 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 1er février 2010 - art. 3 (V)
@@ -20571,6 +20602,10 @@ chargé des communications électroniques des mesures prises et se conforment, l
 	  - Code des postes et des communications électroni... - art. D98-8-3 (VD)
 	  - Code des postes et des communications électroni... - art. D98-8-4 (VD)
 	  - Code des postes et des communications électroni... - art. D98-8-6 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-488 du 13 avril 2012 - art. 4
 
 	**Cite**:
 
@@ -20703,6 +20738,25 @@ publics mentionnés à l'article D. 98-8.
 	  - Code des postes et des communications électroniques - art. D98-8
 
 
+###### Article D98-8-7
+
+L'opérateur prend les mesures nécessaires pour transmettre à ses utilisateurs les messages d'alerte et d'information des
+pouvoirs publics destinés au public pour l'avertir de dangers imminents et atténuer les effets de catastrophes majeures.
+
+Ces messages sont transmis dès réception de la demande du Premier ministre, du représentant de l'Etat dans le département ou,
+à Paris, du préfet de police aux utilisateurs situés dans la zone de danger déterminée par ceux-ci.
+
+Les modalités de transmission des messages et de juste rémunération des coûts afférents sont fixées par une convention entre
+le ministre de l'intérieur et l'opérateur dans les conditions prévues par arrêté conjoint du ministre de l'intérieur et du
+ministre chargé des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-488 du 13 avril 2012 - art. 5
+
+
 ###### Article D98-9
 
 Règles portant sur les conditions nécessaires pour assurer l'équivalence de traitement des opérateurs internationaux. 
@@ -20788,21 +20842,21 @@ interopérabilité.
 ###### Article D98-11
 
 Règles portant sur les obligations qui s'imposent à l'exploitant pour permettre son contrôle par l'Autorité de régulation des
-communications électroniques et des postes et celles nécessaires pour l'application de l'article L. 37-1.
+communications électroniques et des postes et celles nécessaires pour l'application de l'article L. 37-1. 
 
 L'opérateur doit fournir à l'Autorité de régulation des communications électroniques et des postes des éléments chiffrés
 relatifs à l'exploitation de son réseau et à la fourniture des services, dans les domaines financiers, commerciaux et
-techniques, dans les conditions précisées ci-après.
+techniques, dans les conditions précisées ci-après. 
 
 1. Selon une périodicité définie par l'Autorité de régulation des communications électroniques et des postes ou à sa demande,
-l'opérateur lui communique les informations nécessaires :
+l'opérateur lui communique les informations nécessaires : 
 
-a) A la collecte des taxes prévues à l'article L. 33-1 et des redevances prévues, notamment aux articles L. 42-1 et L. 44 ;
+a) A la collecte des taxes prévues à l'article L. 33-1 et des redevances prévues, notamment aux articles L. 42-1 et L. 44 ; 
 
-b) Au calcul des contributions au financement du service universel ;
+b) Au calcul des contributions au financement du service universel ; 
 
 c) A l'établissement par l'Autorité de régulation des communications électroniques et des postes de bilans comparatifs dans
-l'intérêt des utilisateurs, relatifs à la qualité de service et aux prix ;
+l'intérêt des utilisateurs, relatifs à la qualité de service et aux prix ; 
 
 d) A la conduite des analyses des marchés prévues à l'article L. 37-1, qui comprennent, outre celles faisant l'objet d'une
 demande motivée :
@@ -20821,11 +20875,11 @@ demande motivée :
 
 - les informations relatives au déploiement de son réseau ;
 
-- les informations comptables et financières pertinentes.
+- les informations comptables et financières pertinentes. 
 
 2. A la demande de l'Autorité de régulation des communications électroniques et des postes ou, pour les informations
 mentionnées au b, le cas échéant, selon une périodicité qu'elle définit, l'opérateur communique à l'Autorité les informations
-nécessaires :
+nécessaires : 
 
 a) Pour vérifier le respect des règles prévues à l'article L. 33-1, notamment :
 
@@ -20852,6 +20906,11 @@ défense et de sécurité ;
 conventions, contrats ou accords conclus entre les filiales de l'opérateur, les sociétés appartenant au même groupe ou des
 branches d'activité de l'opérateur distinctes de celles couvertes par la déclaration ;
 
+- toute information concernant l'évolution des réseaux ou des services susceptible d'avoir une incidence sur les services
+fournis par l'opérateur aux autres opérateurs ;
+
+- toute information nécessaire pour évaluer la sécurité et l'intégrité des réseaux et des services. 
+
 b) A l'attribution et au contrôle du respect des conditions d'utilisation des ressources en fréquences et en numérotation, et
 qui comprennent :
 
@@ -20874,16 +20933,21 @@ prévu à l'article L. 42-2 ;
 
 - les informations relatives à la portabilité du numéro ;
 
-- les informations nécessaires pour établir les conditions de renouvellement de l'autorisation ;
+- les informations nécessaires pour établir les conditions de renouvellement de l'autorisation ; 
 
-c) Pour vérifier le respect des obligations qui lui sont imposées, le cas échéant, en application des articles D. 306 à D.
-315 et D. 369 à D. 377, notamment les informations financières ou comptables, y compris les données de coût, ainsi que les
-conventions, contrats ou accords le liant aux autres opérateurs ou à ses partenaires, filiales, services ou clients.
+c) Pour vérifier le respect des obligations qui lui sont imposées, le cas échéant, en application des articles R. 9-5, R. 9-6
+et D. 306 à D. 315, notamment les informations financières ou comptables, y compris les données de coût, ou celles relatives
+à des marchés de détail associés à un marché de gros sur lequel l'opérateur est réputé exercer une influence significative
+ainsi que les conventions, contrats ou accords le liant aux autres opérateurs ou à ses partenaires, filiales, services ou
+clients ; 
+
+d) Au suivi par l'Autorité de régulation des communications électroniques et des postes de l'évolution et du niveau des
+tarifs de détail applicables aux services mentionnés à l'article L. 35-1.
 
 3. L'Autorité de régulation des communications électroniques et des postes indique les motifs de sa demande, qui doit être
-proportionnée, et précise le niveau de détail des informations à fournir ainsi que les délais de leur fourniture.
+proportionnée, et précise le niveau de détail des informations à fournir ainsi que les délais de leur fourniture. 
 
-L'Autorité informe les opérateurs de l'utilisation qui sera faite des informations demandées.
+L'Autorité informe les opérateurs de l'utilisation qui sera faite des informations demandées. 
 
 4. Lorsque l'opérateur fait appel contractuellement à des sociétés de commercialisation de services, il doit veiller, dans
 ses relations contractuelles avec ces sociétés, au respect de ses engagements au regard des informations à transmettre à
@@ -20893,11 +20957,11 @@ l'Autorité de régulation des communications électroniques et des postes.
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 6
 
 	**Cité par**:
 
@@ -20905,54 +20969,40 @@ l'Autorité de régulation des communications électroniques et des postes.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L33-1 (M)
-	  - Code des postes et des communications électronique - art. L37-1 (M)
-	  - Code des postes et des communications électronique - art. L42-1 (M)
-	  - Code des postes et des communications électronique - art. L42-2 (M)
-	  - Code des postes et des communications électronique - art. L44 (M)
-	  - Code des postes et des communications électroniques L37-1, L33-1, L42-1, L44, L42-2, D306 à D315, D369 à D377
+	  - Code des postes et des communications électroniques - art. D306
+	  - Code des postes et des communications électroniques - art. L33-1
+	  - Code des postes et des communications électroniques - art. L35-1
+	  - Code des postes et des communications électroniques - art. L37-1
+	  - Code des postes et des communications électroniques - art. L42-1
+	  - Code des postes et des communications électroniques - art. L42-2
+	  - Code des postes et des communications électroniques - art. L44
+	  - Code des postes et des communications électroniques - art. R9-5
 
 
 ###### Article D98-12
 
-Règles portant sur l'information et la protection des utilisateurs.
+Règles portant sur l'information et la protection des utilisateurs. 
 
-I. - Information des utilisateurs.
+I. - Information des utilisateurs. 
 
-Outre les informations prévues aux articles L. 111-1 et, le cas échéant, L. 121-18 du code de la consommation, l'opérateur
-met à la disposition du public des informations sur :
+Outre les informations prévues aux articles L. 111-1 et, le cas échéant, L. 121-18 du code de la consommation, les
+informations mentionnées au n du I de l'article L. 33-1 sont présentées par l'opérateur de façon claire, comparable,
+actualisée et sont facilement accessibles. 
 
-- les conditions générales et contractuelles de fourniture du service fourni dans le cadre de sa déclaration, qui précisent :
+Ces informations sont communiquées, à sa demande, à l'Autorité de régulation des communications électroniques et des postes. 
 
-- les conditions de renouvellement des contrats ainsi que, le cas échéant, toute durée contractuelle minimale ;
+II. - Contrats. 
 
-- les conditions relatives à la qualité de service ;
-
-- les délais de fourniture et les types de services de maintenance offerts ;
-
-- s'agissant du service téléphonique au public, la description des services offerts dans le cadre des contrats proposés ;
-
-- les tarifs de ses offres, y compris les formules de réductions tarifaires ;
-
-- les formules d'indemnisation et de remboursement proposées, ainsi que les mécanismes de règlement des litiges.
-
-Il met à disposition ces informations, tenues à jour, dans ses points de vente et par un moyen téléphonique ou électronique
-accessible en temps réel à un tarif raisonnable.
-
-Ces informations sont communiquées, à sa demande, à l'Autorité de régulation des communications électroniques et des postes.
-
-II. - Contrats.
-
-Chaque utilisateur reçoit les contrats conclus avec l'opérateur pour les prestations qu'il souscrit.
+Chaque utilisateur reçoit les contrats conclus avec l'opérateur pour les prestations qu'il souscrit. 
 
 Les conditions contractuelles sont communiquées, sur demande, à l'Autorité de régulation des communications électroniques et
-des postes en vue de vérifier leur conformité aux dispositions de l'article L. 121-83 du code de la consommation.
+des postes en vue de vérifier leur conformité aux dispositions de l'article L. 121-83 du code de la consommation. 
 
-III. - Mode de commercialisation des services offerts.
+III. - Mode de commercialisation des services offerts. 
 
 Lorsque l'opérateur fait appel à des sociétés de commercialisation de services, il doit veiller, dans les relations
 contractuelles avec ces sociétés, au respect de leurs engagements au regard des obligations de l'opérateur prévues dans le
-présent code.
+présent code. 
 
 Ces sociétés peuvent proposer des contrats d'abonnement au service de l'opérateur, ce dernier conservant la responsabilité de
 la fourniture du service à ces abonnés.
@@ -20961,20 +21011,60 @@ la fourniture du service à ces abonnés.
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-862 du 26 juillet 2005 - art. 1 () JORF 29 juillet 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-83 (V)
-	  - Code des postes et des communications électroniques L111-1
+	  - Code de la consommation - art. L111-1
+	  - Code de la consommation - art. L121-18
+	  - Code de la consommation - art. L121-83
+	  - Code des postes et des communications électroniques - art. L33-1
 
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. D98-3 (M)
+
+
+###### Article D98-13
+
+L'opérateur prend les mesures nécessaires pour fournir aux utilisateurs finals handicapés, à un tarif abordable, des produits
+et des services adaptés leur permettant de bénéficier d'un accès à tout ou partie des services de communications
+électroniques qu'il fournit équivalent à celui dont bénéficie la majorité des utilisateurs finals.
+
+L'opérateur rend accessible ses services dédiés à la clientèle aux utilisateurs finals handicapés par tout moyen adapté à
+leur handicap.
+
+Les contrats, les factures et la documentation relative aux produits et services visés au premier alinéa du présent article
+ou, à défaut, les informations qu'ils comportent sont mises à disposition des utilisateurs finals handicapés par des moyens
+ou sur des supports adaptés à leur handicap. L'opérateur met également en place une signalétique destinée à ses clients
+indiquant les terminaux et services les mieux adaptés à chaque catégorie de handicap, évalués sur la base de critères
+objectifs et transparents.
+
+Lorsque des offres de l'opérateur prévoient la fourniture d'un équipement terminal, celui-ci met à la disposition des
+utilisateurs finals handicapés des terminaux adaptés à leur handicap disponibles sur le marché. L'opérateur tient également
+compte des besoins spécifiques des personnes handicapées dans la conception des équipements associés à ses offres d'accès à
+internet fixe.
+
+L'opérateur publie tous les ans avant le 30 juin un rapport de l'avancement des actions qu'il a engagées pour l'adaptation et
+l'amélioration de l'accessibilité de ses offres de communications électroniques aux personnes handicapées en matière de
+terminaux et de services, et ce pour les différentes catégories de handicaps. Le rapport peut être intégré au rapport
+d'activité annuel de l'opérateur et fait notamment un point sur l'avancement des nouvelles technologies disponibles et leur
+mise en œuvre par l'opérateur. Ce rapport est transmis à l'Autorité de régulation des communications électroniques et des
+postes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-488 du 13 avril 2012 - art. 8
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D98-3 (V)
 
 
 ##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.
@@ -21724,8 +21814,8 @@ Les projets de mesures pris en application du premier alinéa de l'article L. 37
 dans les conditions prévues aux articles L. 32-1 et D. 304. Ils sont soumis pour avis à l'Autorité de la concurrence et,
 lorsqu'ils incluent la diffusion de la radio et de la télévision dans le périmètre d'un marché pertinent, au Conseil
 supérieur de l'audiovisuel, qui se prononcent dans un délai de six semaines. Elles font l'objet d'une consultation de la
-Commission européenne et des autorités compétentes des autres Etats membres de  l'Union européenne dans les conditions
-prévues aux articles L. 37-3 et D. 305. 
+Commission européenne de l'Organe des régulateurs européens des communications électroniques et des autorités compétentes des
+autres Etats membres de l'Union européenne dans les conditions prévues aux articles L. 37-3 et D. 305. 
 
 L'autorité tient à jour une liste de l'ensemble des marchés pertinents en vue de l'application des articles L. 38, L. 38-1 et
 L. 38-2. 
@@ -21734,22 +21824,33 @@ L'inscription d'un marché sur cette liste est prononcée pour une durée maxima
 
 - à l'initiative de l'autorité, lorsque l'évolution de ce marché le justifie ;
 
-- dès que possible après la modification de la recommandation de la Commission européenne précitée ;
+- dans les deux ans suivant la modification de la recommandation de la Commission européenne précitée pour les marchés qui ne
+sont pas inscrits sur la liste mentionnée au troisième alinéa ;
 
 - pour les marchés transnationaux, dès que possible après la modification de la décision de la Commission européenne
 précitée ;
 
-- et dans tous les cas au terme d'un délai de trois ans. 
+- et dans tous les cas au terme d'un délai de trois ans. Ce délai peut toutefois, à titre exceptionnel, être prolongé jusqu'à
+trois ans supplémentaires lorsque l'autorité a notifié à la Commission européenne une proposition motivée de prolongation et
+que cette dernière n'y a pas opposé d'objection dans le mois suivant la notification. 
 
 Lorsqu'elle réexamine l'inscription d'un marché pertinent sur la liste mentionnée au premier alinéa, l'autorité détermine
 s'il y a lieu de réexaminer la situation d'autres marchés inscrits ou non sur cette liste et susceptibles d'être concernés
-par ce réexamen.
+par ce réexamen. 
+
+Lorsque l'Autorité n'a pas achevé son analyse du marché pertinent recensé dans la recommandation de la Commission européenne
+précitée dans les délais prévus par le présent article, elle sollicite l'assistance de l'Organe des régulateurs européens des
+communications électroniques en vue d'achever l'analyse du marché pertinent et des obligations spécifiques à imposer. Dans un
+délai de six mois à compter de l'acceptation par l'Organe des régulateurs européens des communications électroniques de la
+demande d'assistance, l'Autorité notifie à la Commission européenne le projet de décision envisagé conformément à l'article
+L. 37-3.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
+	  - Décret n°2012-488 du 13 avril 2012 - art. 11
+	  - Décret n°2012-488 du 13 avril 2012 - art. 9
 
 	**Cité par**:
 
@@ -21764,70 +21865,51 @@ par ce réexamen.
 	  - Code des postes et des communications électroniques - art. L37-1
 	  - Code des postes et des communications électroniques - art. L37-3
 	  - Code des postes et des communications électroniques - art. L38
-	  - Code des postes et des communications électroniques - art. L38-1
-	  - Code des postes et des communications électroniques - art. L38-2
 
 
 ###### Article D302
 
-I.-Pour l'application du deuxième alinéa de l'article L. 37-1, l'Autorité de régulation des communications électroniques et
+I. - Pour l'application du deuxième alinéa de l'article L. 37-1, l'Autorité de régulation des communications électroniques et
 des postes tient le plus grand compte des lignes directrices adoptées par la Commission européenne en application de
 l'article 15 de la directive 2002/21/ CE du Parlement européen et du Conseil relative à un cadre réglementaire commun pour
 les réseaux et services de communications électroniques (directive cadre). 
 
 Elle procède à l'analyse des marchés transnationaux recensés dans la décision adoptée par la Commission européenne en
 application de l'article 15 de la directive 2002/21/ CE et à la détermination des opérateurs réputés exercer une influence
-significative sur ces marchés en concertation avec les autorités compétentes des autres Etats membres de  l'Union
-européenne. 
+significative sur ces marchés en concertation avec les autorités compétentes des autres Etats membres de l'Union européenne. 
 
 Les projets de mesures pris en application du deuxième alinéa de l'article L. 37-1 font l'objet d'une consultation publique
 dans les conditions prévues aux articles L. 32-1 et D. 304. Ils sont soumis pour avis à l'Autorité de la concurrence et,
 lorsqu'ils concernent des marchés pertinents sur lesquels elle a été saisie en application de l'article D. 301, au Conseil
 supérieur de l'audiovisuel, qui se prononcent dans un délai de 6 semaines. Ils font l'objet d'une consultation de la
-Commission européenne et des autorités compétentes des autres Etats membres de  l'Union européenne dans les conditions
-prévues aux articles L. 37-3 et D. 305. 
+Commission européenne de l'Organe des régulateurs européens des communications électroniques et des autorités compétentes des
+autres Etats membres de l'Union européenne dans les conditions prévues aux articles L. 37-3 et D. 305.
 
 Les décisions prises en application du présent article sont réexaminées dans les conditions prévues à l'article D. 301. Ce
 réexamen peut être effectué conjointement à celui des marchés pertinents correspondants. 
 
-II.-Pour la détermination de l'influence significative au sens du troisième alinéa de l'article L. 37-1, un marché est
+II. - Pour la détermination de l'influence significative au sens du troisième alinéa de l'article L. 37-1, un marché est
 considéré comme étroitement lié à un autre lorsque les liens entre les deux marchés sont tels qu'ils permettent d'utiliser,
 sur un des deux marchés, par effet de levier, la puissance détenue sur l'autre marché, ce qui renforce l'influence de
 l'opérateur sur le marché. 
 
-L'influence significative conjointe au sens de l'article L. 37-1 peut être exercée par plusieurs opérateurs dès lors que le
-marché présente une structure considérée comme propice à produire des effets coordonnés, même s'il n'existe aucun lien
-structurel ou autre entre ces opérateurs. Une telle situation peut se produire sur un marché présentant plusieurs
-caractéristiques appropriées, notamment en termes de concentration et de transparence, ainsi que d'autres caractéristiques
-parmi les suivantes :
-
-- marché arrivé à maturité ;
-
-- stagnation ou croissance modérée de la demande ;
+L'influence significative conjointe au sens de l'article L. 37-1 peut être exercée par plusieurs opérateurs qui interviennent
+dans un marché caractérisé par une absence de concurrence effective et au sein duquel aucun opérateur pris isolément ne
+dispose d'une influence significative, même s'il n'existe aucun lien structurel ou autre entre ces opérateurs. Une telle
+situation peut se produire sur un marché concentré et présentant plusieurs caractéristiques appropriées, notamment les
+suivantes, qui peuvent se révéler les plus pertinentes dans le contexte des communications électroniques :
 
 - faible élasticité de la demande ;
 
-- produits homogènes ;
-
-- structures de coût analogues ;
-
 - parts de marché similaires ;
 
-- absence d'innovations techniques, technologie au point ;
+- importantes barrières juridiques ou économiques à l'entrée ;
 
-- absence de capacité excédentaire ;
-
-- importantes barrières à l'entrée ;
+- intégration verticale avec refus collectif d'approvisionnement ;
 
 - absence de contre-pouvoir des clients ;
 
-- absence de concurrence potentielle ;
-
-- diverses sortes de liens informels ou autres entre les entreprises concernées ;
-
-- mécanismes de rétorsion ;
-
-- absence ou possibilité réduite de concurrence par les prix. 
+- absence de concurrence potentielle. 
 
 Cette liste n'est pas exhaustive et les caractéristiques mentionnées ne sont pas cumulatives.
 
@@ -21835,7 +21917,8 @@ Cette liste n'est pas exhaustive et les caractéristiques mentionnées ne sont p
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
+	  - Décret n°2012-488 du 13 avril 2012 - art. 10
+	  - Décret n°2012-488 du 13 avril 2012 - art. 11
 
 	**Cite**:
 
@@ -21844,7 +21927,6 @@ Cette liste n'est pas exhaustive et les caractéristiques mentionnées ne sont p
 	  - Code des postes et des communications électroniques - art. D305
 	  - Code des postes et des communications électroniques - art. L32-1
 	  - Code des postes et des communications électroniques - art. L37-1
-	  - Code des postes et des communications électroniques - art. L37-3
 
 
 ###### Article D303
@@ -21854,10 +21936,10 @@ Lorsqu'elle détermine qu'un opérateur exerce une influence significative sur u
 obligations parmi celles prévues aux articles D. 307 à D. 315. 
 
 Les projets de mesures correspondants font l'objet d'une consultation publique dans les conditions prévues aux articles L.
-32-1 et D. 304. Ils font l'objet d'une consultation de la Commission européenne et des autorités compétentes des autres Etats
-membres de  l'Union européenne dans les conditions prévues aux articles L. 37-3 et D. 305. Ils fixent la durée d'application
-de chacune des obligations établies ou maintenues qui ne peut dépasser la date de révision des décisions prises en vertu de
-l'article D. 301. 
+32-1 et D. 304. Ils font l'objet d'une consultation de la Commission européenne de l'Organe des régulateurs européens des
+communications électroniques et des autorités compétentes des autres Etats membres de l'Union européenne dans les conditions
+prévues aux articles L. 37-3 et D. 305. Ils fixent la durée d'application de chacune des obligations établies ou maintenues
+qui ne peut dépasser la date de révision des décisions prises en vertu de l'article D. 301. 
 
 Les obligations imposées en application du présent article sont réexaminées dans les conditions prévues à l'article D. 301.
 Ce réexamen peut être effectué conjointement à celui des marchés pertinents correspondants et à celui de la liste des
@@ -21873,7 +21955,7 @@ secteur des communications électroniques sans effectuer une nouvelle détermina
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
+	  - Décret n°2012-488 du 13 avril 2012 - art. 11
 
 	**Cite**:
 
@@ -21916,27 +21998,47 @@ moins s'agissant des mesures à envisager en application des articles L. 37-1 et
 
 ###### Article D305
 
-Sous réserve du deuxième alinéa de l'article L. 37-3, l'Autorité de régulation des communications électroniques et des postes
-peut adopter les décisions notifiées à la Commission européenne en application du premier alinéa de l'article L. 37-3 au
-terme d'un délai d'un mois, qui court à compter de la date de réception de la notification, ou au terme de la consultation
-publique prévue au III de l'article L. 32-1 si ce délai est plus long.
+Sous réserve des deuxième et troisième alinéas de l'article L. 37-3, l'Autorité de régulation des communications
+électroniques et des postes peut adopter les décisions notifiées en application du premier alinéa de l'article L. 37-3 au
+terme d'un délai d'un mois, qui court à compter de la date de réception de la notification. 
 
-La notification indique, s'il y a lieu, le caractère confidentiel des informations transmises, et comporte tous les documents
-nécessaires à la justification et la motivation et facilitant l'examen des décisions dont l'adoption est envisagée, notamment
-le résultat de la consultation organisée au titre du III de l'article L. 32-1 et, le cas échéant, l'avis de l'Autorité de la
-concurrence. Si la Commission européenne indique que la notification est incomplète, le délai mentionné au premier alinéa
-commence à courir à compter de la réception des compléments requis. La notification peut être retirée à tout moment.
+La notification est envoyée simultanément à la Commission européenne, à l'Organe des régulateurs européens des communications
+électroniques et aux autorités compétentes des autres Etats membres de l'Union européenne. Elle indique, s'il y a lieu, le
+caractère confidentiel des informations transmises et comporte tous les documents nécessaires à la justification et la
+motivation et facilitant l'examen des décisions dont l'adoption est envisagée, notamment le résultat de la consultation
+organisée au titre du III de l'article L. 32-1 et, le cas échéant, l'avis de l'Autorité de la concurrence. Si la Commission
+européenne indique que la notification est incomplète, le délai mentionné au premier alinéa commence à courir à compter de la
+réception des compléments requis. La notification peut être retirée à tout moment. 
 
-La durée du sursis prévu au deuxième alinéa de l'article L. 37-3 est de deux mois.
+La durée du sursis prévu au deuxième alinéa de l'article L. 37-3 est de deux mois. Lorsque, dans ce délai, la Commission
+européenne demande à l'Autorité de renoncer à l'adoption de sa décision, celle-ci s'exécute ou la modifie dans un délai de
+six mois suivant la date de la décision de la Commission européenne. 
 
 Les décisions imposant des obligations au titre du 6° du I de l'article L. 38 sont notifiées à la Commission européenne dans
-les conditions prévues aux deux premiers alinéas du présent article, à l'exception des délais.
+les conditions prévues aux deux premiers alinéas du présent article, à l'exception des délais. 
+
+L'Autorité communique à la Commission européenne et à l'Organe des régulateurs européens des communications électroniques les
+décisions prises en application des articles L. 37-1 et L. 37-2.
+
+La durée du sursis prévu au troisième alinéa de l'article L. 37-3 est de trois mois. Dans ce délai, l'Autorité coopère avec
+la Commission européenne et l'Organe des régulateurs européens des communications électroniques pour identifier la mesure la
+plus efficace et appropriée au regard des objectifs visés à l'article L. 32-1, tout en tenant compte des avis des acteurs
+économiques et de la nécessité de mettre en place des pratiques réglementaires cohérentes au sein de l'Union européenne. 
+
+Lorsque l'Autorité décide de maintenir ou modifier ses projets de décisions ou dans les autres cas prévus à l'article 7 bis
+(5) de la directive 2002/21/ CE du Parlement européen et du Conseil du 7 mars 2002 relative à un cadre réglementaire commun
+pour les réseaux et services de communications électroniques, la durée du sursis est prolongée d'un mois. L'Autorité
+communique à la Commission européenne et à l'Organe des régulateurs européens des communications électroniques les décisions
+adoptées dans un délai d'un mois suivant l'émission par la Commission européenne d'une recommandation ou d'une décision de
+lever ses réserves dans les conditions prévues au 5 de l'article 7 bis de la directive 2002/21/ CE susmentionnée. Ce délai
+peut être prolongé pour permettre à l'Autorité de procéder à une consultation publique conformément au III de l'article L.
+32-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
+	  - Décret n°2012-488 du 13 avril 2012 - art. 12
 
 	**Cité par**:
 
@@ -21947,17 +22049,18 @@ les conditions prévues aux deux premiers alinéas du présent article, à l'exc
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L32-1 (M)
-	  - Code des postes et des communications électronique - art. L37-3 (M)
-	  - Code des postes et des communications électronique - art. L38 (Ab)
+	  - Code des postes et des communications électroniques - art. L32-1
+	  - Code des postes et des communications électroniques - art. L37-1
+	  - Code des postes et des communications électroniques - art. L37-3
 
 
 ###### Article D306
 
-Les décisions prises au titre de la dérogation prévue au troisième alinéa de l'article L. 37-3 sont immédiatement
-communiquées à la Commission européenne ainsi qu'aux autorités compétentes des autres Etats membres de  l'Union européenne.
-Elles sont applicables pour une période ne pouvant excéder six mois. Toute décision tendant à les proroger au delà de cette
-période est soumise aux dispositions des deux premiers alinéas de l'article L. 37-3 et de l'article D. 305.
+Les décisions prises au titre de la dérogation prévue au cinquième alinéa de l'article L. 37-3 sont immédiatement
+communiquées à la Commission européenne, à l'Organe des régulateurs européens des communications électroniques ainsi qu'aux
+autorités compétentes des autres Etats membres de l'Union européenne. Elles sont applicables pour une période ne pouvant
+excéder six mois. Toute décision tendant à les proroger au delà de cette période est soumise aux dispositions des deux
+premiers alinéas de l'article L. 37-3 et de l'article D. 305.
 
 **Liens relatifs à cet article**
 
@@ -21967,7 +22070,11 @@ période est soumise aux dispositions des deux premiers alinéas de l'article L.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
+	  - Décret n°2012-488 du 13 avril 2012 - art. 13
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
 
 	**Cité par**:
 
@@ -21990,41 +22097,42 @@ d'accès ;
 
 - les caractéristiques du réseau de ces opérateurs ;
 
-- les conditions techniques et tarifaires de fourniture des prestations d'interconnexion et d'accès de ces opérateurs.
+- les conditions techniques et tarifaires de fourniture des prestations d'interconnexion et d'accès de ces opérateurs y
+compris toute condition limitant l'accès ou l'utilisation des services et applications. 
 
 L'Autorité de régulation des communications électroniques et des postes peut également imposer à un opérateur réputé exercer
 une influence significative sur un marché du secteur des communications électroniques de lui communiquer, dès leur
-conclusion, les conventions d'interconnexion et d'accès auxquelles cet opérateur est partie.
+conclusion, les conventions d'interconnexion et d'accès auxquelles cet opérateur est partie. 
 
 II. - Sans préjudice de l'article D. 308, lorsqu'un opérateur exerçant une influence significative sur un marché du secteur
 des communications électroniques est soumis à une obligation de non discrimination en application de l'article D. 309,
 l'Autorité de régulation des communications électroniques et des postes peut imposer à cet opérateur de publier une offre
-technique et tarifaire d'interconnexion ou d'accès.
+technique et tarifaire d'interconnexion ou d'accès. 
 
 L'offre mentionnée au précédent alinéa est suffisamment détaillée pour que l'opérateur demandeur ne paye que l'utilisation
 des moyens strictement liés à la prestation demandée. Elle comprend une description des offres pertinentes réparties en
 divers éléments selon les besoins du marché, accompagnée des conditions techniques et tarifaires correspondant à ces offres
-ainsi qu'aux prestations connexes.
+ainsi qu'aux prestations connexes. 
 
 L'Autorité de régulation des communications électroniques et des postes fixe la liste des prestations minimales
-d'interconnexion ou d'accès devant figurer dans l'offre technique et tarifaire d'interconnexion ou d'accès.
+d'interconnexion ou d'accès devant figurer dans l'offre technique et tarifaire d'interconnexion ou d'accès. 
 
 L'Autorité de régulation des communications électroniques et des postes peut imposer, à tout moment, des modifications à une
 offre technique et tarifaire d'interconnexion ou d'accès afin de mettre l'offre technique et tarifaire en conformité avec les
 dispositions du présent code ou de donner effet aux obligations qui en résultent. L'opérateur communique à cette fin à
 l'Autorité de régulation des communications électroniques et des postes, à sa demande et dans un délai qu'elle fixe, toute
-information nécessaire.
+information nécessaire. 
 
 L'opérateur ne peut invoquer l'existence d'une offre inscrite à son offre technique et tarifaire d'interconnexion pour
 refuser d'engager des négociations commerciales avec un autre opérateur, dans les conditions prévues à l'article L. 34-8, en
-vue de la détermination de conditions d'interconnexion ou d'accès qui n'auraient pas été prévues par ladite offre.
+vue de la détermination de conditions d'interconnexion ou d'accès qui n'auraient pas été prévues par ladite offre. 
 
 Toute condition d'interconnexion ou d'accès qui n'aurait pas été prévue par l'offre technique et tarifaire de l'opérateur
-doit être signalée en tant que telle dans la convention d'interconnexion ou d'accès.
+doit être signalée en tant que telle dans la convention d'interconnexion ou d'accès. 
 
 Lorsque l'opérateur souhaite utiliser une interface d'interconnexion ou d'accès qui ne figure pas à son offre technique et
 tarifaire ou apporter des compléments aux spécifications d'une interface de l'offre technique et tarifaire, il communique les
-spécifications techniques correspondantes à l'Autorité de régulation des communications électroniques et des postes.
+spécifications techniques correspondantes à l'Autorité de régulation des communications électroniques et des postes. 
 
 III. - L'Autorité de régulation des communications électroniques et des postes précise les informations à publier au titre du
 I et du II, le niveau de détail requis et le mode de publication. Elle peut notamment imposer aux opérateurs mentionnés aux I
@@ -22035,55 +22143,59 @@ fourniture de leurs prestations d'interconnexion et d'accès avec un préavis qu
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 14
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. D308 (M)
-	  - Code des postes et des communications électronique - art. D309 (M)
-	  - Code des postes et des communications électronique - art. L34-8 (M)
-	  - Code des postes et des communications électronique - art. L38 (Ab)
+	  - Code des postes et des communications électroniques - art. D308
+	  - Code des postes et des communications électroniques - art. D309
+	  - Code des postes et des communications électroniques - art. L38
 
 
 ###### Article D308
 
-Lorsqu'un opérateur est tenu de faire droit aux demandes raisonnables d'accès à la boucle locale à paire torsadée métallique
-en application de l'article D. 310, il publie une offre technique et tarifaire pour l'accès à la boucle locale. Cette offre
-contient une description des prestations liées à l'accès à la boucle locale ainsi que des modalités, conditions et prix qui y
-sont associés. Elle inclut en outre les prestations associées à l'accès à la boucle locale, notamment la fourniture des
-informations nécessaires à sa mise en oeuvre, une offre de colocalisation des équipements.
+Lorsqu'un opérateur est tenu de faire droit aux demandes raisonnables d'accès à des infrastructures de réseaux en application
+de l'article D. 310, il publie une offre technique et tarifaire pour l'accès aux infrastructures de réseaux. Cette offre
+contient une description des prestations liées à l'accès aux infrastructures de réseaux ainsi que des modalités, conditions
+et prix qui y sont associés. Elle inclut en outre les prestations associées à l'accès aux infrastructures de réseaux,
+notamment la fourniture des informations nécessaires à sa mise en œuvre et, le cas échéant, une offre de colocalisation des
+équipements. 
 
-L'offre mentionnée à l'alinéa précédent comporte au minimum les éléments suivants :
+L'offre mentionnée à l'alinéa précédent comporte au minimum les éléments suivants : 
 
-Au titre des conditions associées au dégroupage de l'accès à la boucle locale :
+Au titre des conditions associées à l'accès dégroupé à la boucle locale :
 
-- éléments du réseau auxquels l'accès est proposé, couvrant notamment les éléments suivants :
+- éléments du réseau auxquels l'accès est proposé, couvrant notamment les éléments suivants ainsi que les ressources
+associées appropriées ;
 
-- accès aux boucles et aux sous-boucles locales ;
+- accès dégroupé aux boucles locales, que celui-ci soit totalement dégroupé ou partagé ;
 
-- accès aux fréquences non vocales du spectre de fréquences d'une boucle ou d'une sous-boucle locale, en cas d'accès partagé
-à la boucle locale ;
+- accès dégroupé aux sous-boucles locales, que celui-ci soit totalement dégroupé ou partagé, y compris, si nécessaire,
+l'accès aux éléments de réseau qui ne sont pas actifs pour le déploiement des réseaux de transmission ;
 
-- informations relatives à l'emplacement des points d'accès physiques et à la disponibilité de boucles et de sous-boucles
-locales dans des parties bien déterminées du réseau d'accès. Lorsque la sauvegarde de la sécurité publique le justifie, la
-diffusion de ces informations peut être restreinte aux seules parties intéressées ;
+- le cas échéant, l'accès aux gaines permettant le déploiement de réseaux d'accès ;
 
-- modalités techniques de l'accès aux boucles et aux sous-boucles locales et de leur utilisation, y compris les
-caractéristiques techniques de la paire torsadée métallique dans la boucle locale ;
+- informations relatives à l'emplacement des points d'accès physiques, y compris les boîtiers situés dans la rue et les
+répartiteurs, et à la disponibilité de boucles, sous-boucles locales et des systèmes de transmission dans des parties bien
+déterminées du réseau d'accès et, le cas échéant, les informations relatives à l'emplacement des gaines et à la disponibilité
+dans les gaines. Lorsque la sauvegarde de la sécurité publique le justifie, la diffusion de ces informations peut être
+restreinte aux seules parties intéressées ;
 
-- procédures de commande et d'approvisionnement, restrictions d'utilisation.
+- modalités techniques de l'accès aux boucles, aux sous-boucles locales et aux gaines et de leur utilisation, y compris les
+caractéristiques techniques de la paire torsadée métallique ou de la fibre optique ou de l'équivalent, distributeurs de
+câbles, gaines et ressources associées et, le cas échéant, les conditions techniques relatives à l'accès aux gaines ;
+
+- procédures de commande et d'approvisionnement, restrictions d'utilisation. 
 
 Au titre des services de colocalisation :
 
-- les informations concernant les sites pertinents de l'opérateur. Lorsque la sauvegarde de la sécurité publique le justifie,
-la diffusion de ces informations peut être restreinte aux seules parties intéressées ;
-
-- les possibilités de colocalisation sur les sites mentionnés à l'alinéa précédent (y compris colocalisation physique et, le
-cas échéant, colocalisation distante et colocalisation virtuelle) ;
+- les informations concernant les sites pertinents existants de l'opérateur ou l'emplacement des équipements et leur
+modification prévue. Lorsque la sauvegarde de la sécurité publique le justifie, la diffusion de ces informations peut être
+restreinte aux seules parties intéressées ;
 
 - les caractéristiques de l'équipement : le cas échéant, les restrictions concernant les équipements qui peuvent être
 colocalisés ;
@@ -22097,13 +22209,13 @@ colocalisés ;
 - les règles de répartition de l'espace lorsque l'espace de colocalisation est limité ;
 
 - les conditions dans lesquelles les bénéficiaires peuvent inspecter les sites sur lesquels une colocalisation physique est
-possible, ou ceux pour lesquels la colocalisation a été refusée pour cause de capacité insuffisante.
+possible, ou ceux pour lesquels la colocalisation a été refusée pour cause de capacité insuffisante. 
 
 Au titre des systèmes d'information :
 
 - les conditions d'accès aux systèmes d'assistance opérationnels, systèmes d'information ou bases de données pour la
 préparation de commandes, l'approvisionnement, la commande, la maintenance, les demandes de réparation et la facturation de
-l'opérateur.
+l'opérateur. 
 
 Au titre des conditions de fourniture :
 
@@ -22118,11 +22230,11 @@ résolution des problèmes, procédures de retour au service normal et paramètr
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 15
 
 	**Cité par**:
 
@@ -22167,31 +22279,34 @@ l'article L. 38, notamment lorsqu'elle considère qu'un refus d'accorder l'accè
 ayant un effet similaire empêcheraient l'émergence d'un marché de détail concurrentiel durable ou risqueraient d'être
 préjudiciables aux utilisateurs finaux. L'Autorité de régulation des communications électroniques et des postes peut
 notamment imposer aux opérateurs réputés exercer une influence significative sur un marché du secteur des communications
-électroniques l'obligation :
+électroniques l'obligation : 
 
-1° D'accorder à des tiers l'accès à des éléments ou ressources de réseau spécifiques, y compris l'accès dégroupé à la boucle
-locale, dans les conditions prévues à l'article D. 308 ;
+1° D'accorder à des tiers l'accès à des éléments ou ressources de réseau spécifiques, y compris l'accès à des éléments de
+réseau qui ne sont pas actifs ou l'accès dégroupé à la boucle locale, dans les conditions prévues à l'article D. 308 ; 
 
-2° De négocier de bonne foi avec les opérateurs qui demandent un accès ;
+2° De négocier de bonne foi avec les opérateurs qui demandent un accès ; 
 
-3° De ne pas retirer un accès déjà accordé ;
+3° De ne pas retirer un accès déjà accordé ; 
 
-4° D'offrir des services particuliers en gros en vue de la revente à des tiers ;
+4° D'offrir des services particuliers en gros en vue de la revente à des tiers ; 
 
 5° D'accorder un accès ouvert aux interfaces techniques, protocoles ou autres technologies clés qui revêtent une importance
-essentielle pour l'interopérabilité des services ou des services de réseaux virtuels ;
+essentielle pour l'interopérabilité des services ou des services de réseaux virtuels ; 
 
-6° De fournir une possibilité de colocalisation ou d'autres formes de partage des moyens, y compris le partage des gaines,
-des bâtiments ou des pylônes ;
+6° De fournir une possibilité de colocalisation ou d'autres formes de partage des ressources associées et des services
+associés ; 
 
 7° De fournir les services spécifiques nécessaires pour garantir aux utilisateurs l'interopérabilité des services de bout en
 bout, notamment en ce qui concerne les moyens destinés aux services de réseaux intelligents ou permettant l'itinérance sur
-les réseaux mobiles ;
+les réseaux mobiles ; 
 
 8° De fournir l'accès à des systèmes d'assistance opérationnelle ou à des systèmes logiciels similaires nécessaires pour
-garantir l'existence d'une concurrence loyale dans la fourniture des services ;
+garantir l'existence d'une concurrence loyale dans la fourniture des services ; 
 
-9° D'interconnecter des réseaux ou des moyens qui y sont associés.
+9° D'interconnecter des réseaux ou des moyens qui y sont associés ; 
+
+10° De donner accès à des services associés, comme ceux relatifs à l'identité, à l'emplacement et à l'occupation de
+l'utilisateur. 
 
 L'Autorité de régulation des communications électroniques et des postes définit en tant que de besoin les conditions de mise
 en oeuvre des obligations prévues au présent article, notamment les délais, de façon à assurer leur exécution dans des
@@ -22201,11 +22316,11 @@ conditions équitables et raisonnables.
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 16
 
 	**Cité par**:
 
@@ -22213,39 +22328,42 @@ conditions équitables et raisonnables.
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L38 (Ab)
+	  - Code des postes et des communications électroniques - art. L38
 
 
 ###### Article D311
 
-I. - Les opérateurs tenus de pratiquer des tarifs reflétant les coûts correspondants en application du 4° de l'article L. 38
+I.-Les opérateurs tenus de pratiquer des tarifs reflétant les coûts correspondants en application du 4° de l'article L. 38
 doivent être en mesure de démontrer que leurs tarifs d'interconnexion et d'accès reflètent effectivement les coûts ;
 l'Autorité de régulation des communications électroniques et des postes peut demander à ces opérateurs de respecter un
-encadrement pluriannuel des tarifs ou de justifier intégralement leurs tarifs et, si nécessaire, en exiger l'adaptation.
+encadrement pluriannuel des tarifs ou de justifier intégralement leurs tarifs et, si nécessaire, en exiger l'adaptation. 
 
-II. - Pour la mise en oeuvre des obligations prévues au 4° de l'article L. 38, l'Autorité de régulation des communications
+II.-Pour la mise en oeuvre des obligations prévues au 4° de l'article L. 38, l'Autorité de régulation des communications
 électroniques et des postes précise, en tant que de besoin, les mécanismes de recouvrement des coûts, les méthodes de
-tarification et les méthodes de comptabilisation des coûts, qui peuvent être distinctes de celles appliquées par l'opérateur.
+tarification et les méthodes de comptabilisation des coûts, qui peuvent être distinctes de celles appliquées par
+l'opérateur. 
 
-Elle peut également prendre en compte les prix en vigueur sur les marchés comparables en France ou à l'étranger.
+Elle peut également prendre en compte les prix en vigueur sur les marchés comparables en France ou à l'étranger. 
 
 L'Autorité de régulation des communications électroniques et des postes veille à ce que les méthodes retenues promeuvent
-l'efficacité économique, favorisent une concurrence durable et optimisent les avantages pour le consommateur. Elle veille
-également à assurer une rémunération raisonnable des capitaux employés, compte tenu du risque encouru.
+l'efficacité économique, favorisent une concurrence durable et optimisent les avantages pour le consommateur. Afin
+d'encourager l'opérateur à investir notamment dans les infrastructures de nouvelle génération, elle tient compte des
+investissements réalisés par l'opérateur et elle veille également à assurer une rémunération raisonnable des capitaux
+employés, compte tenu du risque spécifiquement lié à un nouveau projet d'investissement particulier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Décret n°2012-488 du 13 avril 2012 - art. 17
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L38 (Ab)
+	  - Code des postes et des communications électroniques - art. L38
 
 
 ###### Article D312
@@ -22327,31 +22445,6 @@ indirecte, aux services rendus.
 	  - Code des postes et des communications électronique - art. L38 (Ab)
 
 
-###### Article D313
-
-L'Autorité de régulation des communications électroniques et des postes fixe, en tant que de besoin, les prestations
-d'interconnexion et d'accès mentionnées au II de l'article L. 38 ainsi que leurs modalités et délais de mise en oeuvre. Les
-tarifs de ces prestations reflètent les coûts correspondants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 du 12 mars 1962
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 18
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L38
-
-
 ###### Article D314
 
 Les opérateurs tenus de pratiquer des tarifs reflétant les coûts correspondants en application du 2° de l'article L. 38-1
@@ -22407,236 +22500,6 @@ en compte, en tant que de besoin, l'ensemble des obligations imposées à l'opé
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L38-1 (M)
-
-
-##### Section 3 : Liaisons louées.
-
-###### Article D369
-
-Les opérateurs réputés, en application de l'article L. 37-1, exercer une influence significative sur tout ou partie du marché
-visé à l'article L. 38-2 fournissent les liaisons louées correspondantes dans les conditions prévues par la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 21 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L37-1 (M)
-	  - Code des postes et des communications électronique - art. L38-2 (V)
-
-
-###### Article D370
-
-Les informations concernant les offres de liaisons louées, relatives aux caractéristiques techniques, aux tarifs et aux
-conditions de fourniture des liaisons, sont rendues publiques par ces opérateurs dans les conditions prévues par arrêté du
-ministre chargé des communications électroniques.
-
-Les conditions d'utilisation des liaisons louées, les caractéristiques techniques, y compris physiques et électriques, ainsi
-que les spécifications techniques et de performance détaillées applicables au point de terminaison du réseau sont rendues
-publiques dans des conditions définies par l'Autorité de régulation des communications électroniques et des postes.
-
-Les informations relatives à de nouvelles offres et les modifications tarifaires des offres existantes sont publiées par ces
-opérateurs en respectant un délai de préavis de huit jours.
-
-Ces opérateurs ne peuvent supprimer une prestation ou en modifier les conditions matérielles d'utilisation qu'après
-information des utilisateurs et des organisations d'utilisateurs concernées et recueil de leurs remarques éventuelles. Les
-conditions et délais de résiliation ou de modification sont publiés au moins six mois à l'avance. Lorsqu'il s'agit de
-modifications techniques entraînant des remplacements ou des adaptations significatives des installations connectées au
-réseau, ces opérateurs informent au moins dix-huit mois à l'avance les utilisateurs. Ce délai peut être réduit à six mois
-minimum avec l'accord de l'Autorité de régulation des communications électroniques et des postes. Les opérateurs recueillent
-les remarques éventuelles des utilisateurs et consultent les organisations d'utilisateurs concernées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 21 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D371 (V)
-	  - Code des postes et des communications électronique - art. D379 (Ab)
-
-
-###### Article D371
-
-Les liaisons louées sont fournies dans des conditions objectives, transparentes et non discriminatoires.
-
-Les conditions de fourniture de liaisons louées, visées à l'article D. 370, comprennent au moins :
-
-- des informations relatives à la procédure de commande des liaisons louées ;
-
-- la durée du contrat, qui inclut la période généralement fixée par le contrat et la période contractuelle minimale que
-l'utilisateur est tenue d'accepter ;
-
-- le délai de fourniture type, c'est-à-dire le délai calculé à partir de la date à laquelle l'utilisateur a fait une demande
-ferme pour louer une liaison, au cours duquel 95 % des liaisons louées du même type ont été mises à la disposition des
-clients ;
-
-- le délai type de réparation, qui correspond au délai courant à partir du moment où l'unité responsable de l'opérateur
-reçoit un message signalant une panne et jusqu'au moment où 80 % des liaisons louées du même type ont été rétablies et, dans
-certains cas appropriés, où leur rétablissement a été notifié aux utilisateurs ;
-
-- les modalités de résiliation des contrats, notamment par l'utilisateur, moyennant le respect d'un délai de préavis
-raisonnable et, à défaut de respect de ce délai, les pénalités raisonnables éventuellement exigées ;
-
-- les modes de remboursement ou d'indemnisation.
-
-Ces opérateurs rendent publiques les statistiques relatives au délai de fourniture type et au temps de réparation type des
-liaisons louées, selon des modalités de calcul et une périodicité précisées par une décision de l'Autorité de régulation des
-communications électroniques et des postes dans les conditions prévues par l'article L. 36-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 21 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. D370 (M)
-	  - Code des postes et des communications électronique - art. L36-6 (M)
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D379 (Ab)
-
-
-###### Article D374
-
-Lorsque ces opérateurs utilisent des liaisons louées pour fournir des services ou fournissent des liaisons louées à leurs
-filiales ou partenaires, la même catégorie de liaisons louées doit être fournie sur demande aux autres utilisateurs dans des
-conditions identiques et avec la même qualité.
-
-Ces opérateurs ne peuvent déroger aux conditions de fourniture qu'ils ont publiées, lorsqu'ils estiment déraisonnable une
-demande qui leur est adressée, qu'après accord de l'Autorité de régulation des communications électroniques et des postes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 21 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. D377 (V)
-
-
-###### Article D376
-
-Le ministre chargé des communications électroniques détermine les catégories de liaisons louées conformes à des
-caractéristiques techniques harmonisées dans l'Espace économique européen, dont la fourniture est assurée par ces opérateurs.
-
-L'offre de liaisons louées relevant d'autres catégories ne dispense pas ces opérateurs de fournir l'ensemble minimal défini
-au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 21 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
-
-
-###### Article D377
-
-Les tarifs des liaisons louées respectent le principe de l'orientation vers les coûts et sont fixés selon des règles
-transparentes, conformément aux règles suivantes :
-
-- les tarifs des liaisons louées sont indépendants du type d'application que les utilisateurs de lignes louées mettent en
-oeuvre sans préjudice du principe de non-discrimination ;
-
-- ils comportent une redevance initiale de connexion et une redevance périodique qui sont indiquées de façon distincte.
-Lorsque d'autres éléments de tarification sont appliqués, ceux-ci doivent être transparents et fondés sur des critères
-objectifs.
-
-Les opérateurs veillent à ce que la comptabilité prévue au 3° de l'article L. 38-1 permette d'évaluer les coûts des liaisons
-louées en accord avec les principes définis à l'article D. 374.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-275 1962-03-12
-
-	**Modifié par**:
-
-	  - Décret n°2005-399 du 27 avril 2005 - art. 3 () JORF 30 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-488 du 13 avril 2012 - art. 21 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2012-488 du 13 avril 2012, v. init.
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. D374 (M)
 	  - Code des postes et des communications électronique - art. L38-1 (M)
 
 
@@ -23047,36 +22910,41 @@ aux demandes de fourniture d'informations de l'Autorité de régulation des comm
 
 I. - La conservation du numéro prévue aux trois derniers alinéas de l'article L. 44 permet à l'abonné qui le demande de
 conserver son numéro géographique lorsqu'il change d'opérateur sans changer d'implantation géographique ou de conserver son
-numéro non géographique, fixe ou mobile, lorsqu'il change d'opérateur tout en demeurant en métropole, dans un même
-département d'outre-mer, à Mayotte ou à Saint-Pierre-et-Miquelon.
+numéro non géographique, fixe ou mobile, lorsqu'il change d'opérateur tout en demeurant en métropole, en Guadeloupe, en
+Guyane, à La Réunion, en Martinique, à Mayotte, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon. 
 
 Pour la mise en oeuvre de la portabilité des numéros, on entend par :
 
-- "opérateur receveur" : l'opérateur auprès duquel l'abonné souscrit un nouveau contrat et vers lequel le numéro est porté ;
+- " opérateur receveur " : l'opérateur auprès duquel l'abonné souscrit un nouveau contrat et vers lequel le numéro est
+porté ;
 
-- "opérateur donneur" : l'opérateur à partir duquel le numéro est porté ;
+- " opérateur donneur " : l'opérateur à partir duquel le numéro est porté ;
 
-- "opérateur attributaire" : l'opérateur à qui, conformément aux dispositions du plan national de numérotation, a été
-attribué le numéro objet de la demande de conservation du numéro.
+- " opérateur attributaire " : l'opérateur à qui, conformément aux dispositions du plan national de numérotation, a été
+attribué le numéro objet de la demande de conservation du numéro. 
 
 La demande de conservation du numéro est adressée par l'abonné à l'opérateur receveur. Elle vaut demande de résiliation du
 contrat de l'abonné auprès de l'opérateur donneur. Dans ce cadre, l'abonné donne mandat à l'opérateur receveur pour effectuer
 les opérations de portage de son numéro et résilier le contrat auprès de l'opérateur donneur. L'abonné fournit à l'opérateur
-receveur les informations nécessaires au traitement de sa demande.
+receveur les informations nécessaires au traitement de sa demande. 
 
-Le délai de portage correspond au nombre de jours calendaires entre, d'une part, l'obtention par l'opérateur receveur des
-éléments nécessaires au traitement de la demande d'abonnement et de la demande de conservation du numéro de l'abonné et,
-d'autre part, le portage effectif du numéro. Ce délai ne peut excéder 10 jours, sauf demande expresse de l'abonné. Lorsque
-l'abonné dispose d'un droit de rétraction ou de renonciation en application du code de la consommation, le délai de portage
-ne court qu'à l'expiration de ce droit.
+Le délai de portage correspond au nombre de jours ouvrables entre, d'une part, l'obtention par l'opérateur receveur de la
+confirmation de l'éligibilité de la demande de conservation du numéro par l'opérateur donneur et, d'autre part, le portage
+effectif du numéro. Ce délai ne peut excéder un jour, sous réserve de la disponibilité de l'accès, sauf demande expresse de
+l'abonné. Lorsque l'abonné dispose d'un droit de rétraction ou de renonciation en application du code de la consommation, le
+délai de portage ne court qu'à l'expiration de ce droit. 
 
 Le portage effectif du numéro entraîne la résiliation du contrat qui lie l'opérateur donneur à l'abonné en ce qu'il concerne
-le numéro porté.
+les services fournis depuis l'accès associé au numéro porté. 
 
-Une demande de conservation du numéro peut porter sur un ou plusieurs numéros objet d'un même contrat.
+Une demande de conservation du numéro peut porter sur un ou plusieurs numéros objet d'un même contrat. 
+
+Les contrats de services de communications électroniques prévoient les compensations ou formules de compensations applicables
+lorsque la prestation de conservation du numéro n'a pas été réalisée dans les conditions prévues aux précédents alinéas. 
 
 II. - Une décision de l'Autorité de régulation des communications électroniques et des postes prises en application de
-l'article L. 36-6 précise les modalités d'application du présent article, concernant notamment :
+l'article L. 36-6 précise les modalités d'application du présent article, en tenant compte de la faisabilité technique et de
+la nécessité d'assurer la continuité du service fourni à l'abonné, concernant notamment :
 
 - l'information de l'abonné ;
 
@@ -23086,49 +22954,29 @@ l'article L. 36-6 précise les modalités d'application du présent article, con
 
 - les autres spécifications nécessaires à la mise en oeuvre de la portabilité.
 
-**Nota:**
-
-Décret n° 2006-82 du 27 janvier 2006 art. 2 : Le I de l'article D. 406-18 du code des postes et des communications
-électroniques issu de l'article 1er du présent décret entre en vigueur :
-
-- le 1er janvier 2007 pour les numéros non géographiques mobiles utilisés en métropole ;
-
-- le 1er avril 2006 pour les numéros non géographiques mobiles utilisés dans les départements de la Guadeloupe, de la
-Martinique et de la Guyane ;
-
-- le 1er avril 2007 pour les numéros géographiques et pour les numéros non géographiques fixes ;
-
-- le 1er juillet 2007 pour les numéros non géographiques mobiles utilisés dans le département de la Réunion et les
-collectivités de Mayotte et de Saint-Pierre-et-Miquelon.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-82 du 27 janvier 2006 - art. 1 () JORF 28 janvier 2006 en vigueur le 1er juillet 2007
+	  - Décret n°2012-488 du 13 avril 2012 - art. 19
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L36-6 (M)
-	  - Code des postes et des communications électronique - art. L44 (M)
+	  - Code des postes et des communications électroniques - art. L44
 
 
 ###### Article D406-19
 
 I. - L'opérateur donneur ne peut facturer les coûts de portage à l'abonné.
 
-II. - L'opérateur receveur informe l'opérateur attributaire du portage du numéro.
+II. - L'opérateur receveur informe l'opérateur attributaire et l'opérateur donneur du portage du numéro. 
 
-L'opérateur attributaire fait droit aux demandes raisonnables des opérateurs concernant la mise à disposition et la
-transmission des informations relatives aux numéros portés dont il est l'attributaire ainsi que l'identification des
-exploitants de réseau ouvert au public ouvrant l'interconnexion pour ces numéros.
-
-L'opérateur attributaire peut recouvrer les coûts encourus pour la transmission des informations mentionnées à l'alinéa
-précédent.
+L'opérateur receveur transmet à tous les opérateurs les informations relatives aux numéros portés dont il est le receveur
+ainsi que l'identification des préfixes de portabilité. 
 
 III. - Les opérateurs qui fournissent des prestations à d'autres opérateurs au titre de la conservation des numéros doivent
 être en mesure de démontrer que les tarifs d'accès et d'interconnexion associés reflètent les coûts correspondants.
@@ -23147,11 +22995,11 @@ encouru.
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-82 du 27 janvier 2006 - art. 1 () JORF 28 janvier 2006
+	  - Décret n°2012-488 du 13 avril 2012 - art. 20
 
 
 #### CHAPITRE III : Etablissement de lignes
@@ -23327,22 +23175,18 @@ désignés pour la durée de la législature au cours de laquelle ils sont nomm�
 
 ###### Article D571
 
-Les sénateurs sont désignés pour une période de trois ans. Après chaque renouvellement par tiers du Sénat, il est procédé à
+Les sénateurs sont désignés pour une période de trois ans. Après chaque renouvellement par moitié du Sénat, il est procédé à
 une nouvelle nomination du collège des sénateurs pour une durée de trois ans.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électronique - art. D96-2 (M)
+	  - Décret n°2012-488 du 13 avril 2012 - art. 22
 
 
 ###### Article D572
@@ -23458,9 +23302,7 @@ La commission est consultée par le ministre chargé des postes et des communica
 2° Sur les propositions de directives communautaires relatives aux secteurs des postes et communications électroniques ;
 
 3° Sur les projets et modifications des cahiers des charges et, le cas échéant, des contrats de plan de La Poste et des
-opérateurs chargés du service universel des communications électroniques ;
-
-4° Sur les rapports du Gouvernement au Parlement visés à l'article L. 35-7 du présent code.
+opérateurs chargés du service universel des communications électroniques.
 
 Dans le cadre de cette procédure, le ministre met à disposition de la commission tout document que celle-ci estime nécessaire
 pour formuler un avis.
@@ -23469,28 +23311,15 @@ pour formuler un avis.
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
-
-	**Cite**:
-
-	  - Loi n°96-659 du 26 juillet 1996 - art. 23 (V)
-	  - Code des postes et des communications électronique - art. L35-7 (M)
-
-	**Créé par**:
-
-	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2005-399 du 27 avril 2005 - art. 2
+	  - Décret n°2012-488 du 13 avril 2012 - art. 23
 
 	**Cité par**:
 
 	  - Code des postes et des communications électronique - art. D585 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électronique - art. D96-7 (T)
 
 
 ###### Article D577
@@ -23592,33 +23421,25 @@ missions.
 ###### Article D581
 
 La commission peut décider, à l'initiative de son président et à la majorité de ses membres, de demander au ministre chargé
-des postes et des communications électroniques de faire procéder par  le conseil général des technologies de l'information à
-toute étude ou investigation concernant La Poste et  les opérateurs chargés du service universel des communications
-électroniques, ou, plus généralement, le domaine de compétence de la commission.
+des postes et des communications électroniques de faire procéder par le conseil général des technologies de l'information à
+toute étude ou investigation concernant La Poste et les opérateurs chargés du service universel des communications
+électroniques, ou, plus généralement, le domaine de compétence de la commission. 
 
 Le rapport ou l'étude est remis par le ministre chargé des postes et des communications électroniques au président de la
-commission dans les délais fixés d'un commun accord.
+commission dans les délais fixés d'un commun accord. 
 
-Dans le cadre de cette procédure, la commission peut procéder à toutes investigations qu'elle estime utiles auprès de chacun
-des deux opérateurs.
+Dans le cadre de cette procédure, la commission peut procéder à toutes investigations qu'elle estime utiles auprès des
+opérateurs.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
-
-	**Créé par**:
-
-	  - Décret n°2005-399 du 27 avril 2005 - art. 10 () JORF 30 avril 2005
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2005-399 du 27 avril 2005 - art. 2
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électronique - art. D96-12 (T)
+	  - Décret n°2012-488 du 13 avril 2012 - art. 24
 
 
 ###### Article D582
