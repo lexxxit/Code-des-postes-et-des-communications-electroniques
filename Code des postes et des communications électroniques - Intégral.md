@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
@@ -16666,28 +16666,24 @@ des centres de réception radioélectriques.
 ###### Article R42-1
 
 Afin de prévenir les dommages aux installations de communications électroniques, l'emplacement des installations est porté à
-la connaissance des tiers par les opérateurs dans les conditions fixées par le décret n° 91-1147 du 14 octobre 1991 relatif à
-l'exécution de travaux à proximité de certains ouvrages souterrains, aériens ou subaquatiques de transport ou de
-distribution.
+la connaissance des tiers par les opérateurs dans les conditions fixées par le chapitre IV du titre V du livre V (partie
+Réglementaire) du code de l'environnement. 
 
 Ce dépôt constitue une modalité d'information des tiers au sens de l'alinéa 3 de l'article L. 65.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°91-1147 1991-10-14
-	  - Code des postes et des communications électronique - art. L65 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Décret n°2005-605 2005-05-27 art. 4 I, II JORF 29 mai 2005
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2011-1241 du 5 octobre 2011 - art. 5 (V)
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L65 (V)
 
 
 #### Chapitre V : Protection des câbles sous-marins.
@@ -20336,14 +20332,14 @@ données, qui en informe les opérateurs et gestionnaires concernés. Le destina
 obligations précisées aux alinéas précédents. La communication est limitée aux infrastructures et réseaux établis sur le
 territoire du demandeur.
 
-L'Etat, les collectivités et les groupements peuvent communiquer des données reçues en application du présent article à un
-tiers concourant à l'aménagement du territoire avec lequel ils sont en relation contractuelle, après information des
-opérateurs et des gestionnaires d'infrastructures dont elles proviennent. La communication fait l'objet d'une convention de
-durée limitée qui en précise les finalités, impose au destinataire de respecter la sécurité et la confidentialité des données
-conformément au présent IV et précise que les données sont restituées à son terme et les copies détruites. Le service de
-l'Etat, la collectivité ou le groupement détenteur des données veille au respect par le destinataire de ses obligations en
-matière de sécurité et de confidentialité des données prévues par la convention. Les données communiquées ne peuvent être
-utilisées à d'autres fins que celles prévues par la convention. 
+L'Etat, les collectivités territoriales et leurs groupements peuvent communiquer des données reçues en application du présent
+article à un tiers concourant à l'aménagement du territoire avec lequel ils sont en relation contractuelle, après information
+des opérateurs et des gestionnaires d'infrastructures dont elles proviennent. La communication fait l'objet d'une convention
+de durée limitée qui en précise les finalités, impose au destinataire de respecter la sécurité et la confidentialité des
+données conformément au présent IV et prévoit qu'à son terme les données sont restituées et les copies détruites. Le service
+de l'Etat, la collectivité territoriale ou le groupement détenteur des données veille au respect par le destinataire de ses
+obligations en matière de sécurité et de confidentialité des données prévues par la convention. Les données communiquées ne
+peuvent être utilisées à d'autres fins que celles prévues par la convention. 
 
 La communication de données ne doit pas créer de discrimination entre opérateurs et ne doit pas porter atteinte au secret en
 matière commerciale et industrielle, mentionné à l'article 6 de la loi n° 78-753 du 17 juillet 1978. 
@@ -20389,15 +20385,10 @@ doivent être transmises.
 
 **Nota:**
 
-Décret 2009-167 du 12 février 2009 article 2 : Le sixième alinéa du V de l'article D. 98-6-3 du code des postes et des
-communications électroniques entre en vigueur au 1er juillet 2009 pour les informations visées au 2° du III, et au 1er
-juillet 2011 pour les informations visées au 1° du III. Avant cette date, les informations sont fournies dans le meilleur
-état dont dispose l'opérateur ou le gestionnaire d'infrastructures de communications électroniques au regard de l'objectif
-présenté dans l'alinéa en question.
-
-Conseil d'Etat n° 327062, en date du 10 novembre 2010 Article 1er : L'article 1er du décret du 12 février 2009 est annulé en
-tant qu'il introduit le cinquième alinéa du IV et le dernier alinéa du V de l'article D. 98-6-3 du code des postes et des
-communications électroniques.
+Conformément à son article 2, le décret n° 2012-513 du 18 avril 2012 entre en vigueur le 1er juillet 2012. Toutefois, pour
+les informations mentionnées au III de l'article D. 98-6-3 du code des postes et des communications électroniques autres que
+celles relatives aux éléments de branchement et d'interconnexion, l'obligation prévue au sixième alinéa du V de cet article
+ne s'applique qu'à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -20408,10 +20399,6 @@ communications électroniques.
 	  - Code des postes et des communications électroniques - art. L33-1
 	  - Code des postes et des communications électroniques - art. L33-7
 
-	**Créé par**:
-
-	  - Décret n°2009-167 du 12 février 2009 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2009-167 du 12 février 2009 - art. 2 (V)
@@ -20421,6 +20408,10 @@ communications électroniques.
 	  - Décret n°2010-57 du 15 janvier 2010 - art. 1 (V)
 	  - Décret n°2012-513 du 18 avril 2012 - art. 2 (VD)
 	  - Décret n°2015-217 du 25 février 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-513 du 18 avril 2012 - art. 1
 
 
 ###### Article D98-7
