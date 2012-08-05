@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-08-06
 
 # Partie législative
 
@@ -14669,20 +14669,22 @@ Les marchés sont passés dans les formes et conditions prescrites par le code d
 
 ###### Article R20-44-23
 
-Les ressources de l'agence sont :
+Les ressources de l'agence sont : 
 
-1° Les subventions publiques ;
+1° Les subventions publiques ; 
 
-2° Le produit de la redevance mentionnée à l'article L. 97-2 ;
+2° Le produit de la redevance mentionnée à l'article L. 97-2 ; 
 
-3° La rémunération des services rendus ;
+3° La rémunération des services rendus ; 
 
-4° Les revenus du portefeuille ;
+4° Les revenus du portefeuille ; 
 
-5° Le produit des dons et legs.
+5° Le produit des dons et legs ; 
+
+6° Le produit de la taxe mentionnée au I bis de l'article L. 43. 
 
 L'agence perçoit au bénéfice du fonds de réaménagement du spectre les contributions des personnes publiques ou privées
-versées à des fins de réaménagement du spectre.
+versées à des fins de réaménagement du spectre. 
 
 Les fonds de l'agence, ainsi que ceux du fonds de réaménagement du spectre, sont placés auprès du Trésor public dans les
 conditions définies aux articles 174 et 175 du décret n° 62-1587 du 29 décembre 1962.
@@ -14691,22 +14693,21 @@ conditions définies aux articles 174 et 175 du décret n° 62-1587 du 29 décem
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 174 (M)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 175 (V)
-	  - Code des postes et des communications électroniques R52-2-1
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 174
+	  - Code des postes et des communications électroniques - art. L43
+	  - Code des postes et des communications électroniques - art. L97-2
 
 	**Modifié par**:
 
-	  - Décret n°2005-1168 du 13 septembre 2005 - art. 6 () JORF 16 septembre 2005
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-13 (T)
-	  - Code des postes et des communications électroniques R52-2-13
 
 
 ###### Article R20-44-24
@@ -14737,19 +14738,23 @@ nationaux peuvent instituer des régies d'avances et des régies de recettes.
 	  - Code des postes et des communications électroniques R52-2-14
 
 
-##### Paragraphe IV : Dispositions particulières
+##### Paragraphe IV : Modalités d'application de la taxe prévue au I bis de l'article L. 43
 
 ###### Article R20-44-25
 
-Les articles R. 20-44-10 à R. 20-44-24 sont applicables en Polynésie française, dans les îles Wallis et Futuna, dans les
-Terres australes et antarctiques françaises et en Nouvelle-Calédonie, à l'exception du 5° de l'article R. 20-44-11.
+Les coûts complets exposés par l'Agence nationale des fréquences pour le recueil et le traitement des réclamations des
+usagers de services de communication audiovisuelle relatives aux brouillages causés par la mise en service des stations
+radioélectriques du service mobile dans la bande de fréquences 790-862 MHz comprennent les dépenses exposées par l'agence : 
+
+1° Pour recueillir les réclamations des usagers des services de communication audiovisuelle qui recevaient ces services par
+voie hertzienne terrestre en mode numérique avant la mise en service de la station du service mobile ; 
+
+2° Pour instruire ces réclamations ; 
+
+3° Pour définir la cause des brouillages, le cas échéant, après avoir réalisé des mesures in situ lorsque cela est
+nécessaire.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-605 2005-05-27 art. 4 VI, VII JORF 29 mai 2005
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -14757,29 +14762,163 @@ Terres australes et antarctiques françaises et en Nouvelle-Calédonie, à l'exc
 	  - Code des postes et des communications électroni... - art. R20-44-26 (V)
 	  - Code des postes et des communications électroni... - art. R20-44-27 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-29 (V)
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-15 (T)
-	  - Code des postes et des communications électroniques R52-2-15
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques R20-44-10 à R20-44-24
 
 
 ###### Article R20-44-26
+
+I.-Les coûts mentionnés à l'article R. 20-44-25 sont répartis chaque année entre les titulaires d'une autorisation
+d'utilisation de fréquences dans la bande 790-862 MHz en France métropolitaine pour l'établissement et l'exploitation d'un
+réseau radioélectrique mobile ouvert au public, selon les modalités suivantes : 
+
+1° 57 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 791 MHz à 801 MHz et de
+832 MHz à 842 MHz ; 
+
+2° 12 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 801 MHz à 806 MHz et de
+842 MHz à 847 MHz ; 
+
+3° 12 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 806 MHz à 811 MHz et de
+847 MHz à 852 MHz ; 
+
+4° 19 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 811 MHz à 821 MHz et de
+852 MHz à 862 MHz. 
+
+Lorsqu'un ou plusieurs blocs de fréquences ne sont attribués à aucun titulaire d'autorisation durant tout ou partie de
+l'année, ces pourcentages sont corrigés de manière à ce que le montant global de taxe à recouvrer soit intégralement réparti
+entre les titulaires d'autorisation dans des conditions garantissant que chaque titulaire d'un droit d'utilisation contribue
+en proportion de sa quote-part telle que définie ci-dessus et, le cas échéant, en proportion de la durée de détention de son
+autorisation. 
+
+II.-Lorsque les fréquences d'un même bloc sont attribuées à plusieurs titulaires d'autorisation d'utilisation de fréquences
+durant tout ou partie de l'année, les coûts imputables au bloc en cause sont répartis entre ses titulaires en proportion de
+la part de fréquences qu'ils détiennent dans ce bloc et, le cas échéant, au prorata de la durée de détention de leur
+autorisation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
+
+	**Annulé par**:
+
+	  - Décision n°363259 (ECLI:FR:CESSR:2014:363259.20140115)  du 15 janvier 2014, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-27 (V)
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électronique - art. R*52-2-16 (T)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. R20-44-25
+
+
+###### Article R20-44-27
+
+L'Agence nationale des fréquences arrête au 31 décembre le montant des dépenses mentionnées à l'article R. 20-44-25
+effectivement exposées pendant l'année civile écoulée. 
+
+Elle répartit ce montant entre les titulaires d'autorisation d'utilisation de fréquences dans la bande de fréquences 790-862
+MHz selon les modalités définies à l'article R. 20-44-26 et notifie au début de l'année suivante à chacun de ces titulaires
+le montant qu'il doit. 
+
+Les sommes en cause sont acquittées par ces derniers auprès de l'agent comptable de l'Agence nationale des fréquences dans un
+délai de trente jours à compter de l'émission du titre de perception. Elles sont recouvrées selon les modalités fixées par le
+chapitre Ier du titre II du A de la troisième partie du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
+la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962
+	  - Code des postes et des communications électroniques - art. R20-44-25
+	  - Code des postes et des communications électroniques - art. R20-44-26
+
+	**Modifié par**:
+
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+
+###### Article R20-44-28
+
+L'information prévue au troisième alinéa du I bis de l'article L. 43 du code des postes et des communications électroniques
+est communiquée par le titulaire d'une autorisation d'utilisation de fréquences dans la bande de fréquences 790-862 MHz au
+moins huit jours ouvrés avant la date de mise en service effective de la station radioélectrique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-44-32 (T)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L43
+
+
+##### Paragraphe V : Dispositions particulières
+
+###### Article R20-44-29
+
+Les articles R. 20-44-10 à R. 20-44-24 sont applicables en Polynésie française, dans les îles Wallis et Futuna, dans les
+Terres australes et antarctiques françaises et en Nouvelle-Calédonie, à l'exception du 5° de l'article R. 20-44-11.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+	  - Code des postes et des communications électroniques - art. R20-44-10
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-25 (T)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électronique - art. R20-44-32 (T)
+
+
+###### Article R20-44-30
 
 Afin d'assurer une utilisation optimale des sites disponibles permettant d'atteindre la meilleure compatibilité
 électromagnétique d'ensemble en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et
@@ -14824,41 +14963,28 @@ relatifs aux installations radioélectriques et aux zones de groupement des inst
 
 	**Cite**:
 
-	  - Loi n°49-758 1949-06-09
-	  - Loi n°49-759 1949-06-09
-	  - Décret n°57-817 1957-07-22
+	  - Loi n°49-758 du 9 juin 1949
+	  - Loi n°49-759 du 9 juin 1949
+	  - Décret n°57-817 du 22 juillet 1957
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-27 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-30 (V)
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Anciens textes**:
 
-	  - Code des postes et des communications électronique - art. R*52-2-16 (T)
-	  - Code des postes et des communications électroniques R52-2-16
+	  - Code des postes et des communications électroni... - art. R20-44-26 (T)
 
 
 #### Chapitre II : Numérotation et adressage.
 
 ##### Section 1 : Numérotation.
 
-###### Article R20-44-27
+###### Article R20-44-31
 
 L'attribution par l'Autorité de régulation des communications électroniques et des postes de ressources de numérotation à un
 opérateur entraîne le versement d'une redevance due par année civile, y compris l'année de l'attribution.
@@ -14867,22 +14993,18 @@ opérateur entraîne le versement d'une redevance due par année civile, y compr
 
 	**Modifié par**:
 
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-31 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-27 (T)
 
 
-###### Article R20-44-28
+###### Article R20-44-32
 
 Pour le calcul de la redevance, le ministre chargé des communications électroniques et le ministre chargé du budget fixent
 par arrêté conjoint la valeur d'une unité de base "a" qui ne peut excéder 0,023 euro. Cette valeur est fixée sur proposition
@@ -14910,26 +15032,22 @@ MONTANT par numéro : 20 000 000 a
 
 	**Modifié par**:
 
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-32 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-28 (T)
 
 	**Cité par**:
 
-	  - Code des postes et des communications électronique - art. R20-44-32 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-36 (V)
 
 
-###### Article R20-44-29
+###### Article R20-44-33
 
 La réservation, par un opérateur, auprès de l'Autorité de régulation des communications électroniques et des postes de
 ressources de numérotation entraîne le versement d'une redevance égale à la moitié de la redevance due pour l'attribution des
@@ -14939,28 +15057,24 @@ Si l'opérateur renonce à sa réservation, la redevance au titre de l'année en
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. Annexe (VD)
+
 	**Modifié par**:
 
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-33 (V)
-
-	**Cité par**:
-
-	  - Code des postes et des communications électronique - art. R20-44-32 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-29 (T)
 
 
-###### Article R20-44-30
+###### Article R20-44-34
 
 A compter du 1er janvier 2006, le montant dû au titre de la réservation ou de l'attribution est calculé au prorata de leur
 durée.
@@ -14969,22 +15083,23 @@ durée.
 
 	**Modifié par**:
 
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-34 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-30 (T)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-39 (Ab)
+	  - Code des postes et des communications électroni... - art. R20-44-44 (T)
 
 
-###### Article R20-44-31
+###### Article R20-44-35
 
 Ne donnent pas lieu au versement d'une redevance :
 
@@ -15003,56 +15118,53 @@ opérateur, jusqu'à l'achèvement de la substitution des nouvelles ressources a
 
 	**Modifié par**:
 
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-35 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-31 (T)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-34 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
 
 
-###### Article R20-44-32
+###### Article R20-44-36
 
-Les redevances mentionnées aux articles R. 20-44-28 et R. 20-44-29 sont recouvrées par les comptables du Trésor selon les
+Les redevances mentionnées aux articles R. 20-44-32 et R. 20-44-33 sont recouvrées par les comptables du Trésor selon les
 modalités fixées aux articles 80 à 95 du décret du 29 décembre 1962 portant règlement général sur la comptabilité publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 1962-12-29 art. 80 à 95
-	  - Code des postes et des communications électronique - art. R20-44-28 (M)
-	  - Code des postes et des communications électronique - art. R20-44-29 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-36 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 80
+	  - Code des postes et des communications électroniques - art. R20-44-32
 
 	**Cité par**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-36 (V)
+	  - Arrêté du 19 février 2010 - art. 2 (VD)
+	  - Code des postes et des communications électroni... - art. R20-44-35 (T)
+
+	**Modifié par**:
+
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Anciens textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-32 (T)
 
 
-###### Article R20-44-33
+###### Article R20-44-37
 
 Le silence gardé par l'Autorité de régulation des communications électroniques et des postes pendant plus de trois semaines à
 compter de la date de réception d'une demande d'attribution de ressources de numérotation relevant de l'article L. 44 vaut
@@ -15062,36 +15174,32 @@ décision de rejet.
 
 	**Modifié par**:
 
-	  - Décret n°2007-162 du 6 février 2007 - art. 1 () JORF 8 février 2007
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Cité par**:
 
-	  - Arrêté du 19 février 2010 - art. Annexe (VD)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-33 (T)
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. L44 (M)
+	  - Code des postes et des communications électroniques - art. L44
 
 
 ##### Section 2 : Gestion des domaines de premier niveau du système d'adressage par domaines de l'internet correspondant aux codes pays du territoire national ou d'une partie de celui-ci
 
-###### Article R20-44-34
+###### Article R20-44-38
 
 La consultation publique relative à la désignation de chaque office d'enregistrement fait l'objet d'un avis publié au Journal
 officiel de la République française et au Journal officiel de l'Union européenne. Cet avis précise les règles de
-fonctionnement et de contrôle à respecter par l'office conformément à l'article R. 20-44-35, les critères de détermination du
+fonctionnement et de contrôle à respecter par l'office conformément à l'article R. 20-44-39, les critères de détermination du
 choix de l'office et son calendrier ainsi que, le cas échéant, la partie du territoire national dont l'office est chargé. 
 
 Les offices d'enregistrement doivent avoir leur siège sur le territoire d'un Etat membre de l'Union européenne. 
@@ -15102,39 +15210,30 @@ Au plus tard un an avant l'expiration de la première période de cinq ans pour 
 à une consultation publique à l'issue de laquelle le ministre chargé des communications électroniques décide s'il proroge la
 désignation ou s'il met en œuvre une nouvelle procédure de désignation.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-38 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-34 (T)
 
 	**Cité par**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-39 (Ab)
-	  - Code des postes et des communications électroni... - art. R20-44-44 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-47 (M)
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. R20-44-35
+	  - Code des postes et des communications électroniques - art. R20-44-39
 
 
-###### Article R20-44-35
+###### Article R20-44-39
 
 La désignation d'un office est accompagnée d'un cahier des charges précisant s'il y a lieu :
 
@@ -15153,40 +15252,40 @@ susceptible de présenter un caractère illicite ou contraire à l'ordre public 
 les bureaux d'enregistrement, les demandeurs de noms de domaine et les utilisateurs d'internet ;
 
 - les modalités de publication des enregistrements de noms de domaine effectués par chaque office, conformément aux
-dispositions de l'article R. 20-44-37.
+dispositions de l'article R. 20-44-41.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-38 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-40 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-41 (T)
+	  - Code des postes et des communications électroni... - art. R20-44-44 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-45 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-34 (T)
-	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
-
-	**Nouveaux textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-39 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-35 (T)
 
 
-###### Article R20-44-36
+###### Article R20-44-40
 
 Avant le 30 juin de chaque année, chaque office adresse au ministre chargé des communications électroniques un rapport sur
 l'activité de l'année précédente. La liste des informations que doit contenir ce rapport est fixée par arrêté du ministre
 chargé des communications électroniques. 
 
 Chaque office est tenu de répondre aux demandes du ministre chargé des communications électroniques relatives au respect des
-principes prévus aux articles L. 45 à L. 45-6 et des règles prévues en application des dispositions de l'article R. 20-44-35
+principes prévus aux articles L. 45 à L. 45-6 et des règles prévues en application des dispositions de l'article R. 20-44-39
 dans un délai d'un mois. 
 
 Chaque office signale sans délai aux services du ministre chargé des communications électroniques les noms de domaine
@@ -15197,32 +15296,28 @@ L. 45-2 qu'il a identifiés ou qui lui sont signalés.
 
 	**Cité par**:
 
-	  - Arrêté du 19 février 2010 - art. 2 (VD)
-	  - Code des postes et des communications électroni... - art. R20-44-35 (T)
+	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-40 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L45
 	  - Code des postes et des communications électroniques - art. L45-2
+	  - Code des postes et des communications électroniques - art. R20-44-39
 
 
-###### Article R20-44-37
+###### Article R20-44-41
 
 Chaque office publie quotidiennement la liste des noms de domaine qu'il a enregistrés la veille. Cette liste fait l'objet
 d'un accès libre et sans contrepartie financière depuis le site internet de l'office d'enregistrement. 
@@ -15234,26 +15329,22 @@ d'enregistrement accrédités.
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-41 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-37 (T)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-39 (V)
 
 
-###### Article R20-44-38
+###### Article R20-44-42
 
 Pour l'application du dernier alinéa de l'article L. 45, le ministre chargé des communications électroniques notifie le
 projet de retrait de la désignation et ses motifs à l'office en cause. Celui-ci dispose d'un délai de deux mois pour
@@ -15263,48 +15354,40 @@ présenter ses observations.
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-42 (M)
-
-	**Cité par**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-47 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-38 (T)
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L45
 
 
-###### Article R20-44-40
+###### Article R20-44-43
 
 L'accréditation prévue à l'article L. 45-4 est délivrée lorsque le prestataire :
 
-― maîtrise les principes et les modalités de fonctionnement du système des noms de domaine de l'internet ;
+- maîtrise les principes et les modalités de fonctionnement du système des noms de domaine de l'internet ;
 
-― maîtrise les matériels et les règles techniques permettant d'effectuer les enregistrements auprès de l'office ;
+- maîtrise les matériels et les règles techniques permettant d'effectuer les enregistrements auprès de l'office ;
 
-― a mis en place une procédure de vérification des données d'identification fournies par les demandeurs de noms de domaine
+- a mis en place une procédure de vérification des données d'identification fournies par les demandeurs de noms de domaine
 permettant de répondre, le cas échéant, aux demandes de l'office d'enregistrement ;
 
-― dispose des ressources humaines et techniques nécessaires pour assurer la mise à jour des données administratives et
+- dispose des ressources humaines et techniques nécessaires pour assurer la mise à jour des données administratives et
 techniques fournies par les demandeurs de noms de domaine pour leur identification ;
 
-― dispose des matériels et logiciels informatiques nécessaires pour assurer la sécurité des données personnelles fournies par
+- dispose des matériels et logiciels informatiques nécessaires pour assurer la sécurité des données personnelles fournies par
 les demandeurs de noms de domaine et conserve ces dernières dans le respect des dispositions de la loi n° 78-17 du 6 janvier
 1978 ;
 
-― offre des conditions d'accueil du public adéquates ; 
+- offre des conditions d'accueil du public adéquates ; 
 
 ― justifie qu'il n'agit pas sous contrôle, au sens de l'article L. 233-3 du code de commerce, de l'office d'enregistrement ou
 d'une personne morale exerçant un contrôle sur cet office au sens des mêmes dispositions. 
@@ -15312,41 +15395,28 @@ d'une personne morale exerçant un contrôle sur cet office au sens des mêmes d
 Un contrat entre l'office d'enregistrement et chaque bureau d'enregistrement accrédité fixe les conditions d'accès aux
 services de l'office ainsi qu'à ceux du bureau d'enregistrement.
 
-**Nota:**
-
-Décret n° 2012-436 du 30 mars 2012 art. 32 : Les modifications apportées par le présent décret sont applicables dans les îles
-Wallis et Futuna et dans les Terres australes et antarctiques françaises.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
-	  - Code de commerce - art. L233-3
-	  - Code des postes et des communications électroniques - art. L45-4
-
-	**Cité par**:
-
-	  - Décret n°2011-926 du 1er août 2011 - art. 2 (V)
+	  - Code de commerce - art. L233-3 (V)
+	  - Code des postes et des communications électroni... - art. L45-4 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-436 du 30 mars 2012 - art. 24
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-43 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-40 (T)
 
 
-###### Article R20-44-41
+###### Article R20-44-44
 
 La demande d'accréditation est adressée à l'office d'enregistrement du domaine de l'internet correspondant. Elle comporte les
 éléments permettant à l'office d'enregistrement d'apprécier le respect par le demandeur des conditions fixées aux articles R.
@@ -15356,26 +15426,22 @@ La demande d'accréditation est adressée à l'office d'enregistrement du domain
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-39 (V)
+	  - Code des postes et des communications électroni... - art. R20-44-41 (T)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-44 (M)
+	  - Code des postes et des communications électroniques - art. R20-44-39
 
 
-###### Article R20-44-42
+###### Article R20-44-45
 
 Le non-respect par un bureau d'enregistrement des dispositions des articles L. 45-1 à L. 45-3 et L. 45-5 peut entraîner la
 suppression de son accréditation. 
@@ -15390,22 +15456,23 @@ bureau d'enregistrement en cause. Celui-ci dispose d'un délai d'un mois pour pr
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-45 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-42 (T)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L45-1
+	  - Code des postes et des communications électroniques - art. L45-5
 
 
-###### Article R20-44-43
+###### Article R20-44-46
 
 Peut notamment caractériser l'existence d'un intérêt légitime, pour l'application du 2° et du 3° de l'article L. 45-2, le
 fait, pour le demandeur ou le titulaire d'un nom de domaine :
@@ -15437,51 +15504,43 @@ assimilé à ce nom, en créant une confusion dans l'esprit du consommateur.
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-46 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-43 (T)
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L45-2
 
 
-###### Article R20-44-44
+###### Article R20-44-47
 
-Les articles R. 20-44-34 à R. 20-44-43 sont applicables à Wallis-et-Futuna et dans les Terres australes et antarctiques
+Les articles R. 20-44-38 à R. 20-44-46 sont applicables à Wallis-et-Futuna et dans les Terres australes et antarctiques
 françaises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-926 du 1er août 2011 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-951 du 1er août 2012 - art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-47 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-44 (T)
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. R20-44-34
+	  - Code des postes et des communications électroniques - art. R20-44-38
 
 
 #### Chapitre III : Droits de passage sur le domaine public routier et servitudes.
