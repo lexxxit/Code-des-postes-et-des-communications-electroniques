@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-08-06
+Version Consolidée au 2012-09-23
 
 # Partie législative
 
@@ -8691,7 +8691,7 @@ d'envois prioritaires et non prioritaires ;
 
 b) Les services d'envois de journaux et imprimés périodiques pesant au plus 2 kg ;
 
-c) Les services d'envois de catalogues et autres imprimés pesant au plus 2 kg ;
+c) Les services d'envois d'imprimés pesant au plus 2 kg ;
 
 d) Les services d'envois de colis postaux pesant au plus 20 kg, en envoi ordinaire ou en recommandé, offerts au public à
 l'unité, à l'exclusion des services d'envois offerts à des entreprises en exécution de contrats portant sur plusieurs
@@ -8712,11 +8712,6 @@ homogènes, supérieur à un nombre arrêté par le ministre chargé des postes.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2007-29 2007-01-05 art. 1 I, II JORF 7 janvier 2007
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
-
 	**Cité par**:
 
 	  - Arrêté du 31 octobre 2008 - art. 1 (V)
@@ -8724,9 +8719,13 @@ homogènes, supérieur à un nombre arrêté par le ministre chargé des postes.
 	  - Code des postes et des communications électroni... - art. D2 (VD)
 	  - Code des postes et des communications électronique - art. R5 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 3
+
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R1-1
@@ -8821,29 +8820,6 @@ complément d'affranchissement. A défaut, les envois sont renvoyés à l'expéd
 	**Codifié par**:
 
 	  - Décret n°62-274 1962-03-12
-
-
-###### Article R1-1-4
-
-Sauf pour les envois en nombre, un tarif unique est appliqué aux envois à destination de l'ensemble du territoire
-métropolitain.
-
-Le tarif appliqué aux lettres en provenance et à destination des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-
-Miquelon est celui en vigueur sur le territoire métropolitain, lorsque ces lettres relèvent de la première tranche de poids.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1072 du 20 septembre 2012 - art. 4
-
-	**Codifié par**:
-
-	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R1-1-5
@@ -8974,8 +8950,7 @@ autre voie de recours, saisir le médiateur de La Poste institué en application
 
 ###### Article R1-1-10
 
-La Poste établit et tient à jour le catalogue des prestations relevant du service universel et du secteur réservé ainsi que
-des tarifs en vigueur.
+La Poste établit et tient à jour le catalogue des prestations relevant du service universel et des tarifs en vigueur.
 
 La Poste transmet simultanément au ministre chargé des postes et à l'Autorité de régulation des communications électroniques
 et des postes ses propositions de modifications substantielles du catalogue, autres que tarifaires, qui ont pour objet des
@@ -8989,13 +8964,13 @@ modifications du catalogue portant sur les services d'envois en nombre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 5
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Cité par**:
 
@@ -9041,37 +9016,36 @@ mesures prises et des délais nécessaires pour rétablir le service.
 ###### Article R1-1-13
 
 La Poste fournit à l'Autorité de régulation des communications électroniques et des postes un mois au moins avant leur entrée
-en vigueur toute information utile sur les tarifs des services non réservés relevant du service universel.
+en vigueur toute information utile sur les tarifs des services relevant du service universel.
 
 Ces tarifs sont communiqués pour information au ministre chargé des postes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 6
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R1-1-14
 
-La Poste présente une comptabilité analytique comportant des comptes séparés pour chacun des services dont l'exclusivité lui
-est réservée et distinguant, parmi les autres services, ceux qui relèvent de l'offre de service universel, de la mission de
-transport de la presse bénéficiant de l'agrément de la commission paritaire des publications et agences de presse et de ses
-autres activités.
+La  Poste présente une comptabilité analytique distinguant de ses autres  services et activités ceux qui relèvent de l'offre
+de service universel  ou de la mission de transport de la presse bénéficiant de l'agrément de  la commission paritaire des
+publications et agences de presse.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 7
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R1-1-15
@@ -9348,39 +9322,49 @@ convention passée avec l'Etat.
 ###### Article R1-1-26
 
 Les prestations fournies par La Poste à l'Etat ou, sur la demande de l'Etat, à un tiers sont rémunérées aux tarifs en
-vigueur, sauf dans les cas limitativement énumérés au présent article.
+vigueur, sauf dans les cas limitativement énumérés au présent article. 
 
 Les correspondances ordinaires adressées au Président de la République sont admises en franchise. Le volume de ce courrier
 est évalué par La Poste à partir d'un comptage effectué par sondage. Une indemnité annuelle couvrant le coût de ce service
-est versée par l'Etat à La Poste.
+est versée par l'Etat à La Poste. 
 
 La contribution de La Poste à l'organisation et à l'exécution du service de la poste aux armées est rémunérée sur la base des
-coûts du service, selon des modalités précisées par la convention prévue à l'article R. 1-1-25.
+coûts du service, selon des modalités précisées par la convention prévue à l'article R. 1-1-25. 
 
-Le contrat de plan détermine la compensation prévue à l'article R. 1-1-17 compte tenu de l'évaluation prévisionnelle des
-volumes transportés communiquée par La Poste lors de l'élaboration du contrat de plan, des tarifs existants, de la nature des
-prestations assurées et des gains de productivité prévus. La Poste adresse chaque année, avant le 1er mai, au ministre chargé
-des postes et au ministre chargé du budget, une actualisation de ces informations. En vue de son inscription dans la loi de
-finances initiale, les ministres arrêtent, en liaison avec l'exploitant public, le montant de la contribution de l'Etat.
+Le contrat d'entreprise prévu à l'article 9 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public
+de la Poste et à France Télécom détermine la compensation prévue à l'article R. 1-1-17 compte tenu de l'évaluation
+prévisionnelle des volumes transportés communiquée par La Poste lors de l'élaboration du contrat d'entreprise prévu à
+l'article 9 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la Poste et à France
+Télécom, des tarifs existants, de la nature des prestations assurées et des gains de productivité prévus. La Poste adresse
+chaque année, avant le 1er mai, au ministre chargé des postes et au ministre chargé du budget, une actualisation de ces
+informations. En vue de son inscription dans la loi de finances initiale, les ministres arrêtent, en liaison avec La Poste,
+le montant de la contribution de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Loi n°90-568 du 2 juillet 1990 - art. 9 (V)
+	  - Code des postes et des communications électroni... - art. R1-1-25 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 8
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R1-1-17 (V)
 
-	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R1-1-25 (V)
+#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.
 
+##### Section 1 : Les caractéristiques du service universel.
+
+##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.
 
 #### Chapitre II : La régulation des activités postales.
 
@@ -9390,24 +9374,21 @@ finances initiale, les ministres arrêtent, en liaison avec l'exploitant public,
 
 ###### Article R1-2-1
 
-Doivent être titulaires d'une autorisation les prestataires des services postaux non réservés ci-après :
+Doivent être titulaires d'une autorisation les prestataires des services postaux suivants :
 
 a) Envois de correspondance intérieure incluant la distribution ;
 
 b) Envois de correspondance transfrontalière.
 
-L'autorisation précise, le cas échéant, que son titulaire est autorisé à assurer un service d'envois de recommandés utilisés
-dans le cadre des procédures administratives et juridictionnelles.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 10
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R1-2-2
@@ -9448,7 +9429,10 @@ d) La description des activités industrielles et commerciales exercées notamme
 e) L'information sur les accords de partenariat industriel, commercial et financier conclus dans le domaine des activités
 postales et la description des accords envisagés pour l'activité faisant l'objet de la demande ;
 
-f) Les autorisations dont le demandeur est déjà titulaire.
+f) Les autorisations dont le demandeur est déjà titulaire ;
+
+g)  Une attestation de versement de cotisations, délivrée par les  organismes compétents, prouvant que le demandeur a
+satisfait à ses  obligations sociales. 
 
 2° Description des caractéristiques techniques du projet faisant l'objet de la demande :
 
@@ -9475,11 +9459,11 @@ suivant la délivrance de l'autorisation et mentionnant les investissements et l
 
 	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 11
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Cité par**:
 
@@ -9545,18 +9529,32 @@ des autorisations qu'elle a délivrées, avec l'indication de leur objet.
 
 ###### Article R1-2-6
 
-Les obligations que doivent respecter les titulaires d'une autorisation portent sur :
+Les obligations que doivent respecter les titulaires d'une autorisation portent sur : 
 
-1° La garantie de la sécurité des utilisateurs, des personnels et des installations du prestataire de services ;
+1° La garantie de la sécurité des usagers, des personnels et des installations du prestataire de services ; 
 
-2° La garantie de la confidentialité des envois de correspondance et l'intégrité de leur contenu ;
+2° La garantie de la confidentialité des envois de correspondance et l'intégrité de leur contenu ; 
 
-3° L'accès des utilisateurs à une procédure de réclamation simple, transparente et gratuite ;
+3° La garantie du secret des correspondances ainsi que la neutralité des services postaux au regard de l'identité de
+l'expéditeur et de la nature des envois postaux ; 
 
-4° La protection des données à caractère personnel et de la vie privée ;
+4° La protection des données à caractère personnel dont peuvent être dépositaires le prestataire du service universel ou les
+titulaires de l'autorisation prévue à l'article L. 3 ainsi que la protection de la vie privée des usagers de ces services ; 
 
-5° Le respect de l'objectif de préservation de l'environnement quant à la mise en oeuvre des conditions techniques de
-réalisation des prestations.
+5° La fourniture de la prestation de services postaux dans les conditions techniques respectant l'objectif de préservation de
+l'environnement ; 
+
+6° La mise en place de procédures simples, transparentes et gratuites de traitement des réclamations et respectant les
+intérêts des usagers au regard des obligations fixées à l'article L. 7 ; 
+
+7° La garantie d'accès aux services et aux installations aux personnes handicapées dans les conditions prévues à l'article L.
+111-7-3 du code de la construction et de l'habitation ; 
+
+8° Le respect des obligations légales et conventionnelles applicables en matière de droit du travail et de la législation de
+sécurité sociale en vigueur, sans préjudice des dispositions spécifiques applicables aux personnels ayant, le cas échéant, le
+statut de fonctionnaire ; 
+
+9° Le respect de l'ordre public et des obligations liées à la défense nationale. 
 
 Un arrêté du ministre chargé des postes, pris sur proposition de l'Autorité de régulation des communications électroniques et
 des postes, précise le contenu des obligations qui peuvent être imposées aux titulaires d'une autorisation en application du
@@ -9566,30 +9564,37 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 12
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L7 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-3 (V)
 
 
 ###### Article R1-2-7
 
-Les titulaires d'une autorisation fournissent chaque année à l'Autorité de régulation des communications électroniques et des
-postes les informations statistiques concernant l'utilisation, la zone de couverture et les modalités d'accès à leur service.
-Ces informations comprennent notamment des éléments relatifs à la nature et au volume des différents services d'envois
-postaux de leur activité autorisée. L'Autorité de régulation des communications électroniques et des postes respecte le
-secret des affaires dans l'utilisation de ces informations.
+Les  titulaires d'une autorisation fournissent chaque année à l'Autorité de  régulation des communications électroniques et
+des postes des  informations statistiques relatives à la nature et au volume des  différents services d'envois postaux de
+leur activité autorisée ainsi  que des informations sur l'utilisation, la zone de couverture et les  modalités d'accès à
+leurs services. 
+
+L'Autorité de  régulation des communications électroniques et des postes respecte le  secret des affaires dans l'utilisation
+de ces informations.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-29 du 5 janvier 2007 - art. 1 () JORF 7 janvier 2007
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 13
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R1-2-8
