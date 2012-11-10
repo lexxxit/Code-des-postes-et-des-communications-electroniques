@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-09-23
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -8674,7 +8674,7 @@ Le présent code est applicable à Mayotte.
 
 ### TITRE Ier : Dispositions générales
 
-#### Chapitre Ier : Le service universel postal et les obligations du service postal.
+#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.
 
 ##### Section 1 : Les caractéristiques du service universel.
 
@@ -9359,12 +9359,6 @@ le montant de la contribution de l'Etat.
 
 	  - Code des postes et des communications électroni... - art. R1-1-17 (V)
 
-
-#### Chapitre Ier : Le service universel postal, les obligations du service postal et le fonds de compensation du service universel postal.
-
-##### Section 1 : Les caractéristiques du service universel.
-
-##### Section 2 : Droits et obligations de La Poste au titre de ses missions de service public des envois postaux.
 
 #### Chapitre II : La régulation des activités postales.
 
@@ -15142,31 +15136,28 @@ opérateur, jusqu'à l'achèvement de la substitution des nouvelles ressources a
 ###### Article R20-44-36
 
 Les redevances mentionnées aux articles R. 20-44-32 et R. 20-44-33 sont recouvrées par les comptables du Trésor selon les
-modalités fixées aux articles 80 à 95 du décret du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+modalités fixées aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 80
-	  - Code des postes et des communications électroniques - art. R20-44-32
 
 	**Cité par**:
 
 	  - Arrêté du 19 février 2010 - art. 2 (VD)
 	  - Code des postes et des communications électroni... - art. R20-44-35 (T)
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+	  - Code des postes et des communications électroniques - art. R20-44-32
+
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 16
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-32 (T)
 
 
 ###### Article R20-44-37
