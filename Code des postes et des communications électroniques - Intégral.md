@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2012-11-22
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -9356,6 +9356,87 @@ le montant de la contribution de l'Etat.
 	  - Code des postes et des communications électroni... - art. R1-1-17 (V)
 
 
+##### Section 3 : Le fonds de compensation du service universel postal
+
+###### Article R1-1-27
+
+L'Agence de services et de paiement assure la gestion comptable et financière du fonds de compensation du service universel
+postal mentionné à l'article L. 2-2. Elle est notamment chargée : 
+
+1° D'effectuer les opérations de recouvrement des contributions dont les prestataires de services postaux titulaires de
+l'autorisation prévue à l'article L. 3 sont redevables et de restitution des sommes dues par le fonds au prestataire du
+service universel postal ; 
+
+2° De constater les retards et les défaillances des prestataires de services postaux et d'engager, le cas échéant, les
+actions contentieuses en vue de procéder au recouvrement des contributions ; 
+
+3° D'informer l'Autorité de régulation des communications électroniques et des postes des retards de paiement et des
+défaillances des prestataires de services postaux ainsi que des actions contentieuses engagées. 
+
+Un compte spécifique retrace la gestion du fonds mentionné au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 9
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L2-2 (V)
+	  - Code des postes et des communications électroni... - art. L3 (V)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-28 (VD)
+
+
+###### Article R1-1-28
+
+I. ― Le compte spécifique mentionné à l'article R. 1-1-27 retrace en produits les contributions des prestataires de services
+postaux et en charges les frais de gestion exposés par l'agence de services et de paiement au titre des missions mentionnées
+au même article. 
+
+II. ― Une convention entre l'Autorité de régulation des communications électroniques et des postes et l'Agence de services et
+de paiement approuvée par arrêté du ministre chargé des postes précise : 
+
+1° Les modalités de calcul et de règlement des frais de gestion notamment des règles d'établissement de la comptabilité
+analytique permettant d'évaluer les charges supportées par l'agence de service et de paiement ; 
+
+2° Les modalités selon lesquelles les prestataires de services postaux effectuent les versements au fonds de compensation du
+service universel postal des contributions dont ils sont redevables et les modalités selon lesquelles le fonds effectue le
+reversement des sommes dues au prestataire du service universel ; 
+
+3° Les modalités d'information de l'Autorité de régulation des communications électroniques et des postes en cas de retard ou
+de défaillance d'un prestataire de services postaux. 
+
+III. ― L'Agence de services et de paiement adresse au ministre chargé des postes et à l'Autorité de régulation des
+communications électroniques et des postes un rapport annuel sur la gestion des fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 9
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R1-1-27 (VD)
+
+
+###### Article R1-1-29
+
+Dans le cas où l'ensemble des contributions dues ne sont pas recouvrées, le montant reversé au prestataire du service
+universel est fixé au prorata du montant qu'il aurait dû percevoir en l'absence de défaillance d'un prestataire de services
+postaux au fonds, le solde étant reporté sur l'exercice suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1072 du 20 septembre 2012 - art. 9
+
+
 #### Chapitre II : La régulation des activités postales.
 
 ##### Section 1 : Les autorisations.
@@ -14598,22 +14679,22 @@ les compétences qui lui sont dévolues, à l'exception de celles mentionnées a
 
 Le conseil d'administration se réunit sur convocation de son président, aussi souvent qu'il est nécessaire et au moins trois
 fois par an. Le président est tenu de convoquer le conseil d'administration si le Premier ministre, le ministre chargé des
-communications électroniques ou le tiers de ses membres le demande. Il fixe l'ordre du jour des séances.
+communications électroniques ou le tiers de ses membres le demande. Il fixe l'ordre du jour des séances. 
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour des séances sont portés au moins deux semaines à l'avance à la
-connaissance des membres du conseil d'administration et du membre du corps du contrôle général économique et financier. Le
-directeur général de l'agence, le membre du corps du contrôle général économique et financier et l'agent comptable assistent
-aux séances avec voix consultative. Le président peut également appeler à participer aux séances avec voix consultative toute
-personne dont il juge la présence utile pour l'étude d'un point particulier de l'ordre du jour.
+connaissance des membres du conseil d'administration et du contrôleur budgétaire. Le directeur général de l'agence, le
+contrôleur budgétaire et l'agent comptable assistent aux séances avec voix consultative. Le président peut également appeler
+à participer aux séances avec voix consultative toute personne dont il juge la présence utile pour l'étude d'un point
+particulier de l'ordre du jour. 
 
 Le conseil d'administration ne peut valablement délibérer que si la majorité des membres sont présents ou représentés. Si ce
 quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai minimum de huit jours et
-un délai maximum de vingt jours. Il délibère alors sans condition de quorum.
+un délai maximum de vingt jours. Il délibère alors sans condition de quorum. 
 
-La voix du président du conseil d'administration est prépondérante.
+La voix du président du conseil d'administration est prépondérante. 
 
-Les délibérations font l'objet de procès-verbaux signés par le président et notifiés aux membres du conseil et au membre du
-corps du contrôle général économique et financier dans le mois qui suit la séance.
+Les délibérations font l'objet de procès-verbaux signés par le président et notifiés aux membres du conseil et au contrôleur
+budgétaire dans le mois qui suit la séance. 
 
 Le conseil d'administration délibère à la majorité des membres présents ou représentés. Lorsque la délibération porte sur les
 points mentionnés aux 1° et 2° de l'article R. 20-44-14 ainsi que sur la délégation donnée au directeur général, le président
@@ -14626,30 +14707,32 @@ délibération du conseil d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-14 (V)
 
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-6 (T)
-	  - Code des postes et des communications électroniques R52-2-6
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. R20-44-14 (M)
 
 
 ###### Article R20-44-17
 
-Le conseil d'administration arrête son règlement intérieur. Les délibérations relatives aux questions mentionnées aux 4°, 6°,
-7°, 11°, 13° et 15° de l'article R. 20-44-14 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé du
-budget. En l'absence d'opposition de sa part, cette approbation est réputée acquise un mois après la réception par le
-ministre du procès-verbal des délibérations. Les autres délibérations sont exécutoires de plein droit. Cependant, le membre
-du corps du contrôle général économique et financier peut faire opposition aux délibérations ayant des conséquences
-financières dans les quinze jours qui suivent la réception du procès-verbal de la séance.
+Le conseil d'administration arrête son règlement intérieur. Les délibérations relatives aux questions mentionnées aux 7°,
+11°, 13° et 15° de l'article R. 20-44-14 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé du budget.
+En l'absence d'opposition de sa part, cette approbation est réputée acquise un mois après la réception par le ministre du
+procès-verbal des délibérations. Les autres délibérations sont exécutoires de plein droit. Cependant, le membre du corps du
+contrôle général économique et financier peut faire opposition aux délibérations ayant des conséquences financières dans les
+quinze jours qui suivent la réception du procès-verbal de la séance. 
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Dans le cas où il forme opposition, le membre du corps du contrôle général économique et financier en réfère immédiatement au
 ministre chargé du budget, qui doit se prononcer dans un délai d'un mois. A défaut de décision expresse dans ce délai, la
@@ -14658,22 +14741,22 @@ contrôle général économique et financier.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code des postes et des communications électroniques - art. R20-44-14
+
 	**Modifié par**:
 
-	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 37
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-7 (T)
-	  - Code des postes et des communications électroniques R52-2-7
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. R20-44-14 (M)
 
 
 ###### Article R20-44-18
@@ -14756,11 +14839,11 @@ arrêté conjoint du ministre chargé des communications électroniques et du mi
 
 ###### Article R20-44-20
 
-L'agence est soumise au régime financier et comptable défini par les décrets n° 53-1227 du 10 décembre 1953 et n° 62-1587 du
-29 décembre 1962, en tant que ce texte concerne les établissements publics à caractère administratif.
+L'agence est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique. 
 
 Les opérations liées au réaménagement du spectre des fréquences radioélectriques font l'objet d'une individualisation
-budgétaire et comptable.
+budgétaire et comptable. 
 
 L'agent comptable de l'agence est nommé par arrêté du ministre chargé du budget. Des comptables secondaires peuvent être
 désignés par le directeur général après avis de l'agent comptable principal et avec l'agrément du ministre chargé du budget.
@@ -14769,12 +14852,11 @@ désignés par le directeur général après avis de l'agent comptable principal
 
 	**Cite**:
 
-	  - Décret n°53-1227 1953-12-10
-	  - Décret n°62-1587 1962-12-29
+	  - Décret n°2012-1246 du 7 novembre 2012
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 37
 
 	**Cité par**:
 
@@ -14785,43 +14867,11 @@ désignés par le directeur général après avis de l'agent comptable principal
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-10 (T)
-	  - Code des postes et des communications électroniques R52-2-10
-
-
-###### Article R20-44-21
-
-L'agence est soumise au contrôle financier de l'Etat institué par le décret du 25 octobre 1935 instituant le contrôle
-financier des offices et établissements publics autonomes de l'Etat. Ce contrôle est assuré par un membre du corps du
-contrôle général économique et financier dont les attributions sont précisées par arrêté du ministre chargé des
-communications électroniques et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-605 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 37
-
-	**Codifié par**:
-
-	  - Décret n°62-274 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électronique - art. R*52-2-11 (T)
-	  - Code des postes et des communications électroniques R52-2-11
-
-	**Cite**:
-
-	  - Décret n°1935-10-25
 
 
 ###### Article R20-44-22
@@ -14863,20 +14913,20 @@ Les ressources de l'agence sont :
 L'agence perçoit au bénéfice du fonds de réaménagement du spectre les contributions des personnes publiques ou privées
 versées à des fins de réaménagement du spectre. 
 
-Les fonds de l'agence, ainsi que ceux du fonds de réaménagement du spectre, sont placés auprès du Trésor public dans les
-conditions définies aux articles 174 et 175 du décret n° 62-1587 du 29 décembre 1962.
+Les fonds de l'agence ainsi que ceux du fonds de réaménagement du spectre sont placés dans les conditions définies à
+l'article 197 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 174
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 197
 	  - Code des postes et des communications électroniques - art. L43
 	  - Code des postes et des communications électroniques - art. L97-2
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 37
 
 	**Codifié par**:
 
@@ -14889,30 +14939,29 @@ conditions définies aux articles 174 et 175 du décret n° 62-1587 du 29 décem
 
 ###### Article R20-44-24
 
-Des régies de recettes et d'avances peuvent être créées après avis du membre du corps du contrôle général économique et
-financier dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 ou après son accord dans les conditions
-fixées par l'arrêté du 23 décembre 1992 relatif aux conditions dans lesquelles les directeurs d'établissements publics
-nationaux peuvent instituer des régies d'avances et des régies de recettes.
+Des régies de recettes et d'avances peuvent être créées après avis du contrôleur budgétaire dans les conditions fixées par le
+décret n° 92-681 du 20 juillet 1992 ou après son accord dans les conditions fixées par l'arrêté du 23 décembre 1992 relatif
+aux conditions dans lesquelles les directeurs d'établissements publics nationaux peuvent instituer des régies d'avances et
+des régies de recettes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1992-12-23
-	  - Décret n°92-681 1992-07-20
+	  - Décret n°92-681 du 20 juillet 1992 (V)
+	  - Arrêté du 23 décembre 1992 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2005-1168 du 13 septembre 2005 - art. 7 () JORF 16 septembre 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-14 (T)
-	  - Code des postes et des communications électroniques R52-2-14
 
 
 ##### Paragraphe IV : Modalités d'application de la taxe prévue au I bis de l'article L. 43
@@ -15019,20 +15068,19 @@ le montant qu'il doit.
 
 Les sommes en cause sont acquittées par ces derniers auprès de l'agent comptable de l'Agence nationale des fréquences dans un
 délai de trente jours à compter de l'émission du titre de perception. Elles sont recouvrées selon les modalités fixées par le
-chapitre Ier du titre II du A de la troisième partie du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
-la comptabilité publique.
+titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962
+	  - Décret n°2012-1246 du 7 novembre 2012
 	  - Code des postes et des communications électroniques - art. R20-44-25
 	  - Code des postes et des communications électroniques - art. R20-44-26
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -17606,23 +17654,24 @@ fixées par l'arrêté prévu à l'article R. 52-3-16.
 ###### Article R52-3-18
 
 L'Agence nationale des fréquences procède au recouvrement de la redevance mentionnée à l'article R. 52-3-1 selon les
-modalités fixées par les articles 161 à 166 du décret n° 62-1587 du 29 décembre 1962 portant règlement général de la
-comptabilité publique.
+modalités fixées par les articles 23 à 28, 187, 192 et 193 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 1962-12-29 art. 161 à 166
-	  - Code des postes et des communications électronique - art. R52-3-1 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 187
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 23
+	  - Code des postes et des communications électroniques - art. R52-3-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1015 du 11 août 2006 - art. 1 () JORF 12 août 2006
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 37
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ###### Article R52-3-19
