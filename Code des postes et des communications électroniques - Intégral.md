@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2013-11-17
+Version Consolidée au 2013-12-19
 
 # Partie législative
 
@@ -14454,18 +14454,31 @@ fréquence relative à un système satellitaire visées à l'article L. 97-2.
 
 16° Elle établit et tient à jour la liste des codes d'identification des autorités comptables maritimes enregistrées en
 France ou reconnus par la France qu'elle notifie à l'Union internationale des télécommunications conformément aux
-dispositions issues du règlement des télécommunications internationales.
+dispositions issues du règlement des télécommunications internationales. 
 
-**Nota:**
+17° Elle est chargée de la gestion du dispositif de surveillance et de mesure des ondes électromagnétiques mentionné à
+l'article 42 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement
+ainsi que du fonds destiné au financement du dispositif. 
 
-Décret n° 2012-436 du 30 mars 2012 art. 32 : Les modifications apportées par le présent décret sont applicables en Nouvelle-
-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.
+A ce titre, elle assure : 
+
+a) La gestion des recettes et des dépenses du fonds précité, dans les conditions prévues à l'article R. 20-44-20 ; 
+
+b) La gestion et le traitement des demandes de mesure des ondes électromagnétiques sollicitées par les personnes morales
+définies à l'article 2 du décret n° 2013-1162 du 14 décembre 2013 relatif au dispositif de surveillance et de mesure des
+ondes électromagnétiques ; 
+
+c) La gestion des marchés et des commandes avec les organismes mentionnés à l'article L. 34-9-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°83-581 du 5 juillet 1983 - art. 3
+	  - Code des postes et des communications électroni... - art. L34-9 (V)
+	  - Code des postes et des communications électroni... - art. L41 (V)
+	  - Code des postes et des communications électroni... - art. L97-2 (V)
+	  - Code des postes et des communications électroni... - art. R20-11 (V)
 	  - Code des postes et des communications électroniques - art. L34-9-1
 	  - Code des postes et des communications électroniques - art. L43
 	  - Code de la défense. - art. L1111-2
@@ -14487,7 +14500,7 @@ Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans le
 
 	**Modifié par**:
 
-	  - Décret n°2012-436 du 30 mars 2012 - art. 21
+	  - Décret n°2013-1162 du 14 décembre 2013 - art. 1
 
 	**Anciens textes**:
 
@@ -14836,6 +14849,13 @@ budgétaire et comptable publique.
 Les opérations liées au réaménagement du spectre des fréquences radioélectriques font l'objet d'une individualisation
 budgétaire et comptable. 
 
+L'agence gère, au sein d'une comptabilité distincte, le fonds mentionné au 17° de l'article R. 20-44-11, alimenté par la
+contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques
+mentionnée à l'
+article 1609 decies du code général des impôts 
+ainsi que par les revenus du placement de cette contribution ; les dépenses comprennent le coût des mesures ainsi que les
+coûts complets supportés par l'agence pour la gestion du dispositif. 
+
 L'agent comptable de l'agence est nommé par arrêté du ministre chargé du budget. Des comptables secondaires peuvent être
 désignés par le directeur général après avis de l'agent comptable principal et avec l'agrément du ministre chargé du budget.
 
@@ -14844,10 +14864,11 @@ désignés par le directeur général après avis de l'agent comptable principal
 	**Cite**:
 
 	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code général des impôts, CGI. - art. 1609 decies
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 37
+	  - Décret n°2013-1162 du 14 décembre 2013 - art. 1
 
 	**Cité par**:
 
