@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-03-15
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -1812,7 +1812,7 @@ la transmission des contenus et, lorsque cela est approprié, à la promotion d'
 infrastructures ; 
 
 3° Au développement de l'emploi, de l'investissement efficace notamment dans les infrastructures améliorées et de nouvelle
-génération, de l'innovation et de la compétitivité dans le secteur des communications électroniques ;
+génération, de l'innovation et de la compétitivité dans le secteur des communications électroniques ; 
 
 3° bis A tenir compte, lorsqu'ils fixent des obligations en matière d'accès, du risque assumé par les entreprises qui
 investissent et à autoriser des modalités de coopération entre les investisseurs et les personnes recherchant un accès, afin
@@ -1820,13 +1820,13 @@ de diversifier le risque d'investissement dans le respect de la concurrence sur 
 discrimination ; 
 
 3° ter A tenir compte de la diversité des situations en matière de concurrence et de consommation dans les différentes zones
-géographiques du territoire national ;
+géographiques du territoire national ; 
 
 4° A la définition de conditions d'accès aux réseaux ouverts au public et d'interconnexion de ces réseaux qui garantissent la
 possibilité pour tous les utilisateurs de communiquer librement et l'égalité des conditions de la concurrence ; 
 
 4° bis A l'absence de discrimination, dans des circonstances analogues, dans les relations entre opérateurs et fournisseurs
-de services de communications au public en ligne pour l'acheminement du trafic et l'accès à ces services ;
+de services de communications au public en ligne pour l'acheminement du trafic et l'accès à ces services ; 
 
 5° Au respect par les opérateurs de communications électroniques du secret des correspondances et du principe de neutralité
 au regard du contenu des messages transmis, ainsi que de la protection des données à caractère personnel ; 
@@ -1846,16 +1846,16 @@ européen ;
 
 11° A l'utilisation et à la gestion efficaces des fréquences radioélectriques et des ressources de numérotation ; 
 
-12° A un niveau élevé de protection des consommateurs, grâce notamment à la fourniture d'informations claires, notamment par
-la transparence des tarifs et des conditions d'utilisation des services de communications électroniques accessibles au
-public ;
+12° A un niveau élevé de protection des consommateurs, conjointement avec le ministre chargé de la consommation, grâce
+notamment à la fourniture d'informations claires, notamment par la transparence des tarifs et des conditions d'utilisation
+des services de communications électroniques accessibles au public ; 
 
 12° bis. ― A un niveau élevé de protection de l'environnement et de la santé de la population, conjointement avec les
 ministres chargés de la santé et de l'environnement ; 
 
 13° Au respect de la plus grande neutralité possible, d'un point de vue technologique, des mesures qu'ils prennent ; 
 
-14° A l'intégrité et la sécurité des réseaux de communications électroniques ouverts au public ;
+14° A l'intégrité et la sécurité des réseaux de communications électroniques ouverts au public ; 
 
 15° A favoriser la capacité des utilisateurs finals à accéder à l'information et à en diffuser ainsi qu'à accéder aux
 applications et services de leur choix ; 
@@ -1873,7 +1873,7 @@ III.-Lorsque, dans le cadre des dispositions du présent code, le ministre charg
 l'Autorité de régulation des communications électroniques et des postes envisagent d'adopter des mesures ayant une incidence
 importante sur un marché ou affectant les intérêts des utilisateurs finals, ils rendent publiques les mesures envisagées dans
 un délai raisonnable avant leur adoption et recueillent les observations qui sont faites à leur sujet. Le résultat de ces
-consultations est rendu public, sous réserve des secrets protégés par la loi.
+consultations est rendu public, sous réserve des secrets protégés par la loi. 
 
 L'autorité met en place un service permettant de prendre connaissance des consultations prévues par l'alinéa précédent.
 
@@ -1922,7 +1922,7 @@ L'autorité met en place un service permettant de prendre connaissance des consu
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 3
+	  - Loi n°2014-344 du 17 mars 2014 - art. 146
 
 
 ###### Article L32-3
@@ -2277,18 +2277,22 @@ l) Les obligations qui s'imposent à l'exploitant pour permettre son contrôle p
 m) L'acquittement des taxes dues par l'exploitant pour couvrir les coûts administratifs occasionnés par la mise en oeuvre des
 dispositions du présent livre, dans les conditions prévues par les lois de finances ; 
 
-n) L'information, notamment sur les conditions contractuelles de fourniture du service, et la protection des utilisateurs.
-Ces règles incluent le droit, pour les utilisateurs professionnels qui le demandent à ce que le contrat qu'ils concluent avec
-un opérateur comporte les informations mentionnées à l'article L. 121-83 du code de la consommation relatives aux prestations
-qu'ils ont souscrites ainsi que l'obligation, pour les fournisseurs, de mettre à disposition des utilisateurs les
-informations mentionnées à l'article L. 121-83-1 du code de la consommation ; 
+n) L'information des utilisateurs, dans la mesure où cette information est nécessaire à la mise en œuvre des dispositions du
+présent code ou des décisions prises en application de celui-ci ; 
+
+n bis) Les informations devant figurer dans le contrat conclu avec un utilisateur professionnel, à la demande de ce dernier,
+et comprenant celles mentionnées à l'article L. 121-83 du code de la consommation relatives aux prestations qu'il a
+souscrites ; 
+
+n ter) L'obligation de mettre à disposition des utilisateurs professionnels les informations mentionnées à l'article L.
+121-83-1 du code de la consommation, selon les modalités prévues à ce même article ; 
 
 o) Un accès des utilisateurs finals handicapés à des services de communications électroniques à un tarif abordable et aux
 services d'urgence, équivalent à celui dont bénéficie la majorité des utilisateurs finals. 
 
 Un décret fixe les modalités d'application du présent article, notamment le contenu du dossier de déclaration et celui des
-informations visées à la deuxième phrase du n, et précise, en tant que de besoin, selon les différentes catégories de réseaux
-et de services, les règles mentionnées aux a à o. 
+informations visées aux n bis et n ter, et précise, en tant que de besoin, selon les différentes catégories de réseaux et de
+services, les règles mentionnées aux a à o. 
 
 II.-Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des communications électroniques supérieur à un seuil
 fixé par arrêté des ministres chargés des communications électroniques et de l'économie sont tenus d'individualiser sur le
@@ -2405,19 +2409,17 @@ d'utilisateurs, complète, non expurgée et mise à jour.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 46
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 47
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 5
+	  - Loi n°2014-344 du 17 mars 2014 - art. 146
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-83 (V)
-	  - Code des postes et des communications électroni... - art. L34 (V)
-	  - Code des postes et des communications électroni... - art. L34-8 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (V)
-	  - Code des postes et des communications électroni... - art. L37-1 (V)
-	  - Code de la défense. - art. L1332-1 (V)
+	  - Code de la consommation - art. L121-83
+	  - Code de la consommation - art. L121-83-1
+	  - Code des postes et des communications électroniques - art. L34
+	  - Code des postes et des communications électroniques - art. L34-8
+	  - Code des postes et des communications électroniques - art. L35-2
+	  - Code des postes et des communications électroniques - art. L37-1
+	  - Code de la défense. - art. L1332-1
 
 
 ###### Article L33-2
@@ -3187,16 +3189,18 @@ française, à Wallis-et-Futuna et dans les Terres australes et antarctiques fra
 
 ###### Article L34-5
 
-Est interdite la prospection directe au moyen de systèmes automatisés d'appel ou de communication, d'un télécopieur ou de
-courriers électroniques utilisant les coordonnées d'une personne physique, abonné ou utilisateur, qui n'a pas exprimé
-préalablement son consentement à recevoir des prospections directes par ce moyen.
+Est interdite la prospection directe au moyen de système automatisé de communications électroniques au sens du 6° de
+l'article L. 32, d'un télécopieur ou de courriers électroniques utilisant les coordonnées d'une personne physique, abonné ou
+utilisateur, qui n'a pas exprimé préalablement son consentement à recevoir des prospections directes par ce moyen. 
 
 Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
 informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
 prospection directe. 
 
 Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
-services ou l'image d'une personne vendant des biens ou fournissant des services. 
+services ou l'image d'une personne vendant des biens ou fournissant des services. Pour l'application du présent article, les
+appels et messages ayant pour objet d'inciter l'utilisateur ou l'abonné à appeler un numéro surtaxé ou à envoyer un message
+textuel surtaxé relèvent également de la prospection directe. 
 
 Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
 recueillies auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
@@ -3206,21 +3210,31 @@ manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans 
 et de manière simple, à l'utilisation de ses coordonnées au moment où elles sont recueillies et chaque fois qu'un courrier
 électronique de prospection lui est adressé au cas où il n'aurait pas refusé d'emblée une telle exploitation. 
 
-Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen de systèmes
-automatisés d'appel ou de communication, télécopieurs et courriers électroniques, sans indiquer de coordonnées valables
-auxquelles le destinataire puisse utilement transmettre une demande tendant à obtenir que ces communications cessent sans
-frais autres que ceux liés à la transmission de celle-ci. Il est également interdit de dissimuler l'identité de la personne
-pour le compte de laquelle la communication est émise et de mentionner un objet sans rapport avec la prestation ou le service
-proposé. 
+Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen de système automatisé
+de communications électroniques au sens du 6° de l'article L. 32, télécopieurs et courriers électroniques, sans indiquer de
+coordonnées valables auxquelles le destinataire puisse utilement transmettre une demande tendant à obtenir que ces
+communications cessent sans frais autres que ceux liés à la transmission de celle-ci. Il est également interdit de dissimuler
+l'identité de la personne pour le compte de laquelle la communication est émise et de mentionner un objet sans rapport avec
+la prestation ou le service proposé. 
 
 La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
 coordonnées d'un abonné ou d'une personne physique, au respect des dispositions du présent article en utilisant les
 compétences qui lui sont reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir,
-par tous moyens, les plaintes relatives aux infractions aux dispositions du présent article. 
+par tous moyens, les plaintes relatives aux manquements aux dispositions du présent article. 
 
-Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
-articles L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, 
+Les manquements aux dispositions du présent article sont recherchés et constatés dans les conditions fixées par les articles
+L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, 
 L. 470-1 et L. 470-5 du code de commerce. 
+
+Sous réserve qu'il n'ait pas été fait application de l'article L. 36-11 et en vue d'assurer la protection du consommateur,
+les manquements au présent article sont sanctionnés par une amende administrative, prononcée par l'autorité administrative
+chargée de la concurrence et de la consommation dans les conditions prévues à l'article L. 141-1-2 du code de la
+consommation, dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. 
+
+Lorsque l'autorité mentionnée au huitième alinéa du présent article a prononcé une amende administrative en application du
+même présent article, l'autorité mentionnée à l'article L. 36-11 veille, si elle prononce à son tour une sanction, à ce que
+le montant global des sanctions prononcées contre la même personne à raison des mêmes faits n'excède pas le maximum légal le
+plus élevé. 
 
 Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
 aux différentes technologies utilisées.
@@ -3234,10 +3248,13 @@ aux différentes technologies utilisées.
 	  - Code de commerce - art. L450-7
 	  - Code de commerce - art. L470-1
 	  - Code de commerce - art. L470-5
+	  - Code de la consommation - art. L141-1-2
+	  - Code des postes et des communications électroniques - art. L32
+	  - Code des postes et des communications électroniques - art. L36-11
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 8
+	  - Loi n°2014-344 du 17 mars 2014 - art. 115
 
 	**Codifié par**:
 
