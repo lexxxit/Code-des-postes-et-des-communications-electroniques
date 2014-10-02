@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-08-04
+Version Consolidée au 2014-10-03
 
 # Partie législative
 
@@ -10689,45 +10689,6 @@ informations prévues au premier alinéa du présent article.
 	**Cite**:
 
 	  - Code des postes et des communications électroni... - art. L34-5 (V)
-
-
-###### Article R10-1
-
-Le fait d'utiliser, dans des opérations de prospection directe, des données à caractère personnel relatives à des personnes
-ayant exprimé leur opposition, par application des dispositions du 4 de l'article R. 10, quel que soit le mode d'accès à ces
-données, est puni, pour chaque correspondance ou chaque appel, de l'amende prévue pour les contraventions de la quatrième
-classe, sans préjudice de l'application du premier alinéa de l'article 226-18 du code pénal. 
-
-La prospection directe des personnes physiques, abonnés ou utilisateurs, en violation des dispositions du premier alinéa de
-l'article L. 34-5 est punie, pour chaque communication, de l'amende prévue pour les contraventions de la quatrième classe,
-sans préjudice de l'application du premier alinéa de l'article 226-18 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-436 du 30 mars 2012 - art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-	**Cite**:
-
-	  - Code pénal - art. 226-18
-	  - Code des postes et des communications électroniques - art. L34-5
-	  - Code des postes et des communications électroniques - art. R10
-
-	**Codifié par**:
-
-	  - Décret n°62-274 du 12 mars 1962
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R48-1 (VT)
-	  - Code des postes et des communications électroni... - art. R10-10 (Ab)
-	  - Code des postes et des communications électroni... - art. R10-11 (V)
-	  - Code des postes et des communications électronique - art. R11 (T)
 
 
 ###### Article R10-3
