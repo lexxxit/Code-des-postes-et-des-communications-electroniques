@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-12-01
+Version Consolidée au 2014-12-28
 
 # Partie législative
 
@@ -14482,9 +14482,9 @@ nécessaires. La comptabilité de l'agence permet de déterminer et de suivre le
 loi n° 83-581 modifiée du 5 juillet 1983 sur la sauvegarde de la vie humaine en mer et l'habitabilité à bord des navires et
 la prévention de la pollution. 
 
-14° Elle organise pour le compte du ministre chargé des communications électroniques les examens donnant accès aux
-certificats d'opérateur des services d'amateur et gère les indicatifs des séries internationales attribués aux stations
-radioélectriques des services d'amateur. 
+14° Elle organise les examens donnant accès aux certificats d'opérateur des services d'amateur, délivre les certificats et
+les indicatifs des séries internationales attribués aux stations radioélectriques des services d'amateur et procède au
+retrait de ces derniers. 
 
 15° Elle reçoit et instruit pour le compte du ministre chargé des communications électroniques les demandes d'assignation de
 fréquence relative à un système satellitaire visées à l'article L. 97-2.
@@ -14495,7 +14495,11 @@ dispositions issues du règlement des télécommunications internationales.
 
 17° Elle est chargée de la gestion du dispositif de surveillance et de mesure des ondes électromagnétiques mentionné à
 l'article 42 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement
-ainsi que du fonds destiné au financement du dispositif. 
+ainsi que du fonds destiné au financement du dispositif.
+
+18° Elle assure, en liaison avec le Conseil supérieur de l'audiovisuel, la continuité de la réception par les téléspectateurs
+des services de télévision autorisés pour une diffusion par voie hertzienne terrestre en mode numérique dans les conditions
+fixées par décret. 
 
 A ce titre, elle assure : 
 
@@ -14512,12 +14516,12 @@ c) La gestion des marchés et des commandes avec les organismes mentionnés à l
 	**Cite**:
 
 	  - Loi n°83-581 du 5 juillet 1983 - art. 3
-	  - Code des postes et des communications électroni... - art. L34-9 (V)
-	  - Code des postes et des communications électroni... - art. L41 (V)
-	  - Code des postes et des communications électroni... - art. L97-2 (V)
-	  - Code des postes et des communications électroni... - art. R20-11 (V)
+	  - Code des postes et des communications électroniques - art. L34-9
 	  - Code des postes et des communications électroniques - art. L34-9-1
+	  - Code des postes et des communications électroniques - art. L41
 	  - Code des postes et des communications électroniques - art. L43
+	  - Code des postes et des communications électroniques - art. L97-2
+	  - Code des postes et des communications électroniques - art. R20-11
 	  - Code de la défense. - art. L1111-2
 
 	**Cité par**:
@@ -14537,7 +14541,7 @@ c) La gestion des marchés et des commandes avec les organismes mentionnés à l
 
 	**Modifié par**:
 
-	  - Décret n°2013-1162 du 14 décembre 2013 - art. 1
+	  - Décret n°2014-1621 du 24 décembre 2014 - art. 1
 
 	**Anciens textes**:
 
@@ -14660,22 +14664,20 @@ projets de baux et locations d'immeubles ;
 15° Intervention du fonds de réaménagement du spectre ou préfinancement par celui-ci des opérations de réaménagements, sur
 demande des administrations ou autorités affectataires, coût de ces opérations et approbation des conventions passées avec
 des personnes publiques ou privées relatives aux conditions de versements et de réutilisation des contributions au
-réaménagement du spectre.
+réaménagement du spectre ;
+
+16° Approbation des modalités de mise en œuvre du dispositif permettant la continuité de la réception des services de
+télévision dans les conditions prévues par le décret mentionné au 18° de l'article R. 20-44-11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1168 2005-09-13 art. 4 I, II JORF 16 septembre 2005
-	  - Décret n°2005-1168 du 13 septembre 2005 - art. 4 () JORF 16 septembre 2005
+	  - Décret n°2014-1621 du 24 décembre 2014 - art. 2
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
-
-	**Cite**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-11 (V)
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Cité par**:
 
@@ -14686,7 +14688,10 @@ réaménagement du spectre.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-4 (T)
-	  - Code des postes et des communications électroniques R52-2-4
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. R20-44-11
 
 
 ###### Article R20-44-15
@@ -15052,27 +15057,10 @@ nécessaire.
 
 ###### Article R20-44-26
 
-I.-Les coûts mentionnés à l'article R. 20-44-25 sont répartis chaque année entre les titulaires d'une autorisation
-d'utilisation de fréquences dans la bande 790-862 MHz en France métropolitaine pour l'établissement et l'exploitation d'un
-réseau radioélectrique mobile ouvert au public, selon les modalités suivantes : 
-
-1° 57 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 791 MHz à 801 MHz et de
-832 MHz à 842 MHz ; 
-
-2° 12 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 801 MHz à 806 MHz et de
-842 MHz à 847 MHz ; 
-
-3° 12 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 806 MHz à 811 MHz et de
-847 MHz à 852 MHz ; 
-
-4° 19 % des coûts pour le titulaire d'une autorisation d'usage de fréquences du bloc positionné de 811 MHz à 821 MHz et de
-852 MHz à 862 MHz. 
-
-Lorsqu'un ou plusieurs blocs de fréquences ne sont attribués à aucun titulaire d'autorisation durant tout ou partie de
-l'année, ces pourcentages sont corrigés de manière à ce que le montant global de taxe à recouvrer soit intégralement réparti
-entre les titulaires d'autorisation dans des conditions garantissant que chaque titulaire d'un droit d'utilisation contribue
-en proportion de sa quote-part telle que définie ci-dessus et, le cas échéant, en proportion de la durée de détention de son
-autorisation. 
+I.-Dans chacune des zones géographiques, les coûts mentionnés à l'article R. 20-44-25 sont répartis chaque année entre les
+titulaires d'une autorisation d'utilisation de fréquences dans la bande 790-862 MHz pour l'établissement et l'exploitation
+d'un réseau radioélectrique mobile ouvert au public, en proportion de la largeur de chacun des blocs de fréquences
+attribués. 
 
 II.-Lorsque les fréquences d'un même bloc sont attribuées à plusieurs titulaires d'autorisation d'utilisation de fréquences
 durant tout ou partie de l'année, les coûts imputables au bloc en cause sont répartis entre ses titulaires en proportion de
@@ -15083,15 +15071,15 @@ autorisation.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
-
-	**Annulé par**:
-
-	  - Décision n°363259 (ECLI:FR:CESSR:2014:363259.20140115)  du 15 janvier 2014, v. init.
+	  - Décret n°2014-1621 du 24 décembre 2014 - art. 3
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R20-44-25 (V)
 
 	**Cité par**:
 
@@ -15100,10 +15088,6 @@ autorisation.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. R*52-2-16 (T)
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. R20-44-25
 
 
 ###### Article R20-44-27
