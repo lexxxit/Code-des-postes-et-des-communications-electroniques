@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2014-12-28
+Version Consolidée au 2014-12-30
 
 # Partie législative
 
@@ -6239,7 +6239,7 @@ des statuts qui les régissent.
 I.-Le plan national de numérotation téléphonique est établi par l'Autorité de régulation des communications électroniques et
 des postes et géré sous son contrôle. Il garantit un accès égal et simple des utilisateurs aux différents réseaux et services
 de communications électroniques et l'équivalence des formats de numérotation. Il permet, sous réserve de faisabilité
-technique et économique, aux utilisateurs situés dans d'autres Etats membres de  l'Union européenne d'accéder aux numéros non
+technique et économique, aux utilisateurs situés dans d'autres Etats membres de l'Union européenne d'accéder aux numéros non
 géographiques accessibles sur l'ensemble du territoire national. 
 
 L'autorité identifie, au sein du plan national de numérotation téléphonique, la liste des numéros ou blocs de numéros pouvant
@@ -6292,12 +6292,14 @@ numérotation à un opérateur donne lieu au paiement par cet opérateur d'une t
 l'attribution. 
 
 Pour le calcul de la taxe, un arrêté signé du ministre chargé des communications électroniques et du ministre chargé du
-budget fixe la valeur d'une unité de base " a ", qui ne peut excéder 0,023 euros. Cette valeur est fixée après avis de
+budget fixe la valeur d'une unité de base "a", qui ne peut excéder 0,023 euros. Cette valeur est fixée après avis de
 l'Autorité de régulation des communications électroniques et des postes. 
 
 Le montant de la taxe dû par l'opérateur est fixé : 
 
-1° Pour chaque numéro à dix chiffres attribué, à la valeur de l'unité " a " ; 
+1° A Pour chaque numéro à treize ou à quatorze chiffres attribué, à un montant égal à 0,1 a ; 
+
+1° Pour chaque numéro à dix chiffres attribué, à la valeur de l'unité "a" ; 
 
 2° Pour chaque numéro à six chiffres attribué, à un montant égal à 2 000 000 a ; 
 
@@ -6333,16 +6335,7 @@ III.-Les opérateurs traitent l'ensemble des appels à destination et en provena
 européen à des tarifs similaires à ceux qu'ils appliquent aux appels à destination et en provenance des Etats membres de
 l'Union européenne autres que la France.
 
-**Nota:**
-
-Ordonnance n° 2011-1012, article 58, le douzième alinéa de l'article L. 44 du code des postes et des communications
-électroniques entre en vigueur à compter du 1er janvier 2012.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 27
 
 	**Cité par**:
 
@@ -6361,6 +6354,10 @@ Ordonnance n° 2011-1012, article 58, le douzième alinéa de l'article L. 44 du
 	  - Code des postes et des communications électroni... - art. R20-44-37 (V)
 	  - Code des postes et des communications électronique - art. D99-5 (V)
 	  - Code des postes et des communications électronique - art. R20-44-33 (T)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 64
 
 
 ###### Article L44-1
