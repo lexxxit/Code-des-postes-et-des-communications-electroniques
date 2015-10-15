@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -3745,7 +3745,7 @@ déterminés par l'Agence nationale des fréquences et révisés régulièrement
 
 Un recensement national des points atypiques du territoire est établi chaque année par l'Agence nationale des fréquences.
 L'agence informe les administrations et les autorités affectataires concernées des points atypiques identifiés. Les
-bénéficiaires des accords ou des avis mentionnés au cinquième alinéa du I de l'article L. 43 impliqués prennent, dans un
+bénéficiaires des accords ou des avis mentionnés au quatrième alinéa du I de l'article L. 43 impliqués prennent, dans un
 délai de six mois, sous réserve de faisabilité technique, des mesures permettant de réduire le niveau de champs émis dans les
 lieux en cause, tout en garantissant la couverture et la qualité des services rendus. L'Agence nationale des fréquences
 établit un rapport périodique sur les modalités de traitement et la trajectoire de résorption des points atypiques. 
@@ -3780,8 +3780,7 @@ des postes et des communications électroniques, dans sa rédaction résultant d
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 127
-	  - Loi n°2015-990 du 6 août 2015 - art. 130
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 18
 
 	**Cite**:
 
@@ -3793,8 +3792,12 @@ des postes et des communications électroniques, dans sa rédaction résultant d
 ###### Article L34-10
 
 Les obligations imposées aux opérateurs par le règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
-2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union s'appliquent aux
-prestations d'itinérance ultramarine.
+2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union, modifié le cas
+échéant en ce qui concerne l'accès à internet et les échanges de données électroniques, s'appliquent aux prestations
+d'itinérance ultramarine.
+
+Les surcoûts de l'itinérance ultramarine sont supprimés pour les communications vocales et les minimessages à compter du 1er
+mai 2016.
 
 **Liens relatifs à cet article**
 
@@ -3818,7 +3821,7 @@ prestations d'itinérance ultramarine.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1270 du 20 novembre 2012 - art. 14
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 11
 
 
 #### Chapitre III : Les obligations de service public.
@@ -5354,12 +5357,13 @@ liberté de communication ;
 2° bis De perturber, en utilisant un appareil, un équipement ou une installation, dans des conditions non conformes aux
 dispositions applicables en matière de compatibilité électromagnétique des équipements électriques et électroniques fixées
 dans le code de la consommation, les émissions hertziennes d'un service autorisé, sans préjudice de l'application de
-l'article 78 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication 
+l'article 78 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ; 
 
 3° D'utiliser une fréquence, un équipement ou une installation radioélectrique dans des conditions non conformes aux
 dispositions de l'article L. 34-9 ou sans posséder l'autorisation prévue à l'article L. 41-1 ou en dehors des conditions de
 ladite autorisation lorsque celle-ci est requise ou sans posséder le certificat d'opérateur prévu à l'article L. 42-4 ou en
-dehors des conditions réglementaires générales prévues à l'article L. 33-3 ; 
+dehors des conditions réglementaires générales prévues à l'article L. 33-3 ou sans l'accord mentionné au I de l'article L.
+43  ; 
 
 4° D'avoir pratiqué l'une des activités prohibées par le I de l'article L. 33-3-1 en dehors des cas et conditions prévus au
 II de cet article.
@@ -5382,7 +5386,7 @@ II de cet article.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 41
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 18
 
 	**Codifié par**:
 
@@ -5849,16 +5853,25 @@ cette dépense peut être assuré par le fonds de réaménagement du spectre gé
 Le montant et les modalités de répartition des contributions mentionnées à l'alinéa précédent sont fixés par l'Agence
 nationale des fréquences dans les conditions précisées par un décret en Conseil d'Etat.
 
+Par dérogation aux deux premiers alinéas du présent article et au second alinéa du IV de l'article 30-1 de la loi n° 86-1067
+du 30 septembre 1986 précitée, les titulaires d'une autorisation d'utilisation de fréquences dans la bande de fréquences
+694-790 mégahertz pour l'établissement et l'exploitation d'un réseau radioélectrique mobile ouvert au public supportent le
+coût des réaménagements des fréquences nécessaires à la libération de la bande par les titulaires d'une autorisation d'usage
+de la ressource radioélectrique délivrée en application des articles 30-1, 30-2, 30-3 et 30-5 de la même loi, ou d'un droit
+d'usage en vertu de l'article 26 de ladite loi, et les coûts des réaménagements des fréquences nécessaires au respect des
+accords internationaux relatifs à ces fréquences. Le préfinancement de tout ou partie de cette dépense peut être assuré par
+le fonds de réaménagement du spectre géré par l'Agence nationale des fréquences. Un décret en Conseil d'Etat précise les
+conditions d'application du présent alinéa.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 30-1 (V)
-	  - Code des postes et des communications électronique - art. L41-1 (M)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 30-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 21 () JORF 10 juillet 2004
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 13
 
 	**Cité par**:
 
@@ -5866,7 +5879,7 @@ nationale des fréquences dans les conditions précisées par un décret en Cons
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ###### Article L41-3
@@ -6106,12 +6119,9 @@ fixé par décret.
 La sélection des titulaires de ces autorisations se fait par appel à candidatures sur des critères portant sur les conditions
 d'utilisation mentionnées au II de l'article L. 42-1 ou sur la contribution à la réalisation des objectifs mentionnés à
 l'article L. 32-1, ou par une procédure d'enchères dans le respect de ces objectifs et après définition de ces conditions par
-le ministre sur proposition de l'Autorité de régulation des communications électroniques et des postes. Par dérogation à ce
-qui précède, s'agissant des fréquences affectées aux services de communications électroniques dans le cadre du schéma
-national de réutilisation des fréquences libérées par l'arrêt de la diffusion analogique institué par le même article 21, ces
-conditions sont définies par le ministre chargé des communications électroniques sur proposition de l'Autorité de régulation
-des communications électroniques et des postes et après avis de la Commission du dividende numérique instituée par ledit
-article 21. Elles tiennent prioritairement compte des impératifs d'aménagement numérique du territoire. 
+le ministre sur proposition de l'Autorité de régulation des communications électroniques et des postes. Sans préjudice de ce
+qui précède, s'agissant des fréquences utilisées précédemment pour la diffusion de la télévision numérique terrestre, les
+obligations de déploiement tiennent prioritairement compte des impératifs d'aménagement numérique du territoire. 
 
 Le ministre peut prévoir qu'un dépôt de garantie peut être demandé et qu'un dédit peut être dû si le candidat retire sa
 candidature avant la délivrance de l'autorisation.
@@ -6156,7 +6166,7 @@ article peuvent déroger aux dispositions de l'article L. 2125-4 du code génér
 
 	**Modifié par**:
 
-	  - Loi n°2013-1028 du 15 novembre 2013 - art. 18
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 14
 
 	**Cite**:
 
@@ -6267,18 +6277,24 @@ administrations et autorités affectataires de fréquences radioélectriques.
 Elle prépare la position française et coordonne l'action de la représentation française dans les négociations internationales
 dans le domaine des fréquences radioélectriques. 
 
-Elle recueille les réclamations et instruit les cas de brouillage de fréquences radioélectriques qui lui sont signalés. Elle
-transmet son rapport d'instruction, qui préconise les solutions pour mettre fin à ces perturbations, à l'administration ou
-autorité affectataire concernée. 
-
 Elle coordonne l'implantation sur le territoire national des stations radioélectriques de toute nature afin d'assurer la
-meilleure utilisation des sites disponibles et veille au respect des valeurs limites d'exposition du public aux champs
-électromagnétiques prévues à l'article L. 34-9-1 ainsi que le recensement et le suivi des points atypiques conformément à
-l'objectif mentionné au 12° ter du II de l'article L. 32-1. A cet effet, les décisions d'implantation ne peuvent être prises
-qu'avec son accord ou, lorsqu'elles relèvent de la compétence du Conseil supérieur de l'audiovisuel, qu'après son avis. Le
-conseil est tenu par cet avis lorsqu'il est fondé sur un motif tiré du respect des valeurs limites d'exposition. 
+meilleure utilisation des sites disponibles ainsi que la prévention des brouillages préjudiciables entre utilisateurs de
+fréquences, et assure le respect des valeurs limites d'exposition du public aux champs électromagnétiques prévues à l'article
+L. 34-9-1 ainsi que le recensement et le suivi des points atypiques conformément à l'objectif mentionné au 12° ter du II de
+l'article L. 32-1. A cet effet, les décisions d'implantation ne peuvent être prises qu'avec son accord ou, lorsqu'elles
+relèvent de la compétence du Conseil supérieur de l'audiovisuel, qu'après son avis. Le conseil est tenu par cet avis
+lorsqu'il est fondé sur un motif tiré du respect des valeurs limites d'exposition. 
 
-Elle instruit pour le compte de l'Etat les demandes d'autorisation présentées en application de l'article L. 97-2. 
+Dans le cas où une perturbation d'un système radioélectrique lui est signalée, elle étudie cette perturbation et, le cas
+échéant, formule des préconisations aux utilisateurs des fréquences concernées dans le but de faire cesser la perturbation.
+Lorsque les préconisations formulées par l'agence ne sont pas respectées par les utilisateurs de fréquences, elle peut
+suspendre l'accord mentionné au quatrième alinéa du présent I. Elle en informe l'administration ou l'autorité affectataire
+sans délai. Les modalités d'application du présent alinéa sont fixées par décret en Conseil d'Etat.
+
+L'exploitation d'une station radioélectrique en l'absence d'accord de l'agence ou lorsque cet accord a été suspendu engage la
+responsabilité civile et pénale de l'exploitant de cette station radioélectrique.
+
+L'agence instruit pour le compte de l'Etat les demandes d'autorisation présentées en application de l'article L. 97-2. 
 
 Un décret en Conseil d'Etat fixe le délai à l'issue duquel cet avis ou cet accord sont réputés acquis ainsi que, le cas
 échéant, les catégories d'installations pour lesquelles, en raison de leurs caractéristiques techniques, ils ne sont pas
@@ -6286,26 +6302,30 @@ requis.
 
 I bis. ― Il est institué, au profit de l'Agence nationale des fréquences, une taxe destinée à couvrir les coûts complets
 engagés par cet établissement pour le recueil et le traitement des réclamations des usagers de services de communication
-audiovisuelle relatives aux brouillages causés par la mise en service des stations radioélectriques dans la bande de
-fréquences 790-862 MHz. Ne sont pris en considération que les brouillages causés à la réception de services de communication
-audiovisuelle diffusés par les stations d'émission prévues dans les autorisations d'usage de la ressource radioélectrique
-délivrées par le Conseil supérieur de l'audiovisuel antérieurement à la mise en service des stations mentionnées à la
-première phrase du présent alinéa. 
+audiovisuelle relatives aux brouillages causés par la mise en service des stations radioélectriques dans  les bandes de
+fréquences 790-862 mégahertz et 694-790 mégahertz. Ne sont pris en considération que les brouillages causés à la réception de
+services de communication audiovisuelle diffusés par les stations d'émission prévues dans les autorisations d'usage de la
+ressource radioélectrique délivrées par le Conseil supérieur de l'audiovisuel antérieurement à la mise en service des
+stations mentionnées à la première phrase du présent alinéa. 
 
-Le montant global de taxe à recouvrer est réparti, dans la limite de 2 millions d'euros par an, entre les titulaires
-d'autorisation d'utilisation de fréquences de la bande mentionnée au premier alinéa, selon une clef de répartition définie
-par bloc de fréquences et correspondant à la part des brouillages susceptibles d'être causés par l'utilisation de chacun des
-blocs qui leur sont attribués. Les redevables acquittent en début d'année la taxe due au titre de l'année civile précédente
-auprès de l'agent comptable de l'Agence nationale des fréquences, dans un délai de trente jours à compter de l'émission du
-titre de recettes correspondant à la liquidation de la taxe. 
+Le montant global de taxe à recouvrer est réparti, dans la limite de 2 millions d'euros par an, pour chaque bande de
+fréquences, entre les titulaires d'autorisation d'utilisation de fréquences dans chacune des bandes mentionnées au premier
+alinéa, selon une clef de répartition définie par bloc de fréquences et correspondant à la part des brouillages susceptibles
+d'être causés par l'utilisation de chacun des blocs qui leur sont attribués. Les redevables acquittent en début d'année la
+taxe due au titre de l'année civile précédente auprès de l'agent comptable de l'Agence nationale des fréquences, dans un
+délai de trente jours à compter de l'émission du titre de recettes correspondant à la liquidation de la taxe. 
 
 Pour l'application du présent I bis, les titulaires d'autorisation d'utilisation de fréquences mentionnés au deuxième alinéa
 informent l'Autorité de régulation des communications électroniques et des postes, le Conseil supérieur de l'audiovisuel et
-l'Agence nationale des fréquences de la date effective de mise en service de chaque station radioélectrique dans la bande de
-fréquences 790-862 MHz. 
+l'Agence nationale des fréquences de la date effective de mise en service de chaque station radioélectrique dans  les bandes
+de fréquences 790-862 mégahertz et 694-790 mégahertz. 
 
 Les modalités d'application du présent article, notamment la clef de répartition entre les titulaires d'autorisation
 d'utilisation de chacun des blocs de fréquences, sont précisées par décret en Conseil d'Etat. 
+
+I ter. - L'Agence nationale des fréquences gère les aides instituées à l'article 99 de la loi n° 86-1067 du 30 septembre 1986
+relative à la liberté de communication, l'assistance technique prévue à l'article 100 de la même loi ainsi que la campagne
+nationale de communication prévue à l'article 101 de ladite loi.  
 
 II.-L'Agence nationale des fréquences peut, pour ce qui concerne le contrôle de l'utilisation des fréquences et de manière
 proportionnée aux besoins liés à l'accomplissement de ses missions : 
@@ -6368,7 +6388,9 @@ direction technique, administrative et financière de l'agence. Il représente l
 V.-Les ressources de l'agence comprennent la rémunération des services rendus, les revenus du portefeuille, les subventions
 publiques, le produit de la taxe mentionnée au I bis, ainsi que le produit des dons et legs. L'agence perçoit au bénéfice du
 fonds de réaménagement du spectre les contributions des personnes publiques ou privées versées à des fins de réaménagement du
-spectre. 
+spectre. Les dépenses liées à l'attribution des aides aux téléspectateurs, à l'assistance technique ainsi qu'à la campagne
+nationale de communication prévues au I ter sont gérées au sein d'une comptabilité distincte et comprennent les coûts
+complets supportés par l'agence pour la gestion de ces dispositifs.  
 
 VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise notamment les missions,
 l'organisation et les conditions du fonctionnement de l'établissement. 
@@ -6404,22 +6426,23 @@ des statuts qui les régissent.
 
 	**Modifié par**:
 
-	  - Loi n°2015-136 du 9 février 2015 - art. 1
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 15
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 18
 
 	**Codifié par**:
 
 	  - Décret n°62-273 du 12 mars 1962
 
-	**Cite**:
-
-	  - Code des postes et des communications électroni... - art. L41 (V)
-	  - Code des postes et des communications électroniques - art. L40
-	  - Code des postes et des communications électroniques - art. L97-2
-	  - Code de la défense. - art. L1111-2
-
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L97-1 (T)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L40
+	  - Code des postes et des communications électroniques - art. L41
+	  - Code des postes et des communications électroniques - art. L97-2
+	  - Code de la défense. - art. L1111-2
 
 
 #### Chapitre II : Numérotation et adressage.
