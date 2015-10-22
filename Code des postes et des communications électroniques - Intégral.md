@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-10-23
 
 # Partie législative
 
@@ -10388,95 +10388,133 @@ effet par le ministre chargé des communications électroniques et assermentés 
 
 ###### Article R9-2
 
-I.-La convention prévue à l'article L. 33-6 est conclue entre le propriétaire ou le syndicat des copropriétaires et
-l'opérateur qui prend en charge l'installation, la gestion, l'entretien ou le remplacement de lignes de communications
-électroniques à très haut débit en fibre optique permettant de desservir un ou plusieurs utilisateurs finals dans un immeuble
-de logements ou à usage mixte. 
+I.-L'offre d'installation, de gestion, d'entretien et de remplacement de lignes de communications électroniques à très haut
+débit en fibre optique est notifiée par l'opérateur au propriétaire, au syndicat de copropriétaires ou à l'association
+syndicale de propriétaires de l'immeuble ou du lotissement par lettre recommandée avec avis de réception ou tout autre moyen
+permettant d'attester de sa date de réception, y compris par voie électronique. Cette notification mentionne la nécessaire
+réalisation d'un constat contradictoire permettant de déterminer, préalablement à l'installation de lignes de communications
+électroniques à très haut débit en fibre optique, si les infrastructures d'accueil sont suffisantes ou si des travaux sont
+nécessaires pour l'installation de ces lignes, ainsi que le rappel au propriétaire, au syndicat de copropriétaires ou à
+l'association syndicale de propriétaires que ces travaux de réalisation et de modernisation des infrastructures d'accueil
+peuvent leur incomber le cas échéant. 
 
-L'installation, l'entretien, le remplacement et le cas échéant la gestion des lignes se font aux frais de l'opérateur
-signataire de la convention. 
+L'opérateur et le propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires dressent,
+préalablement à la conclusion de la convention prévue à l'article L. 33-6 ou dans un délai de deux mois à compter de la date
+de sa signature, un constat contradictoire de l'état technique des parties communes de l'immeuble ou des voies, équipements
+ou espaces communs du lotissement afin de déterminer si les infrastructures d'accueil disponibles sont suffisantes pour
+permettre à l'opérateur d'installer les lignes de communications électroniques à très haut débit en fibre optique jusqu'à
+chacun des logements et locaux à usage professionnel de l'immeuble ou du lotissement. L'opérateur transmet, le cas échéant,
+au propriétaire, au syndicat de copropriétaires ou à l'association syndicale de propriétaires la description des
+caractéristiques que doivent présenter les infrastructures d'accueil pour permettre l'installation, la gestion, l'entretien
+et le remplacement des lignes de communications électroniques à très haut débit en fibre optique. 
 
-II.-Les conditions prévues par la convention ne peuvent faire obstacle à la mise en œuvre de l'accès aux lignes prévu à
+II.-La convention prévue à l'article L. 33-6 est conclue entre le propriétaire, le syndicat de copropriétaires ou
+l'association syndicale de propriétaires et l'opérateur qui prend en charge l'installation, la gestion, l'entretien ou le
+remplacement de lignes de communications électroniques à très haut débit en fibre optique permettant de desservir un ou
+plusieurs utilisateurs finals dans les parties communes d'un immeuble comportant plusieurs logements ou à usage mixte ou dans
+les voies, équipements ou espaces communs d'un lotissement. 
+
+L'installation, l'entretien, le remplacement et le cas échéant la gestion des lignes dans les parties communes de l'immeuble,
+ou dans les voies, équipements et espaces communs du lotissement se font aux frais de l'opérateur signataire de la convention
+dans les conditions prévues au deuxième alinéa de l'article L. 33-6. 
+
+Le refus d'une offre d'installation, de gestion, d'entretien et de remplacement de lignes de communications électroniques à
+très haut débit en fibre optique est notifié à l'opérateur par le propriétaire, le syndicat de copropriétaires ou
+l'association syndicale de propriétaires d'un immeuble ou d'un lotissement par lettre recommandée avec avis de réception ou
+tout autre moyen permettant d'attester de leur date de réception, y compris par voie électronique. Le délai de deux ans
+mentionné au deuxième alinéa de l'article L. 33-6 court à la date de la notification de la décision du propriétaire, du
+syndicat de copropriétaires ou de l'association syndicale de propriétaires de l'immeuble ou du lotissement et s'achève le
+jour de la dernière année qui porte le même quantième que le jour de la notification qui fait courir le délai. A défaut d'un
+quantième identique, le délai expire le dernier jour du mois. En l'absence de réponse dans un délai de deux mois à compter de
+la notification de l'offre par l'opérateur ou lorsque cela est nécessaire, à compter de la date de la tenue de la première
+assemblée générale suivant la remise de l'offre de l'opérateur, sous réserve du respect des délais nécessaires à son
+inscription à l'ordre du jour, l'offre est considérée comme refusée et le délai de deux ans mentionné à l'article L. 33-6
+court à compter de cette date. 
+
+III.-Les conditions prévues par la convention ne peuvent faire obstacle à la mise en œuvre de l'accès aux lignes prévu à
 l'article L. 34-8-3 et sont compatibles avec celle-ci. Les emplacements et infrastructures d'accueil des lignes mis à
-disposition de l'opérateur signataire de la convention par le propriétaire ou le syndicat des copropriétaires et les lignes
-et équipements installés par l'opérateur doivent faciliter cet accès. L'opérateur signataire prend en charge les opérations
-d'installation, de gestion, d'entretien ou de remplacement nécessaires à cet accès, dans les mêmes conditions que pour ses
-propres lignes et équipements. 
+disposition de l'opérateur signataire de la convention par le propriétaire, le syndicat de copropriétaires ou l'association
+syndicale de propriétaires et les lignes et équipements installés par l'opérateur doivent faciliter cet accès. L'opérateur
+signataire prend en charge les opérations d'installation, de gestion, d'entretien ou de remplacement nécessaires à cet accès,
+dans les mêmes conditions que pour ses propres lignes et équipements. 
 
 La convention autorise l'utilisation par d'autres opérateurs des infrastructures d'accueil de lignes de communications
-électroniques installées par l'opérateur signataire. Elle ne comporte aucune stipulation fixant les conditions techniques ou
-tarifaires pour la mise en œuvre de l'accès aux lignes prévu à l'article L. 34-8-3 qui fait l'objet de conventions distinctes
-entre opérateurs. 
+électroniques mises à la disposition de l'opérateur signataire dans le but de bénéficier de l'accès aux lignes prévu à
+l'article L. 34-8-3. Elle ne comporte aucune stipulation fixant les conditions techniques ou tarifaires pour la mise en œuvre
+de l'accès aux lignes prévu à l'article L. 34-8-3, qui fait l'objet de conventions distinctes entre opérateurs. 
 
-Elle rappelle que l'autorisation accordée par le propriétaire ou le syndicat des copropriétaires à tout opérateur d'installer
-ou d'utiliser des lignes de communications électroniques à très haut débit en fibre optique permettant de desservir un ou
-plusieurs utilisateurs finals n'est assortie d'aucune contrepartie financière et ne peut être subordonnée à la fourniture de
-services autres que de communication électronique ou audiovisuelle. 
+Elle rappelle que l'autorisation accordée par le propriétaire, le syndicat de copropriétaires ou l'association syndicale de
+propriétaires à tout opérateur d'installer ou d'utiliser des lignes de communications électroniques à très haut débit en
+fibre optique permettant de desservir un ou plusieurs utilisateurs finals n'est assortie d'aucune contrepartie financière et
+ne peut être subordonnée à la fourniture de services autres que de communications électroniques ou audiovisuelle. 
 
-III.-Dans le mois suivant la conclusion de la convention, l'opérateur signataire en informe les autres opérateurs dont la
+IV.-Dans le mois suivant la conclusion de la convention, l'opérateur signataire en informe les autres opérateurs dont la
 liste est tenue à jour par l'Autorité de régulation des communications électroniques et des postes et leur communique toute
 information utile à la mise en œuvre de l'accès aux lignes prévu à l'article L. 34-8-3 et au raccordement des lignes établies
 dans le cadre de cette convention aux réseaux de communications électroniques ouverts au public. Ces informations précisent
 notamment :
 
-- l'adresse de l'immeuble concerné ;
+- l'adresse et les coordonnées géographiques de l'immeuble ou du lotissement concerné ;
 
-- l'identité et l'adresse du propriétaire ou du syndic de copropriété représentant le syndicat des copropriétaires ;
+- l'identité et l'adresse du propriétaire, du syndic de copropriété représentant le syndicat de copropriétaires ou de
+l'association syndicale de propriétaires ;
 
 - le nombre de logements et de locaux desservis ;
+
+- l'identifiant du point au niveau duquel est fourni l'accès aux lignes prévu en application de l'article L. 34-8-3 ;
 
 - la personne à qui les opérateurs tiers peuvent s'adresser en vue de demander un accès en application de l'article L.
 34-8-3.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - DEPLACE: Décret n°2012-436 du 30 mars 2012 - art. 3
-
 	**Cité par**:
 
 	  - Décret n°2015-1317 du 20 octobre 2015 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 1
+
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L34-8-3 (V)
 	  - Code des postes et des communications électroniques - art. L33-6
+	  - Code des postes et des communications électroniques - art. L34-8-3
 
 
 ###### Article R9-3
 
-La convention contient notamment les stipulations et informations suivantes : 
+La convention contient notamment les stipulations et informations suivantes :
 
-1° La nature, l'importance, la durée des travaux d'installation à effectuer ; la date au plus tard de raccordement des lignes
-installées dans le cadre de cette convention à un réseau de communications électroniques à très haut débit ouvert au
-public ; 
+1° La nature, l'importance, la durée des travaux d'installation à effectuer ; la date limite de raccordement des lignes
+installées dans le cadre de cette convention à un réseau de communications électroniques à très haut débit ouvert au public ;
 
 2° Les conditions d'exécution des travaux par l'opérateur signataire, notamment celles liées au suivi et à la réception des
-travaux ; 
+travaux ;
 
-3° Les responsabilités et les assurances de l'opérateur ; 
+3° Les responsabilités et les assurances de l'opérateur ;
 
-4° Les conditions de gestion, d'entretien et de remplacement des équipements et installations ; 
+4° Les conditions de gestion, d'entretien et de remplacement des équipements et installations ;
 
-5° Les modalités d'information du propriétaire ou du syndicat des copropriétaires, notamment sur la localisation des
-installations et leurs modifications ; 
+5° Les modalités d'information du propriétaire, du syndicat de copropriétaires ou de l'association syndicale de
+propriétaires, notamment sur la localisation des installations et leurs modifications ;
 
-6° Les modalités d'accès à l'immeuble ; 
+6° Les modalités d'accès aux parties communes de l'immeuble ou aux voies, équipements ou espaces communs du lotissement ;
 
-7° Les conditions d'utilisation par d'autres opérateurs des infrastructures d'accueil de lignes de communications
-électroniques installées par l'opérateur signataire ; 
+7° Les conditions et la date prévisionnelle à laquelle les infrastructures d'accueil nécessaires au déploiement des lignes de
+communications électroniques à très haut débit en fibre optique sont mises à disposition de l'opérateur signataire, ainsi que
+les conditions d'utilisation par d'autres opérateurs de ces infrastructures d'accueil ;
 
 8° La durée de la convention et les conditions de son renouvellement ou de sa résiliation, y compris les conditions dans
-lesquelles est assurée une continuité de gestion et d'entretien en cas de changement d'opérateur. 
+lesquelles est assurée une continuité de gestion et d'entretien en cas de changement d'opérateur ;
 
 9° Le sort des installations à l'issue de la convention.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2012-436 du 30 mars 2012 - art. 3
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 1
 
 	**Cité par**:
 
@@ -10485,57 +10523,69 @@ lesquelles est assurée une continuité de gestion et d'entretien en cas de chan
 
 ###### Article R9-4
 
-Les clauses mentionnées aux 1°, 2°, 3°, 4° et 5° de l'article R. 9-3 respectent les dispositions suivantes : 
+Les clauses de la convention respectent les dispositions suivantes : 
 
-1° L'opérateur signataire dessert les logements et locaux à usage professionnel de l'immeuble auxquels s'applique la
-convention par un chemin continu en fibre optique partant du point de raccordement et aboutissant à un dispositif de
-terminaison installé à l'intérieur de chaque logement ou local à usage professionnel. Le raccordement effectif des logements
-ou locaux peut être réalisé après la fin des travaux d'installation, notamment pour répondre à une demande de raccordement
-émise par un occupant ou à une demande d'accès en vue de desservir un tel logement ou local émise par un opérateur au titre
-de l'article L. 34-8-3. 
+1° L'opérateur signataire dessert les logements et locaux à usage professionnel de l'immeuble ou du lotissement auxquels
+s'applique la convention. Le raccordement effectif des logements ou locaux peut être réalisé après la fin des travaux
+d'installation, notamment pour répondre à une demande de raccordement émise par un occupant ou à une demande d'accès en vue
+de desservir un tel logement ou local émise par un opérateur au titre de l'article L. 34-8-3. 
 
 Les travaux d'installation des lignes de communications électroniques à très haut débit en fibre optique dans l'immeuble
-doivent être achevés dans un délai de six mois à compter de la signature de la convention ; 
+doivent être achevés dans un délai de six mois à compter de la mise à la disposition de l'opérateur signataire des
+infrastructures d'accueil par le propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires ; 
 
-2° Les modalités d'exécution des interventions ou travaux d'installation, de raccordement, de gestion, d'entretien ou de
-remplacement des lignes de communications électroniques à très haut débit en fibre optique dans l'immeuble sont de la
-responsabilité de l'opérateur. Celui-ci respecte le règlement intérieur de l'immeuble ou le règlement de copropriété, ainsi
-que les normes applicables et les règles de l'art. Les installations et chemins de câbles respectent l'esthétique de
-l'immeuble.L'opérateur signataire peut mandater un tiers pour réaliser certaines opérations mais il reste responsable de ces
-opérations à l'égard du propriétaire ou du syndicat des copropriétaires. 
+2° Le propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires met à disposition de
+l'opérateur signataire les infrastructures d'accueil et les emplacements nécessaires à l'installation, la gestion,
+l'entretien ou au remplacement des lignes à très haut débit en fibre optique dans les parties communes de l'immeuble ou dans
+les voies, équipements ou espaces communs du lotissement. 
 
-Le propriétaire ou le syndicat des copropriétaires met à la disposition de l'opérateur signataire les infrastructures
-d'accueil des lignes à très haut débit en fibre optique et les emplacements nécessaires dans l'immeuble à l'installation, la
-gestion, l'entretien ou le remplacement de celles-ci. Le propriétaire ou le syndicat des copropriétaires informent
-l'opérateur signataire de la situation et des caractéristiques de l'immeuble, notamment celles liées à son environnement, à
-sa vétusté, à son accès, à sa fragilité et aux nuisances sonores ; 
+Lorsque des travaux sont nécessaires à cette fin, le propriétaire, le syndicat de copropriétaires ou l'association syndicale
+de propriétaires informe l'opérateur du délai prévisionnel de réalisation des travaux et lui notifie sans délai tout retard
+éventuel. Une fois ceux-ci achevés, il lui notifie, par lettre recommandée avec avis de réception ou tout autre moyen
+permettant d'attester de leur date de réception, y compris par voie électronique, la mise à disposition des infrastructures
+d'accueil et des emplacements nécessaires à l'installation, la gestion, l'entretien ou au remplacement des lignes de
+communications électroniques à très haut débit en fibre optique ; 
 
-3° L'opérateur signataire est responsable de tous les dommages causés par les travaux ou par ses installations et
-équipements. Il contracte au préalable les assurances nécessaires pour couvrir les éventuels dommages matériels ou corporels.
+3° Les modalités d'exécution des interventions ou travaux d'installation, de raccordement, de gestion, d'entretien ou de
+remplacement des lignes de communications électroniques à très haut débit en fibre optique dans les parties communes de
+l'immeuble ou dans les voies, équipements ou espaces communs du lotissement sont de la responsabilité de l'opérateur. Celui-
+ci respecte le règlement intérieur de l'immeuble ou le règlement de copropriété, ainsi que les normes applicables et les
+règles de l'art. Les installations et chemins de câbles respectent l'esthétique de l'immeuble. L'opérateur signataire peut
+mandater un tiers pour réaliser certaines opérations mais il reste responsable de ces opérations à l'égard du propriétaire,
+du syndicat de copropriétaires ou de l'association syndicale de copropriétaires. 
 
-L'opérateur signataire et le propriétaire ou le syndicat des copropriétaires établissent un état des lieux contradictoire
-avant les travaux et après achèvement des travaux d'installation. En cas de dégradations imputables aux travaux, la remise en
-état est à la charge de l'opérateur signataire ; 
+Le propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires informent l'opérateur signataire
+de la situation et des caractéristiques de l'immeuble ou du lotissement, notamment celles liées à son environnement, à sa
+vétusté, à son accès, à sa fragilité et aux nuisances sonores ; 
 
-4° L'opérateur signataire peut mandater un tiers pour réaliser certaines opérations relatives à la gestion, l'entretien ou le
-remplacement des lignes à très haut débit en fibre optique dont il a la charge, y compris dans le cadre de la mise en œuvre
-de l'accès à celles-ci prévu à l'article L. 34-8-3, mais il reste responsable de ces opérations à l'égard du propriétaire ou
-du syndicat des copropriétaires. Il en avertit ces derniers préalablement ; 
+4° L'opérateur signataire est responsable de tous les dommages causés par les travaux ou par ses installations et
+équipements. Il contracte au préalable les assurances nécessaires pour couvrir les éventuels dommages matériels ou
+corporels. 
 
-5° L'opérateur établit un plan de câblage des lignes et équipements installés qu'il met à jour et tient à la disposition du
-propriétaire ou du syndicat des copropriétaires. Il tient également à leur disposition toutes informations utiles sur les
-modifications apportées aux installations établies dans le cadre de la présente convention.
+L'opérateur signataire et le propriétaire, le syndicat de copropriétaires ou l'association syndicale de propriétaires
+établissent un état des lieux contradictoire avant les travaux et après achèvement des travaux d'installation. En cas de
+dégradations imputables aux travaux, la remise en état est à la charge de l'opérateur signataire ; 
+
+5° L'opérateur signataire peut mandater un tiers pour réaliser certaines opérations relatives à la gestion, à l'entretien ou
+au remplacement des lignes de communications électroniques à très haut débit en fibre optique dont il a la charge, y compris
+dans le cadre de la mise en œuvre de l'accès à celles-ci prévu à l'article L. 34-8-3, mais il reste responsable de ces
+opérations à l'égard du propriétaire, du syndicat de copropriétaires ou de l'association syndicale de propriétaires. Il en
+avertit ces derniers préalablement ; 
+
+6° L'opérateur établit un plan de câblage des lignes et équipements installés qu'il met à jour et tient à disposition du
+propriétaire, du syndicat de copropriétaires ou de l'association syndicale de propriétaires. Il tient également à leur
+disposition toutes informations utiles sur les modifications apportées aux installations établies dans le cadre de la
+présente convention.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2012-436 du 30 mars 2012 - art. 3
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L34-8-3
-	  - Code des postes et des communications électroniques - art. R9-3
 
 
 ##### Paragraphe II : Dispositions relatives aux opérateurs exerçant une influence significative sur un marché du secteur des communications électroniques
@@ -15456,14 +15506,15 @@ décision de rejet.
 
 ###### Article R20-44-38
 
-La consultation publique relative à la désignation de chaque office d'enregistrement fait l'objet d'un avis publié au Journal
-officiel de la République française et au Journal officiel de l'Union européenne. Cet avis précise les règles de
-fonctionnement et de contrôle à respecter par l'office conformément à l'article R. 20-44-39, les critères de détermination du
-choix de l'office et son calendrier ainsi que, le cas échéant, la partie du territoire national dont l'office est chargé. 
+La consultation publique portant appel à candidatures relative à la désignation de chaque office d'enregistrement fait
+l'objet d'un avis publié au Journal officiel de la République française et au Journal officiel de l'Union européenne. Cet
+avis précise les règles de fonctionnement et de contrôle à respecter par l'office conformément à l'article R. 20-44-39, les
+critères de détermination du choix de l'office et son calendrier ainsi que, le cas échéant, la partie du territoire national
+dont l'office est chargé. 
 
 Les offices d'enregistrement doivent avoir leur siège sur le territoire d'un Etat membre de l'Union européenne. 
 
-Les offices d'enregistrement sont désignés pour une durée de cinq ans prorogeable une fois. 
+Les offices d'enregistrement sont désignés pour une durée de cinq ans prorogeable une fois pour une durée identique. 
 
 Au plus tard un an avant l'expiration de la première période de cinq ans pour laquelle l'office a été désigné il est procédé
 à une consultation publique à l'issue de laquelle le ministre chargé des communications électroniques décide s'il proroge la
@@ -15473,19 +15524,15 @@ désignation ou s'il met en œuvre une nouvelle procédure de désignation.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-34 (T)
-
 	**Cité par**:
 
-	  - Code des postes et des communications électroni... - art. R20-44-47 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-47 (V)
 
 	**Cite**:
 
@@ -15521,20 +15568,16 @@ dispositions de l'article R. 20-44-41.
 	  - Code des postes et des communications électroni... - art. R20-44-38 (V)
 	  - Code des postes et des communications électroni... - art. R20-44-40 (V)
 	  - Code des postes et des communications électroni... - art. R20-44-41 (T)
-	  - Code des postes et des communications électroni... - art. R20-44-44 (M)
+	  - Code des postes et des communications électroni... - art. R20-44-44 (V)
 	  - Code des postes et des communications électroni... - art. R20-44-45 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-35 (T)
 
 
 ###### Article R20-44-40
@@ -15559,15 +15602,11 @@ L. 45-2 qu'il a identifiés ou qui lui sont signalés.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-36 (T)
 
 	**Cite**:
 
@@ -15579,7 +15618,7 @@ L. 45-2 qu'il a identifiés ou qui lui sont signalés.
 ###### Article R20-44-41
 
 Chaque office publie quotidiennement la liste des noms de domaine qu'il a enregistrés la veille. Cette liste fait l'objet
-d'un accès libre et sans contrepartie financière depuis le site internet de l'office d'enregistrement. 
+d'un accès libre et sans contrepartie financière depuis le site internet de l'office d'enregistrement.
 
 Chaque office met à disposition du public les détails de la procédure d'accréditation et la liste des bureaux
 d'enregistrement accrédités.
@@ -15588,15 +15627,11 @@ d'enregistrement accrédités.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-37 (T)
 
 	**Cité par**:
 
@@ -15613,15 +15648,11 @@ présenter ses observations.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-38 (T)
 
 	**Cite**:
 
@@ -15646,9 +15677,9 @@ techniques fournies par les demandeurs de noms de domaine pour leur identificati
 les demandeurs de noms de domaine et conserve ces dernières dans le respect des dispositions de la loi n° 78-17 du 6 janvier
 1978 ;
 
-- offre des conditions d'accueil du public adéquates ; 
+- offre des conditions d'accueil du public adéquates ;
 
-― justifie qu'il n'agit pas sous contrôle, au sens de l'article L. 233-3 du code de commerce, de l'office d'enregistrement ou
+- justifie qu'il n'agit pas sous contrôle, au sens de l'article L. 233-3 du code de commerce, de l'office d'enregistrement ou
 d'une personne morale exerçant un contrôle sur cet office au sens des mêmes dispositions. 
 
 Un contrat entre l'office d'enregistrement et chaque bureau d'enregistrement accrédité fixe les conditions d'accès aux
@@ -15659,20 +15690,16 @@ services de l'office ainsi qu'à ceux du bureau d'enregistrement.
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
-	  - Code de commerce - art. L233-3 (V)
-	  - Code des postes et des communications électroni... - art. L45-4 (V)
+	  - Code de commerce - art. L233-3
+	  - Code des postes et des communications électroniques - art. L45-4
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-40 (T)
 
 
 ###### Article R20-44-44
@@ -15685,25 +15712,22 @@ La demande d'accréditation est adressée à l'office d'enregistrement du domain
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-41 (T)
-
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. R20-44-39
+	  - Code des postes et des communications électroni... - art. R20-44-39 (V)
 
 
 ###### Article R20-44-45
 
-Le non-respect par un bureau d'enregistrement des dispositions des articles L. 45-1 à L. 45-3 et L. 45-5 peut entraîner la
-suppression de son accréditation. 
+La demande d'accréditation est adressée à l'office d'enregistrement du domaine de l'internet correspondant. Elle comporte les
+éléments permettant à l'office d'enregistrement d'apprécier le respect par le demandeur des conditions fixées aux articles R.
+20-44-39 et R. 204440. 
 
 Lorsqu'un bureau d'enregistrement ne remplit plus tout ou partie des critères d'accréditation, cette dernière est suspendue
 pour une durée qui ne peut excéder quatre mois ou supprimée. 
@@ -15715,20 +15739,15 @@ bureau d'enregistrement en cause. Celui-ci dispose d'un délai d'un mois pour pr
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-42 (T)
-
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. L45-1
-	  - Code des postes et des communications électroniques - art. L45-5
+	  - Code des postes et des communications électroniques - art. R20-44-39
 
 
 ###### Article R20-44-46
@@ -15763,15 +15782,11 @@ assimilé à ce nom, en créant une confusion dans l'esprit du consommateur.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-43 (T)
 
 	**Cite**:
 
@@ -15787,19 +15802,15 @@ françaises.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1317 du 20 octobre 2015 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
 
-	**Anciens textes**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-44 (T)
-
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. R20-44-38
+	  - Code des postes et des communications électroni... - art. R20-44-38 (V)
 
 
 #### Chapitre III : Droits de passage sur le domaine public routier et servitudes.
