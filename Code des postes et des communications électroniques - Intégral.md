@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2015-10-23
+Version Consolidée au 2015-11-19
 
 # Partie législative
 
@@ -13953,6 +13953,77 @@ remboursements dus.
 	  - Code des postes et des communications électroniques R52-1
 
 
+###### Article R20-44-8
+
+I.-Le  coût des réaménagements des fréquences mentionnés au troisième alinéa de l'article L. 41-2 comprend : 
+
+1° Les dépenses résultant des opérations techniques touchant aux modifications des modes de transport du signal, des
+infrastructures et des architectures des installations de diffusion des services de télévision par voie hertzienne terrestre
+nécessaires à la libération de la bande 694-790 MHz ou au respect des accords internationaux relatifs à ces fréquences par
+les titulaires d'une autorisation d'usage de la ressource radioélectrique délivrée en application des articles 30-1,30-2,30-3
+et 30-5 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication ou d'un droit d'usage en
+vertu de l'article 26 de la même loi. L'acquisition des équipements nécessaires à la réalisation de ces opérations techniques
+est comprise dans ces dépenses, qui n'incluent pas celles visant au changement de norme de diffusion et de codage, à la
+modification du format des services de télévision concernés et au regroupement sur une ou plusieurs ressources
+radioélectriques des éditeurs de services de communication audiovisuelle ; 
+
+2° Les coûts complets supportés par l'Agence nationale des fréquences à raison de ses interventions pour le préfinancement et
+la répartition des dépenses mentionnées au 1°. 
+
+II.-Le préfinancement des dépenses mentionnées au 1° du I est assuré par le Fonds de réaménagement du spectre. A cet effet,
+l'Agence nationale des fréquences accorde chaque trimestre au titulaire d'une autorisation d'usage de la ressource
+radioélectrique, délivrée en application de l'article 30-1 de la loi du 30 septembre 1986 lorsqu'il est seul autorisé à
+utiliser une fréquence ou des articles 30-2,30-3 et 30-5 de la même loi, une avance financière correspondant au montant
+prévisionnel des dépenses à préfinancer au titre du mois en cours et des deux mois suivants. Elle rembourse, sur
+justification du service fait, les dépenses engagées par chacun des titulaires lorsqu'elles excèdent le montant des avances
+accordées. Lorsque l'avance est supérieure au montant des dépenses engagées, la différence est déduite de l'avance allouée au
+titre du trimestre suivant. Le cas échéant, le prestataire technique du titulaire peut être subrogé dans ses rapports avec
+l'Agence nationale des fréquences aux droits de ce dernier dans les conditions prévues par une convention conclue entre ces
+trois parties. 
+
+III.-Le conseil d'administration de l'Agence nationale des fréquences arrête au 30 juin et au 31 décembre le montant des
+dépenses effectivement engagées pendant le semestre écoulé. 
+
+Pour chacune des zones géographiques concernées, l'agence répartit semestriellement ce montant entre chacun des titulaires
+d'une autorisation d'utilisation de fréquences dans les bandes de fréquences 703-733 MHz et 758-788 MHz pour l'établissement
+et l'exploitation d'un réseau radioélectrique mobile ouvert au public en proportion de la largeur de chacun des blocs de
+fréquences qui leur est attribué. 
+
+Lorsqu'à la date prévue au premier alinéa du présent III, aucune autorisation d'utilisation de fréquence n'a été délivrée
+dans la bande de fréquences concernée, la répartition du montant de ces dépenses est reportée à la date de répartition qui
+suit immédiatement la délivrance des autorisations. 
+
+Lorsqu'une autorisation d'utilisation de fréquences dans les bandes de fréquences 703-733 MHz et 758-788 MHz pour
+l'établissement et l'exploitation d'un réseau radioélectrique mobile ouvert au public est délivrée après la date de la
+première répartition des coûts de réaménagement de fréquences par l'agence, le nouveau titulaire ne contribue à cette
+répartition dans les conditions prévues aux trois alinéas précédents qu'à partir de la date de la répartition suivant celle
+de la délivrance de l'autorisation. 
+
+Lorsque les fréquences d'un même bloc sont attribuées à plusieurs titulaires d'autorisation d'utilisation de fréquences
+durant tout ou partie du semestre, l'agence répartit ce montant entre chacun de ces titulaires en proportion de la part de
+fréquences qu'ils détiennent dans ce bloc et, le cas échéant, au prorata de la durée de détention de l'autorisation. 
+
+IV.-Les sommes mises à la charge des titulaires d'une autorisation d'utilisation de fréquences en application du présent
+article sont recouvrées par l'Agence nationale des fréquences selon les modalités fixées par la 
+section 1 du chapitre II du titre III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique. 
+
+Ces sommes sont exigibles le mois suivant la notification qui est faite par l'agence de la répartition à chacun des
+titulaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 30-1
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Créé par**:
+
+	  - Décret n°2015-1489 du 17 novembre 2015 - art. 1
+
+
 ##### Section 2 : Dispositions spécifiques aux fréquences radioélectriques dont l'assignation est confiée à l'Autorité de régulation des communications électroniques et des postes.
 
 ##### Paragraphe Ier : Dispositions relatives à l'attribution d'autorisations d'utilisation de fréquences.
@@ -15078,10 +15149,12 @@ des régies de recettes.
 
 Les coûts complets exposés par l'Agence nationale des fréquences pour le recueil et le traitement des réclamations des
 usagers de services de communication audiovisuelle relatives aux brouillages causés par la mise en service des stations
-radioélectriques du service mobile dans la bande de fréquences 790-862 MHz comprennent les dépenses exposées par l'agence : 
+radioélectriques du service mobile dans les bandes de fréquences 790-862 MHz et 694-790 MHz comprennent les dépenses exposées
+par l'agence : 
 
 1° Pour recueillir les réclamations des usagers des services de communication audiovisuelle qui recevaient ces services par
-voie hertzienne terrestre en mode numérique avant la mise en service de la station du service mobile ; 
+voie hertzienne terrestre en mode numérique avant la mise en service de la station d'un
+  <u> réseau radioélectrique mobile ouvert au public</u> ; 
 
 2° Pour instruire ces réclamations ; 
 
@@ -15098,7 +15171,7 @@ nécessaire.
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1489 du 17 novembre 2015 - art. 2
 
 	**Codifié par**:
 
@@ -15112,9 +15185,9 @@ nécessaire.
 ###### Article R20-44-26
 
 I.-Dans chacune des zones géographiques, les coûts mentionnés à l'article R. 20-44-25 sont répartis chaque année entre les
-titulaires d'une autorisation d'utilisation de fréquences dans la bande 790-862 MHz pour l'établissement et l'exploitation
-d'un réseau radioélectrique mobile ouvert au public, en proportion de la largeur de chacun des blocs de fréquences
-attribués. 
+titulaires d'une autorisation d'utilisation de fréquences dans chacune des bandes de fréquences mentionnée à l'article R.
+20-44-25 pour l'établissement et l'exploitation d'un réseau radioélectrique mobile ouvert au public, en proportion de la
+largeur de chacun des blocs de fréquences attribués. 
 
 II.-Lorsque les fréquences d'un même bloc sont attribuées à plusieurs titulaires d'autorisation d'utilisation de fréquences
 durant tout ou partie de l'année, les coûts imputables au bloc en cause sont répartis entre ses titulaires en proportion de
@@ -15125,15 +15198,11 @@ autorisation.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1621 du 24 décembre 2014 - art. 3
+	  - Décret n°2015-1489 du 17 novembre 2015 - art. 3
 
 	**Codifié par**:
 
 	  - Décret n°62-274 du 12 mars 1962
-
-	**Cite**:
-
-	  - Code des postes et des communications électroni... - art. R20-44-25 (V)
 
 	**Cité par**:
 
@@ -15143,15 +15212,19 @@ autorisation.
 
 	  - Code des postes et des communications électronique - art. R*52-2-16 (T)
 
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. R20-44-25
+
 
 ###### Article R20-44-27
 
 L'Agence nationale des fréquences arrête au 31 décembre le montant des dépenses mentionnées à l'article R. 20-44-25
 effectivement exposées pendant l'année civile écoulée. 
 
-Elle répartit ce montant entre les titulaires d'autorisation d'utilisation de fréquences dans la bande de fréquences 790-862
-MHz selon les modalités définies à l'article R. 20-44-26 et notifie au début de l'année suivante à chacun de ces titulaires
-le montant qu'il doit. 
+Elle répartit ce montant entre les titulaires d'autorisation d'utilisation de fréquences dans les bandes de fréquences
+790-862 MHz et 694-790 MHz selon les modalités définies à l'article R. 20-44-26 et notifie au début de l'année suivante à
+chacun de ces titulaires le montant qu'il doit. 
 
 Les sommes en cause sont acquittées par ces derniers auprès de l'agent comptable de l'Agence nationale des fréquences dans un
 délai de trente jours à compter de l'émission du titre de perception. Elles sont recouvrées selon les modalités fixées par le
@@ -15167,7 +15240,7 @@ titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budg
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
+	  - Décret n°2015-1489 du 17 novembre 2015 - art. 4
 
 	**Codifié par**:
 
@@ -15177,14 +15250,14 @@ titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budg
 ###### Article R20-44-28
 
 L'information prévue au troisième alinéa du I bis de l'article L. 43 du code des postes et des communications électroniques
-est communiquée par le titulaire d'une autorisation d'utilisation de fréquences dans la bande de fréquences 790-862 MHz au
-moins huit jours ouvrés avant la date de mise en service effective de la station radioélectrique.
+est communiquée par le titulaire d'une autorisation d'utilisation de fréquences dans les bandes de fréquences 790-862 MHz et
+694-790 MHz au moins huit jours ouvrés avant la date de mise en service effective de la station radioélectrique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-951 du 1er août 2012 - art. 1
+	  - Décret n°2015-1489 du 17 novembre 2015 - art. 4
 
 	**Codifié par**:
 
