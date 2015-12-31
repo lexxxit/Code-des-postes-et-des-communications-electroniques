@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2015-12-03
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -875,26 +875,25 @@ constituent un domicile, les visites sont autorisées dans les conditions défin
 
 Le ministre chargé des postes et le président de l'Autorité de régulation des communications électroniques et des postes
 veillent à ce que ne soient pas divulguées les informations recueillies en application du présent article lorsqu'elles sont
-protégées par un secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
-relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
+protégées par un secret visé aux articles L. 311-5 à L. 311-8 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6
-	  - Code des postes et des communications électroniques - art. L3
-	  - Code des postes et des communications électroniques - art. L5-9-1
-
 	**Modifié par**:
 
-	  - Ordonnance n°2009-375 du 1er avril 2009 - art. 7
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. L130 (V)
 	  - Code des postes et des communications électroni... - art. L20 (V)
 	  - Code des postes et des communications électroni... - art. R1-2-14 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L3
+	  - Code des postes et des communications électroniques - art. L5-9-1
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article L5-9-1
@@ -13227,12 +13226,12 @@ coûts nets, et délimiter les zones considérées.
 
 I.-Les personnes physiques qui ont droit au revenu de solidarité active et dont les ressources annuelles du foyer, prises en
 compte pour le calcul du revenu de solidarité active conformément à l'article L. 262-3 du code de l'action sociale et des
-familles, n'excèdent pas le montant forfaitaire mentionné au 2° de l'article L. 262-2 du même code ou qui perçoivent
-l'allocation de solidarité spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un contrat pour la
-fourniture d'une des prestations décrites au I de l'article R. 20-30-1 auprès du ou des opérateurs autorisés à fournir la
-réduction tarifaire, bénéficient, sur leur demande, d'une réduction de leur facture téléphonique. A cette fin, l'organisme
-gestionnaire de la prestation au titre de laquelle le droit à réduction tarifaire est ouvert leur délivre chaque année une
-attestation. L'intéressé transmet ladite attestation accompagnée du nom de chacun des opérateurs qui le dessert. 
+familles, n'excèdent pas le montant forfaitaire mentionné à l'article L. 262-2 du même code ou qui perçoivent l'allocation de
+solidarité spécifique ou l'allocation aux adultes handicapés et qui ont souscrit un contrat pour la fourniture d'une des
+prestations décrites au I de l'article R. 20-30-1 auprès du ou des opérateurs autorisés à fournir la réduction tarifaire,
+bénéficient, sur leur demande, d'une réduction de leur facture téléphonique. A cette fin, l'organisme gestionnaire de la
+prestation au titre de laquelle le droit à réduction tarifaire est ouvert leur délivre chaque année une attestation.
+L'intéressé transmet ladite attestation accompagnée du nom de chacun des opérateurs qui le dessert. 
 
 Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors taxes par mois, les invalides de guerre
 cumulant le bénéfice des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre
@@ -13273,13 +13272,13 @@ Le montant total des réductions tarifaires accordées au titre du I ainsi que d
 
 	**Modifié par**:
 
-	  - Décret n°2013-1331 du 31 décembre 2013 - art. 2
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code des pensions militaires d'invalidité et de... - art. L189 (V)
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L189
 	  - Code de l'action sociale et des familles - art. L262-2
 	  - Code de l'action sociale et des familles - art. L262-3
 
