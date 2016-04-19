@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-20
 
 # Partie législative
 
@@ -12076,7 +12076,7 @@ ou dans une langue acceptée par l'organisme notifié saisi.
 
 I.-La conformité aux exigences essentielles relatives à la santé, à la sécurité et à la compatibilité électromagnétique des
 équipements mentionnés aux articles 1er et 2 du décret n° 92-587 du 26 juin 1992 modifié relatif à la compatibilité
-électromagnétique des appareils électriques et électroniques et à l'article 1er du décret n° 95-1081 du 3 octobre 1995
+électromagnétique des appareils électriques et électroniques et à  l'article 1er du décret n° 95-1081 du 3 octobre 1995
 relatif à la sécurité des personnes, des animaux et des biens lors de l'emploi des matériels électriques destinés à être
 employés dans certaines limites de tension peut être évaluée, au choix de la personne responsable, selon les procédures
 prévues par le présent paragraphe ou selon les procédures prévues par les deux décrets précités. 
@@ -12089,21 +12089,25 @@ l'application de certaines exigences essentielles, dans les conditions prévues 
 
 Le décret n° 92-587 a été abrogé par l'article 18 du décret n° 2006-1278 du 18 octobre 2006.
 
+Aux termes de l'article 17 du décret n° 2015-1083 du 27 août 2015, la référence au décret n° 95-1081 du 3 octobre 1995
+relatif à la sécurité des personnes, des animaux et des biens lors de l'emploi des matériels électriques destinés à être
+employés dans certaines limites de tension est remplacée par la référence audit décret à compter du 20 avril 2016.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°92-587 du 26 juin 1992 - art. 1 (Ab)
-	  - Décret n°95-1081 du 3 octobre 1995 - art. 1 (V)
-	  - Code des postes et des communications électroni... - art. R20-1 (V)
+	  - Décret n°92-587 du 26 juin 1992 - art. 1
+	  - Décret n°95-1081 du 3 octobre 1995 - art. 1
+	  - Code des postes et des communications électroniques - art. R20-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-961 du 8 octobre 2003 - art. 3 () JORF 9 octobre 2003
+	  - Décret n°2015-1083 du 27 août 2015 - art. 17 (VD)
 
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 
 ##### Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité.
