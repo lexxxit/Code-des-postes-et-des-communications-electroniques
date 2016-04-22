@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-04-20
+Version Consolidée au 2016-04-23
 
 # Partie législative
 
@@ -7447,30 +7447,25 @@ fonctionnement.
 ###### Article L62
 
 Dans les cas où les obligations précitées causent un dommage direct, matériel et actuel aux propriétaires ou usagers, il est
-fait application de l'article L. 59.
+fait application de l'article L. 57.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°49-759 1949-06-09 art. 9
-	  - Code des postes, télégraphes et téléphones L114
-
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 2
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L59 (VT)
 
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. L64 (VD)
-
-	**Cite**:
-
-	  - Code des postes et des communications électronique - art. L59 (M)
 
 
 ###### Article L62-1
