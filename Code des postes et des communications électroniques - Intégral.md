@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-04-23
+Version Consolidée au 2016-05-01
 
 # Partie législative
 
@@ -2260,8 +2260,8 @@ c) Les normes et spécifications du réseau et du service ;
 
 d) Les prescriptions exigées par la protection de la santé et de l'environnement et par les objectifs d'aménagement du
 territoire et d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public, les garanties
-financières ou techniques nécessaires à la bonne exécution des travaux d'infrastructures           , les modalités de partage
-des infrastructures et des réseaux radioélectriques ouverts au public et d'itinérance locale ; 
+financières ou techniques nécessaires à la bonne exécution des travaux d'infrastructures, les modalités de partage des
+infrastructures et des réseaux radioélectriques ouverts au public et d'itinérance locale ; 
 
 e) Les prescriptions exigées par l'ordre public, la défense nationale et la sécurité publique, notamment celles qui sont
 nécessaires à la mise en oeuvre des interceptions justifiées par les nécessités de la sécurité publique, ainsi que les
@@ -2291,8 +2291,7 @@ k) Les conditions nécessaires pour assurer l'interopérabilité des services ;
 l) Les obligations qui s'imposent à l'exploitant pour permettre son contrôle par l'Autorité de régulation des communications
 électroniques et des postes et celles qui sont nécessaires pour l'application de l'article L. 37-1 ; 
 
-m) L'acquittement des taxes dues par l'exploitant pour couvrir les coûts administratifs occasionnés par la mise en oeuvre des
-dispositions du présent livre, dans les conditions prévues par les lois de finances ; 
+m) (Abrogé) 
 
 n) L'information des utilisateurs, dans la mesure où cette information est nécessaire à la mise en œuvre des dispositions du
 présent code ou des décisions prises en application de celui-ci ; 
@@ -2336,6 +2335,11 @@ V.-Les opérateurs de services de communications électroniques sont tenus de pe
 les services de la police et de la gendarmerie nationale, les services d'incendie et de secours et les services d'aide
 médicale d'urgence, agissant dans le cadre de missions judiciaires ou d'interventions de secours, à leurs listes d'abonnés et
 d'utilisateurs, complète, non expurgée et mise à jour.
+
+**Nota:**
+
+Conformément à l'article 27 IV de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
+exigible à compter du 1er mai 2016.
 
 **Liens relatifs à cet article**
 
@@ -2426,16 +2430,16 @@ d'utilisateurs, complète, non expurgée et mise à jour.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 121
-	  - Loi n°2015-990 du 6 août 2015 - art. 122
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 27 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-83
 	  - Code de la consommation - art. L121-83-1
-	  - Code des postes et des communications électroni... - art. L35-2 (M)
+	  - Code des postes et des communications électroni... - art. L38 (V)
 	  - Code des postes et des communications électroniques - art. L34
 	  - Code des postes et des communications électroniques - art. L34-8
+	  - Code des postes et des communications électroniques - art. L35-2
 	  - Code des postes et des communications électroniques - art. L37-1
 	  - Code de la défense. - art. L1332-1
 
