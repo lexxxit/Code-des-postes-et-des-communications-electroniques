@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-06-13
 
 # Partie législative
 
@@ -3562,37 +3562,50 @@ au premier alinéa du présent article.
 
 ###### Article L34-9
 
-Les équipements terminaux sont fournis librement.
+I.-La conformité aux exigences essentielles des équipements radioélectriques définis au 11° de l'article L. 32, y compris
+ceux destinés à être connectés à un réseau ouvert au public, doit faire l'objet d'une évaluation. Cette évaluation tient
+compte des conditions d'usage de ces équipements et, en particulier, s'agissant de la conformité à l'exigence essentielle
+prévue au cinquième alinéa du 12° de l'article L. 32, de leurs conditions d'usage raisonnablement prévisibles. 
 
-Les équipements destinés à être connectés à un réseau ouvert au public et les équipements radioélectriques doivent faire
-l'objet d'une évaluation de leur conformité aux exigences essentielles. Les organismes intervenant, le cas échéant, dans la
-procédure d'évaluation de conformité sont désignés de façon à offrir aux industriels concernés un choix préservant leur
-indépendance par rapport à des entreprises offrant des biens ou services dans le domaine des communications électroniques.
+Pour être désigné comme organisme d'évaluation de la conformité par l'autorité compétente, un organisme doit satisfaire à des
+exigences, en particulier d'indépendance, fixées par décret en Conseil d'Etat, notamment lorsqu'il s'agit d'un organisme
+appartenant à une association d'entreprises ou à une fédération professionnelle qui représente des entreprises participant à
+la conception, à la fabrication, à la fourniture, à l'assemblage, à l'utilisation ou à l'entretien des équipements
+radioélectriques qu'il évalue. 
 
 Les terminaux radioélectriques destinés à être connectés à un réseau ouvert au public pour la fourniture du service de
 téléphonie ne peuvent être commercialisés sans un accessoire permettant de limiter l'exposition de la tête aux émissions
 radioélectriques lors des communications. 
 
-Un décret en Conseil d'Etat détermine :
+II.-Un décret en Conseil d'Etat détermine : 
 
-1° Les équipements qui sont dispensés de l'évaluation de conformité ;
+1° Les équipements qui sont dispensés de l'évaluation de conformité ; 
 
 2° Les conditions que doivent respecter les organismes intervenant dans la procédure d'évaluation de conformité, pour être
-désignés en vue d'exercer ces fonctions ;
+désignés en vue d'exercer ces fonctions ; 
 
 3° Les conditions dans lesquelles sont, le cas échéant, élaborées et publiées les spécifications techniques des équipements
-soumis à l'évaluation de conformité ;
+soumis à l'évaluation de conformité ; 
 
-4° Celles des exigences essentielles qui sont applicables aux équipements concernés ;
+4° Celles des exigences essentielles qui sont applicables aux équipements concernés ; 
 
 5° Les conditions de mise sur le marché, de mise en service, de retrait du marché ou du service, de restriction ou
-d'interdiction de mise sur le marché ou de mise en service des équipements radioélectriques et des équipements terminaux
-ainsi que, pour ces derniers, les conditions de raccordement aux réseaux ouverts au public ;
+d'interdiction de mise sur le marché ou de mise en service des équipements radioélectriques ainsi que, pour les équipements
+terminaux radioélectriques, les conditions de raccordement aux réseaux ouverts au public ; 
 
-6° La procédure d'évaluation de conformité ;
+6° La procédure d'évaluation de conformité ainsi que les modalités de désignation des organismes qui en sont chargés et de
+retrait de cette désignation par l'autorité compétente ; 
 
-7° Les conditions dans lesquelles les détenteurs des équipements font vérifier à leurs frais la conformité de ces équipements
-aux prescriptions du présent article.
+7° Les obligations des fabricants et de leurs mandataires, des importateurs et des distributeurs d'équipements
+radioélectriques, y compris en matière d'information du marché lorsqu'un équipement radioélectrique présente un risque ; 
+
+8° Les conditions dans lesquelles les détenteurs des équipements font vérifier à leurs frais la conformité de ces équipements
+aux prescriptions du présent article ; 
+
+9° Les conditions dans lesquelles l'autorité compétente peut restreindre ou interdire la mise sur le marché des équipements
+radioélectriques présentant un risque ou une non-conformité, après qu'a été mise en œuvre la procédure de mise en demeure
+prévue au premier alinéa du II bis de l'article L. 43, et celles dans lesquelles elle peut faire procéder à leur rappel ou à
+leur retrait. 
 
 Les équipements ou installations soumis à l'évaluation de conformité ne peuvent être fabriqués pour l'Espace économique
 européen, importés, en vue de leur mise sur le marché, de pays n'appartenant pas à celui-ci, détenus en vue de la vente, mis
@@ -3632,7 +3645,11 @@ tout moment conformes à celles-ci.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 49
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L32 (VT)
 
 
 ###### Article L34-9-1
@@ -4346,7 +4363,7 @@ L'Autorité de régulation des communications électroniques et des postes :
 
 1° Reçoit les déclarations prévues à l'article L. 33-1 ; 
 
-2° Désigne les organismes intervenant dans la procédure d'évaluation de conformité prévue à l'article L. 34-9 ; 
+2° (Abrogé) 
 
 3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
 sont applicables en vertu du présent code, du règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
@@ -4378,11 +4395,6 @@ application de l'article 119 de la loi n° 2008-776 du 4 août 2008 de modernisa
 rapport évalue les investissements réalisés par chacun des opérateurs dans le déploiement d'infrastructures nouvelles et
 vérifie que les conventions de partage de réseaux radioélectriques ouverts au public mentionnés à l'article L. 34-8-1-1
 n'entravent pas ce déploiement.
-
-**Nota:**
-
-Le premier rapport préparé au titre du 10° de l'article L. 36-7 du code des postes et des communications électroniques est
-publié au plus tard le 6 novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -4428,22 +4440,20 @@ publié au plus tard le 6 novembre 2015.
 
 	**Cite**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 119 (V)
-	  - Code des postes et des communications électroni... - art. L33-1 (VT)
-	  - Code des postes et des communications électroni... - art. L34-8-1-1 (V)
-	  - Code des postes et des communications électroni... - art. L34-9 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (V)
-	  - Code des postes et des communications électroni... - art. L35-3 (V)
-	  - Code des postes et des communications électroni... - art. L36-10 (V)
-	  - Code des postes et des communications électroni... - art. L37-1 (V)
-	  - Code des postes et des communications électroni... - art. L38-1 (V)
-	  - Code des postes et des communications électroni... - art. L42-1 (V)
-	  - Code des postes et des communications électroni... - art. L44 (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 119
+	  - Code des postes et des communications électroniques - art. L33-1
+	  - Code des postes et des communications électroniques - art. L34-8-1-1
+	  - Code des postes et des communications électroniques - art. L35-2
+	  - Code des postes et des communications électroniques - art. L35-3
+	  - Code des postes et des communications électroniques - art. L36-10
+	  - Code des postes et des communications électroniques - art. L37-1
+	  - Code des postes et des communications électroniques - art. L38-1
+	  - Code des postes et des communications électroniques - art. L42-1
+	  - Code des postes et des communications électroniques - art. L44
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 123 (V)
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 3
 
 
 ###### Article L36-8
@@ -5448,26 +5458,23 @@ et Futuna.
 
 Sera puni de trois mois d'emprisonnement et de 30 000 euros d'amende ou de l'une de ces deux peines seulement quiconque aura,
 sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des enquêtes mentionnés
-aux articles L. 32-4 et L. 40.
+aux articles L. 32-4, L. 40 et L. 43.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 4
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cite**:
 
 	  - Code des postes et des communications électroni... - art. L32-4 (V)
 	  - Code des postes et des communications électroni... - art. L40 (V)
+	  - Code des postes et des communications électroni... - art. L43 (VT)
 
 	**Cité par**:
 
@@ -6226,6 +6233,9 @@ administrations et autorités affectataires de fréquences radioélectriques.
 Elle prépare la position française et coordonne l'action de la représentation française dans les négociations internationales
 dans le domaine des fréquences radioélectriques. 
 
+Elle assure le contrôle du respect des dispositions relatives à la mise sur le marché des équipements mentionnés à l'article
+L. 34-9. 
+
 Elle coordonne l'implantation sur le territoire national des stations radioélectriques de toute nature afin d'assurer la
 meilleure utilisation des sites disponibles ainsi que la prévention des brouillages préjudiciables entre utilisateurs de
 fréquences, et assure le respect des valeurs limites d'exposition du public aux champs électromagnétiques prévues à l'article
@@ -6238,10 +6248,10 @@ Dans le cas où une perturbation d'un système radioélectrique lui est signalé
 échéant, formule des préconisations aux utilisateurs des fréquences concernées dans le but de faire cesser la perturbation.
 Lorsque les préconisations formulées par l'agence ne sont pas respectées par les utilisateurs de fréquences, elle peut
 suspendre l'accord mentionné au quatrième alinéa du présent I. Elle en informe l'administration ou l'autorité affectataire
-sans délai. Les modalités d'application du présent alinéa sont fixées par décret en Conseil d'Etat.
+sans délai. Les modalités d'application du présent alinéa sont fixées par décret en Conseil d'Etat. 
 
 L'exploitation d'une station radioélectrique en l'absence d'accord de l'agence ou lorsque cet accord a été suspendu engage la
-responsabilité civile et pénale de l'exploitant de cette station radioélectrique.
+responsabilité civile et pénale de l'exploitant de cette station radioélectrique. 
 
 L'agence instruit pour le compte de l'Etat les demandes d'autorisation présentées en application de l'article L. 97-2. 
 
@@ -6249,9 +6259,9 @@ Un décret en Conseil d'Etat fixe le délai à l'issue duquel cet avis ou cet ac
 échéant, les catégories d'installations pour lesquelles, en raison de leurs caractéristiques techniques, ils ne sont pas
 requis. 
 
-I bis. ― Il est institué, au profit de l'Agence nationale des fréquences, une taxe destinée à couvrir les coûts complets
+I bis.-Il est institué, au profit de l'Agence nationale des fréquences, une taxe destinée à couvrir les coûts complets
 engagés par cet établissement pour le recueil et le traitement des réclamations des usagers de services de communication
-audiovisuelle relatives aux brouillages causés par la mise en service des stations radioélectriques dans  les bandes de
+audiovisuelle relatives aux brouillages causés par la mise en service des stations radioélectriques dans les bandes de
 fréquences 790-862 mégahertz et 694-790 mégahertz. Ne sont pris en considération que les brouillages causés à la réception de
 services de communication audiovisuelle diffusés par les stations d'émission prévues dans les autorisations d'usage de la
 ressource radioélectrique délivrées par le Conseil supérieur de l'audiovisuel antérieurement à la mise en service des
@@ -6266,41 +6276,44 @@ délai de trente jours à compter de l'émission du titre de recettes correspond
 
 Pour l'application du présent I bis, les titulaires d'autorisation d'utilisation de fréquences mentionnés au deuxième alinéa
 informent l'Autorité de régulation des communications électroniques et des postes, le Conseil supérieur de l'audiovisuel et
-l'Agence nationale des fréquences de la date effective de mise en service de chaque station radioélectrique dans  les bandes
+l'Agence nationale des fréquences de la date effective de mise en service de chaque station radioélectrique dans les bandes
 de fréquences 790-862 mégahertz et 694-790 mégahertz. 
 
 Les modalités d'application du présent article, notamment la clef de répartition entre les titulaires d'autorisation
 d'utilisation de chacun des blocs de fréquences, sont précisées par décret en Conseil d'Etat. 
 
-I ter. - L'Agence nationale des fréquences gère les aides instituées à l'article 99 de la loi n° 86-1067 du 30 septembre 1986
+I ter.-L'Agence nationale des fréquences gère les aides instituées à l'article 99 de la loi n° 86-1067 du 30 septembre 1986
 relative à la liberté de communication, l'assistance technique prévue à l'article 100 de la même loi ainsi que la campagne
-nationale de communication prévue à l'article 101 de ladite loi.  
+nationale de communication prévue à l'article 101 de ladite loi. 
 
-II.-L'Agence nationale des fréquences peut, pour ce qui concerne le contrôle de l'utilisation des fréquences et de manière
-proportionnée aux besoins liés à l'accomplissement de ses missions : 
+II.-L'Agence nationale des fréquences peut, pour ce qui concerne le contrôle de l'utilisation des fréquences ainsi que le
+contrôle de la mise sur le marché des équipements mentionnés à l'article L. 34-9, et de manière proportionnée aux besoins
+liés à l'accomplissement de ses missions : 
 
 1° Recueillir, auprès des personnes physiques ou morales exploitant des équipements, des réseaux de communications
-électroniques, des installations radioélectriques ou fournissant des services de communications électroniques, les
-informations ou documents nécessaires pour s'assurer du respect par ces personnes des obligations qui leur sont imposées par
-le présent code ou par les textes pris pour son application ; 
+électroniques, des installations radioélectriques ou fournissant des services de communications électroniques et de celles
+fabriquant, important ou distribuant des équipements mentionnés à l'article L. 34-9, les informations ou documents
+nécessaires pour s'assurer du respect par ces personnes des obligations qui leur sont imposées par le présent code ou par les
+textes pris pour son application ; 
 
 2° Procéder auprès des mêmes personnes à des enquêtes. 
 
-Ces enquêtes sont menées par des fonctionnaires et agents de l'Agence nationale des fréquences habilités à cet effet par le
-ministre chargé des communications électroniques et assermentés dans les conditions prévues à l'article L. 40. 
+Les fonctionnaires et agents de l'agence habilités à cet effet et assermentés dans les conditions prévues à l'article L. 40
+sont autorisés à procéder aux contrôles nécessaires pour rechercher et constater par procès-verbaux les manquements aux
+dispositions relatives à la mise sur le marché des équipements mentionnés à l'article L. 34-9. A cette fin, ils disposent des
+pouvoirs définis aux 1° et 2° et au neuvième alinéa du II du présent article ainsi qu'aux quatrième à septième alinéas de
+l'article L. 40. 
 
 Les fonctionnaires et agents mentionnés à l'alinéa précédent ont accès, de 8 heures à 20 heures ou pendant leurs heures
 d'ouverture au public, pour l'exercice de leurs missions, aux locaux, terrains ou moyens de transport utilisés par les
 personnes exploitant des réseaux de communications électroniques, des installations radioélectriques ou fournissant des
-services de communications électroniques et qui sont à usage professionnel, à l'exclusion des parties de ceux-ci affectées au
-domicile. 
+services de communications électroniques et par celles fabriquant, important ou distribuant des équipements mentionnés à
+l'article L. 34-9, et qui sont à usage professionnel, à l'exclusion des parties de ceux-ci affectées au domicile. 
 
-Le responsable des lieux est informé de son droit d'opposition à la visite. Lorsqu'il exerce ce droit, la visite ne peut se
-dérouler qu'après l'autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort
-duquel sont situés les locaux à visiter. Celui-ci statue dans des conditions fixées par décret en Conseil d'Etat. Toutefois,
-par dérogation, lorsque l'urgence, la gravité des faits justifiant le contrôle ou le risque de destruction ou de
-dissimulation de documents l'exigent, la visite est préalablement autorisée par le juge des libertés et de la détention du
-tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter. 
+Lorsque l'accès à des locaux professionnels leur est refusé ou lorsque ceux-ci comprennent des parties à usage d'habitation
+et que leur occupant s'oppose à l'accès, les fonctionnaires et agents mentionnés à l'alinéa précédent peuvent y accéder après
+autorisation du juge des libertés et de la détention du tribunal de grande d'instance dans le ressort duquel sont situés ces
+locaux. 
 
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée, en présence de l'occupant des lieux ou de son
 représentant, qui peut se faire assister d'un conseil de son choix ou, à défaut, en présence de deux témoins qui ne sont pas
@@ -6322,6 +6335,44 @@ L'Agence nationale des fréquences informe le Conseil supérieur de l'audiovisue
 communications électroniques et des postes des enquêtes portant sur le contrôle de l'utilisation des fréquences dont
 l'assignation leur est respectivement confiée et leur en communique les résultats. 
 
+II bis.-En cas de non-respect des dispositions relatives à la mise sur le marché des équipements mentionnés à l'article L.
+34-9, l'Agence nationale des fréquences peut, après une procédure contradictoire, mettre en demeure, dans un délai qu'elle
+détermine, la personne responsable de se conformer à ces dispositions et de cesser tout agissement illicite. 
+
+Lorsque la personne responsable ne se conforme pas dans le délai imparti à la mise en demeure, en cas de manquement aux
+articles R. 20-5, R. 20-10, R. 20-11, R. 20-19 et R. 20-21, l'agence peut, sans préjudice de la mise en œuvre par l'autorité
+compétente des mesures de restriction ou d'interdiction prévues au 9° du II de l'article L. 34-9, prononcer à son encontre
+une amende administrative dont le montant ne peut excéder 1 500 € pour une personne physique et 7 500 € pour une personne
+morale. 
+
+Avant toute décision, l'agence informe par écrit la personne mise en cause de la sanction envisagée à son encontre, en lui
+indiquant qu'elle peut prendre connaissance des pièces du dossier et se faire assister par le conseil de son choix et en
+l'invitant à présenter, dans le délai d'un mois, ses observations écrites et, le cas échéant, ses observations orales. 
+
+Passé ce délai, l'agence peut, par décision motivée, prononcer l'amende. 
+
+La décision prononcée par l'agence peut être publiée aux frais de la personne sanctionnée. Toutefois, l'agence doit
+préalablement avoir informé cette dernière, lors de la procédure contradictoire mentionnée aux alinéas précédents, de la
+nature et des modalités de la publicité envisagée. 
+
+Lorsqu'une amende administrative est susceptible de se cumuler avec une amende pénale infligée à l'auteur du manquement à
+raison des mêmes faits, le montant global des amendes prononcées ne dépasse pas le maximum légal le plus élevé. 
+
+Lorsque, à l'occasion d'une même procédure ou de procédures séparées, plusieurs sanctions administratives ont été prononcées
+à l'encontre du même auteur pour des manquements en concours passibles d'amendes dont le montant maximal excède 3 000 € pour
+une personne physique et 15 000 € pour une personne morale, ces sanctions s'exécutent cumulativement dans la limite du
+maximum légal le plus élevé. 
+
+Les documents recueillis et établis à l'occasion de la recherche et de la constatation d'un manquement ayant donné lieu à une
+procédure de sanction administrative ne sont communicables qu'à la personne qui en fait l'objet ou à son représentant. 
+
+L'amende est recouvrée comme en matière de créances étrangères à l'impôt et au domaine. 
+
+L'agence peut demander à la juridiction civile d'ordonner, le cas échéant sous astreinte, toute mesure de nature à mettre un
+terme aux manquements aux dispositions relatives à la mise sur le marché des équipements mentionnés à l'article L. 34-9. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. 
+
 III.-L'agence est administrée par un conseil d'administration composé de représentants des administrations, notamment de
 celles qui sont attributaires de bandes de fréquences, du Conseil supérieur de l'audiovisuel et de l'Autorité de régulation
 des communications électroniques et des postes, ainsi que, pour au moins un tiers de ses membres, de personnalités choisies
@@ -6339,7 +6390,7 @@ publiques, le produit de la taxe mentionnée au I bis, ainsi que le produit des 
 fonds de réaménagement du spectre les contributions des personnes publiques ou privées versées à des fins de réaménagement du
 spectre. Les dépenses liées à l'attribution des aides aux téléspectateurs, à l'assistance technique ainsi qu'à la campagne
 nationale de communication prévues au I ter sont gérées au sein d'une comptabilité distincte et comprennent les coûts
-complets supportés par l'agence pour la gestion de ces dispositifs.  
+complets supportés par l'agence pour la gestion de ces dispositifs. 
 
 VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise notamment les missions,
 l'organisation et les conditions du fonctionnement de l'établissement. 
@@ -6352,6 +6403,19 @@ antarctiques françaises et en Nouvelle-Calédonie sous réserve des compétence
 des statuts qui les régissent.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 99 (V)
+	  - Code des postes et des communications électroni... - art. L32-1 (V)
+	  - Code des postes et des communications électroni... - art. L40 (V)
+	  - Code des postes et des communications électroni... - art. R20-10 (V)
+	  - Code des postes et des communications électroni... - art. R20-11 (V)
+	  - Code des postes et des communications électroni... - art. R20-19 (V)
+	  - Code des postes et des communications électroni... - art. R20-5 (V)
+	  - Code des postes et des communications électroniques - art. L41
+	  - Code des postes et des communications électroniques - art. L97-2
+	  - Code de la défense. - art. L1111-2
 
 	**Cité par**:
 
@@ -6375,8 +6439,7 @@ des statuts qui les régissent.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1267 du 14 octobre 2015 - art. 15
-	  - Loi n°2015-1267 du 14 octobre 2015 - art. 18
+	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 5
 
 	**Codifié par**:
 
@@ -6385,13 +6448,6 @@ des statuts qui les régissent.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L97-1 (T)
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L40
-	  - Code des postes et des communications électroniques - art. L41
-	  - Code des postes et des communications électroniques - art. L97-2
-	  - Code de la défense. - art. L1111-2
 
 
 #### Chapitre II : Numérotation et adressage.
