@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -1626,33 +1626,56 @@ On entend par interconnexion la liaison physique et logique des réseaux ouverts
 un opérateur différent, afin de permettre aux utilisateurs d'un opérateur de communiquer avec les utilisateurs du même
 opérateur ou d'un autre, ou bien d'accéder aux services fournis par un autre opérateur. Les services peuvent être fournis par
 les parties concernées ou par d'autres parties qui ont accès au réseau. L'interconnexion constitue un type particulier
-d'accès mis en oeuvre entre opérateurs de réseaux ouverts au public. 
+d'accès mis en œuvre entre opérateurs de réseaux ouverts au public. 
 
 10° Equipement terminal. 
 
 On entend par équipement terminal tout équipement destiné à être connecté directement ou indirectement à un point de
-terminaison d'un réseau en vue de la transmission, du traitement ou de la réception d'informations. Ne sont pas visés les
-équipements permettant exclusivement d'accéder à des services de radio et de télévision. 
+terminaison d'un réseau en vue de la transmission, du traitement ou de la réception d'informations. 
 
 11° Réseau, installation ou équipement radioélectrique. 
 
-Un réseau, une installation ou un équipement sont qualifiés de radioélectriques lorsqu'ils utilisent des fréquences
-radioélectriques pour la propagation des ondes en espace libre. Au nombre des réseaux radioélectriques figurent notamment les
-réseaux utilisant les capacités de satellites ; 
+Un réseau, une installation ou un équipement sont qualifiés de radioélectriques lorsqu'ils utilisent intentionnellement des
+fréquences radioélectriques, en émission ou en réception, pour la propagation des ondes en espace libre, à des fins de
+radiocommunication ou de radiorepérage, y compris les équipements permettant de recevoir des services de radio ou de
+télévision. 
+
+Sont également considérés comme des équipements radioélectriques ceux qui doivent être complétés d'un accessoire tel qu'une
+antenne, pour émettre ou recevoir intentionnellement des fréquences radioélectriques à des fins de radiocommunication ou de
+radiorepérage. 
+
+Au nombre des réseaux radioélectriques figurent, notamment, les réseaux utilisant les capacités de satellites.
 
 12° Exigences essentielles. 
 
-On entend par exigences essentielles les exigences nécessaires pour garantir dans l'intérêt général la santé et la sécurité
-des personnes, la compatibilité électromagnétique entre les équipements et installations de communications électroniques et,
-le cas échéant, une bonne utilisation du spectre des fréquences radioélectriques en évitant des interférences dommageables
-pour les tiers. Les exigences essentielles comportent également, dans les cas justifiés, la protection des réseaux et
-notamment des échanges d'informations de commande et de gestion qui y sont associés, l'interopérabilité des services et celle
-des équipements terminaux, la protection des données, la compatibilité des équipements terminaux et des équipements
-radioélectriques avec des dispositifs empêchant la fraude, assurant l'accès aux services d'urgence et facilitant leur
-utilisation par les personnes handicapées. 
+On entend par "exigences essentielles" les exigences nécessaires pour garantir la préservation de l'intérêt général
+s'attachant : 
 
-On entend par interopérabilité des équipements terminaux l'aptitude de ces équipements à fonctionner, d'une part, avec le
-réseau et, d'autre part, avec les autres équipements terminaux. 
+- à la protection de la santé, de la sécurité des personnes et des animaux domestiques ainsi que des biens, dans des
+conditions fixées par décret en Conseil d'Etat ; 
+
+- au maintien d'un niveau adéquat de compatibilité électromagnétique entre équipements et installations de communications
+électroniques, dans des conditions fixées par décret en Conseil d'Etat ; 
+
+- à une utilisation efficace des fréquences radioélectriques par les équipements et à une contribution à l'utilisation
+optimisée de ces dernières en évitant des brouillages préjudiciables pour les tiers. 
+
+Les exigences essentielles comportent également, pour les classes et les catégories d'équipements prévues par décret en
+Conseil d'Etat, les exigences nécessaires à : 
+
+- la protection des réseaux, notamment des échanges d'informations de commande et de gestion qui y sont associés ; 
+
+- l'interopérabilité des services et celle des équipements radioélectriques ; 
+
+- la protection des données à caractère personnel et de la vie privée des utilisateurs et des abonnés ; 
+
+- la compatibilité des équipements radioélectriques avec des accessoires, y compris des chargeurs universels, et avec des
+dispositifs empêchant la fraude, assurant l'accès aux services d'urgence, facilitant leur utilisation par les personnes
+handicapées ou garantissant qu'un logiciel ne peut être installé sur un équipement radioélectrique que lorsque la conformité
+de la combinaison de l'équipement radioélectrique avec le logiciel est avérée. 
+
+Aux fins du présent article, on entend par "interopérabilité des équipements radioélectriques" l'aptitude de ceux-ci à
+fonctionner, d'une part, avec le réseau et, d'autre part, avec les autres équipements radioélectriques.
 
 13° Numéro géographique. 
 
@@ -1715,6 +1738,25 @@ On entend par services associés les services associés à un réseau ou à un s
 concourent ou peuvent concourir à la fourniture de services via ce réseau ou ce service. Sont notamment considérés comme des
 services associés les services de conversion du numéro d'appel, les systèmes d'accès conditionnel, les guides électroniques
 de programmes, ainsi que les services relatifs à l'identification, à la localisation et à la disponibilité de l'utilisateur.
+
+21° Gestionnaire d'infrastructure d'accueil. 
+
+On entend par gestionnaire d'infrastructure d'accueil toute personne privée ou publique qui met à disposition ou exploite une
+infrastructure : 
+
+- permettant l'exploitation d'un réseau ouvert au public au sens du 3° ou d'un réseau destiné à fournir un service dans le
+domaine de la production, du transport ou de la distribution d'électricité, y compris pour l'éclairage public, de gaz ou de
+chaleur, d'eau y compris d'évacuation ou de traitement des eaux usées ; ou 
+
+- destinée à fournir des services de transport, y compris les voies ferrées, les routes, les ports et les aéroports. 
+
+22° Infrastructure d'accueil. 
+
+On entend par infrastructure d'accueil tout élément d'un réseau destiné à accueillir des éléments d'un réseau sans devenir
+lui-même un élément actif du réseau, tels que les conduites, pylônes, gaines, chambres de tirage et regards, trous de visite,
+boîtiers, immeubles ou accès à des immeubles, installations liées aux antennes, tours et poteaux, châteaux d'eau. Les câbles,
+y compris la fibre noire, ainsi que les éléments de réseaux utilisés pour la fourniture des eaux destinées à la consommation
+humaine ne sont pas des infrastructures d'accueil au sens du présent article.
 
 **Liens relatifs à cet article**
 
@@ -1787,7 +1829,7 @@ de programmes, ainsi que les services relatifs à l'identification, à la locali
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 119
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 1
 
 
 ###### Article L32-1
@@ -2021,10 +2063,13 @@ décision motivée :
 1° Recueillir auprès des personnes physiques ou morales exploitant des réseaux de communications électroniques ou fournissant
 des services de communications électroniques les informations ou documents nécessaires pour s'assurer du respect par ces
 personnes des principes définis aux articles L. 32-1 et L. 32-3, ainsi que des obligations qui leur sont imposées par le
-présent code ou par les textes pris pour son application ;
+présent code ou par les textes pris pour son application ; 
 
 2° Recueillir auprès des personnes fournissant des services de communication au public en ligne les informations ou documents
 concernant les conditions techniques et tarifaires d'acheminement du trafic appliquées à leurs services ; 
+
+2° bis Recueillir auprès des gestionnaires d'infrastructure d'accueil les informations ou documents nécessaires pour
+s'assurer du respect par ces personnes des obligations prévues aux articles L. 34-8-2-1 et L. 34-8-2-2 ; 
 
 3° Procéder auprès des mêmes personnes à des enquêtes. 
 
@@ -2043,16 +2088,9 @@ ou une partie de ceux-ci constituent un domicile, les visites sont autorisées d
 
 Le ministre chargé des communications électroniques et l'Autorité de régulation des communications électroniques et des
 postes veillent à ce que ne soient pas divulguées les informations recueillies en application du présent article lorsqu'elles
-sont protégées par un secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures
-d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et
-fiscal.
+sont protégées par un secret visé aux articles L. 311-5 à L. 311-8 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6
-	  - Code des postes et des communications électroniques - art. L32-1
 
 	**Cité par**:
 
@@ -2090,7 +2128,13 @@ fiscal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 4
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
+	  - Code des postes et des communications électroniques - art. L32-1
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article L32-5
@@ -3167,14 +3211,13 @@ coordonnées d'un abonné ou d'une personne physique, au respect des disposition
 compétences qui lui sont reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir,
 par tous moyens, les plaintes relatives aux manquements aux dispositions du présent article. 
 
-Les manquements aux dispositions du présent article sont recherchés et constatés dans les conditions fixées par les articles
-L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, 
-L. 470-1 et L. 470-5 du code de commerce. 
+Les manquements aux dispositions du présent article sont recherchés et constatés par les agents mentionnés aux articles L.
+511-3 et L. 511-21 du code de la consommation, dans les conditions prévues à l'article L. 511-5 du même code.  
 
 Sous réserve qu'il n'ait pas été fait application de l'article L. 36-11 et en vue d'assurer la protection du consommateur,
 les manquements au présent article sont sanctionnés par une amende administrative, prononcée par l'autorité administrative
-chargée de la concurrence et de la consommation dans les conditions prévues à l'article L. 141-1-2 du code de la
-consommation, dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. 
+chargée de la concurrence et de la consommation dans les conditions prévues au chapitre II du titre II du livre V du code de
+la consommation, dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. 
 
 Lorsque l'autorité mentionnée au huitième alinéa du présent article a prononcé une amende administrative en application du
 même présent article, l'autorité mentionnée à l'article L. 36-11 veille, si elle prononce à son tour une sanction, à ce que
@@ -3199,7 +3242,7 @@ aux différentes technologies utilisées.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 115
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 13
 
 	**Codifié par**:
 
@@ -3418,6 +3461,147 @@ entre en vigueur le 1er juin 2008.
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L34-8
+
+
+###### Article L34-8-2-1
+
+I.-Sans préjudice du droit de propriété des tiers, les gestionnaires d'infrastructure d'accueil font droit aux demandes
+raisonnables d'accès à leurs infrastructures émanant d'un exploitant de réseau ouvert au public à très haut débit, y compris
+lorsqu'il est établi dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen. 
+
+La demande d'accès indique de manière détaillée les infrastructures d'accueil auxquelles l'accès est demandé et comprend un
+échéancier de déploiement précis du réseau ouvert au public à très haut débit. 
+
+II.-L'accès est fourni selon des modalités et dans des conditions, y compris tarifaires, équitables et raisonnables. Ces
+conditions garantissent que le gestionnaire d'infrastructure a une possibilité équitable de récupérer ses coûts et tiennent
+compte de l'incidence de l'accès demandé sur le plan d'affaires propre à l'infrastructure concernée du gestionnaire de
+l'infrastructure d'accueil, y compris les investissements réalisés par ce dernier pour l'utilisation de l'infrastructure pour
+la fourniture de services de communications électroniques à très haut débit. 
+
+La demande d'accès ne peut être refusée que si le refus est fondé sur des critères objectifs, transparents et proportionnés,
+tels que :
+
+- la capacité technique des infrastructures à accueillir des éléments du réseau ouvert au public à très haut débit, en raison
+notamment du manque d'espace disponible, y compris pour des besoins futurs d'espace qui ont été démontrés de manière
+suffisante ;
+
+- la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ;
+
+- l'intégrité et la sécurité du réseau ;
+
+- les risques de perturbation grave du réseau d'accueil ;
+
+- la disponibilité d'autres offres de gros d'accès à des infrastructures d'accueil du gestionnaire, adaptées à la fourniture
+de réseaux de communications électroniques à très haut débit, auxquelles l'accès est offert selon des modalités et conditions
+équitables et raisonnables ;
+
+- les obligations issues de réglementations particulières applicables au gestionnaire d'infrastructure d'accueil. 
+
+Le gestionnaire d'infrastructure d'accueil communique sa réponse au demandeur dans un délai maximal de deux mois à compter de
+la réception d'une demande complète et motive, le cas échéant, sa décision de refus. 
+
+III.-En cas de refus d'accès ou en l'absence d'accord sur les modalités d'accès, y compris tarifaires, dans le délai prévu à
+l'alinéa précédent, l'Autorité de régulation des communications électroniques et des postes peut être saisie du différend
+relatif à cet accès par l'opérateur de réseau ouvert au public à très haut débit demandeur d'accès ou le gestionnaire
+d'infrastructure d'accueil. Sa décision est rendue dans les conditions prévues à l'article L. 36-8. 
+
+Lorsque l'activité du gestionnaire d'infrastructure d'accueil relève de la compétence de l'Autorité de régulation des
+activités ferroviaires et routières ou de la Commission de régulation de l'énergie, l'Autorité de régulation des
+communications électroniques et des postes saisit, avant de se prononcer, l'autorité concernée pour avis, dans un délai fixé
+par décret en Conseil d'Etat. 
+
+IV.-Lorsque le gestionnaire d'infrastructure d'accueil est soumis à l'obligation de faire droit aux demandes raisonnables
+d'accès à ses infrastructures d'accueil conformément à une décision de l'Autorité de régulation des communications
+électroniques et des postes prise en application des dispositions du présent livre, les dispositions des I à III du présent
+article ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. L32-4 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-2-2 (VD)
+	  - Code des postes et des communications électroni... - art. L34-8-6 (V)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
+	  - Code des postes et des communications électroni... - art. R11-1 (V)
+
+
+###### Article L34-8-2-2
+
+I.-Dans la zone envisagée pour le déploiement d'un réseau ouvert au public à très haut débit, l'exploitant d'un tel réseau a
+accès aux informations suivantes relatives aux infrastructures d'accueil auxquelles l'accès peut être demandé en application
+de l'article L. 34-8-2-1 :
+
+- l'emplacement et le tracé ;
+
+- le type et l'utilisation actuelle des infrastructures ;
+
+- un point de contact. 
+
+L'exploitant d'un réseau ouvert au public à très haut débit respecte le secret des affaires dans l'utilisation de ces
+informations. 
+
+II.-L'exploitant d'un réseau ouvert au public à très haut débit peut obtenir communication des informations mentionnées au I
+auprès du gestionnaire d'infrastructure d'accueil. Il peut également demander la communication de ces informations auprès des
+personnes publiques qui les détiennent sous forme électronique dans le cadre de leurs missions. 
+
+III.-Les gestionnaires d'infrastructure d'accueil et les personnes publiques communiquent les informations mentionnées au I
+aux exploitants de réseau ouvert au public dans un délai de deux mois à compter de la réception de la demande écrite, selon
+des modalités proportionnées, non discriminatoires et transparentes. 
+
+La communication de ces informations peut être limitée ou refusée pour les motifs suivants :
+
+- la sécurité et l'intégrité des réseaux ;
+
+- la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ;
+
+- la confidentialité de ces informations ou la protection du secret des affaires. 
+
+IV.-Sans préjudice des I à III, le gestionnaire d'infrastructure d'accueil fait droit aux demandes raisonnables de visite
+technique sur place sur les éléments spécifiés de ses infrastructures éventuellement concernées par le déploiement d'éléments
+d'un réseau ouvert au public à très haut débit. 
+
+La demande est formulée par écrit et l'autorisation de visite est accordée selon des modalités proportionnées, non
+discriminatoires et transparentes, dans un délai d'un mois à compter de la réception de la demande écrite. 
+
+V.-En cas de limitation ou de refus de communication des informations mentionnées au I ou de visite technique prévue au IV,
+l'Autorité de régulation des communications électroniques et des postes peut être saisie du différend relatif à cet accès par
+le demandeur ou le détenteur de ces informations sollicitées. Sa décision est rendue dans les conditions prévues à l'article
+L. 36-8. 
+
+Lorsque l'activité de l'une des parties au différend relève de la compétence de l'Autorité de régulation des activités
+ferroviaires et routières ou de la Commission de régulation de l'énergie, l'Autorité de régulation des communications
+électroniques et des postes saisit, avant de se prononcer, l'autorité concernée pour avis dans un délai fixé par décret en
+Conseil d'Etat. 
+
+VI.-Lorsque le gestionnaire d'infrastructure d'accueil est soumis à l'obligation de communiquer les informations mentionnées
+au I conformément à une décision de l'Autorité de régulation des communications électroniques et des postes prise en
+application des dispositions du présent livre, les dispositions des II et III, en tant qu'elles imposent des obligations aux
+gestionnaires d'infrastructure d'accueil, ainsi que les dispositions du V ne sont pas applicables. 
+
+Lorsque le gestionnaire d'infrastructure d'accueil est soumis à l'obligation de faire droit aux demandes raisonnables de
+visite technique mentionnée au IV conformément à une décision de l'Autorité de régulation des communications électroniques et
+des postes prise en application des dispositions du présent livre, les dispositions des IV et V ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (VT)
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R11-1 (V)
 
 
 ###### Article L34-8-3
@@ -4464,9 +4648,11 @@ régulation des communications électroniques et des postes peut être saisie du
 
 L'autorité se prononce, dans un délai fixé par décret en Conseil d'Etat, après avoir mis les parties à même de présenter
 leurs observations et, le cas échéant, procédé à des consultations techniques, économiques ou juridiques, ou expertises
-respectant le secret de l'instruction du litige dans les conditions prévues par le présent code. Sa décision est motivée et
-précise les conditions équitables, d'ordre technique et financier, dans lesquelles l'interconnexion ou l'accès doivent être
-assurés. L'autorité peut, à la demande de la partie qui la saisit, décider que sa décision produira effet à une date
+respectant le secret de l'instruction du litige dans les conditions prévues par le présent code. Les frais engendrés par ces
+consultations et expertises peuvent être mis à la charge de la partie perdante, sauf si les circonstances particulières du
+différend justifient qu'ils soient mis à la charge d'une autre partie ou partagés entre les parties. Sa décision est motivée
+et précise les conditions équitables, d'ordre technique et financier, dans lesquelles l'interconnexion ou l'accès doivent
+être assurés. L'autorité peut, à la demande de la partie qui la saisit, décider que sa décision produira effet à une date
 antérieure à sa saisine, sans toutefois que cette date puisse être antérieure à la date à laquelle la contestation a été
 formellement élevée par l'une des parties pour la première fois et, en tout état de cause, sans que cette date soit
 antérieure de plus de deux ans à sa saisine. Lorsque les faits à l'origine du litige sont susceptibles de restreindre de
@@ -4496,6 +4682,9 @@ privée ;
 ceux portant sur la conclusion ou l'exécution de la convention d'itinérance locale prévue à l'article L. 34-8-1, de la
 convention de partage de réseaux radioélectriques ouverts au public prévue à l'article L. 34-8-1-1, de la convention d'accès
 prévue à l'article L. 34-8-3 ou de la convention d'accès prévue à l'article L. 34-8-4 ; 
+
+2° ter Les possibilités et conditions d'accès aux infrastructures d'accueil et aux informations qui les concernent,
+mentionnées aux articles L. 34-8-2-1 et L. 34-8-2-2 ; 
 
 3° Les conditions techniques et financières de la mise en œuvre de l'utilisation partagée des infrastructures publiques de
 génie civil prévue à l'article 134 de la loi n° 2004-669 du 9 juillet 2004 précitée ; 
@@ -4544,9 +4733,9 @@ prendre sa décision.
 
 VI.-Lorsque le différend concerne une partie au titre des activités qu'elle exerce en tant que cocontractant d'une
 collectivité territoriale ou d'un groupement de collectivités territoriales agissant dans le cadre de l'article L. 1425-1 du
-code général des collectivités territoriales, cette collectivité ou ce groupement a la qualité de partie devant l'Autorité de
-régulation des communications électroniques et des postes et, le cas échéant, devant la cour d'appel de Paris et la Cour de
-cassation.
+code général des collectivités territoriales ou en tant que propriétaire d'infrastructure d'accueil au sens du 22° de
+l'article L. 32, cette collectivité ou ce groupement a la qualité de partie devant l'Autorité de régulation des
+communications électroniques et des postes et, le cas échéant, devant la cour d'appel de Paris et la Cour de cassation.
 
 **Liens relatifs à cet article**
 
@@ -4578,7 +4767,7 @@ cassation.
 	  - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
 	  - Code des postes et des communications électroni... - art. L34-8-2-2 (VD)
 	  - Code des postes et des communications électroni... - art. L34-8-3 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-4 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-4 (M)
 	  - Code des postes et des communications électroni... - art. L34-8-6 (V)
 	  - Code des postes et des communications électroni... - art. L36-11 (VD)
 	  - Code des postes et des communications électroni... - art. L47 (V)
@@ -4594,8 +4783,11 @@ cassation.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 122
-	  - Loi n°2015-990 du 6 août 2015 - art. 124
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 4
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L32 (VT)
 
 
 ###### Article L36-10
@@ -4657,10 +4849,11 @@ par voie conventionnelle entre les opérateurs ;
 L'Autorité de régulation des communications électroniques et des postes peut, soit d'office, soit à la demande du ministre
 chargé des communications électroniques, d'une organisation professionnelle, d'une association agréée d'utilisateurs ou d'une
 personne physique ou morale concernée, sanctionner les manquements qu'elle constate de la part des exploitants de réseau et
-des fournisseurs de services de communications électroniques. Ce pouvoir de sanction est exercé dans les conditions
-suivantes : 
+des fournisseurs de services de communications électroniques ou des gestionnaires d'infrastructure d'accueil. Ce pouvoir de
+sanction est exercé dans les conditions suivantes : 
 
-I.-En cas de manquement par un exploitant de réseau ou un fournisseur de services de communications électroniques :
+I.-En cas de manquement par un exploitant de réseau ou un fournisseur de services de communications électroniques ou par un
+gestionnaire d'infrastructure d'accueil :
 
 - aux dispositions législatives et réglementaires au respect desquelles l'Autorité a pour mission de veiller ou aux textes et
 décisions pris en application de ces dispositions ;
@@ -4677,11 +4870,11 @@ de s'y conformer dans un délai qu'elle détermine.
 La mise en demeure peut être assortie d'obligations de se conformer à des étapes intermédiaires dans le même délai. Elle est
 motivée et notifiée à l'intéressé. L'Autorité peut rendre publique cette mise en demeure. 
 
-II.-Lorsqu'un exploitant de réseau ou un fournisseur de services de communications électroniques ne se conforme pas dans les
-délais fixés à la mise en demeure prévue au I ou aux obligations intermédiaires dont elle est assortie, l'Autorité de
-régulation des communications électroniques et des postes peut, après instruction conduite par ses services, notifier les
-griefs à la personne en cause. Elle transmet alors le dossier d'instruction et la notification des griefs à la formation
-restreinte. 
+II.-Lorsqu'un exploitant de réseau ou un fournisseur de services de communications électroniques ou un gestionnaire
+d'infrastructure d'accueil ne se conforme pas dans les délais fixés à la mise en demeure prévue au I ou aux obligations
+intermédiaires dont elle est assortie, l'Autorité de régulation des communications électroniques et des postes peut, après
+instruction conduite par ses services, notifier les griefs à la personne en cause. Elle transmet alors le dossier
+d'instruction et la notification des griefs à la formation restreinte. 
 
 III.-Après que la personne en cause a reçu la notification des griefs, a été mise à même de consulter le dossier et de
 présenter ses observations écrites, et avant de prononcer une sanction, la formation restreinte procède, selon une procédure
@@ -4690,8 +4883,8 @@ chargé de l'instruction et de la personne en cause.
 
 La formation restreinte peut, en outre, entendre toute personne dont l'audition lui paraît utile. 
 
-La formation restreinte peut prononcer à l'encontre de l'exploitant de réseau ou du fournisseur de services en cause une des
-sanctions suivantes :
+La formation restreinte peut prononcer à l'encontre de l'exploitant de réseau, du fournisseur de services ou du gestionnaire
+d'infrastructure d'accueil en cause une des sanctions suivantes :
 
 - la suspension totale ou partielle, pour un mois au plus, du droit d'établir un réseau de communications électroniques ou de
 fournir un service de communications électroniques, ou le retrait de ce droit, dans la limite de trois ans ;
@@ -4778,7 +4971,7 @@ de son ordonnance.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-329 du 12 mars 2014 - art. 3
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 5
 
 
 ###### Article L36-13
@@ -5685,24 +5878,24 @@ l'intéressé ordonner mainlevée de la saisie.
 
 ###### Article L40-1
 
-Les agents mentionnés au 1° de l'article L. 215-1 du code de la consommation ont qualité pour rechercher et constater les
-infractions aux dispositions de l'article L. 34-9 du présent code et des textes pris pour son application. A cet effet, ils
-disposent des pouvoirs prévus aux chapitres II à VI du titre Ier du livre II du code de la consommation.
+Les agents mentionnés à l'article L. 511-3 et aux 1° et 2° de l'article L. 511-22 du code de la consommation ont qualité pour
+rechercher et constater les infractions aux dispositions de l'article L. 34-9 du présent code et des textes pris pour son
+application. A cet effet, ils disposent des pouvoirs prévus prévus au I de l'article L. 511-22 du code de la consommation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 26 () JORF 28 juillet 2001
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 13
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-1 (V)
-	  - Code des postes et des communications électroni... - art. L34-9 (V)
+	  - Code de la consommation - art. L215-1
+	  - Code des postes et des communications électroniques - art. L34-9
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ### TITRE II : Ressources et police
@@ -7151,11 +7344,10 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 ###### Article L49
 
-Le maître d'ouvrage d'une opération de travaux d'installation ou de renforcement d'infrastructures de réseaux d'une longueur
-significative sur le domaine public est tenu d'informer la collectivité ou le groupement de collectivités désigné par le
-schéma directeur territorial d'aménagement numérique prévu à l'article L. 1425-2 du code général des collectivités
-territoriales ou, en l'absence de schéma directeur, le représentant de l'Etat dans la région, dès la programmation de ces
-travaux :
+I.-Le maître d'ouvrage d'une opération de travaux d'installation ou de renforcement d'infrastructures d'accueil, d'une
+importance significative, est tenu d'informer la collectivité ou le groupement de collectivités porteur du schéma directeur
+territorial d'aménagement numérique prévu à l'article L. 1425-2 du code général des collectivités territoriales ou, en
+l'absence de schéma directeur, le représentant de l'Etat dans la région, dès la programmation de ces travaux :
 
 - pour les aménagements de surface, lorsque l'opération nécessite un décapage du revêtement et sa réfection ultérieure ;
 
@@ -7163,15 +7355,51 @@ travaux :
 
 - pour les réseaux souterrains, lorsque l'opération nécessite la réalisation de tranchées. 
 
-Le destinataire de l'information assure sans délai la publicité de celle-ci auprès des collectivités territoriales ou
-groupements de collectivités territoriales concernés ainsi que des opérateurs de réseaux de communications électroniques au
-sens du 15° de l'article L. 32 du présent code. 
+A cette fin, il fournit les informations suivantes :
 
-Sur demande motivée d'une collectivité territoriale, d'un groupement de collectivités territoriales ou d'un opérateur de
+- l'emplacement et le type de travaux ;
+
+- les éléments de réseau concernés ;
+
+- la date estimée de début des travaux et la durée de ces derniers ;
+
+- un point de contact. 
+
+Le destinataire de l'information assure sans délai la mise à disposition de celle-ci auprès des collectivités territoriales
+ou groupements de collectivités territoriales concernés. 
+
+Le maître d'ouvrage communique également sans délai ces informations au guichet unique prévu à l'article L. 50. 
+
+Le maître d'ouvrage communique ces informations à l'exploitant d'un réseau ouvert au public à très haut débit qui le demande
+par écrit, y compris par voie électronique, dans un délai de deux semaines à compter de la réception de la demande, à moins
+que ces informations :
+
+- n'aient été mises à la disposition du public sous forme électronique ;
+
+- ne soient accessibles par l'intermédiaire de la collectivité territoriale ou du groupement de collectivités territoriales
+désigné par le schéma directeur territorial d'aménagement numérique ou du guichet unique prévu à l'article L. 50. 
+
+La communication de ces informations peut être limitée ou refusée pour les motifs suivants :
+
+- la sécurité et l'intégrité des réseaux ;
+
+- la sécurité nationale, la sécurité publique, la santé publique ou la sécurité des personnes ;
+
+- la confidentialité de ces informations ou la protection du secret des affaires. 
+
+II.-Sur demande motivée d'une collectivité territoriale, d'un groupement de collectivités territoriales ou d'un opérateur de
 communications électroniques, le maître d'ouvrage de l'opération est tenu d'accueillir dans ses tranchées les infrastructures
 d'accueil de câbles de communications électroniques réalisées par eux ou pour leur compte, ou de dimensionner ses appuis de
-manière à permettre l'accroche de câbles de communications électroniques, sous réserve de la compatibilité de l'opération
-avec les règles de sécurité et le fonctionnement normal du réseau pour lequel les travaux sont initialement prévus. 
+manière à permettre l'accroche de câbles de communications électroniques. 
+
+Le maître d'ouvrage fait droit à cette demande pour autant que la demande de coordination :
+
+- n'entraîne pas de coûts disproportionnés, y compris en raison de retards supplémentaires, pour les travaux de génie civil
+envisagés initialement ;
+
+- ne fasse pas obstacle au contrôle de la coordination des travaux ;
+
+- soit introduite dans un délai précisé par décret. 
 
 Sauf accord du maître d'ouvrage de l'opération initiale sur un mode de prise en charge différent, le demandeur prend en
 charge les coûts supplémentaires supportés par le maître d'ouvrage de l'opération initiale à raison de la réalisation de ces
@@ -7184,20 +7412,29 @@ Les infrastructures souterraines ainsi réalisées deviennent, à la fin de l'op
 Dans le cas d'infrastructures aériennes, le demandeur dispose d'un droit d'usage de l'appui pour l'accroche de câbles de
 communications électroniques. 
 
-Un décret détermine les modalités d'application du présent article, notamment la longueur significative des opérations visées
-au premier alinéa, le délai dans lequel doit intervenir la demande visée au sixième alinéa et les modalités de détermination,
-en fonction de la nature de l'opération, de la quote-part des coûts communs visés au septième alinéa.
+III.-En cas de litige portant sur l'accès à l'information prévu au I ou lorsque aucun accord relatif à la coordination des
+travaux mentionnée au II n'a pu être conclu dans un délai d'un mois à compter de la réception de la demande formelle de
+négociation, l'Autorité de régulation des communications électroniques et des postes peut être saisie du différend par l'une
+des parties. L'Autorité peut recueillir l'avis du représentant de l'Etat dans la région dans un délai fixé par décret en
+Conseil d'Etat. 
+
+Sa décision est rendue dans un délai fixé par décret en Conseil d'Etat et dans les conditions prévues à l'article L. 36-8.
+Elle détermine, le cas échéant, les conditions équitables et non discriminatoires, d'ordre technique et financier, dans
+lesquelles l'opération de coordination mentionnée au II doit être assurée. 
+
+IV.-Un décret détermine les modalités d'application du présent article, notamment l'importance significative des opérations
+mentionnées au I, le délai dans lequel doit intervenir la demande mentionnée au II et les modalités de détermination, en
+fonction de la nature de l'opération, de la quote-part des coûts communs mentionnée au II.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 27
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 6
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1425-2
-	  - Code des postes et des communications électroniques - art. L32
+	  - Code général des collectivités territoriales - art. L1425-2 (M)
 
 	**Cité par**:
 
@@ -7206,6 +7443,27 @@ en fonction de la nature de l'opération, de la quote-part des coûts communs vi
 	  - Code des postes et des communications électroni... - art. D407-6 (V)
 	  - Code des postes et des communications électroni... - art. L50 (VD)
 	  - Code des postes et des communications électroni... - art. R11-1 (V)
+	  - Code des postes et des communications électroni... - art. R42-2 (V)
+
+
+###### Article L50
+
+Un guichet unique rassemble les éléments nécessaires à l'identification des maîtres d'ouvrage d'une opération de travaux
+d'installation ou de renforcement d'infrastructures d'accueil, d'une importance significative, ainsi que les informations
+communiquées par ces derniers conformément aux dispositions du I de l'article L. 49. Les modalités de fonctionnement du
+guichet unique ainsi que le format et la structure selon lesquels ces informations doivent être transmises sont définis par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 7
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. D407-5 (V)
+	  - Code des postes et des communications électroni... - art. L49 (VD)
 	  - Code des postes et des communications électroni... - art. R42-2 (V)
 
 
