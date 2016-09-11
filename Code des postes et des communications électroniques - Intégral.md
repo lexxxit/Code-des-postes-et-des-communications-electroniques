@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-08-14
+Version Consolidée au 2016-09-12
 
 # Partie législative
 
@@ -12423,6 +12423,48 @@ employés dans certaines limites de tension est remplacée par la référence au
 	  - Décret n°62-274 du 12 mars 1962
 
 
+##### Paragraphe II bis : Modalités de formulation des observations sur les nouvelles implantations ou les modifications d'installations radioélectriques soumises à avis ou accord de l'Agence nationale des fréquences
+
+###### Article R20-13-1
+
+I.-Le maire ou le président de l'établissement public de coopération intercommunale dispose d'un délai de huit jours à
+compter de la réception du dossier d'information mentionné aux premier et deuxième alinéas du B du II de l'article L. 34-9-1
+pour demander la simulation de l'exposition aux champs électromagnétiques générée par l'installation concernée par le
+dossier. 
+
+II.-Le dossier d'information mentionné aux premier et deuxième alinéas du B du II de l'article L. 34-9-1, y compris la
+simulation mentionnée au C du II du même article si elle a été demandée, sont mis à disposition des habitants de la commune
+ou de l'établissement public de coopération intercommunale sur le territoire de laquelle ou duquel est prévue ou située
+l'installation radioélectrique, au plus tard dix jours après la réception du dossier par le maire ou le président de
+l'établissement public de coopération intercommunale ou, le cas échéant, dix jours après la réception de la simulation. 
+
+III.-Le maire ou le président de l'établissement public de coopération intercommunale, s'il envisage de recueillir les
+observations des habitants sur le dossier d'information transmis, en informe ceux-ci lors de la transmission du dossier et
+leur précise les moyens mis à leur disposition pour formuler ces observations. Dans ce cas, les observations doivent être
+recueillies dans un délai de trois semaines à compter de la mise à disposition du dossier. 
+
+Les observations formulées par les habitants sur le dossier d'information sont transmises, le cas échéant, aux membres de
+l'instance de concertation prévue au E du II de l'article L. 34-9-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1211 du 9 septembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code des postes et des communications électroni... - art. R20-21 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des postes et des communications électroni... - art. R20-29, v. 0.1 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L34-9-1
+
+
 ##### Paragraphe III : Compétences de l'Autorité de régulation des communications électroniques et des postes en matière d'évaluation de conformité.
 
 ###### Article R20-14
@@ -15534,7 +15576,86 @@ est communiquée par le titulaire d'une autorisation d'utilisation de fréquence
 	  - Code des postes et des communications électroniques - art. L43
 
 
+##### Paragraphe V : Le comité national de dialogue de l'Agence nationale des fréquences relatif aux niveaux d'exposition du public aux champs électromagnétiques
+
+###### Article R20-44-28-1
+
+I.-Le comité national de dialogue relatif aux niveaux d'exposition du public aux champs électromagnétiques mentionné au F du
+II de l'article L. 34-9-1 est composé : 
+
+1° De deux députés et de deux sénateurs ; 
+
+2° De représentants des associations d'élus locaux ; 
+
+3° De représentants des ministres chargés des communications électroniques, de l'environnement, de la santé et de la
+communication, de l'Autorité de régulation des communications électroniques et des postes, du Conseil supérieur de
+l'audiovisuel, des administrations affectataires de fréquences radioélectriques et de l'Agence nationale de sécurité
+sanitaire de l'alimentation, de l'environnement et du travail ; 
+
+4° De représentants des associations d'exploitants d'installations radioélectriques, de fournisseurs de services de
+communications électroniques et d'utilisateurs professionnels et particuliers de ces services, ainsi que d'équipementiers ; 
+
+5° De représentants des associations agréées de protection de l'environnement et de défense des consommateurs, des
+associations agréées en application de l'article L. 1114-1 du code de la santé publique et des associations d'usagers du
+système de santé et des fédérations d'associations familiales mentionnées à l'article L. 211-2 du code de l'action sociale et
+des familles. 
+
+Un arrêté conjoint des ministres chargés des communications électroniques, de l'environnement et de la santé précise, pour
+une durée de cinq ans, les associations mentionnées aux 2°, 4° et 5° ci-dessus. Celles-ci désignent leurs représentants
+conformément à leurs règles de fonctionnement. 
+
+La représentation des ministres, des autorités administratives et des associations est limitée à deux personnes pour chacun
+d'entre eux. 
+
+Des experts ou des personnes ayant une compétence particulière peuvent également être invités par le président du comité à
+participer à ses réunions. 
+
+II.-Le président du comité de dialogue relatif aux niveaux d'exposition du public aux champs électromagnétiques est désigné
+parmi les parlementaires par arrêté conjoint du ministre chargé des communications électroniques, du ministre chargé de
+l'environnement et du ministre chargé de la santé. 
+
+III.-La participation aux travaux et réunions du comité ne fait l'objet d'aucune rémunération ou indemnisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1211 du 9 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1114-1
+	  - Code de l'action sociale et des familles - art. L211-2
+
+
+###### Article R20-44-28-2
+
+Le président du comité national de dialogue convoque les réunions du comité et en fixe l'ordre du jour sur proposition de
+l'Agence nationale des fréquences. 
+
+Une question peut être inscrite à l'ordre du jour d'une réunion du comité de dialogue à la demande de l'un de ses membres si
+celui-ci en fait la demande au moins un mois avant la date de la prochaine de ses réunions. En cas d'urgence, ce délai peut
+être ramené à quinze jours. 
+
+Le comité de dialogue se réunit au moins deux fois par an. 
+
+L'Agence nationale des fréquences, qui assure le secrétariat du comité, met à la disposition des membres, par voie
+électronique, l'ensemble des documents au moins quinze jours avant la date de la réunion. En cas d'urgence, ce délai peut
+être ramené à huit jours. 
+
+Elle rend publique une synthèse des travaux et des réunions du comité de dialogue relatif aux niveaux d'exposition du public
+aux champs électromagnétiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1211 du 9 septembre 2016 - art. 3
+
+
 ##### Paragraphe V : Dispositions particulières
+
+##### Paragraphe VI : Dispositions particulières
 
 ###### Article R20-44-29
 
