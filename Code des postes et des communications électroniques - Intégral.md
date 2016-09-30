@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-09-12
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -1081,8 +1081,8 @@ l'article 66 du code des douanes.
 ###### Article L7
 
 La responsabilité des prestataires de services postaux au sens de l'article L. 1 est engagée dans les conditions prévues par
-les articles 1134 et suivants et 1382 et suivants du code civil à raison des pertes et avaries survenues lors de la
-prestation. 
+les articles 1103, 1104, 1193 et suivants, et 1240 et suivants du code civil à raison des pertes et avaries survenues lors de
+la prestation. 
 
 Toutefois, cette responsabilité tient compte des caractéristiques des envois et des tarifs d'affranchissement selon des
 modalités fixées par un décret en Conseil d'Etat qui détermine des plafonds d'indemnisation.
@@ -1091,18 +1091,19 @@ modalités fixées par un décret en Conseil d'Etat qui détermine des plafonds 
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 19 () JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 1134 (V)
-	  - Code civil - art. 1382 (V)
-	  - Code des postes et des communications électroni... - art. L1 (V)
+	  - Code civil - art. 1103 (VT)
+	  - Code civil - art. 1104 (VT)
+	  - Code civil - art. 1193 (VT)
+	  - Code civil - art. 1240 (VT)
+	  - Code des postes et des communications électroniques - art. L1
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cité par**:
 
@@ -1113,48 +1114,38 @@ modalités fixées par un décret en Conseil d'Etat qui détermine des plafonds 
 	  - Code des postes et des communications électroni... - art. R2-1 (V)
 	  - Code des postes et des communications électroni... - art. R2-2 (V)
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L33
-	  - Loi AN05-NI-05 5 nivôse an V art. 14 al. 3
-
 
 ###### Article L8
 
 Pour les dommages directs causés par le retard dans la distribution d'un envoi postal, la responsabilité des prestataires des
-services postaux au sens de l'article L. 1 est engagée dans les conditions prévues par les articles 1134 et suivants et 1382
-et suivants du code civil, si le prestataire a souscrit un engagement portant sur le délai d'acheminement de cet envoi
-postal. 
+services postaux au sens de l'article L. 1 est engagée dans les conditions prévues par les articles 1103, 1104, 1193 et
+suivants, et 1240 et suivants du code civil, si le prestataire a souscrit un engagement portant sur le délai d'acheminement
+de cet envoi postal. 
 
 Toutefois, cette responsabilité tient compte des caractéristiques des envois et des tarifs d'affranchissement selon des
 modalités fixées par un décret en Conseil d'Etat qui détermine des plafonds d'indemnisation.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+
 	**Cite**:
 
-	  - Code civil - art. 1134 (V)
-	  - Code civil - art. 1382 (V)
-	  - Code des postes et des communications électroni... - art. L1 (V)
+	  - Code civil - art. 1103 (VT)
+	  - Code civil - art. 1104 (VT)
+	  - Code civil - art. 1193 (VT)
+	  - Code civil - art. 1240 (VT)
+	  - Code des postes et des communications électroniques - art. L1
+
+	**Codifié par**:
+
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. R2-4 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L34
-	  - Loi n°1873-01-25 art. 4
-	  - Loi n°1925-07-13 art. 162
-
-	**Codifié par**:
-
-	  - Décret n°62-273 1962-03-12
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 19 () JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
 
 
 ###### Article L9
@@ -8088,28 +8079,23 @@ A défaut de la déclaration exigée par l'article L. 72, les infractions prévu
 
 Sont déclarés responsables des amendes prononcées pour infraction au présent titre et des condamnations civiles auxquelles
 ces infractions pourraient donner lieu, les armateurs des navires, qu'ils en soient ou non propriétaires, à raison des faits
-de l'équipage de ces navires.
+de l'équipage de ces navires. 
 
-Les autres cas de responsabilité civile sont réglés conformément aux dispositions de l'article 1384 du code civil.
+Les autres cas de responsabilité civile sont réglés conformément aux dispositions de l'article 1242 du code civil.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L152
-	  - Loi n°1884-12-20 art. 18
-
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 20 () JORF 10 juillet 2004
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 1384 (M)
+	  - Code civil - art. 1242 (VT)
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ###### Article L76
@@ -15652,8 +15638,6 @@ aux champs électromagnétiques.
 
 	  - Décret n°2016-1211 du 9 septembre 2016 - art. 3
 
-
-##### Paragraphe V : Dispositions particulières
 
 ##### Paragraphe VI : Dispositions particulières
 
