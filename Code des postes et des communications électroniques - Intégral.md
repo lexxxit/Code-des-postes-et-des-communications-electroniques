@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -81,10 +81,9 @@ morale ou, par dérogation, dans des conditions déterminées par décret.
 ###### Article L2
 
 La Poste est le prestataire du service universel postal pour une durée de quinze ans à compter du 1er janvier 2011. Tous les
-trois ans, le Gouvernement, après avis de la Commission supérieure du service public des postes et des communications
-électroniques et de l'Autorité de régulation des communications électroniques et des postes, informe le Parlement des
-conditions d'exécution par La Poste de sa mission de service universel postal ainsi que des moyens mis en œuvre pour
-l'améliorer. 
+trois ans, le Gouvernement, après avis de la Commission supérieure du numérique et des postes et de l'Autorité de régulation
+des communications électroniques et des postes, informe le Parlement des conditions d'exécution par La Poste de sa mission de
+service universel postal ainsi que des moyens mis en œuvre pour l'améliorer. 
 
 En sus des obligations résultant de l'autorisation prévue à l'article L. 3, le prestataire du service universel postal est
 soumis, au titre des prestations relevant de ce service, à des obligations particulières en matière de qualité et
@@ -95,8 +94,8 @@ activités dans le champ du service universel. Il transmet, sur demande de l'Aut
 obligations. 
 
 Un décret en Conseil d'Etat, pris après consultation de La Poste, et après avis de l'Autorité de régulation des
-communications électroniques et des postes et de la Commission supérieure du service public des postes et des communications
-électroniques, précise les caractéristiques de l'offre de service universel que La Poste est tenue d'assurer. 
+communications électroniques et des postes et de la Commission supérieure du numérique et des postes, précise les
+caractéristiques de l'offre de service universel que La Poste est tenue d'assurer. 
 
 Ce décret fixe également les droits et obligations de La Poste au titre de ses missions de service public des envois postaux,
 comprenant le régime spécifique offert à la presse en vertu du deuxième alinéa de l'article L. 4, ainsi que les conditions
@@ -121,7 +120,7 @@ dans lesquelles sont assurées la neutralité et la confidentialité des service
 
 	**Modifié par**:
 
-	  - Loi n°2010-123 du 9 février 2010 - art. 19
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Cite**:
 
@@ -186,8 +185,8 @@ des sanctions prévues à l'article L. 5-3. En cas de nouvelle défaillance, ell
 dues ne sont pas recouvrées dans un délai d'un an, elles sont imputées sur le fonds lors de l'exercice suivant. 
 
 II.-Un décret en Conseil d'Etat, pris après avis de l'Autorité de régulation des communications électroniques et des postes
-et de la Commission supérieure du service public des postes et des communications électroniques, précise les méthodes
-d'évaluation, de compensation et de partage des coûts nets liés aux obligations de service universel. 
+et de la Commission supérieure du numérique et des postes, précise les méthodes d'évaluation, de compensation et de partage
+des coûts nets liés aux obligations de service universel. 
 
 III.-Un décret, pris après un avis public de l'Autorité de régulation des communications électroniques et des postes sur une
 demande du prestataire du service universel établissant, sur la base des données comptables visées au 6° de l'article L. 5-2,
@@ -198,7 +197,7 @@ titre de laquelle les contributions nettes au fonds de compensation du service u
 
 	**Modifié par**:
 
-	  - Loi n°2010-123 du 9 février 2010 - art. 21
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Cité par**:
 
@@ -1747,13 +1746,23 @@ On entend par infrastructure d'accueil tout élément d'un réseau destiné à a
 lui-même un élément actif du réseau, tels que les conduites, pylônes, gaines, chambres de tirage et regards, trous de visite,
 boîtiers, immeubles ou accès à des immeubles, installations liées aux antennes, tours et poteaux, châteaux d'eau. Les câbles,
 y compris la fibre noire, ainsi que les éléments de réseaux utilisés pour la fourniture des eaux destinées à la consommation
-humaine ne sont pas des infrastructures d'accueil au sens du présent article.
+humaine ne sont pas des infrastructures d'accueil au sens du présent article. 
+
+23° Fournisseur de services de communication au public en ligne.
+
+On entend par fournisseur de services de communication au public en ligne toute personne assurant la mise à disposition de
+contenus, services ou applications relevant de la communication au public en ligne, au sens du IV de l'article 1er de la loi
+n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. Sont notamment considérées comme des fournisseurs de
+services de communication au public en ligne les personnes qui éditent un service de communication au public en ligne,
+mentionnées au deuxième alinéa du II de l'article 6 de la même loi, ou celles qui assurent le stockage de signaux, d'écrits,
+d'images, de sons ou de messages de toute nature mentionnées au 2 du I du même article 6.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°86-1067 du 30 septembre 1986
+	  - Loi n°2004-575 du 21 juin 2004 - art. 1
 
 	**Cité par**:
 
@@ -1803,7 +1812,7 @@ humaine ne sont pas des infrastructures d'accueil au sens du présent article.
 	  - Code des postes et des communications électroni... - art. L34-5 (VD)
 	  - Code des postes et des communications électroni... - art. L34-8-4 (V)
 	  - Code des postes et des communications électroni... - art. L34-9 (VD)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 	  - Code des postes et des communications électroni... - art. L49 (V)
 	  - Code des postes et des communications électroni... - art. R20-1 (V)
 	  - Code des postes et des communications électroni... - art. R20-4 (V)
@@ -1820,7 +1829,7 @@ humaine ne sont pas des infrastructures d'accueil au sens du présent article.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 1
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 68
 
 
 ###### Article L32-1
@@ -1838,7 +1847,7 @@ notamment le droit de chacun au bénéfice du service universel des communicatio
 la fourniture des services de communications électroniques. Elle est exercée au nom de l'Etat par le ministre chargé des
 communications électroniques et par l'Autorité de régulation des communications électroniques et des postes. 
 
-II .-  Dans le cadre de leurs attributions respectives, le ministre chargé des communications électroniques et l'Autorité de
+II .- Dans le cadre de leurs attributions respectives, le ministre chargé des communications électroniques et l'Autorité de
 régulation des communications électroniques et des postes prennent, dans des conditions objectives et transparentes, des
 mesures raisonnables et proportionnées en vue d'atteindre les objectifs suivants : 
 
@@ -1854,6 +1863,8 @@ mesures raisonnables et proportionnées en vue d'atteindre les objectifs suivant
 5° La protection des consommateurs, conjointement avec le ministre chargé de la consommation, et la satisfaction des besoins
 de l'ensemble des utilisateurs, y compris les utilisateurs handicapés, âgés ou ayant des besoins sociaux spécifiques, en
 matière d'accès aux services et aux équipements ; 
+
+5° bis La neutralité de l'internet, définie au q du I de l'article L. 33-1 ;
 
 6° Le respect par les opérateurs de communications électroniques de la protection des données à caractère personnel, du
 secret des correspondances et du principe de neutralité vis-à-vis du contenu des messages transmis ; 
@@ -1943,7 +1954,7 @@ des communications électroniques et des postes sur toute question relevant de s
 	  - Code des postes et des communications électroni... - art. D305 (V)
 	  - Code des postes et des communications électroni... - art. D99 (V)
 	  - Code des postes et des communications électroni... - art. L135 (M)
-	  - Code des postes et des communications électroni... - art. L32-4 (VD)
+	  - Code des postes et des communications électroni... - art. L32-4 (V)
 	  - Code des postes et des communications électroni... - art. L34-8 (V)
 	  - Code des postes et des communications électroni... - art. L34-8-3 (V)
 	  - Code des postes et des communications électroni... - art. L34-8-4 (V)
@@ -1967,12 +1978,35 @@ des communications électroniques et des postes sur toute question relevant de s
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 120
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
 
 
 ###### Article L32-3
 
-Les opérateurs, ainsi que les membres de leur personnel, sont tenus de respecter le secret des correspondances.
+I. - Les opérateurs, ainsi que les membres de leur personnel, sont tenus de respecter le secret des correspondances. Le
+secret couvre le contenu de la correspondance, l'identité des correspondants ainsi que, le cas échéant, l'intitulé du message
+et les documents joints à la correspondance.
+
+II. - Les fournisseurs de services de communication au public en ligne permettant à leurs utilisateurs d'échanger des
+correspondances, ainsi que les membres de leur personnel, respectent le secret de celles-ci. Le secret couvre le contenu de
+la correspondance, l'identité des correspondants ainsi que, le cas échéant, l'intitulé du message et les documents joints à
+la correspondance.
+
+III. - Les I et II du présent article ne font pas obstacle au traitement automatisé d'analyse, à des fins d'affichage, de tri
+ou d'acheminement des correspondances, ou de détection de contenus non sollicités ou de programmes informatiques
+malveillants, du contenu de la correspondance en ligne, de l'identité des correspondants ainsi que, le cas échéant, de
+l'intitulé ou des documents joints mentionnés aux mêmes I et II.
+
+IV. - Le traitement automatisé d'analyse, à des fins publicitaires, statistiques ou d'amélioration du service apporté à
+l'utilisateur, du contenu de la correspondance en ligne, de l'identité des correspondants ainsi que, le cas échéant, de
+l'intitulé ou des documents joints mentionnés auxdits I et II est interdit, sauf si le consentement exprès de l'utilisateur
+est recueilli à une périodicité fixée par voie réglementaire, qui ne peut être supérieure à un an. Le consentement est
+spécifique à chaque traitement.
+
+V. - Les opérateurs et les personnes mentionnés aux I et II sont tenus de porter à la connaissance de leur personnel les
+obligations résultant du présent article.
+
+VI. - Le présent article est applicable dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -1990,11 +2024,12 @@ Les opérateurs, ainsi que les membres de leur personnel, sont tenus de respecte
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 68
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ###### Article L32-3-3
@@ -2047,7 +2082,7 @@ ordonné de retirer du réseau les contenus transmis initialement ou d'en rendre
 
 ###### Article L32-4
 
-Le ministre chargé des communications électroniques et l'Autorité de régulation des communications électroniques et des
+I. - Le ministre chargé des communications électroniques et l'Autorité de régulation des communications électroniques et des
 postes peuvent, de manière proportionnée aux besoins liés à l'accomplissement de leurs missions, et sur la base d'une
 décision motivée : 
 
@@ -2057,29 +2092,76 @@ personnes des principes définis aux articles L. 32-1 et L. 32-3, ainsi que des 
 présent code ou par les textes pris pour son application ; 
 
 2° Recueillir auprès des personnes fournissant des services de communication au public en ligne les informations ou documents
-concernant les conditions techniques et tarifaires d'acheminement du trafic appliquées à leurs services ; 
+concernant les conditions techniques et tarifaires d'acheminement du trafic, y compris de gestion, appliquées à leurs
+services, notamment en vue d'assurer le respect de la neutralité de l'internet mentionnée au q du I de l'article L. 33-1 ; 
 
 2° bis Recueillir auprès des gestionnaires d'infrastructure d'accueil les informations ou documents nécessaires pour
 s'assurer du respect par ces personnes des obligations prévues aux articles L. 34-8-2-1 et L. 34-8-2-2 ; 
 
 3° Procéder auprès des mêmes personnes à des enquêtes. 
 
-Ces enquêtes sont menées par des fonctionnaires et agents du ministère chargé des communications électroniques et de
-l'Autorité de régulation des communications électroniques et des postes habilités à cet effet par le ministre chargé des
-communications électroniques et assermentés dans des conditions fixées par décret en Conseil d'Etat. Elles donnent lieu à
-procès-verbal. Un double en est transmis dans les cinq jours aux personnes intéressées. 
-
-Les fonctionnaires et agents mentionnés à l'alinéa précédent peuvent accéder aux locaux, terrains ou moyens de transport à
-usage professionnel utilisés par les personnes exploitant des réseaux de communications électroniques ou fournissant des
-services de communications électroniques, demander la communication de tous documents professionnels nécessaires et en
-prendre copie, enfin recueillir, sur convocation ou sur place, les renseignements et justifications nécessaires. Ils ne
-peuvent accéder à ces locaux qu'entre 8 heures et 20 heures ou pendant leurs heures d'ouverture au public. Lorsque les locaux
-ou une partie de ceux-ci constituent un domicile, les visites sont autorisées dans les conditions définies à l'article L.
-32-5. 
+Ces enquêtes sont menées dans les conditions prévues aux II à IV du présent article et à l'article L. 32-5.
 
 Le ministre chargé des communications électroniques et l'Autorité de régulation des communications électroniques et des
 postes veillent à ce que ne soient pas divulguées les informations recueillies en application du présent article lorsqu'elles
 sont protégées par un secret visé aux articles L. 311-5 à L. 311-8 du code des relations entre le public et l'administration.
+
+II. - Les fonctionnaires et agents placés sous l'autorité du ministre chargé des communications électroniques et de
+l'Autorité de régulation des communications électroniques et des postes, habilités à cet effet par ledit ministre et
+assermentés dans des conditions fixées par décret en Conseil d'Etat, peuvent, pour l'exercice de leurs missions, opérer sur
+la voie publique, pénétrer entre 8 heures et 20 heures dans tous lieux utilisés à des fins professionnelles par les personnes
+mentionnées aux 1°, 2° et 2° bis du I du présent article, à l'exclusion des parties de ceux-ci affectées au domicile privé,
+et accéder à tout moyen de transport à usage professionnel. 
+
+Les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent demander la communication de tout document
+nécessaire à l'accomplissement de leur mission, quel qu'en soit le support, et obtenir ou prendre copie de ces documents par
+tout moyen et sur tout support. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement, tout document ou
+toute justification utiles. Ils peuvent accéder aux logiciels, aux programmes informatiques et aux données stockées et en
+demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du
+contrôle. 
+
+Ils peuvent recourir à toute personne compétente. Cette personne : 
+
+1° Peut les accompagner lors de leurs contrôles et prendre connaissance de tout document ou élément nécessaire à la
+réalisation de sa mission ou de son expertise ; 
+
+2° Ne peut effectuer aucun acte de procédure pénale ou administrative ; 
+
+3° Ne peut utiliser les informations dont elle prend connaissance à cette occasion pour la mise en œuvre des pouvoirs de
+contrôle dont elle dispose, le cas échéant, en application d'autres dispositions législatives ou réglementaires ; 
+
+4° Ne peut, sous peine des sanctions prévues à l'article 226-13 du code pénal, divulguer les informations dont elle a eu
+connaissance dans ce cadre. 
+
+Les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent procéder à des visites conjointes avec des
+agents, désignés par l'autorité administrative dont ils dépendent, appartenant à d'autres services de l'Etat ou de ses
+établissements publics. 
+
+Les visites et auditions donnent lieu à procès-verbal, dont une copie est transmise dans les cinq jours aux personnes
+intéressées. Ce procès-verbal fait foi jusqu'à preuve contraire. 
+
+Les fonctionnaires et agents mentionnés au premier alinéa du présent II peuvent également procéder à toute constatation
+utile. Ils peuvent notamment, à partir d'un service de communication au public en ligne, consulter les données librement
+accessibles ou rendues accessibles, y compris par imprudence, par négligence ou par le fait d'un tiers. Ils peuvent
+retranscrire les données par tout traitement approprié dans des documents directement utilisables pour les besoins du
+contrôle. Un décret en Conseil d'Etat précise les conditions dans lesquelles ils procèdent à ces constatations. 
+
+III. - Les visites conduites en application du II du présent article peuvent être préalablement autorisées dans les
+conditions prévues à l'article L. 32-5. 
+
+Lorsque ces visites n'ont pas été préalablement autorisées dans les conditions définies au même article L. 32-5, le
+responsable de locaux professionnels privés est informé de son droit d'opposition à la visite. Lorsqu'il exerce ce droit, la
+visite ne peut se dérouler qu'après l'autorisation du juge des libertés et de la détention du tribunal de grande instance,
+dans les conditions prévues audit article L. 32-5. 
+
+Lorsque les lieux sont affectés au domicile privé, lorsque le responsable de locaux professionnels privés exerce le droit
+d'opposition prévu au présent article ou lorsqu'il est procédé à une saisie, les visites sont autorisées dans les conditions
+définies au même article L. 32-5. 
+
+IV. - Dans le cadre des contrôles et enquêtes mentionnés au présent article et à l'article L. 32-5, le secret professionnel
+ne peut être opposé aux fonctionnaires et agents mentionnés au II du présent article. Ces personnes peuvent, sans se voir
+opposer le secret professionnel, accéder à tout document ou élément d'information détenu par les services et établissements
+de l'Etat et des autres collectivités publiques.
 
 **Liens relatifs à cet article**
 
@@ -2108,7 +2190,6 @@ sont protégées par un secret visé aux articles L. 311-5 à L. 311-8 du code d
 	  - Arrêté du 9 mai 2003 - art. ANNEXE (V)
 	  - Décret n°2017-768 du 4 mai 2017 (V)
 	  - Code des postes et des communications électroni... - art. L130 (V)
-	  - Code des postes et des communications électroni... - art. L32-5 (V)
 	  - Code des postes et des communications électroni... - art. L36-13 (V)
 	  - Code des postes et des communications électroni... - art. L39-4 (VD)
 	  - Code des postes et des communications électroni... - art. L40 (M)
@@ -2119,19 +2200,26 @@ sont protégées par un secret visé aux articles L. 311-5 à L. 311-8 du code d
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 2
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 43
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L34-8-2-1 (VD)
-	  - Code des postes et des communications électroniques - art. L32-1
-	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
+	  - Code des postes et des communications électroni... - art. L32-1 (V)
+	  - Code des postes et des communications électroni... - art. L32-5 (V)
+	  - Code des postes et des communications électroniques - art. L34-8-2-1
+	  - Code des relations entre le public et l'administration - art. L311-5
 
 
 ###### Article L32-5
 
-I.-La visite prévue à l'article L. 32-4 est autorisée par ordonnance du juge des libertés et de la détention du tribunal de
-grande instance dans le ressort duquel sont situés les lieux à visiter.
+I.-Les visites mentionnées au III de l'article L. 32-4 sont autorisées par ordonnance du juge des libertés et de la détention
+du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter. Lorsque ces lieux sont situés dans le
+ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique peut
+être délivrée par l'un des juges des libertés et de la détention compétents. 
+
+Le juge vérifie que la demande d'autorisation est fondée ; cette demande doit comporter tous les éléments d'information en
+possession du demandeur de nature à justifier la visite et la saisie. 
 
 L'ordonnance comporte l'adresse des lieux à visiter, le nom et la qualité du ou des fonctionnaires habilités à procéder aux
 opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter.
@@ -2142,7 +2230,9 @@ II.-L'ordonnance est notifiée sur place, au moment de la visite, à l'occupant 
 copie intégrale contre récépissé ou émargement au procès-verbal de visite. En l'absence de l'occupant des lieux ou de son
 représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. La
 notification est réputée faite à la date de réception figurant sur l'avis.A défaut de réception, il est procédé à la
-signification de l'ordonnance par acte d'huissier de justice.
+signification de l'ordonnance par acte d'huissier de justice. L'ordonnance comporte la mention de la faculté pour l'occupant
+des lieux ou son représentant de faire appel à un conseil de son choix. L'exercice de cette faculté n'entraîne pas la
+suspension des opérations de visite et de saisie.
 
 L'acte de notification comporte mention des voies et délais de recours contre l'ordonnance ayant autorisé la visite et contre
 le déroulement des opérations de visite. Il mentionne également que le juge ayant autorisé la visite peut être saisi d'une
@@ -2154,7 +2244,7 @@ l'intervention.A tout moment, il peut décider la suspension ou l'arrêt de la v
 détention aux fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas d'effet suspensif. 
 
 IV.-La visite ne peut commencer avant 6 heures et après 21 heures. Elle est effectuée en présence de l'occupant des lieux ou
-de son représentant, qui peut se faire assister de l'avocat de son choix. En l'absence de l'occupant des lieux, les agents
+de son représentant, qui peut se faire assister par le conseil de son choix. En l'absence de l'occupant des lieux, les agents
 chargés de la visite ne peuvent procéder à celle-ci qu'en présence de deux témoins qui ne sont pas placés sous leur
 autorité. 
 
@@ -2164,7 +2254,9 @@ avant leur saisie.
 Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
 dressé sur-le-champ par les agents habilités à procéder à la visite. Un inventaire des pièces et documents saisis lui est
 annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents habilités et l'occupant des lieux ou, le
-cas échéant, par son représentant et les témoins. En cas de refus de signer, mention en est faite au procès-verbal. 
+cas échéant, par son représentant et les témoins. En cas de refus de signer, mention en est faite au procès-verbal. Si
+l'inventaire sur place présente des difficultés, les pièces et les documents saisis sont placés sous scellés. L'occupant des
+lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés ; l'inventaire est alors établi. 
 
 Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
 visite. Une copie de ces mêmes documents est remise ou adressée par lettre recommandée avec demande d'avis de réception à
@@ -2205,11 +2297,11 @@ autorisant la visite.
 
 	**Modifié par**:
 
-	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 43
 
 	**Cité par**:
 
-	  - Code des postes et des communications électroni... - art. L32-4 (VD)
+	  - Code des postes et des communications électroni... - art. L32-4 (V)
 
 
 #### Chapitre II : Régime juridique.
@@ -2295,7 +2387,7 @@ c) Les normes et spécifications du réseau et du service ;
 
 d) Les prescriptions exigées par la protection de la santé et de l'environnement et par les objectifs d'aménagement du
 territoire et d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public, les garanties
-financières ou techniques nécessaires à la bonne exécution des travaux d'infrastructures, les modalités de partage des
+financières ou techniques nécessaires à la bonne exécution des travaux d'infrastructures , les modalités de partage des
 infrastructures et des réseaux radioélectriques ouverts au public et d'itinérance locale ; 
 
 e) Les prescriptions exigées par l'ordre public, la défense nationale et la sécurité publique, notamment celles qui sont
@@ -2339,11 +2431,29 @@ n ter) L'obligation de mettre à disposition des utilisateurs professionnels les
 121-83-1 du code de la consommation, selon les modalités prévues à ce même article ; 
 
 o) Un accès des utilisateurs finals handicapés à des services de communications électroniques à un tarif abordable et aux
-services d'urgence, équivalent à celui dont bénéficie la majorité des utilisateurs finals. 
+services d'urgence, équivalent à celui dont bénéficie la majorité des utilisateurs finals ;
+
+p) (1) Un accès des utilisateurs finals sourds, malentendants, sourdaveugles et aphasiques à une offre de services de
+communications électroniques incluant, pour les appels passés et reçus, la fourniture d'un service de traduction simultanée
+écrite et visuelle défini au IV de l'article 105 de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique. 
+
+Cette offre est proposée sans surcoût aux utilisateurs finals, dans la limite d'un usage raisonnable dont les conditions sont
+définies par décret et dans le respect de conditions de qualité définies par l'Autorité de régulation des communications
+électroniques et des postes. 
+
+Elle garantit les conditions de neutralité et de confidentialité mentionnées au b du présent I ainsi que la prévention de la
+violation des données à caractère personnel mentionnée à l'article 34 bis de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés ; 
+
+q) La neutralité de l'internet, qui consiste à garantir l'accès à l'internet ouvert régi par le règlement (UE) 2015/2120 du
+Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l'accès à un internet ouvert et
+modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et
+services de communications électroniques et le règlement (UE) n° 531/2012 concernant l'itinérance sur les réseaux publics de
+communications mobiles à l'intérieur de l'Union ;
 
 Un décret fixe les modalités d'application du présent article, notamment le contenu du dossier de déclaration et celui des
 informations visées aux n bis et n ter, et précise, en tant que de besoin, selon les différentes catégories de réseaux et de
-services, les règles mentionnées aux a à o. 
+services, les règles mentionnées aux a à q.
 
 II.-Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des communications électroniques supérieur à un seuil
 fixé par arrêté des ministres chargés des communications électroniques et de l'économie sont tenus d'individualiser sur le
@@ -2371,10 +2481,24 @@ les services de la police et de la gendarmerie nationale, les services d'incendi
 médicale d'urgence, agissant dans le cadre de missions judiciaires ou d'interventions de secours, à leurs listes d'abonnés et
 d'utilisateurs, complète, non expurgée et mise à jour.
 
+VI. - Aucune limitation technique ou contractuelle ne peut être apportée à un service d'accès à internet, qui aurait pour
+objet ou effet d'interdire à un utilisateur de ce service qui en fait la demande :
+
+1° D'accéder, depuis un point d'accès à internet, à des données enregistrées sur un équipement connecté à internet, par
+l'intermédiaire du service d'accès auquel il a souscrit ;
+
+2° Ou de donner à des tiers accès à ces données.
+
 **Nota:**
 
-Conformément à l'article 27 IV de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
-exigible à compter du 1er mai 2016.
+(1) Conformément à l'article 105 I de la loi n° 2016-1321 du 7 octobre 2016, les présentes dispositions entrent en vigueur
+selon des modalités et à une date prévues par décret et, au plus tard, cinq ans après la promulgation de la présente loi.
+
+V : Au plus tard dix ans après la promulgation de la présente loi, et selon des modalités définies par le décret, le service
+de traduction mentionné au p du I fonctionne vingt-quatre heures sur vingt-quatre, tous les jours de l'année.
+
+Aux termes de l'article 6 I du décret n° 2017-875 du 9 mai 2017, les dispositions du I de l'article 105 de la loi du 7
+octobre 2016 entrent en vigueur deux ans après la promulgation de cette loi.
 
 **Liens relatifs à cet article**
 
@@ -2465,13 +2589,14 @@ exigible à compter du 1er mai 2016.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 27 (V)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 105
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 41
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-83
 	  - Code de la consommation - art. L121-83-1
-	  - Code des postes et des communications électroni... - art. L38 (V)
 	  - Code des postes et des communications électroniques - art. L34
 	  - Code des postes et des communications électroniques - art. L34-8
 	  - Code des postes et des communications électroniques - art. L35-2
@@ -2481,13 +2606,12 @@ exigible à compter du 1er mai 2016.
 
 ###### Article L33-2
 
-Un décret, pris après avis de la Commission supérieure du service public des postes et des communications électroniques,
-détermine les conditions générales d'établissement et d'exploitation des réseaux indépendants en ce qui concerne la
-protection de la santé et de l'environnement et les objectifs d'urbanisme, les prescriptions relatives à l'ordre public, la
-sécurité publique et la défense, et les modalités d'implantation du réseau que doivent respecter les exploitants. Il précise
-les conditions dans lesquelles ceux-ci, ainsi que les installations mentionnées à l'article L. 33-3, peuvent, sans permettre
-l'échange de communications entre des personnes autres que celles auxquelles l'usage du réseau est réservé, être connectés à
-un réseau ouvert au public. 
+Un décret, pris après avis de la Commission supérieure du numérique et des postes, détermine les conditions générales
+d'établissement et d'exploitation des réseaux indépendants en ce qui concerne la protection de la santé et de l'environnement
+et les objectifs d'urbanisme, les prescriptions relatives à l'ordre public, la sécurité publique et la défense, et les
+modalités d'implantation du réseau que doivent respecter les exploitants. Il précise les conditions dans lesquelles ceux-ci,
+ainsi que les installations mentionnées à l'article L. 33-3, peuvent, sans permettre l'échange de communications entre des
+personnes autres que celles auxquelles l'usage du réseau est réservé, être connectés à un réseau ouvert au public. 
 
 Un exploitant de réseau indépendant ne peut conférer à son réseau le caractère de réseau ouvert au public sans déclaration
 préalable dans les conditions prévues à l'article L. 33-1. A défaut, l'exploitant peut être sanctionné dans les conditions
@@ -2519,7 +2643,7 @@ prévues aux articles L. 36-11 et L. 39.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 48
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Codifié par**:
 
@@ -2527,10 +2651,10 @@ prévues aux articles L. 36-11 et L. 39.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L33-1, v. 10.1 (V)
-	  - Code des postes et des communications électroni... - art. L33-3 (V)
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
-	  - Code des postes et des communications électroni... - art. L39 (V)
+	  - Code des postes et des communications électroniques - art. L33-1
+	  - Code des postes et des communications électroniques - art. L33-3
+	  - Code des postes et des communications électroniques - art. L36-11
+	  - Code des postes et des communications électroniques - art. L39
 
 
 ###### Article L33-3
@@ -2803,44 +2927,74 @@ désignation de l'organisme chargé du contrôle.
 
 Il est institué un statut de  "  zone fibrée", qui peut être obtenu dès lors que l'établissement et l'exploitation d'un
 réseau en fibre optique ouvert à la mutualisation sont suffisamment avancés pour déclencher des mesures facilitant la
-transition vers le très haut débit. La demande d'obtention du statut est formulée par l'opérateur chargé de ce réseau ou par
-la collectivité l'ayant établi au titre de l'article L. 1425-1 du code général des collectivités territoriales. Le ministre
-chargé des communications électroniques attribue ce statut après avis de l'Autorité de régulation des communications
-électroniques et des postes.
+transition vers le très haut débit. La demande d'obtention du statut est formulée par l'opérateur chargé de ce réseau et, le
+cas échéant, par la collectivité l'ayant établi au titre de l'article L. 1425-1 du code général des collectivités
+territoriales. 
 
-Les modalités d'application du présent article sont définies par décret.
+Le  ministre chargé des communications électroniques fixe, sur proposition  de l'Autorité de régulation des communications
+électroniques et des  postes et dans un délai de trois mois à compter de la publication du  décret mentionné au dernier
+alinéa du présent article, les modalités et  les conditions d'attribution du statut de “ zone fibrée ” ainsi que les
+obligations pouvant être attachées à l'attribution de ce statut. 
+
+Le statut de “ zone fibrée ” est attribué par l'Autorité de régulation  des communications électroniques et des postes. La
+décision  d'attribution précise les obligations pesant sur le demandeur. Elle est  communiquée au ministre chargé des
+communications électroniques. 
+
+Un décret en Conseil d'Etat, pris dans un délai de six mois à compter de la promulgation de la loi n° 2016-1321 du 7 octobre
+2016 pour  une République numérique, détermine les modalités d'application du  présent article, notamment les obligations
+réglementaires pouvant être  adaptées en raison de l'attribution de ce statut ainsi que les  dispositions facilitant la
+transition vers le très haut débit.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-990 du 6 août 2015 - art. 117
 
 	**Cité par**:
 
 	  - Décret n°2016-1182 du 30 août 2016 - art. 2
 
+	**Modifié par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 71
+
 
 ###### Article L33-12
 
-Afin de permettre la mise en œuvre et le contrôle du respect des obligations fixées en application des articles L. 33-1, 
-L. 36-6 et L. 42-1, les mesures relatives à la qualité des services et à la couverture des réseaux et des services de
-communications électroniques, à leur traitement et à leur certification sont réalisées, sous le contrôle de l'Autorité de
+Afin de permettre la mise en œuvre et le contrôle du respect des obligations fixées en application des articles L. 33-1, L.
+34-8-5, L. 36-6 et L. 42-1 du présent code, du III de l'article 52, des articles 52-1 à 52-3 de la loi n° 2004-575 du 21 juin
+2004 pour la confiance dans l'économie numérique, et des articles 119 à 119-2 de la loi n° 2008-776 du 4 août 2008 de
+modernisation de l'économie, les mesures relatives à la qualité des services et à la couverture des réseaux et des services
+de communications électroniques, à leur traitement et à leur certification sont réalisées, sous le contrôle de l'Autorité de
 régulation des communications électroniques et des postes, par des organismes indépendants choisis par l'autorité et dont les
 frais sont financés et versés directement par les opérateurs concernés, dans une mesure, proportionnée à leur taille, que
 l'autorité détermine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 82
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L36-6 (V)
 	  - Code des postes et des communications électroni... - art. L42-1 (V)
+	  - Code des postes et des communications électroniques - art. L33-1
+	  - Code des postes et des communications électroniques - art. L36-6
+
+
+###### Article L33-13
+
+Le  ministre chargé des communications électroniques peut accepter, après  avis de l'Autorité de régulation des
+communications électroniques et des  postes, les engagements, souscrits auprès de lui par les opérateurs, de  nature à
+contribuer à l'aménagement et à la couverture des zones peu  denses du territoire par les réseaux de communications
+électroniques et à  favoriser l'accès des opérateurs à ces réseaux. 
+
+L'Autorité de régulation des communications électroniques et des postes  en contrôle le respect et sanctionne les manquements
+constatés dans les  conditions prévues à l'article L. 36-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 78
 
 
 ##### Section 2 : Annuaires et services de renseignements.
@@ -2871,8 +3025,8 @@ discriminatoires et à un tarif reflétant les coûts du service rendu, la liste
 ils ont affecté, directement ou par l'intermédiaire d'un distributeur, un ou plusieurs numéros du plan national de
 numérotation téléphonique prévu à l'article L. 44. Les données communiquées portent soit sur l'ensemble des abonnés et des
 utilisateurs de l'opérateur, soit sur ceux qui sont domiciliés dans la ou les communes de la zone géographique faisant
-l'objet de la demande. Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes
-et des communications électroniques, précise les modalités d'application du présent alinéa. 
+l'objet de la demande. Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du numérique et des postes,
+précise les modalités d'application du présent alinéa. 
 
 Les litiges relatifs aux conditions techniques et financières de la fourniture des listes d'abonnés prévue à l'alinéa
 précédent peuvent être soumis à l'Autorité de régulation des communications électroniques et des postes conformément à
@@ -2882,33 +3036,28 @@ l'article L. 36-8.
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
-	  - Code des postes et des communications électroni... - art. L44 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Code des postes et des communications électroniques - art. L44
 
 	**Cité par**:
 
 	  - Arrêté du 18 novembre 2009 - art. Annexe (V)
 	  - Code de la défense. - art. R1334-1 (V)
 	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 	  - Code des postes et des communications électroni... - art. R10-3 (V)
 	  - Code des postes et des communications électroni... - art. R10-4 (V)
 	  - Code des postes et des communications électroni... - art. R10-5 (V)
 	  - Code des postes et des communications électroni... - art. R10-6 (V)
 	  - Code des postes et des communications électronique - art. D374 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
+
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L73
-	  - Loi n°1913-07-30 art. 25
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ##### Section 3 : Protection de la vie privée des utilisateurs de réseaux et services de communications électroniques.
@@ -3611,7 +3760,11 @@ l'équipement de l'immeuble en lignes de communications électroniques à très 
 en charge d'une part équitable des coûts par cet opérateur. Tout refus d'accès est motivé. 
 
 Il fait l'objet d'une convention entre les personnes concernées. Celle-ci détermine les conditions techniques et financières
-de l'accès. Elle est communiquée à l'Autorité de régulation des communications électroniques et des postes à sa demande. 
+de l'accès. Elle est communiquée à l'Autorité de régulation des communications électroniques et des postes à sa demande.
+
+Lorsque  la personne qui fournit l'accès met en œuvre une péréquation tarifaire à  l'échelle de la zone de déploiement, elle
+peut réserver l'application  de cette péréquation aux seuls opérateurs qui ne déploient pas de lignes  à très haut débit en
+fibre optique permettant de desservir des  logements situés dans cette zone.
 
 Les différends relatifs à la conclusion ou à l'exécution de la convention prévue au présent article sont soumis à l'Autorité
 de régulation des communications électroniques et des postes conformément à l'article L. 36-8. 
@@ -3630,14 +3783,13 @@ et proportionnée, les modalités de l'accès prévu au présent article.
 	  - Code des postes et des communications électroni... - art. L33-6 (V)
 	  - Code des postes et des communications électroni... - art. L34-8-4 (V)
 	  - Code des postes et des communications électroni... - art. L36-6 (V)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 	  - Code des postes et des communications électroni... - art. R9-2 (V)
 	  - Code des postes et des communications électroni... - art. R9-4 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 18
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 20
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 77
 
 	**Cite**:
 
@@ -3932,13 +4084,22 @@ des postes et des communications électroniques, dans sa rédaction résultant d
 
 ###### Article L34-10
 
-Les obligations imposées aux opérateurs par le règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
-2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union, modifié le cas
-échéant en ce qui concerne l'accès à internet et les échanges de données électroniques, s'appliquent aux prestations
-d'itinérance ultramarine.
+Les obligations imposées aux opérateurs par le règlement (UE) n° 531/2012 du Parlement européen et du Conseil du 13 juin 2012
+concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union, modifié par le règlement
+(UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l'accès à un
+internet ouvert et modifiant la directive 2002/22/ CE concernant le service universel et les droits des utilisateurs au
+regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l'itinérance sur
+les réseaux publics de communications mobiles à l'intérieur de l'Union, s'appliquent aux prestations d'itinérance
+ultramarine. 
 
-Les surcoûts de l'itinérance ultramarine sont supprimés pour les communications vocales et les minimessages à compter du 1er
-mai 2016.
+Par dérogation au premier alinéa, à compter du 1er mai 2016, les surcoûts de l'itinérance ultramarine sont supprimés pour les
+communications vocales et les minimessages des clients d'une entreprise opérant et exploitant un réseau radioélectrique dans
+les outre-mer. 
+
+En cas d'échec des négociations commerciales ou de désaccord sur la conclusion ou l'exécution d'une convention
+d'interconnexion ou d'accès à un réseau de communications électroniques, l'Autorité de régulation des communications
+électroniques et des postes peut être saisie du différend par l'une des parties, selon les modalités prévues à l'article L.
+36-8.
 
 **Liens relatifs à cet article**
 
@@ -3962,7 +4123,11 @@ mai 2016.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 11
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 111
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 
 
 #### Chapitre III : Les obligations de service public.
@@ -3981,17 +4146,20 @@ l'article L. 35-5 ;
 c) Les missions d'intérêt général dans le domaine des communications électroniques, en matière de défense et de sécurité, de
 recherche publique et d'enseignement supérieur, assurées dans les conditions fixées à l'article L. 35-6.
 
+En  vue de garantir la permanence, la qualité et la disponibilité des  réseaux et du service, l'entretien des réseaux
+assurant des services  fixes de communications électroniques ouverts au public et de leurs  abords est d'utilité publique.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 18 novembre 2009 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (M)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
 	  - Code des postes et des communications électronique - art. D288 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 10
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
 
 	**Codifié par**:
 
@@ -3999,9 +4167,9 @@ recherche publique et d'enseignement supérieur, assurées dans les conditions f
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L35-1 (V)
-	  - Code des postes et des communications électroni... - art. L35-5 (V)
-	  - Code des postes et des communications électroni... - art. L35-6 (V)
+	  - Code des postes et des communications électroniques - art. L35-1
+	  - Code des postes et des communications électroniques - art. L35-5
+	  - Code des postes et des communications électroniques - art. L35-6
 
 
 ###### Article L35-1
@@ -4035,9 +4203,8 @@ Le service universel est fourni dans des conditions tarifaires et techniques pre
 rencontrées dans l'accès au service téléphonique par certaines catégories de personnes, en raison notamment de leur niveau de
 revenu et en proscrivant toute discrimination fondée sur la localisation géographique de l'utilisateur. 
 
-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
-électroniques, précise les modalités d'application du présent article et le contenu de chacune des composantes du service
-universel.
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du numérique et des postes, précise les modalités
+d'application du présent article et le contenu de chacune des composantes du service universel.
 
 **Liens relatifs à cet article**
 
@@ -4058,8 +4225,8 @@ universel.
 	  - Code des postes et des communications électroni... - art. L135 (V)
 	  - Code des postes et des communications électroni... - art. L35 (V)
 	  - Code des postes et des communications électroni... - art. L35-2 (V)
-	  - Code des postes et des communications électroni... - art. L35-2-1 (V)
-	  - Code des postes et des communications électroni... - art. L35-3 (M)
+	  - Code des postes et des communications électroni... - art. L35-2-1 (M)
+	  - Code des postes et des communications électroni... - art. L35-3 (V)
 	  - Code des postes et des communications électroni... - art. L35-7 (V)
 	  - Code des postes et des communications électroni... - art. R20-30 (V)
 	  - Code des postes et des communications électroni... - art. R20-30-1 (V)
@@ -4083,7 +4250,7 @@ universel.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Cite**:
 
@@ -4109,13 +4276,13 @@ Dans le cas où un appel à candidatures s'avère infructueux, le ministre charg
 plusieurs opérateurs en vue d'assurer la prestation en cause sur l'ensemble du territoire national. 
 
 Le cahier des charges du ou des opérateurs en charge du service universel des communications électroniques est soumis pour
-avis à la Commission supérieure du service public des postes et des communications électroniques. 
+avis à la Commission supérieure du numérique et des postes. 
 
-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
-électroniques, détermine les modalités d'application du présent article. Il fixe les conditions dans lesquelles les tarifs du
-service universel et sa qualité sont contrôlés et précise, notamment, les cas dans lesquels les tarifs du service universel
-peuvent faire l'objet soit d'une mesure d'encadrement pluriannuel, soit d'une opposition ou d'un avis préalable de l'Autorité
-de régulation des communications électroniques et des postes.
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du numérique et des postes, détermine les modalités
+d'application du présent article. Il fixe les conditions dans lesquelles les tarifs du service universel et sa qualité sont
+contrôlés et précise, notamment, les cas dans lesquels les tarifs du service universel peuvent faire l'objet soit d'une
+mesure d'encadrement pluriannuel, soit d'une opposition ou d'un avis préalable de l'Autorité de régulation des communications
+électroniques et des postes.
 
 **Liens relatifs à cet article**
 
@@ -4162,11 +4329,11 @@ de régulation des communications électroniques et des postes.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. L35
+	  - Code des postes et des communications électroni... - art. L35 (V)
 	  - Code des postes et des communications électroniques - art. L35-1
 
 
@@ -4241,13 +4408,13 @@ l'interdiction d'exploiter un réseau ouvert au public ou de fournir au public d
 Si les sommes dues ne sont pas recouvrées dans un délai d'un an, elles sont imputées sur le fonds lors de l'exercice
 suivant. 
 
-IV.-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des
-communications électroniques, fixe les modalités d'application du présent article. Il précise notamment les conditions
-d'attribution, les méthodes de l'évaluation qui répondent à des exigences de transparence et de publicité, de la compensation
-et du partage des coûts nets du service universel, ainsi que des modalités de gestion du fonds de service universel des
-communications électroniques. Il détermine également les catégories d'activités pour lesquelles, en raison de leur nature,
-les opérateurs ne sont pas tenus de participer au financement des coûts imputables aux obligations de service universel. Ces
-activités comprennent notamment l'acheminement et la diffusion de services de radio et de télévision.
+IV.-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du numérique et des postes, fixe les modalités
+d'application du présent article. Il précise notamment les conditions d'attribution, les méthodes de l'évaluation qui
+répondent à des exigences de transparence et de publicité, de la compensation et du partage des coûts nets du service
+universel, ainsi que des modalités de gestion du fonds de service universel des communications électroniques. Il détermine
+également les catégories d'activités pour lesquelles, en raison de leur nature, les opérateurs ne sont pas tenus de
+participer au financement des coûts imputables aux obligations de service universel. Ces activités comprennent notamment
+l'acheminement et la diffusion de services de radio et de télévision.
 
 **Liens relatifs à cet article**
 
@@ -4279,14 +4446,14 @@ activités comprennent notamment l'acheminement et la diffusion de services de r
 
 	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 15
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L34-8 (V)
 	  - Code des postes et des communications électroni... - art. L35-1 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (V)
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroniques - art. L34-8
+	  - Code des postes et des communications électroniques - art. L35-2
+	  - Code des postes et des communications électroniques - art. L36-11
 
 
 ###### Article L35-4
@@ -4301,10 +4468,9 @@ Tout annuaire universel doit respecter des modalités de présentation et des ca
 réglementaire. Toute personne qui édite un annuaire universel ou fournit un service universel de renseignements traite et
 présente de façon non discriminatoire les informations qui lui sont communiquées à cette fin.
 
-Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du service public des postes et des communications
-électroniques, détermine les modalités d'application du présent article. Il précise notamment les garanties à mettre en
-oeuvre pour assurer la confidentialité des données, compte tenu des intérêts commerciaux des opérateurs, et la protection de
-la vie privée.
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du numérique et des postes, détermine les modalités
+d'application du présent article. Il précise notamment les garanties à mettre en oeuvre pour assurer la confidentialité des
+données, compte tenu des intérêts commerciaux des opérateurs, et la protection de la vie privée.
 
 **Liens relatifs à cet article**
 
@@ -4319,7 +4485,7 @@ la vie privée.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 129
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Codifié par**:
 
@@ -4393,6 +4559,43 @@ précisent les modalités de réalisation ainsi que de financement.
 	  - Code des postes et des communications électroni... - art. L35 (V)
 	  - Code des postes et des communications électronique - art. D586 (V)
 	  - Code des postes et des communications électronique - art. D96-17 (T)
+
+
+###### Article L35-7
+
+Au plus tard trois mois avant l'expiration de la période pour laquelle elle a été chargée, en application de l'article L.
+35-2, de fournir la composante du service universel prévue au 1° de l'article L. 35-1, toute personne désignée dans le cadre
+de la procédure prévue aux deuxième ou troisième alinéas de l'article L. 35-2 remet au ministre chargé des communications
+électroniques ainsi qu'à l'Autorité de régulation des communications électroniques et des postes un rapport présentant un
+état des lieux détaillé de son réseau fixe. Ce rapport comporte une analyse, à l'échelle du département, de l'état du réseau
+lorsque ne sont pas remplies les obligations, notamment de qualité, prévues par le cahier des charges mentionné à l'avant-
+dernier alinéa du même article L. 35-2. 
+
+Sauf si leur divulgation est susceptible de porter atteinte au secret des affaires, au secret commercial ou au secret
+statistique, l'Autorité de régulation des communications électroniques et des postes communique aux collectivités
+territoriales et à leurs groupements concernés, à leur demande, tout ou partie de ce rapport.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 1991 - art. ANNEXE (V)
+	  - Code des postes et des communications électroni... - art. L35-8 (Ab)
+	  - Code des postes et des communications électronique - art. D576 (V)
+	  - Code des postes et des communications électronique - art. D96-7 (T)
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
+
+	**Codifié par**:
+
+	  - Décret n°62-273 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L35-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
 
 
 #### Chapitre IV : La régulation des communications électroniques.
@@ -4538,12 +4741,16 @@ L'Autorité de régulation des communications électroniques et des postes :
 
 1° Reçoit les déclarations prévues à l'article L. 33-1 ; 
 
-2° (Abrogé) 
+2° (Abrogé) ;
 
 3° Contrôle le respect par les opérateurs des obligations résultant des dispositions législatives et réglementaires qui leur
 sont applicables en vertu du présent code, du règlement (UE) n° 531/2012 du Parlement européen et du Conseil, du 13 juin
-2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union et des autorisations
-dont ils bénéficient et sanctionne les manquements constatés dans les conditions prévues aux articles L. 36-10 et L. 36-11 ; 
+2012, concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union, du règlement (UE)
+2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l'accès à un internet
+ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des
+réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l'itinérance sur les réseaux
+publics de communications mobiles à l'intérieur de l'Union et des autorisations dont ils bénéficient et sanctionne les
+manquements constatés dans les conditions prévues aux articles L. 36-10 et L. 36-11 ; 
 
 4° Détermine, selon les principes et les méthodes élaborés dans les conditions prévues à l'article L. 35-3, les montants des
 contributions au financement des obligations de service universel et assure la surveillance des mécanismes de ce
@@ -4569,7 +4776,13 @@ application de l'article 119 de la loi n° 2008-776 du 4 août 2008 de modernisa
 10° Publie chaque année un rapport sur l'effort d'investissement des opérateurs de radiocommunications mobiles autorisés. Ce
 rapport évalue les investissements réalisés par chacun des opérateurs dans le déploiement d'infrastructures nouvelles et
 vérifie que les conventions de partage de réseaux radioélectriques ouverts au public mentionnés à l'article L. 34-8-1-1
-n'entravent pas ce déploiement.
+n'entravent pas ce déploiement ;
+
+11° Met à disposition du public, sous forme électronique, dans un standard ouvert aisément réutilisable, sous réserve de
+mentionner leurs sources, les cartes numériques de couverture du territoire que les fournisseurs de services de
+communications électroniques sont tenus de publier en application du présent code et des décisions prises pour son
+application, ainsi que les données servant à les établir dont elle fixe la liste et que les fournisseurs lui transmettent
+préalablement.
 
 **Liens relatifs à cet article**
 
@@ -4616,10 +4829,10 @@ n'entravent pas ce déploiement.
 	**Cite**:
 
 	  - Loi n°2008-776 du 4 août 2008 - art. 119
-	  - Code des postes et des communications électroniques - art. L33-1
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L35-3 (V)
 	  - Code des postes et des communications électroniques - art. L34-8-1-1
-	  - Code des postes et des communications électroniques - art. L35-2
-	  - Code des postes et des communications électroniques - art. L35-3
 	  - Code des postes et des communications électroniques - art. L36-10
 	  - Code des postes et des communications électroniques - art. L37-1
 	  - Code des postes et des communications électroniques - art. L38-1
@@ -4628,7 +4841,8 @@ n'entravent pas ce déploiement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-493 du 21 avril 2016 - art. 3
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 80
 
 
 ###### Article L36-8
@@ -4684,8 +4898,9 @@ génie civil prévue à l'article 134 de la loi n° 2004-669 du 9 juillet 2004 p
 d'établissement, de mise à disposition ou de partage des réseaux et infrastructures de communications électroniques visés à
 l'article L. 1425-1 du code général des collectivités territoriales ; 
 
-5° Les conditions réciproques techniques et tarifaires d'acheminement du trafic entre un opérateur et une entreprise
-fournissant des services de communication au public en ligne. 
+5° Les conditions réciproques techniques et tarifaires d'acheminement du trafic, y compris de gestion, entre un opérateur et
+une entreprise fournissant des services de communication au public en ligne, en vue notamment d'assurer le respect de la
+neutralité de l'internet mentionnée au q du I de l'article L. 33-1 du présent code. 
 
 Elle se prononce sur ces différends dans les conditions de forme et de procédure prévues au I. En outre, elle procède à une
 consultation publique de toutes les parties intéressées avant toute décision imposant l'utilisation partagée entre opérateurs
@@ -4762,7 +4977,6 @@ communications électroniques et des postes et, le cas échéant, devant la cour
 	  - Code des postes et des communications électroni... - art. L34-8-6 (V)
 	  - Code des postes et des communications électroni... - art. L36-11 (VD)
 	  - Code des postes et des communications électroni... - art. L47 (V)
-	  - Code des postes et des communications électroni... - art. L48 (V)
 	  - Code des postes et des communications électroni... - art. R11-1 (V)
 	  - Code des postes et des communications électroni... - art. R11-2 (V)
 	  - Code des postes et des communications électroni... - art. R11-7 (V)
@@ -4774,11 +4988,12 @@ communications électroniques et des postes et, le cas échéant, devant la cour
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 4
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L32 (VT)
+	  - Code des postes et des communications électroni... - art. L32 (V)
+	  - Code des postes et des communications électroni... - art. L48 (V)
 
 
 ###### Article L36-10
@@ -4838,13 +5053,14 @@ par voie conventionnelle entre les opérateurs ;
 ###### Article L36-11
 
 L'Autorité de régulation des communications électroniques et des postes peut, soit d'office, soit à la demande du ministre
-chargé des communications électroniques, d'une organisation professionnelle, d'une association agréée d'utilisateurs ou d'une
-personne physique ou morale concernée, sanctionner les manquements qu'elle constate de la part des exploitants de réseau et
-des fournisseurs de services de communications électroniques ou des gestionnaires d'infrastructure d'accueil. Ce pouvoir de
-sanction est exercé dans les conditions suivantes : 
+chargé des communications électroniques d'une collectivité territoriale ou d'un groupement de collectivités territoriales,
+d'une organisation professionnelle, d'une association agréée d'utilisateurs ou d'une personne physique ou morale concernée,
+sanctionner les manquements qu'elle constate de la part des exploitants de réseau, des fournisseurs de services de
+communications électroniques, des fournisseurs de services de communication au public en ligne ou des gestionnaires
+d'infrastructures d'accueil. Ce pouvoir de sanction est exercé dans les conditions suivantes : 
 
-I.-En cas de manquement par un exploitant de réseau ou un fournisseur de services de communications électroniques ou par un
-gestionnaire d'infrastructure d'accueil :
+I.-En cas de manquement par un exploitant de réseau, par un fournisseur de services de communications électroniques, un
+fournisseur de services de communication au public en ligne ou un gestionnaire d'infrastructures d'accueil :
 
 - aux dispositions législatives et réglementaires au respect desquelles l'Autorité a pour mission de veiller ou aux textes et
 décisions pris en application de ces dispositions ;
@@ -4852,20 +5068,30 @@ décisions pris en application de ces dispositions ;
 - aux dispositions du règlement (UE) n° 531/2012 du Parlement européen et du Conseil du 13 juin 2012 concernant l'itinérance
 sur les réseaux publics de communications mobiles à l'intérieur de l'Union ;
 
+- aux dispositions du règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des
+mesures relatives à l'accès à un internet ouvert et modifiant la directive 2002/22/ CE concernant le service universel et les
+droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012
+concernant l'itinérance sur les réseaux publics de communications mobiles à l'intérieur de l'Union ;
+
 - ainsi qu'aux prescriptions d'une décision d'attribution ou d'assignation de fréquence prise par l'Autorité en application
 de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, 
 
-l'exploitant ou le fournisseur est mis en demeure par l'Autorité de régulation des communications électroniques et des postes
-de s'y conformer dans un délai qu'elle détermine. 
+l'exploitant, le fournisseur ou le gestionnaire est mis en demeure par l'Autorité de régulation des communications
+électroniques et des postes de s'y conformer dans un délai qu'elle détermine. 
 
 La mise en demeure peut être assortie d'obligations de se conformer à des étapes intermédiaires dans le même délai. Elle est
 motivée et notifiée à l'intéressé. L'Autorité peut rendre publique cette mise en demeure. 
 
-II.-Lorsqu'un exploitant de réseau ou un fournisseur de services de communications électroniques ou un gestionnaire
-d'infrastructure d'accueil ne se conforme pas dans les délais fixés à la mise en demeure prévue au I ou aux obligations
-intermédiaires dont elle est assortie, l'Autorité de régulation des communications électroniques et des postes peut, après
-instruction conduite par ses services, notifier les griefs à la personne en cause. Elle transmet alors le dossier
-d'instruction et la notification des griefs à la formation restreinte. 
+Lorsque l'autorité estime qu'il existe un risque caractérisé qu'un exploitant de réseau ou un fournisseur de services de
+communications électroniques ne respecte pas à l'échéance prévue initialement ses obligations résultant des dispositions et
+prescriptions mentionnées au présent I, elle peut mettre en demeure l'exploitant ou le fournisseur de s'y conformer à cette
+échéance. 
+
+II.-Lorsqu'un exploitant de réseau, un fournisseur de services ou un gestionnaire d'infrastructure d'accueil ne se conforme
+pas dans les délais fixés à la mise en demeure prévue au I ou aux obligations intermédiaires dont elle est assortie,
+l'Autorité de régulation des communications électroniques et des postes peut, après instruction conduite par ses services,
+notifier les griefs à la personne en cause. Elle transmet alors le dossier d'instruction et la notification des griefs à la
+formation restreinte. 
 
 III.-Après que la personne en cause a reçu la notification des griefs, a été mise à même de consulter le dossier et de
 présenter ses observations écrites, et avant de prononcer une sanction, la formation restreinte procède, selon une procédure
@@ -4891,9 +5117,16 @@ sans pouvoir excéder 3 % du chiffre d'affaires hors taxes du dernier exercice c
 violation de la même obligation. A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut
 excéder 150 000 €, porté à 375 000 € en cas de nouvelle violation de la même obligation ;
 
+- lorsqu'une personne chargée, en application de l'article L. 35-2, de fournir des prestations de service universel ne s'est
+pas conformée à une mise en demeure portant sur le respect d'obligations pesant sur elle à ce titre, une sanction pécuniaire
+dont le montant est proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 5 % du
+chiffre d'affaires hors taxes du dernier exercice clos, taux porté à 10 % en cas de nouvelle violation de la même obligation.
+A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 €, porté à 375 000
+€ en cas de nouvelle violation de la même obligation ;
+
 - une sanction pécuniaire dont le montant est proportionné à la gravité du manquement apprécié notamment au regard du nombre
-d'habitants ou de kilomètres carrés non couverts ou de sites non couverts, sans pouvoir excéder un plafond fixé à 65 € par
-habitant non couvert ou 1 500 € par kilomètre carré non couvert ou 40 000 € par site non ouvert lorsque la personne en cause
+d'habitants ou de kilomètres carrés non couverts ou de sites non couverts, sans pouvoir excéder un plafond fixé à 130 € par
+habitant non couvert ou 3 000 € par kilomètre carré non couvert ou 80 000 € par site non couvert lorsque la personne en cause
 ne s'est pas conformée à une mise en demeure portant sur le respect d'obligations de couverture de la population prévues par
 l'autorisation d'utilisation de fréquences qui lui a été attribuée ;
 
@@ -4940,9 +5173,10 @@ de son ordonnance.
 	**Cite**:
 
 	  - Loi n°86-1067 du 30 septembre 1986 - art. 26
-	  - Code de justice administrative - art. L521-1
-	  - Code des postes et des communications électroniques - art. L36-8
-	  - Code des postes et des communications électroniques - art. L44
+	  - Code de justice administrative - art. L521-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-2 (V)
+	  - Code des postes et des communications électroni... - art. L38 (V)
+	  - Code des postes et des communications électroni... - art. L44 (V)
 
 	**Cité par**:
 
@@ -4962,7 +5196,9 @@ de son ordonnance.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-526 du 28 avril 2016 - art. 5
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 79
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
 
 
 ###### Article L36-13
@@ -5804,14 +6040,15 @@ application.
 
 Les fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de régulation des
 communications électroniques et des postes et de l'Agence nationale des fréquences visés à l'alinéa précédent peuvent accéder
-aux locaux, terrains ou moyens de transport à usage professionnel utilisés par des personnes visées à l'article L. 32-4, par
-celles fabriquant, important ou distribuant des équipements ou installations visés à l'article L. 34-9 ou par celles faisant
-usage de fréquences radioélectriques visées à l'article L. 41-1, en vue de rechercher et de constater les infractions,
-demander la communication de tous documents professionnels et en prendre copie, recueillir, sur convocation ou sur place, les
-renseignements et justifications. Les fonctionnaires et agents du ministère chargé des communications électroniques, de
-l'Autorité de régulation des communications électroniques et des postes et de l'Agence nationale des fréquences ne peuvent
-accéder à ces locaux que pendant leurs heures d'ouverture lorsqu'ils sont ouverts au public et, dans les autres cas, qu'entre
-8 heures et 20 heures. Ils ne peuvent accéder aux locaux qui servent pour partie de domicile aux intéressés. 
+aux locaux, terrains ou moyens de transport à usage professionnel utilisés par des personnes mentionnées aux 1°, 2° et 2° bis
+du I de l'article L. 32-4, par celles fabriquant, important ou distribuant des équipements ou installations visés à l'article
+L. 34-9 ou par celles faisant usage de fréquences radioélectriques visées à l'article L. 41-1, en vue de rechercher et de
+constater les infractions, demander la communication de tous documents professionnels et en prendre copie, recueillir, sur
+convocation ou sur place, les renseignements et justifications. Les fonctionnaires et agents du ministère chargé des
+communications électroniques, de l'Autorité de régulation des communications électroniques et des postes et de l'Agence
+nationale des fréquences ne peuvent accéder à ces locaux que pendant leurs heures d'ouverture lorsqu'ils sont ouverts au
+public et, dans les autres cas, qu'entre 8 heures et 20 heures. Ils ne peuvent accéder aux locaux qui servent pour partie de
+domicile aux intéressés. 
 
 Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions, par
 les fonctionnaires et agents du ministère chargé des communications électroniques, de l'Autorité de régulation des
@@ -5839,11 +6076,11 @@ l'intéressé ordonner mainlevée de la saisie.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 43
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Cité par**:
 
@@ -5857,14 +6094,8 @@ l'intéressé ordonner mainlevée de la saisie.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L32-4 (V)
-	  - Code des postes et des communications électroni... - art. L34-9 (V)
-	  - Code des postes et des communications électroni... - art. L41-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L131
-	  - Décret-loi 1851-12-27 art. 10
+	  - Code des postes et des communications électroniques - art. L34-9
+	  - Code des postes et des communications électroniques - art. L41-1
 
 
 ###### Article L40-1
@@ -6196,6 +6427,35 @@ installations radioélectriques utilisant ces fréquences établies librement da
 après préavis et expiration d'un délai raisonnable, soit transformée en autorisation cessible dans les conditions de
 l'article L. 42-3.
 
+IV.-L'Autorité de régulation des communications électroniques et des postes peut attribuer, en vue de la réalisation des
+objectifs mentionnés à l'article L. 32-1, des autorisations d'utilisation de fréquences à des fins expérimentales selon les
+modalités prévues au présent article et, le cas échéant, à l'article L. 42-2. 
+
+Ces autorisations peuvent préciser qu'au titre de l'activité ou du service nécessitant l'utilisation des ressources
+attribuées et pour une durée maximale de deux ans à compter de leur entrée en vigueur, le titulaire n'est pas soumis à tout
+ou partie des droits et obligations attachés à l'attribution de ces ressources ou à l'exercice de l'activité d'opérateur de
+communications électroniques ou d'exploitant de réseau indépendant conformément aux chapitres II et IV du titre Ier du
+présent livre et aux chapitres Ier à III du présent titre ou à tout ou partie des droits et obligations prévus par la section
+3 du chapitre IV du titre II du livre II du code de la consommation. 
+
+Elles peuvent être assorties d'obligations relatives à l'information des utilisateurs finals concernant le caractère
+expérimental de l'activité ou du service concerné ainsi qu'aux modalités de mise en conformité, à l'issue de
+l'expérimentation, avec les obligations auxquelles il a été dérogé. Elles sont assorties des conditions techniques et
+opérationnelles nécessaires pour éviter les brouillages préjudiciables. 
+
+L'Autorité de régulation des communications électroniques et des postes informe sans délai le ministre chargé des
+communications électroniques et, le cas échéant, le ministre chargé de la consommation, de la réception d'une demande
+d'autorisation d'utilisation de fréquences à des fins expérimentales. Elle les informe également sans délai des dérogations
+accordées en application du deuxième alinéa du présent IV. Dans un délai d'un mois à compter de la notification de
+l'autorisation, le ministre chargé des communications électroniques et, le cas échéant, le ministre chargé de la
+consommation, peuvent s'opposer, pour des motifs d'intérêt général, à l'octroi de tout ou partie de ces dérogations. La
+décision d'autorisation d'utilisation de fréquences ne peut entrer en vigueur qu'à l'expiration de ce délai. 
+
+Pour l'application du présent IV, on entend par utilisation de fréquences à des fins expérimentales l'utilisation de
+fréquences en vue de développer une technologie ou un service innovants, du point de vue technique ou commercial, sous
+réserve que soit le chiffre d'affaires de l'activité nécessitant cette utilisation, soit le nombre d'utilisateurs de la
+technologie ou du service demeure inférieur à un seuil fixé par décret pendant toute la durée de l'expérimentation.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -6213,7 +6473,7 @@ l'article L. 42-3.
 	  - Code des postes et des communications électroni... - art. D406-17-1 (V)
 	  - Code des postes et des communications électroni... - art. D98-11 (V)
 	  - Code des postes et des communications électroni... - art. D98-6 (V)
-	  - Code des postes et des communications électroni... - art. L33-12 (M)
+	  - Code des postes et des communications électroni... - art. L33-12 (V)
 	  - Code des postes et des communications électroni... - art. L36-11 (V)
 	  - Code des postes et des communications électroni... - art. L36-7 (V)
 	  - Code des postes et des communications électroni... - art. L42-2 (V)
@@ -6228,7 +6488,7 @@ l'article L. 42-3.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 125
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 92
 
 	**Codifié par**:
 
@@ -6236,10 +6496,10 @@ l'article L. 42-3.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L33-3 (V)
-	  - Code des postes et des communications électroni... - art. L39 (V)
-	  - Code des postes et des communications électroni... - art. L39-4 (V)
 	  - Code des postes et des communications électroniques - art. L32-1
+	  - Code des postes et des communications électroniques - art. L33-3
+	  - Code des postes et des communications électroniques - art. L39
+	  - Code des postes et des communications électroniques - art. L39-4
 	  - Code des postes et des communications électroniques - art. L42-3
 
 
@@ -6260,8 +6520,9 @@ La sélection des titulaires de ces autorisations se fait par appel à candidatu
 d'utilisation mentionnées au II de l'article L. 42-1 ou sur la contribution à la réalisation des objectifs mentionnés à
 l'article L. 32-1, ou par une procédure d'enchères dans le respect de ces objectifs et après définition de ces conditions par
 le ministre sur proposition de l'Autorité de régulation des communications électroniques et des postes. Sans préjudice de ce
-qui précède, s'agissant des fréquences utilisées précédemment pour la diffusion de la télévision numérique terrestre, les
-obligations de déploiement tiennent prioritairement compte des impératifs d'aménagement numérique du territoire. 
+qui précède, dans tous les cas où cela est pertinent, et notamment dans le cas des fréquences utilisées précédemment pour la
+diffusion de la télévision numérique terrestre, les obligations de déploiement tiennent prioritairement compte des impératifs
+d'aménagement numérique du territoire. 
 
 Le ministre peut prévoir qu'un dépôt de garantie peut être demandé et qu'un dédit peut être dû si le candidat retire sa
 candidature avant la délivrance de l'autorisation.
@@ -6306,7 +6567,7 @@ article peuvent déroger aux dispositions de l'article L. 2125-4 du code génér
 
 	**Modifié par**:
 
-	  - Loi n°2015-1267 du 14 octobre 2015 - art. 14
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 83
 
 	**Cite**:
 
@@ -6691,8 +6952,8 @@ contrat qui lie cet opérateur à l'abonné.
 Tout retard ou abus dans la prestation de conservation du numéro donne lieu à indemnisation de l'abonné. 
 
 Un décret, pris après avis de l'Autorité de régulation des communications électroniques et des postes, de la Commission
-supérieure du service public des postes et des communications électroniques et du Conseil national de la consommation,
-précise les modalités d'application des deux alinéas précédents. 
+supérieure du numérique et des postes et du Conseil national de la consommation, précise les modalités d'application des deux
+alinéas précédents. 
 
 II.-Chaque attribution de ressources de numérotation à un opérateur donne lieu au paiement par cet opérateur d'une taxe due
 par année civile, y compris l'année de l'attribution. 
@@ -6735,6 +6996,35 @@ III.-Les opérateurs traitent l'ensemble des appels à destination et en provena
 européen à des tarifs similaires à ceux qu'ils appliquent aux appels à destination et en provenance des Etats membres de
 l'Union européenne autres que la France.
 
+IV.-L'Autorité de régulation des communications électroniques et des postes peut attribuer, en vue de la réalisation des
+objectifs mentionnés à l'article L. 32-1, des ressources de numérotation et des codes à des fins expérimentales selon les
+modalités prévues au I du présent article. 
+
+Ces décisions peuvent préciser qu'au titre de l'activité ou du service nécessitant l'utilisation des ressources attribuées et
+pour une durée maximale de deux ans à compter de leur entrée en vigueur, le titulaire n'est pas soumis à tout ou partie des
+droits et obligations attachés à l'attribution de ces ressources ou à l'exercice de l'activité d'opérateur de communications
+électroniques ou d'exploitant de réseau indépendant conformément aux chapitres II et IV du titre Ier du présent livre et aux
+chapitres Ier à III du présent titre ou à tout ou partie des droits et obligations prévus par la section 3 du chapitre IV du
+titre II du livre II du code de la consommation. 
+
+Elles peuvent être assorties d'obligations relatives à l'information des utilisateurs finals concernant le caractère
+expérimental de l'activité ou du service concerné ainsi qu'aux modalités de mise en conformité, à l'issue de
+l'expérimentation, avec les obligations auxquelles il a été dérogé. 
+
+L'Autorité de régulation des communications électroniques et des postes informe sans délai le ministre chargé des
+communications électroniques et, le cas échéant, le ministre chargé de la consommation de la réception d'une demande
+d'attribution de ressources de numérotation ou de codes à des fins expérimentales. Elle les informe également sans délai des
+dérogations accordées en application du deuxième alinéa du présent IV. Dans un délai d'un mois à compter de la notification
+de la décision d'attribution, le ministre chargé des communications électroniques et, le cas échéant, le ministre chargé de
+la consommation, peuvent s'opposer, pour des motifs d'intérêt général, à l'octroi de tout ou partie de ces dérogations. La
+décision d'attribution de ressources de numérotation ou de codes ne peut entrer en vigueur qu'à l'expiration de ce délai. 
+
+Pour l'application du présent IV, on entend par utilisation de ressources de numérotation à des fins expérimentales
+l'utilisation de ressources de numérotation en vue de développer une technologie ou un service innovants, du point de vue
+technique ou commercial, sous réserve que soit le chiffre d'affaires de l'activité nécessitant cette utilisation, soit le
+nombre d'utilisateurs de la technologie ou du service demeure inférieur à un seuil fixé par décret pendant toute la durée de
+l'expérimentation.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -6757,7 +7047,8 @@ l'Union européenne autres que la France.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 125
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 92
 
 
 ###### Article L44-1
@@ -7158,8 +7449,8 @@ routier.
 Les exploitants de réseaux ouverts au public peuvent occuper le domaine public routier, en y implantant des ouvrages dans la
 mesure où cette occupation n'est pas incompatible avec son affectation. 
 
-Les travaux nécessaires à l'établissement et à l'entretien des réseaux sont effectués conformément aux règlements de voirie,
-et notamment aux dispositions de l'article L. 115-1 du code de la voirie routière.
+Les travaux nécessaires à l'établissement et à l'entretien des réseaux et de leurs abords sont effectués conformément aux
+règlements de voirie, et notamment aux dispositions de l'article L. 115-1 du code de la voirie routière.
 
 L'occupation du domaine routier fait l'objet d'une permission de voirie, délivrée par l'autorité compétente, suivant la
 nature de la voie empruntée, dans les conditions fixées par le code de la voirie routière. La permission peut préciser les
@@ -7176,9 +7467,10 @@ public et que cette utilisation ne compromettrait pas la mission propre de servi
 mentionnée au premier alinéa peut inviter les deux parties à se rapprocher pour convenir des conditions techniques et
 financières d'une utilisation partagée des installations en cause. Dans ce cas, et sauf accord contraire, le propriétaire des
 installations accueillant l'opérateur autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des
-infrastructures et des équipements qui empruntent ses installations et qui sont placés sous sa responsabilité, moyennant
-paiement d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des
-communications électroniques et des postes peut être saisie, dans les conditions fixées à l'article L. 36-8. 
+infrastructures et des équipements, y compris de leurs abords, qui empruntent ses installations et qui sont placés sous sa
+responsabilité, moyennant paiement d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs,
+l'Autorité de régulation des communications électroniques et des postes peut être saisie, dans les conditions fixées à
+l'article L. 36-8. 
 
 La permission de voirie ne peut contenir des dispositions relatives aux conditions commerciales de l'exploitation. Elle donne
 lieu à versement de redevances dues à la collectivité publique concernée pour l'occupation de son domaine public dans le
@@ -7200,7 +7492,7 @@ redevance mentionnée à l'alinéa ci-dessus.
 	  - Arrêté du 14 octobre 1997 - art. ANNEXE (V)
 	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
 	  - Code des postes et des communications électroni... - art. L32-1 (M)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 	  - Code des postes et des communications électroni... - art. L47-1 (V)
 	  - Code des postes et des communications électroni... - art. L51 (V)
 	  - Code des postes et des communications électroni... - art. R*20-45 (V)
@@ -7208,7 +7500,7 @@ redevance mentionnée à l'alinéa ci-dessus.
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 23
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
 
 	**Cite**:
 
@@ -7253,17 +7545,22 @@ L'autorité compétente se prononce dans un délai de deux mois suivant la deman
 
 ###### Article L48
 
-La servitude mentionnée à l'article L. 45-9 est instituée en vue de permettre l'installation et l'exploitation des
-équipements du réseau, y compris les équipements des réseaux à très haut débit fixes et mobiles : 
+La servitude mentionnée à l'article L. 45-9 est instituée en vue de permettre l'installation, l'exploitation et l'entretien
+des équipements du réseau, y compris les équipements des réseaux à très haut débit fixes et mobiles, ainsi que pour permettre
+les opérations d'entretien des abords des réseaux permettant d'assurer des services fixes de communications électroniques
+ouverts au public, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage : 
 
-a) Sur et dans les parties des immeubles collectifs et des lotissements affectées à un usage commun, y compris celles pouvant
-accueillir des installations ou équipements radioélectriques ; 
+a) Sur les bâtiments d'habitation et sur et dans les parties des immeubles collectifs et des lotissements affectées à un
+usage commun, y compris celles pouvant accueillir des installations ou équipements radioélectriques ; 
 
 b) Sur le sol et dans le sous-sol des propriétés non bâties, y compris celles pouvant accueillir des installations ou
 équipements radioélectriques ; 
 
-c) Au-dessus des propriétés privées dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers bénéficiant
-de servitudes sans compromettre, le cas échéant, la mission propre de service public confiée à ce tiers. 
+c) Sur et au-dessus des propriétés privées, y compris à l'extérieur des murs ou des façades donnant sur la voie publique,
+dans la mesure où l'exploitant se borne à utiliser l'installation d'un tiers bénéficiant de servitudes ou lié par une
+convention de passage définie avec le propriétaire sans compromettre, le cas échéant, la mission propre de service public
+confiée à ce tiers. En cas de contrainte technique, l'installation est déployée à proximité de celle bénéficiant de la
+servitude ou visée par la convention de passage en suivant au mieux le cheminement de cette servitude ou de ce passage.
 
 La mise en oeuvre de la servitude est subordonnée à une autorisation délivrée au nom de l'Etat par le maire après que les
 propriétaires ou, en cas de copropriété, le syndicat représenté par le syndic ont été informés des motifs qui justifient
@@ -7274,26 +7571,27 @@ instance.
 
 Lorsqu'il est constaté que la servitude de l'opérateur sur une propriété privée peut être assurée, dans des conditions
 équivalentes à celles qui résulteraient du bénéfice de cette servitude, par l'utilisation de l'installation existante d'un
-autre bénéficiaire de servitude sur la propriété concernée et que cette utilisation ne compromettrait pas, le cas échéant, la
-mission propre de service public du bénéficiaire de la servitude, l'autorité concernée mentionnée à l'alinéa précédent peut
-inviter les deux parties à se rapprocher pour convenir des conditions techniques et financières d'une utilisation partagée
-des installations en cause. Dans ce cas, et sauf accord contraire, le propriétaire des installations accueillant l'opérateur
-autorisé assume, dans la limite du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui
-empruntent ses installations et qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec
-l'opérateur. En cas de litige entre opérateurs, l'Autorité de régulation des communications électroniques et des postes peut
-être saisie, dans les conditions fixées à l'article L. 36-8. Dès lors qu'elle résulte du partage d'une installation déjà
-autorisée au titre d'une autre servitude et qu'elle n'accroît pas l'atteinte portée à la propriété privée, la servitude
-prévue à l'article L. 45-9 est exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
+autre bénéficiaire de servitude ou d'une convention de passage signée avec le propriétaire sur la propriété concernée et que
+cette utilisation ne compromettrait pas, le cas échéant, la mission propre de service public du bénéficiaire de la servitude
+ou de la convention de passage, l'autorité concernée mentionnée à l'alinéa précédent peut inviter les deux parties à se
+rapprocher pour convenir des conditions techniques et financières d'une utilisation partagée des installations en cause. Dans
+ce cas, et sauf accord contraire, le propriétaire des installations accueillant l'opérateur autorisé assume, dans la limite
+du contrat conclu entre les parties, l'entretien des infrastructures et des équipements qui empruntent ses installations et
+qui sont placés sous sa responsabilité, moyennant paiement d'une contribution négociée avec l'opérateur. En cas de litige
+entre opérateurs, l'Autorité de régulation des communications électroniques et des postes peut être saisie, dans les
+conditions fixées à l'article L. 36-8. Dès lors qu'elle n'accroît pas l'atteinte portée à la propriété privée, la servitude
+prévue au c du présent article est exonérée de la procédure prévue au cinquième alinéa. Elle fait l'objet d'une indemnisation
 dans les conditions prévues au neuvième alinéa.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au droit des propriétaires ou copropriétaires de
 démolir, réparer, modifier ou clore leur propriété. Toutefois, les propriétaires ou copropriétaires doivent, au moins trois
 mois avant d'entreprendre des travaux de nature à affecter les ouvrages, prévenir le bénéficiaire de la servitude. 
 
-Lorsque, pour l'étude, la réalisation et l'exploitation des installations, l'introduction des agents des exploitants
-autorisés dans les propriétés privées définies au premier alinéa est nécessaire, elle est, à défaut d'accord amiable,
-autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure que la présence
-des agents est nécessaire. 
+Lorsque, pour l'étude, la réalisation, l'exploitation et l'entretien des installations ou pour les opérations d'entretien
+mentionnées au premier alinéa, l'introduction des agents des exploitants autorisés dans les propriétés privées définies au
+même alinéa est nécessaire, elle est, à défaut d'accord amiable ou de convention conclue entre le propriétaire et
+l'exploitant, autorisée par le président du tribunal de grande instance, statuant comme en matière de référé, qui s'assure
+que la présence des agents est nécessaire. 
 
 Le bénéficiaire de la servitude est responsable de tous les dommages qui trouvent leur origine dans les équipements du
 réseau. Il est tenu d'indemniser l'ensemble des préjudices directs et certains causés tant par les travaux d'installation et
@@ -7318,7 +7616,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
 	  - Code de l'urbanisme - art. (V)
 	  - Code des postes et des communications électroni... - art. L33-6 (VD)
-	  - Code des postes et des communications électroni... - art. L36-8 (VD)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
 	  - Code des postes et des communications électroni... - art. L45-1 (V)
 	  - Code des postes et des communications électroni... - art. L51 (V)
 	  - Code des postes et des communications électroni... - art. R20-58 (V)
@@ -7326,7 +7624,8 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2011-302 du 22 mars 2011 - art. 19 (V)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 73
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
 
 	**Cite**:
 
@@ -7456,6 +7755,72 @@ décret en Conseil d'Etat.
 	  - Code des postes et des communications électroni... - art. D407-5 (V)
 	  - Code des postes et des communications électroni... - art. L49 (VD)
 	  - Code des postes et des communications électroni... - art. R42-2 (V)
+
+
+###### Article L51
+
+I.-Les opérations d'entretien des abords d'un réseau ouvert au public permettant d'assurer des services fixes de
+communications électroniques, telles que le débroussaillage, la coupe d'herbe, l'élagage et l'abattage, sont accomplies par
+le propriétaire du terrain, le fermier ou leurs représentants, que la propriété soit riveraine ou non du domaine public, afin
+de prévenir l'endommagement des équipements du réseau et l'interruption du service. A cette fin, l'exploitant du réseau
+ouvert au public est tenu de proposer au propriétaire du terrain, au fermier ou à leurs représentants l'établissement d'une
+convention. Sur le domaine public, les modalités de réalisation des coupes sont définies par la convention prévue au premier
+alinéa de l'article L. 46 ou par la permission de voirie prévue au troisième alinéa de l'article L. 47. 
+
+Par dérogation au premier alinéa du présent I, ces opérations sont accomplies par l'exploitant du réseau ouvert au public
+assurant des services fixes de communications électroniques : 
+
+1° Lorsque le propriétaire du terrain, le fermier ou leurs représentants ne sont pas identifiés ; 
+
+2° Lorsque l'exploitant et le propriétaire du terrain, le fermier ou leurs représentants en sont convenus ainsi par
+convention, notamment lorsque les coûts exposés par ces opérations sont particulièrement élevés pour ces derniers ou lorsque
+la réalisation de ces opérations présente des difficultés techniques ou pratiques de nature à porter atteinte à la sécurité
+ou à l'intégrité des réseaux. 
+
+II.-En cas de défaillance de leur part, ces opérations sont accomplies par l'exploitant du réseau ouvert au public assurant
+des services fixes de communications électroniques, aux frais du propriétaire du terrain, du fermier ou de leurs
+représentants. L'exécution des travaux doit être précédée d'une notification aux intéressés, ainsi qu'au maire de la commune
+sur le territoire de laquelle la propriété est située. L'introduction des agents de l'exploitant en vue de procéder aux
+opérations d'entretien s'effectue selon les modalités prévues au huitième alinéa de l'article L. 48. 
+
+III.-Sans préjudice des procédures prévues aux articles L. 2212-2-2 du code général des collectivités territoriales et L.
+114-2 du code de la voirie routière et de la procédure mise en œuvre au titre de l'article L. 161-5 du code rural et de la
+pêche maritime, lorsque l'entretien des abords des équipements du réseau n'est pas assuré dans des conditions permettant de
+prévenir leur endommagement ou les risques d'interruption du service, le maire peut transmettre, au nom de l'Etat, une mise
+en demeure au propriétaire, en informant l'exploitant concerné de celle-ci. Si celle-ci reste infructueuse durant un délai de
+quinze jours, le maire peut notifier le constat de carence du propriétaire à l'exploitant aux fins qu'il procède lui-même aux
+travaux conformément au II du présent article. Si cette notification à l'exploitant reste elle-même infructueuse dans le
+délai de quinze jours, le maire peut faire procéder lui-même à ces opérations aux frais de l'exploitant, dans le respect des
+règles régissant les interventions des exploitants. 
+
+IV.-Lorsqu'un réseau d'initiative publique est déployé sur des infrastructures d'accueil partagées avec un autre réseau
+ouvert au public, l'application des dispositions prévues aux I et II du présent article incombe à l'exploitant du premier
+réseau établi, sauf si les opérateurs concernés en conviennent autrement. Lorsque l'application de ces dispositions ne permet
+pas l'entretien des abords des équipements du réseau d'initiative public dans des conditions permettant de prévenir leur
+endommagement ou les risques d'interruption du service, l'opérateur de ce réseau peut saisir le maire en vue de mettre en
+œuvre, si ce dernier le juge nécessaire, la procédure prévue au III. Si la notification à l'exploitant du premier réseau
+établi reste elle-même infructueuse dans le délai de quinze jours, le maire peut autoriser l'opérateur du réseau d'initiative
+publique à procéder aux opérations d'entretien aux frais de cet exploitant, dans le respect des règles régissant les
+interventions des exploitants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 85
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2-2 (V)
+	  - Code de la voirie routière - art. L114-2 (V)
+	  - Code des postes et des communications électroni... - art. L46 (V)
+	  - Code des postes et des communications électroni... - art. L47 (V)
+	  - Code des postes et des communications électroni... - art. L48 (V)
+	  - Code rural - art. L161-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ###### Article L53
@@ -8553,21 +8918,81 @@ française, à Wallis-et-Futuna et dans les Terres australes et antarctiques fra
 
 ### TITRE Ier : Dispositions communes
 
+### TITRE II : Dispositions finales.
+
+## LIVRE III : Autres services, dispositions communes et finales
+
+### TITRE Ier : Autres services 
+
+###### Article L100
+
+I.-L'envoi recommandé électronique est équivalent à l'envoi par lettre recommandée, dès lors qu'il satisfait aux exigences de
+l'article 44 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification
+électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la
+directive 1999/93/ CE. 
+
+Dans le cas où le destinataire n'est pas un professionnel, celui-ci doit avoir exprimé à l'expéditeur son consentement à
+recevoir des envois recommandés électroniques. 
+
+Le prestataire peut proposer que le contenu de l'envoi soit imprimé sur papier puis acheminé au destinataire dans les
+conditions fixées au livre Ier du présent code. 
+
+II.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment : 
+
+1° Les exigences requises en matière : 
+
+a) D'identification de l'expéditeur et du destinataire ; 
+
+b) De preuve du dépôt par l'expéditeur des données et du moment de ce dépôt ; 
+
+c) De preuve de la réception par le destinataire ou son mandataire des données transmises et du moment de cette réception ; 
+
+d) D'intégrité des données transmises ; 
+
+e) De remise, le cas échéant, de l'envoi recommandé électronique imprimé sur papier ; 
+
+2° Les informations que le prestataire d'un envoi recommandé électronique doit porter à la connaissance du destinataire ; 
+
+3° Le montant de l'indemnité forfaitaire due par le prestataire dont la responsabilité est engagée, en cas de retard dans la
+réception, de perte, extraction, altération ou modification frauduleuse des données transmises lors de la prestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
+
+
+###### Article L101
+
+Est puni d'une amende de 50 000 € le fait de proposer ou de fournir un service ne remplissant pas les conditions mentionnées
+à l'article L. 100 dans des conditions de nature à induire en erreur l'expéditeur ou le destinataire sur les effets
+juridiques de l'envoi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
+
+
+### TITRE II : Dispositions communes
+
 ###### Article L125
 
-La Commission supérieure du service public des postes et des communications électroniques comprend sept députés et sept
-sénateurs, désignés par leurs assemblées respectives, ainsi que trois personnalités qualifiées dans les secteurs des postes
-et des communications électroniques, désignées par les ministres chargés des postes et des communications électroniques parmi
-six personnalités proposées par le président de la commission. Elle est présidée par un parlementaire élu en son sein pour
-une durée de trois ans.
+La Commission supérieure du numérique et des postes comprend sept députés et sept sénateurs, désignés par leurs assemblées
+respectives, ainsi que trois personnalités qualifiées dans les secteurs des postes et des communications électroniques,
+désignées par les ministres chargés des postes et des communications électroniques parmi six personnalités proposées par le
+président de la commission. Elle est présidée par un parlementaire élu en son sein pour une durée de trois ans. L'écart entre
+le nombre de femmes et d'hommes, membres de la commission, ne peut être supérieur à un.(1)
 
-Elle veille à l'évolution équilibrée des secteurs des postes et des communications électroniques et émet, à cette fin, un
-avis sur les projets de modification de la législation applicable à ces secteurs, sur les projets de cahier des charges de La
-Poste et des opérateurs chargés du service universel des communications électroniques et les projets de contrats de plan de
-La Poste. Elle est consultée par les ministres chargés des postes et des communications électroniques lors de la préparation
-des directives communautaires relatives à ces secteurs. Elle peut être consultée par l'Autorité de régulation des
-communications électroniques et des postes et par les commissions permanentes de l'Assemblée nationale et du Sénat sur les
-questions relevant de sa compétence.
+Elle veille à l'évolution équilibrée des secteurs des postes et des communications électroniques et étudie les questions
+relatives à la neutralité de l'internet. Elle émet, à cette fin, un avis sur les projets de modification de la législation
+applicable à ces secteurs, sur les projets de cahier des charges de La Poste et des opérateurs chargés du service universel
+des communications électroniques et les projets de contrats de plan de La Poste. Elle est consultée par les ministres chargés
+des postes et des communications électroniques lors de la préparation des directives communautaires relatives à ces secteurs.
+Elle peut être consultée par l'Autorité de régulation des communications électroniques et des postes et par les commissions
+permanentes de l'Assemblée nationale et du Sénat sur les questions relevant de sa compétence.
 
 Elle peut saisir l'Autorité de régulation des communications électroniques et des postes sur des questions concernant la
 compétence de cette autorité en matière de contrôle et de sanction du respect, par les opérateurs, des obligations de service
@@ -8593,6 +9018,12 @@ ministères chargés des postes et des communications électroniques.
 
 Un décret fixe les modalités d'application du présent article.
 
+**Nota:**
+
+(1) Conformément à l'article 44 de la loi n° 2016-1321 du 7 octobre 2016, la derniere phrase du premier alinéa entre en
+vigueur à compter du prochain renouvellement de membres de la commission mentionnée au premier alinéa de l'article L. 125 du
+code des postes et des communications électroniques.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -8602,28 +9033,24 @@ Un décret fixe les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
-	  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 44
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
-
-	**Anciens textes**:
-
-	  - Code des postes, télégraphes et téléphones L204
-	  - Loi n°1923-06-30 art. 70
-	  - Loi n°1940-10-05 art. 1
+	  - Décret n°62-273 du 12 mars 1962
 
 
 ###### Article L130
 
-L'Autorité de régulation des communications électroniques et des postes est composée de sept membres nommés en raison de leur
-qualification économique, juridique et technique, dans les domaines des communications électroniques, des postes et de
-l'économie des territoires pour un mandat de six ans. Le président est nommé par décret. Deux membres sont nommés par décret.
-Deux membres sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat. 
+L'Autorité de régulation des communications électroniques et des postes est une autorité administrative indépendante composée
+de sept membres nommés en raison de leur qualification économique, juridique et technique, dans les domaines des
+communications électroniques, des postes et de l'économie des territoires pour un mandat de six ans. Le président est nommé
+par décret. Deux membres sont nommés par décret. Deux membres sont nommés par le Président de l'Assemblée nationale et deux
+par le Président du Sénat. 
+
+Parmi les membres de l'autorité, l'écart entre le nombre de femmes et le nombre d'hommes ne peut être supérieur à un. Pour la
+nomination des membres autres que le président, le nouveau membre est de même sexe que celui auquel il succède.
 
 Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans. 
 
@@ -8652,7 +9079,7 @@ conservatoires en application du IV de l'article L. 36-11.
 Quelle que soit sa formation, l'Autorité délibère à la majorité des membres présents. 
 
 Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
-fonctions pour la durée du mandat restant à courir. 
+fonctions pour la durée du mandat restant à courir. Ce nouveau membre est de même sexe que celui qu'il remplace.
 
 Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
 mandat, en application de l'alinéa ci-dessus, n'a pas excédé deux ans. 
@@ -8663,25 +9090,25 @@ Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixan
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 121
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 46
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-83 (VT)
 	  - Code de la consommation - art. L224-30 (V)
 
-	**Cite**:
-
-	  - Code des postes et des communications électroni... - art. L32-4 (V)
-	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L36-8 (V)
-	  - Code des postes et des communications électroni... - art. L5-4 (V)
-	  - Code des postes et des communications électroni... - art. L5-9 (V)
-	  - Code des postes et des communications électroniques - art. L5-3
-
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L36-1 (MMN)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32-4
+	  - Code des postes et des communications électroniques - art. L33-1
+	  - Code des postes et des communications électroniques - art. L36-8
+	  - Code des postes et des communications électroniques - art. L5-3
+	  - Code des postes et des communications électroniques - art. L5-4
+	  - Code des postes et des communications électroniques - art. L5-9
 
 
 ###### Article L131
@@ -8690,7 +9117,7 @@ La fonction de membre de l'Autorité de régulation des communications électron
 activité professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte,
 d'intérêts dans une entreprise du secteur postal ou des secteurs des communications électroniques, de l'audiovisuel ou de
 l'informatique. Les membres de l'Autorité de régulation des communications électroniques et des postes ne peuvent être
-membres de la Commission supérieure du service public des postes et des communications électroniques.
+membres de la Commission supérieure du numérique et des postes.
 
 Les membres et agents de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions en
 toute impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme.
@@ -8713,7 +9140,7 @@ au titre du code des pensions civiles et militaires de retraite.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 31
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
 
 	**Codifié par**:
 
@@ -8833,12 +9260,12 @@ communications électroniques et aux activités postales. Ce rapport précise le
 finals handicapés un accès aux réseaux et aux services de communications électroniques équivalent à celui dont bénéficient
 les autres utilisateurs qui ont été mises en œuvre et l'évolution des tarifs de détail applicables aux services inclus dans
 le service universel prévus à l'article L. 35-1. Elle y dresse une analyse des principales décisions prises par les autorités
-de régulation des communications électroniques et des postes dans les Etats membres de  l'Union européenne au cours de
-l'année écoulée, en vue de permettre l'établissement d'une comparaison des différents types de contrôles exercés et de leurs
-effets sur les marchés. Ce rapport est adressé au Gouvernement et au Parlement. Il est adressé également à la Commission
-supérieure du service public des postes et des communications électroniques. L'autorité peut suggérer dans ce rapport toute
-modification législative ou réglementaire que lui paraissent appeler les évolutions du secteur des communications
-électroniques et de celui des postes et le développement de la concurrence. 
+de régulation des communications électroniques et des postes dans les Etats membres de l'Union européenne au cours de l'année
+écoulée, en vue de permettre l'établissement d'une comparaison des différents types de contrôles exercés et de leurs effets
+sur les marchés. Ce rapport est adressé au Gouvernement et au Parlement. Il est adressé également à la Commission supérieure
+du numérique et des postes. L'autorité peut suggérer dans ce rapport toute modification législative ou réglementaire que lui
+paraissent appeler les évolutions du secteur des communications électroniques et de celui des postes et le développement de
+la concurrence. 
 
 L'autorité rend compte de ses activités, et notamment des progrès réalisés eu égard aux objectifs mentionnés à l'article L.
 32-1, devant les commissions permanentes du Parlement compétentes, à leur demande. Ces dernières peuvent consulter l'autorité
@@ -8850,12 +9277,15 @@ les titulaires de l'autorisation prévue à l'article L. 3, les opérateurs ayan
 33-1 sont tenus de lui fournir les informations statistiques concernant l'utilisation, la zone de couverture et les modalités
 d'accès à leur service. Les ministres compétents sont tenus informés des résultats de ces travaux.
 
+L'autorité peut saisir pour avis la Commission nationale de l'informatique et des libertés de toute question relevant de la
+compétence de celle-ci.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 1
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 56
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 61
 
 	**Codifié par**:
 
@@ -8869,15 +9299,76 @@ d'accès à leur service. Les ministres compétents sont tenus informés des ré
 
 	  - Code des postes et des communications électronique - art. L36-14 (T)
 
+
+###### Article L136
+
+La preuve de l'identité aux fins d'accéder à un service de communication au public en ligne peut être apportée par un moyen
+d'identification électronique. 
+
+Ce moyen d'identification électronique est présumé fiable jusqu'à preuve du contraire lorsqu'il répond aux prescriptions du
+cahier des charges établi par l'autorité nationale de sécurité des systèmes d'information, fixé par décret en Conseil
+d'Etat. 
+
+Cette autorité certifie la conformité des moyens d'identification électronique aux exigences de ce cahier des charges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 86 (V)
+
+
+###### Article L137
+
+Un service de coffre-fort numérique est un service qui a pour objet : 
+
+1° La réception, le stockage, la suppression et la transmission de données ou documents électroniques dans des conditions
+permettant de justifier de leur intégrité et de l'exactitude de leur origine ; 
+
+2° La traçabilité des opérations réalisées sur ces documents ou données et la disponibilité de cette traçabilité pour
+l'utilisateur ; 
+
+3° L'identification de l'utilisateur lors de l'accès au service par un moyen d'identification électronique respectant
+l'article L. 136 ; 
+
+4° De garantir l'accès exclusif aux documents électroniques, données de l'utilisateur ou données associées au fonctionnement
+du service à cet utilisateur, aux tiers autres que le prestataire de service de coffre-fort numérique, explicitement
+autorisés par l'utilisateur à accéder à ces documents et données et, le cas échéant, au prestataire de service de coffre-fort
+numérique réalisant un traitement de ces documents ou données au seul bénéfice de l'utilisateur et après avoir recueilli son
+accord exprès dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; 
+
+5° De donner la possibilité à l'utilisateur de récupérer les documents et les données stockées dans un standard ouvert
+aisément réutilisable et exploitable par un système de traitement automatisé de données, sauf dans le cas des documents
+initialement déposés dans un format non ouvert ou non aisément réutilisable qui peuvent être restitués dans leur format
+d'origine, dans des conditions définies par décret. 
+
+Le service de coffre-fort numérique peut également proposer des services de confiance au sens du règlement (UE) n° 910/2014
+du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour
+les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/ CE. 
+
+Ce service de coffre-fort numérique peut bénéficier d'une certification établie selon un cahier des charges proposé par
+l'autorité nationale de la sécurité des systèmes d'information après avis de la Commission nationale de l'informatique et des
+libertés et approuvé par arrêté du ministre chargé du numérique. 
+
+Les modalités de mise en œuvre du service de coffre-fort numérique et de sa certification par l'Etat sont définies par décret
+en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. L3
-	  - Code des postes et des communications électroniques - art. L32-1
-	  - Code des postes et des communications électroniques - art. L33-1
-	  - Code des postes et des communications électroniques - art. L35-1
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 87
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L122-22 (V)
 
 
-### TITRE II : Dispositions finales.
+### TITRE III : Dispositions finales.
 
 ###### Article L140
 
