@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-10-23
+Version Consolidée au 2016-10-26
 
 # Partie législative
 
@@ -7989,8 +7989,6 @@ chacune d'elles les catégories de zones de servitude et leurs caractéristiques
 	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 1
 
 
-##### Section 3 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.
-
 ##### Section 3 : Dispositions spécifiques à la rotection des centres de réception radioélectriques contre les perturbations électromagnétiques.
 
 ###### Article L61
@@ -9507,6 +9505,42 @@ Le présent code est applicable à Mayotte.
 	**Anciens textes**:
 
 	  - Code des postes et des communications électronique - art. L129 (T)
+
+
+###### Article L142
+
+L'article L. 34-9-2 est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2016-1428 du 24 octobre
+2016 relative au renforcement de la sécurité de l'usage des drones civils.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
+
+
+###### Article L143
+
+L'article L. 34-9-2 est applicable à Wallis-et-Futuna dans sa rédaction résultant de la loi n° 2016-1428 du 24 octobre 2016
+relative au renforcement de la sécurité de l'usage des drones civils.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
+
+
+###### Article L144
+
+L'article L. 34-9-2 est applicable dans les Terres australes et antarctiques françaises dans sa rédaction résultant de la loi
+n° 2016-1428 du 24 octobre 2016 relative au renforcement de la sécurité de l'usage des drones civils.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
