@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-12-29
+Version Consolidée au 2016-12-30
 
 # Partie législative
 
@@ -2604,6 +2604,21 @@ octobre 2016 entrent en vigueur deux ans après la promulgation de cette loi.
 	  - Code de la défense. - art. L1332-1
 
 
+###### Article L33-1-1
+
+L'insuffisance de l'initiative privée pour déployer un réseau à très  haut débit dans une commune est constatée par l'Etat au
+1er juillet 2017  lorsqu'elle ne fait l'objet d'aucun projet de déploiement par un  opérateur privé d'un réseau ouvert au
+public permettant de desservir les  utilisateurs finals, défini dans une convention proposée avant cette  date par
+l'opérateur à l'Etat et aux collectivités territoriales  concernées ou leurs groupements, et précisant notamment le
+calendrier  prévisionnel du déploiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 32
+
+
 ###### Article L33-2
 
 Un décret, pris après avis de la Commission supérieure du numérique et des postes, détermine les conditions générales
@@ -3671,6 +3686,27 @@ article ne sont pas applicables.
 	  - Code des postes et des communications électroni... - art. R11-1 (V)
 
 
+###### Article L34-8-2-1-1
+
+L'Autorité de régulation des communications électroniques et des postes publie périodiquement des indicateurs sur le taux de
+pénétration des réseaux ouverts au public à très haut débit en fibre optique permettant de desservir un utilisateur final,
+établis ou exploités par les collectivités territoriales et leurs groupements en application de l'article L. 1425-1 du code
+général des collectivités territoriales. Ces indicateurs permettent d'évaluer l'intensité de la concurrence dans les
+territoires, en particulier dans les zones rurales ou de montagne, et de proposer des solutions pour assurer que les taux de
+pénétration constatés au sein des zones d'initiative publique ne s'éloignent pas durablement des taux constatés dans les
+zones d'initiative privée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 35
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1425-1 (V)
+
+
 ###### Article L34-8-2-2
 
 I.-Dans la zone envisagée pour le déploiement d'un réseau ouvert au public à très haut débit, l'exploitant d'un tel réseau a
@@ -3883,6 +3919,38 @@ au premier alinéa du présent article.
 	  - Code des postes et des communications électroni... - art. L36-10-1 (V)
 	  - Code des postes et des communications électroni... - art. L36-6 (V)
 	  - Code général des collectivités territoriales - art. R1426-1 (V)
+
+
+###### Article L34-8-6
+
+Sans préjudice de l'article L. 34-8-2-1, dans les zones de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au
+développement et à la protection de la montagne, les exploitants de réseaux radioélectriques font droit aux demandes
+raisonnables d'accès aux infrastructures physiques d'une installation radioélectrique, à son alimentation en énergie et au
+lien de transmission utilisé pour raccorder cette installation, émanant d'autres exploitants de réseaux radioélectriques. 
+
+L'accès est fourni dans des conditions équitables et raisonnables. Lorsque l'accès demandé par un opérateur nécessite un
+aménagement des installations, les coûts induits sont pris en charge par l'opérateur en demande. Tout refus d'accès est
+motivé. 
+
+L'accès fait l'objet d'une convention entre les exploitants de réseaux concernés. Cette convention détermine les conditions
+techniques et financières de l'accès. Elle est communiquée, à sa demande, à l'Autorité de régulation des communications
+électroniques et des postes. 
+
+Les différends relatifs aux demandes raisonnables d'accès mentionnées au premier alinéa du présent article et à la conclusion
+ou à l'exécution de la convention prévue au présent article sont soumis à l'Autorité de régulation des communications
+électroniques et des postes conformément à l'article L. 36-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 du 9 janvier 1985 (V)
+	  - Code des postes et des communications électroni... - art. L34-8-2-1 (V)
+	  - Code des postes et des communications électroni... - art. L36-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 36
 
 
 ##### Section 5 : Equipements radioélectriques et terminaux.
@@ -7526,15 +7594,13 @@ respectivement fixé dans le respect des articles L. 46 et L. 47, selon que le r
 routier ou du domaine public routier. 
 
 Lorsque l'autorisation d'occuper le réseau public est consentie par l'autorité visée à l'alinéa précédent, la convention
-afférente est établie dans un délai de deux mois à compter de ladite autorisation.
-
-L'autorité compétente se prononce dans un délai de deux mois suivant la demande.
+afférente est établie dans un délai de deux mois à compter de la demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 30
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 37
 
 	**Cite**:
 
