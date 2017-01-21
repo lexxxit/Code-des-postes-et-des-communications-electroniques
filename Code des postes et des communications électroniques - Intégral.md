@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2017-01-22
 
 # Partie législative
 
@@ -4841,10 +4841,7 @@ autorisation d'utilisation de fréquences radioélectriques pour l'exploitation 
 troisième génération, afin d'assurer la couverture en services mobiles de troisième génération des zones identifiées en
 application de l'article 119 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie ; 
 
-10° Publie chaque année un rapport sur l'effort d'investissement des opérateurs de radiocommunications mobiles autorisés. Ce
-rapport évalue les investissements réalisés par chacun des opérateurs dans le déploiement d'infrastructures nouvelles et
-vérifie que les conventions de partage de réseaux radioélectriques ouverts au public mentionnés à l'article L. 34-8-1-1
-n'entravent pas ce déploiement ;
+10° (abrogé)
 
 11° Met à disposition du public, sous forme électronique, dans un standard ouvert aisément réutilisable, sous réserve de
 mentionner leurs sources, les cartes numériques de couverture du territoire que les fournisseurs de services de
@@ -4897,10 +4894,10 @@ préalablement.
 	**Cite**:
 
 	  - Loi n°2008-776 du 4 août 2008 - art. 119
-	  - Code des postes et des communications électroni... - art. L33-1 (V)
-	  - Code des postes et des communications électroni... - art. L35-2 (V)
-	  - Code des postes et des communications électroni... - art. L35-3 (V)
+	  - Code des postes et des communications électroniques - art. L33-1
 	  - Code des postes et des communications électroniques - art. L34-8-1-1
+	  - Code des postes et des communications électroniques - art. L35-2
+	  - Code des postes et des communications électroniques - art. L35-3
 	  - Code des postes et des communications électroniques - art. L36-10
 	  - Code des postes et des communications électroniques - art. L37-1
 	  - Code des postes et des communications électroniques - art. L38-1
@@ -4909,8 +4906,7 @@ préalablement.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 40
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 80
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 30
 
 
 ###### Article L36-8
@@ -8952,15 +8948,13 @@ code des postes et des communications électroniques.
 L'Autorité de régulation des communications électroniques et des postes est une autorité administrative indépendante composée
 de sept membres nommés en raison de leur qualification économique, juridique et technique, dans les domaines des
 communications électroniques, des postes et de l'économie des territoires pour un mandat de six ans. Le président est nommé
-par décret. Deux membres sont nommés par décret. Deux membres sont nommés par le Président de l'Assemblée nationale et deux
-par le Président du Sénat. 
+par décret du Président de la République. Deux membres sont nommés par décret du Président de la République. Deux membres
+sont nommés par le Président de l'Assemblée nationale et deux par le Président du Sénat. 
 
 Parmi les membres de l'autorité, l'écart entre le nombre de femmes et le nombre d'hommes ne peut être supérieur à un. Pour la
 nomination des membres autres que le président, le nouveau membre est de même sexe que celui auquel il succède.
 
 Les membres de l'autorité nommés par décret sont renouvelés par tiers tous les deux ans. 
-
-Les membres de l'autorité ne sont pas révocables. 
 
 En formation plénière, l'Autorité de régulation des communications électroniques et des postes ne peut délibérer que si cinq
 au moins de ses membres sont présents. 
@@ -8984,11 +8978,7 @@ conservatoires en application du IV de l'article L. 36-11.
 
 Quelle que soit sa formation, l'Autorité délibère à la majorité des membres présents. 
 
-Si l'un des membres de l'autorité ne peut exercer son mandat jusqu'à son terme, le membre nommé pour le remplacer exerce ses
-fonctions pour la durée du mandat restant à courir. Ce nouveau membre est de même sexe que celui qu'il remplace.
-
-Le mandat des membres de l'autorité n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux membres dont le
-mandat, en application de l'alinéa ci-dessus, n'a pas excédé deux ans. 
+Le mandat des membres de l'autorité n'est pas renouvelable.  
 
 Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
 
@@ -8996,7 +8986,7 @@ Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixan
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 46
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 30
 
 	**Cité par**:
 
@@ -9019,22 +9009,13 @@ Les membres de l'autorité ne peuvent être nommés au-delà de l'âge de soixan
 
 ###### Article L131
 
-La fonction de membre de l'Autorité de régulation des communications électroniques et des postes est incompatible avec toute
-activité professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte,
-d'intérêts dans une entreprise du secteur postal ou des secteurs des communications électroniques, de l'audiovisuel ou de
-l'informatique. Les membres de l'Autorité de régulation des communications électroniques et des postes ne peuvent être
-membres de la Commission supérieure du numérique et des postes.
+Les membres de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions à temps
+plein. Leur mandat est incompatible avec toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur
+postal ou des secteurs des communications électroniques, de l'audiovisuel ou de l'informatique. Ils ne peuvent être membres
+de la Commission supérieure du numérique et des postes.
 
-Les membres et agents de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions en
-toute impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme.
-
-Les membres de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir
-connaissance en raison de leurs fonctions. Ils sont tenus à l'obligation de discrétion pour ce qui concerne les procédures de
-règlement de différends et de sanctions conduites par ou devant l'autorité et les délibérations correspondantes.
-
-Afin de garantir l'indépendance et la dignité de leurs fonctions, et pendant la durée de celles-ci, les membres de l'autorité
-ne prennent, à titre personnel, aucune position publique sur des questions ayant fait ou susceptibles de faire l'objet d'une
-décision de la part de l'autorité.
+Les agents de l'Autorité de régulation des communications électroniques et des postes exercent leurs fonctions en toute
+impartialité, sans recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme.
 
 Le président et les membres de l'autorité reçoivent respectivement un traitement égal à celui afférent à la première et à la
 seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle.
@@ -9046,7 +9027,7 @@ au titre du code des pensions civiles et militaires de retraite.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 30
 
 	**Codifié par**:
 
@@ -9059,34 +9040,21 @@ au titre du code des pensions civiles et militaires de retraite.
 
 ###### Article L132
 
-L'Autorité de régulation des communications électroniques et des postes dispose de services qui sont placés sous l'autorité
-de son président.
-
-L'autorité peut employer des fonctionnaires en position d'activité dans les mêmes conditions que le ministère chargé des
-communications électroniques. Elle peut recruter des agents contractuels.
-
 Les personnels des services de l'autorité sont tenus au secret professionnel pour les faits, actes et renseignements dont ils
 ont pu avoir connaissance en raison de leurs fonctions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
-
 	**Modifié par**:
 
-	  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 30
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Anciens textes**:
 
-	  - Code des postes et des communications électronique - art. L36-3 (M)
 	  - Code des postes et des communications électronique - art. L36-3 (T)
 
 
@@ -9097,38 +9065,28 @@ services rendus et des taxes et redevances dans les conditions fixées par les l
 d'Etat.
 
 L'autorité propose aux ministres compétents, lors de l'élaboration du projet de loi de finances de l'année, les crédits
-nécessaires, en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses missions.
+nécessaires, en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses missions. Ces crédits sont
+inscrits au budget général de l'Etat. 
 
-Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à l'organisation
-du contrôle des dépenses engagées ne sont pas applicables à leur gestion.
-
-Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité au contrôle de la Cour des
-comptes.
+Le président de l'autorité est ordonnateur des dépenses.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1068 du 30 août 2005 - art. 5 (V) JORF 31 août 2005
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 30
 
 	**Codifié par**:
 
-	  - Décret n°62-273 1962-03-12
+	  - Décret n°62-273 du 12 mars 1962
 
 	**Anciens textes**:
 
-	  - Code des postes et des communications électronique - art. L36-4 (M)
 	  - Code des postes et des communications électronique - art. L36-4 (T)
 
 	**Cite**:
 
 	  - Loi n°1922-08-10
-
-	**Créé par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 12 () JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 14 (V) JORF 21 mai 2005
-	  - Loi n°2005-516 du 20 mai 2005 - art. 27 () JORF 21 mai 2005
 
 
 ###### Article L134
@@ -9160,28 +9118,30 @@ postes, le président de l'autorité a qualité pour agir en justice.
 
 ###### Article L135
 
-L'Autorité de régulation des communications électroniques et des postes établit chaque année, avant le 30 juin, un rapport
-public qui rend compte de son activité et de l'application des dispositions législatives et réglementaires relatives aux
-communications électroniques et aux activités postales. Ce rapport précise les mesures propres à assurer aux utilisateurs
-finals handicapés un accès aux réseaux et aux services de communications électroniques équivalent à celui dont bénéficient
-les autres utilisateurs qui ont été mises en œuvre et l'évolution des tarifs de détail applicables aux services inclus dans
-le service universel prévus à l'article L. 35-1. Elle y dresse une analyse des principales décisions prises par les autorités
-de régulation des communications électroniques et des postes dans les Etats membres de l'Union européenne au cours de l'année
-écoulée, en vue de permettre l'établissement d'une comparaison des différents types de contrôles exercés et de leurs effets
-sur les marchés. Ce rapport est adressé au Gouvernement et au Parlement. Il est adressé également à la Commission supérieure
-du numérique et des postes. L'autorité peut suggérer dans ce rapport toute modification législative ou réglementaire que lui
-paraissent appeler les évolutions du secteur des communications électroniques et de celui des postes et le développement de
-la concurrence. 
+Le rapport d'activité établi par l'Autorité de régulation des communications électroniques et des postes : 
 
-L'autorité rend compte de ses activités, et notamment des progrès réalisés eu égard aux objectifs mentionnés à l'article L.
-32-1, devant les commissions permanentes du Parlement compétentes, à leur demande. Ces dernières peuvent consulter l'autorité
-sur toute question relevant de sa compétence. 
+1° Présente les mesures relatives au service universel postal et au service universel des communications électroniques
+définis aux articles L. 1 et L. 35-1 qui ont été mises en oeuvre, notamment l'évolution des tarifs de détail et la qualité du
+service fourni ainsi que les mesures propres à assurer aux utilisateurs finals handicapés un accès aux réseaux et aux
+services de communications électroniques équivalent à celui dont bénéficient les autres utilisateurs, tel que prévu à
+l'article L. 33-1 ; 
+
+2° Fait état des déploiements des réseaux de communications électroniques, notamment des réseaux à très haut débit fixes et
+mobiles, et de l'effort d'investissement réalisé par les opérateurs dans le cadre de ces déploiements ; 
+
+3° Dresse l'état de l'internet, en intégrant notamment les problématiques liées à la neutralité de l'internet ainsi qu'à
+l'utilisation des technologies d'adressage IPv6 ; 
+
+4° Rend compte de l'activité de l'autorité au sein de l'Organe des régulateurs européens des communications électroniques et
+de coopération internationale. 
+
+Ce rapport est adressé à la Commission supérieure du numérique et des postes. 
 
 L'autorité peut procéder aux expertises, mener les études, recueillir les données et mener toutes actions d'information sur
 le secteur des communications électroniques et sur celui des postes. A cette fin, le prestataire du service universel postal,
 les titulaires de l'autorisation prévue à l'article L. 3, les opérateurs ayant effectué la déclaration prévue à l'article L.
 33-1 sont tenus de lui fournir les informations statistiques concernant l'utilisation, la zone de couverture et les modalités
-d'accès à leur service. Les ministres compétents sont tenus informés des résultats de ces travaux.
+d'accès à leur service. Les ministres compétents sont tenus informés des résultats de ces travaux. 
 
 L'autorité peut saisir pour avis la Commission nationale de l'informatique et des libertés de toute question relevant de la
 compétence de celle-ci.
@@ -9190,12 +9150,18 @@ compétence de celle-ci.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 45
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 61
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 30
 
 	**Codifié par**:
 
 	  - Décret n°62-273 du 12 mars 1962
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L1 (V)
+	  - Code des postes et des communications électroni... - art. L3 (V)
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+	  - Code des postes et des communications électroni... - art. L35-1 (V)
 
 	**Cité par**:
 
@@ -22206,6 +22172,34 @@ aux demandes de fourniture d'informations de l'Autorité de régulation des comm
 	  - Code des postes et des communications électronique - art. L42-2 (M)
 
 
+###### Article D406-17-1
+
+I.-Les seuils mentionnés au IV de l'article L. 42-1 sont : 
+
+1° 500 000 euros de chiffre d'affaires hors taxes réalisés à chaque semestre au titre de l'activité nécessitant l'utilisation
+de fréquences à des fins expérimentales ; 
+
+2° 5 000 utilisateurs de la technologie ou du service innovants à tout moment de l'expérimentation. 
+
+L'autorisation d'utilisation de fréquences attribuée par l'Autorité de régulation des communications électroniques et des
+postes précise lequel des seuils mentionnés aux 1° et 2° est applicable pendant toute la durée de l'expérimentation. 
+
+II.-Le chiffre d'affaires pris en compte comprend les recettes d'exploitation hors taxes réalisées grâce à l'utilisation des
+fréquences attribuées à des fins expérimentales. Lorsque les fréquences sont utilisées dans le cadre d'une offre incluant
+plusieurs services ou technologies, seule la fraction des sommes facturées au titre de la technologie ou du service innovants
+est prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-56 du 19 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L42-1 (V)
+
+
 #### Chapitre II : Numérotation et adressage.
 
 ###### Article D406-18
@@ -22302,6 +22296,35 @@ encouru.
 	**Modifié par**:
 
 	  - Décret n°2012-488 du 13 avril 2012 - art. 20
+
+
+###### Article D406-20
+
+I.-Les seuils mentionnés au IV de l'article L. 44 sont : 
+
+1° 500 000 euros de chiffre d'affaires hors taxes réalisés à chaque semestre au titre de l'activité nécessitant l'utilisation
+de ressources de numérotation ou des codes à des fins expérimentales ; 
+
+2° 5 000 utilisateurs de la technologie ou du service innovants à tout moment de l'expérimentation. 
+
+La décision de l'Autorité de régulation des communications électroniques et des postes attribuant des ressources de
+numérotation ou des codes précise lequel des seuils mentionnés aux 1° et 2° est applicable pendant toute la durée de
+l'expérimentation. 
+
+II.-Le chiffre d'affaires pris en compte comprend les recettes d'exploitation hors taxes réalisées grâce à l'utilisation des
+ressources de numérotation ou des codes attribués à des fins expérimentales. Lorsque les ressources de numérotation ou les
+codes sont utilisés dans le cadre d'une offre incluant plusieurs services ou technologies, seule la fraction des sommes
+facturées au titre de la technologie ou du service innovants est prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-56 du 19 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L44 (V)
 
 
 #### CHAPITRE III : Etablissement de lignes
