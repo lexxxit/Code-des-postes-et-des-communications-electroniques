@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-02-02
 
 # Partie législative
 
@@ -12064,44 +12064,67 @@ Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
 
 ##### Section 4 : Interconnexion et accès aux réseaux.
 
+##### Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil
+
 ###### Article R11-1
 
-Le délai dans lequel l'Autorité de régulation des communications électroniques et des postes doit se prononcer sur les
+I.-Le délai dans lequel l'Autorité de régulation des communications électroniques et des postes doit se prononcer sur les
 différends mentionnés au I de l'article L. 36-8 est fixé à quatre mois, sauf en cas de circonstances exceptionnelles où il
-peut être porté à six mois, à compter de sa saisine par l'une des parties. 
+peut être porté à six mois, à compter de sa saisine par l'une des parties. Lorsqu'il est saisi par l'Autorité de régulation
+des communications électroniques et des postes en application du deuxième alinéa du I de cet article, le Conseil supérieur de
+l'audiovisuel se prononce dans un délai de six semaines suivant la date de cette saisine. 
 
-La décision de l'Autorité de régulation des communications électroniques et des postes est notifiée aux parties par lettre
-recommandée avec accusé de réception. 
+Par dérogation à l'alinéa précédent, le délai dans lequel l'Autorité de régulation des communications électroniques et des
+postes doit se prononcer est fixé à deux mois lorsqu'il porte sur les différends relatifs aux possibilités et conditions
+d'accès aux informations relatives aux infrastructures d'accueil, mentionnés au 2° ter du II de l'article L. 36-8, sauf en
+cas de circonstances exceptionnelles. 
 
-L'Autorité de régulation des communications électroniques et des postes donne à chacune des parties connaissance des
+II.-Le délai dans lequel l'Autorité de régulation des communications électroniques et des postes doit se prononcer sur les
+différends mentionnés au III de l'article L. 49 est fixé à deux mois, sauf en cas de circonstances exceptionnelles où il peut
+être porté à quatre mois, à compter de sa saisine par l'une des parties. 
+
+III.-La décision de l'Autorité de régulation des communications électroniques et des postes est notifiée aux parties par
+lettre recommandée avec demande d'avis de réception. 
+
+IV.-L'Autorité de régulation des communications électroniques et des postes donne à chacune des parties connaissance des
 observations et pièces déposées par les autres parties et fixe s'il y a lieu le délai dans lequel il devra y être répondu.
 Elle peut entendre les parties. 
 
 Une demande de mesures conservatoires ne peut être formée qu'accessoirement à une saisine au fond de l'Autorité de régulation
 des communications électroniques et des postes. Elle peut être présentée à tout moment de la procédure et doit être motivée. 
 
-Lorsqu'il est saisi par l'Autorité de régulation des communications électroniques et des postes en application du deuxième
-alinéa de l'article L. 36-8, le Conseil supérieur de l'audiovisuel se prononce dans un délai de six semaines suivant la date
-de cette saisine.
+Lorsqu'elles sont saisies par l'Autorité de régulation des communications électroniques et des postes, l'Autorité de
+régulation des activités ferroviaires et routières et la Commission de régulation de l'énergie se prononcent dans un délai :
+
+- de six semaines suivant la date de cette saisine lorsqu'elle a trait aux différends relatifs aux possibilités et conditions
+d'accès aux infrastructures d'accueil mentionnés au III de l'article L. 34-8-2-1 ;
+
+- de trois semaines suivant la date de cette saisine lorsqu'elle a trait aux différends relatifs aux possibilités et
+conditions d'accès aux informations concernant les infrastructures d'accueil mentionnés au V de l'article L. 34-8-2-2. 
+
+Lorsqu'il est saisi par l'Autorité de régulation des communications électroniques et des postes en application du III de
+l'article L. 49, le préfet de région se prononce dans un délai de trois semaines suivant la date de cette saisine.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-605 2005-05-27 art. 2 V, VI JORF 29 mai 2005
-	  - Décret n°2005-605 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
 
 	**Cité par**:
 
 	  - Décret n°2015-1425 du 5 novembre 2015 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-110 du 30 janvier 2017 - art. 1
+
 	**Codifié par**:
 
-	  - Décret n°62-274 1962-03-12
+	  - Décret n°62-274 du 12 mars 1962
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L36-8 (V)
+	  - Code des postes et des communications électroniques - art. L34-8-2-1
+	  - Code des postes et des communications électroniques - art. L34-8-2-2
+	  - Code des postes et des communications électroniques - art. L36-8
+	  - Code des postes et des communications électroniques - art. L49
 
 
 ###### Article R11-2
@@ -17758,6 +17781,77 @@ Ce dépôt constitue une modalité d'information des tiers au sens de l'alinéa 
 	  - Code des postes et des communications électroni... - art. L65 (V)
 
 
+#### Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil 
+
+###### Article R42-2
+
+Le guichet unique mentionné à l'article L. 50 est assuré par l'Institut national de l'environnement industriel et des
+risques. 
+
+I.-L'obligation d'information mise à la charge du maître d'ouvrage par le I de l'article L. 49 est assurée par
+l'intermédiaire du guichet unique. Cette obligation peut être satisfaite, en ce qui concerne les informations relatives au
+type de travaux programmés, à leur emplacement, à la date estimée de début de travaux, à la durée de ces derniers ainsi qu'au
+point de contact, prévues aux sixième, huitième et neuvième alinéas du I de l'article L. 49, par la déclaration de projet de
+travaux effectuée en application des articles R. 554-20 et R. 554-21 du code de l'environnement. 
+
+Le guichet unique fournit aux maîtres d'ouvrage mentionnés à l'article L. 49 un service leur permettant de renseigner
+directement, ou par l'intermédiaire d'un prestataire ayant passé une convention avec l'Institut national de l'environnement
+industriel et des risques, les informations prévues par le I de cet article. 
+
+II.-Les informations recueillies par le guichet unique, qui est accessible par voie électronique, sont mises à disposition : 
+
+1° Des exploitants de réseaux ouverts au public à très haut débit ; 
+
+2° De l'autorité chargée d'établir le schéma directeur territorial d'aménagement numérique prévu à l'article L. 1425-2 du
+code général des collectivités territoriales ou, en l'absence de ce schéma, du préfet de région, dès la programmation des
+travaux mentionnés par ce même I de l'article 49 ; 
+
+3° De l'Etat, des collectivités territoriales ou de leurs groupements pour l'exercice de leurs missions de service public. 
+
+Les informations sont transmises au guichet unique dans un format ouvert, aisément réutilisable et exploitable par un système
+de traitement automatisé largement répandu, permettant de visualiser, sur un outil cartographique, la zone d'emprise des
+travaux des maîtres d'ouvrage d'une opération de travaux et d'obtenir la liste et les coordonnées des maîtres d'ouvrage ainsi
+que les informations mentionnées aux sixième, septième, huitième et neuvième alinéas du I de l'article L. 49. Les
+informations relatives à l'emplacement des travaux et aux éléments de réseaux concernés peuvent être transmises sous forme de
+données numériques vectorielles géolocalisées pouvant être reprises dans un système d'information géographique, suivant un
+format largement répandu. 
+
+III.-Les personnes proposant des prestations de service rémunérées qui sollicitent l'accès aux données enregistrées et mises
+à jour par le guichet unique en application de l'article L. 50 signent une convention annuelle avec l'établissement
+gestionnaire de ce service. Cette convention précise la nature des données accessibles à ces personnes et les modalités de
+leur transmission ainsi que les règles relatives à la fiabilité et à la sécurité des données que ces personnes communiquent
+aux maître d'ouvrage et les règles relatives à la traçabilité des consultations des données du guichet unique qu'elles
+effectuent. 
+
+IV.-Pour l'exercice des missions décrites au présent article, l'établissement public chargé de la gestion du guichet unique
+met en œuvre une comptabilité analytique lui permettant de distinguer les dépenses occasionnées par la création,
+l'exploitation, la mise à jour et la maintenance de ce guichet. 
+
+Un arrêté conjoint des ministres chargés des communications électroniques et de la sécurité des réseaux de transport et de
+distribution précise :
+
+- les conditions d'exercice de ces missions de nature à garantir en permanence la sécurité, la fiabilité et la disponibilité
+des informations gérées, la traçabilité des consultations effectuées ainsi que les modalités d'accès à ces informations des
+services de l'Etat et des collectivités territoriales ou de leurs groupements ;
+
+- les conditions d'exercice de ces missions lorsque celles-ci sont assurées par l'intermédiaire des personnes proposant les
+prestations de services rémunérées mentionnées au III.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-110 du 30 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1425-2 (M)
+	  - Code des postes et des communications électroni... - art. L49 (V)
+	  - Code des postes et des communications électroni... - art. L50 (V)
+	  - Code de l'environnement - art. R554-20 (V)
+	  - Code de l'environnement - art. R554-21 (M)
+
+
 #### Chapitre V : Protection des câbles sous-marins.
 
 ##### Section 2 : Dispositions pénales.
@@ -18005,6 +18099,10 @@ rendu contre le contrevenant un jugement définitif pour infraction aux disposit
 	  - Code des postes et des communications électroni... - art. R46 (V)
 	  - Code des postes et des communications électroni... - art. R51 (V)
 
+
+#### Chapitre VI : Protection des câbles sous-marins.
+
+##### Section 2 : Dispositions pénales.
 
 ### TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires
 
@@ -22401,26 +22499,29 @@ portent pas atteinte au service fourni par l'opérateur.
 
 ##### Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public.
 
+##### Section 2 : Accueil des installations de communications électroniques lors de travaux
+
 ###### Article D407-4
 
-La longueur significative des opérations de travaux, mentionnée à l'article L. 49 est fixée : 
+L'importance significative des opérations de travaux, mentionnée à l'article L. 49, est caractérisée lorsque celles-ci
+s'étendent : 
 
-― à 150 mètres pour les réseaux situés en totalité ou partiellement dans les agglomérations ; 
+― sur 150 mètres au moins pour les réseaux situés en totalité ou partiellement dans les agglomérations ; 
 
-― à 1 000 mètres pour les réseaux situés en dehors des agglomérations. 
+― sur 1 000 mètres au moins pour les réseaux situés en dehors des agglomérations. 
 
-Pour les réseaux aériens, on entend par longueur significative la somme des portions continues du réseau qui font l'objet des
-travaux.
+Pour les réseaux aériens, on entend par importance significative la somme des portions continues du réseau qui font l'objet
+des travaux.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-726 du 28 juin 2010 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2017-111 du 30 janvier 2017 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-111 du 30 janvier 2017 - art. 2
 
 	**Cite**:
 
@@ -22429,22 +22530,37 @@ travaux.
 
 ###### Article D407-5
 
-La demande motivée mentionnée au sixième alinéa de l'article L. 49 doit être formulée auprès du maître d'ouvrage de
-l'opération dans un délai de six semaines à compter de la publicité prévue au cinquième alinéa dudit article.
+La demande motivée mentionnée au premier alinéa du II de l'article L. 49 doit être formulée auprès du maître d'ouvrage de
+l'opération dans un délai de six semaines, respectivement : 
+
+1° S'agissant de la collectivité ou du groupement de collectivités porteur du schéma directeur territorial d'aménagement
+numérique prévu à l'article L. 1425-2 du code général des collectivités territoriales, à compter de la réception de
+l'information dans les conditions prévues au premier alinéa du I de l'article L. 49 ; 
+
+2° S'agissant des autres collectivités territoriales ou groupements de collectivités territoriales concernés, à compter de la
+mise à disposition de l'information conformément au dixième alinéa du I du même article ; 
+
+3° S'agissant des opérateurs de communications électroniques, à compter de la communication des informations dans les
+conditions prévues aux douzième à quatorzième alinéas du I du même article. 
+
+Toutefois, si l'information est mise à disposition des personnes mentionnées aux présents 1° à 3° par le guichet unique
+mentionné à l'article L. 50, le délai de six semaines court à compter de cette mise à disposition.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-726 du 28 juin 2010 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2017-111 du 30 janvier 2017 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-111 du 30 janvier 2017 - art. 3
+
 	**Cite**:
 
-	  - Code des postes et des communications électroniques - art. L49
+	  - Code général des collectivités territoriales - art. L1425-2 (M)
+	  - Code des postes et des communications électroni... - art. L49 (V)
+	  - Code des postes et des communications électroni... - art. L50 (V)
 
 
 ###### Article D407-6
