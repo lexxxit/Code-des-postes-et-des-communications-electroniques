@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-02-02
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -12062,8 +12062,6 @@ Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
 	  - Code des postes et des communications électroniques - art. R10-15
 
 
-##### Section 4 : Interconnexion et accès aux réseaux.
-
 ##### Section 4 : Interconnexion, accès aux réseaux et aux infrastructures d'accueil
 
 ###### Article R11-1
@@ -17852,7 +17850,7 @@ prestations de services rémunérées mentionnées au III.
 	  - Code de l'environnement - art. R554-21 (M)
 
 
-#### Chapitre V : Protection des câbles sous-marins.
+#### Chapitre VI : Protection des câbles sous-marins.
 
 ##### Section 2 : Dispositions pénales.
 
@@ -18099,10 +18097,6 @@ rendu contre le contrevenant un jugement définitif pour infraction aux disposit
 	  - Code des postes et des communications électroni... - art. R46 (V)
 	  - Code des postes et des communications électroni... - art. R51 (V)
 
-
-#### Chapitre VI : Protection des câbles sous-marins.
-
-##### Section 2 : Dispositions pénales.
 
 ### TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires
 
@@ -18880,8 +18874,18 @@ presse réduit.
 Pour bénéficier des tarifs de presse, les journaux et écrits périodiques doivent avoir reçu un certificat d'inscription
 délivré par la commission paritaire des publications et agences de presse ou l'une de ses sous-commissions et être classés
 dans l'une des catégories visées aux articles D. 18 ou D. 19. En outre, le certificat d'inscription mentionne si la
-publication bénéficie des dispositions de l'article D. 19-2. Un contrat entre La Poste et les éditeurs précise les modalités
-de mise en œuvre des tarifs de presse.
+publication bénéficie des dispositions de l'article D. 19-2 ainsi que, le cas échéant, ses suppléments mentionnés à l'article
+D. 27-2 répondant aux mêmes critères. Un contrat entre La Poste et les éditeurs précise les modalités de mise en œuvre des
+tarifs de presse.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2016-2013 du 30 décembre 2016, les dispositions du présent décret entrent en vigueur
+le 1er mars 2017. Toutefois, à compter de la même date, les suppléments des journaux et publications mentionnés à l'article
+D. 19-2 du code des postes et des communications électroniques, à l'exception de ceux mentionnés à l'article D. 27-2 de ce
+même code dans sa rédaction résultant du présent décret, ainsi que les hors-série de ces journaux et publications,
+bénéficient d'une remise appliquée à la différence entre le tarif prévu à l'article D. 19-2 et celui prévu à l'article D. 18.
+Cette remise correspond à 75 % de cette différence pour l'année 2017, 50 % pour l'année 2018 et 25 % pour l'année 2019.
 
 **Liens relatifs à cet article**
 
@@ -18891,10 +18895,11 @@ de mise en œuvre des tarifs de presse.
 
 	**Modifié par**:
 
-	  - Décret n°2013-417 du 21 mai 2013 - art. 5
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 2
 
 	**Cite**:
 
+	  - Code des postes et des communications électroni... - art. D27-2 (V)
 	  - Code des postes et des communications électroniques - art. D18
 	  - Code des postes et des communications électroniques - art. D19-2
 
@@ -18904,23 +18909,32 @@ de mise en œuvre des tarifs de presse.
 Les dépôts de publications font l'objet d'une déclaration indiquant le numéro d'inscription et la catégorie dans laquelle la
 commission paritaire des publications et agences de presse ou une de ses sous-commissions a classé les publications à
 expédier. Cette déclaration précise s'il s'agit d'une parution normale ou d'un supplément ou d'un numéro hors série ainsi que
-la présence de pages spéciales.
+la présence de cahiers ou pages spéciales. 
 
 Elle comporte également le poids unitaire de l'exemplaire de chaque édition et le nombre d'exemplaires de la publication
-autorisée au tarif de presse ainsi que le niveau de préparation technique réalisée et tout autre élément contractuel
-nécessaire à l'établissement de sa facturation.
+autorisée au tarif de presse, le régime tarifaire applicable à chaque unité ainsi que le niveau de préparation technique
+réalisée et tout autre élément contractuel nécessaire à l'établissement de sa facturation. 
 
 L'éditeur ou son mandataire certifie l'exactitude des mentions portées dans la déclaration.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2016-2013 du 30 décembre 2016, les dispositions du présent décret entrent en vigueur
+le 1er mars 2017. Toutefois, à compter de la même date, les suppléments des journaux et publications mentionnés à l'article
+D. 19-2 du code des postes et des communications électroniques, à l'exception de ceux mentionnés à l'article D. 27-2 de ce
+même code dans sa rédaction résultant du présent décret, ainsi que les hors-série de ces journaux et publications,
+bénéficient d'une remise appliquée à la différence entre le tarif prévu à l'article D. 19-2 et celui prévu à l'article D. 18.
+Cette remise correspond à 75 % de cette différence pour l'année 2017, 50 % pour l'année 2018 et 25 % pour l'année 2019.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2004-1393 du 22 décembre 2004 - art. 1 () JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -19019,52 +19033,73 @@ adaptée distincte du tarif de presse.
 
 ###### Article D25
 
-Chaque parution d'une publication peut comporter des pages spéciales destinées à une partie de ses lecteurs déterminés selon
-des critères géographiques, sociaux ou professionnels.
+Chaque parution d'une publication peut être divisée en plusieurs cahiers ou comporter des pages spéciales destinées à une
+partie de ses lecteurs déterminés selon des critères géographiques, sociaux ou professionnels.
 
-Les pages spéciales doivent être clairement identifiées, soit par une pagination spécifique, soit par une mention au sommaire
-de la publication.
+Les cahiers et pages spéciales doivent être clairement identifiés, soit par une pagination spécifique, soit par une mention
+au sommaire de la publication.
 
-Elles peuvent être présentées sous forme de fascicules.
+Ils peuvent être présentés sous forme de fascicules.
 
-Elles font partie intégrante de la publication et ne peuvent faire l'objet d'une diffusion ou d'une vente séparée.
+Ils font partie intégrante de la publication et ne peuvent faire l'objet d'une diffusion ou d'une vente séparée. Ils ne
+peuvent voyager dans le réseau postal séparément de la publication.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2016-2013 du 30 décembre 2016, les dispositions du présent décret entrent en vigueur
+le 1er mars 2017. Toutefois, à compter de la même date, les suppléments des journaux et publications mentionnés à l'article
+D. 19-2 du code des postes et des communications électroniques, à l'exception de ceux mentionnés à l'article D. 27-2 de ce
+même code dans sa rédaction résultant du présent décret, ainsi que les hors-série de ces journaux et publications,
+bénéficient d'une remise appliquée à la différence entre le tarif prévu à l'article D. 19-2 et celui prévu à l'article D. 18.
+Cette remise correspond à 75 % de cette différence pour l'année 2017, 50 % pour l'année 2018 et 25 % pour l'année 2019.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 4
 
 
 ###### Article D27
 
-Est considérée comme un supplément à un écrit périodique toute publication détachée paraissant périodiquement ou constituant
-une addition occasionnée par l'abondance des sujets traités ou destinée à compléter ou à illustrer le texte d'une
-publication.
+Est considéré comme un supplément à un écrit périodique toute publication détachée paraissant de façon régulière. 
 
-Le supplément a la possibilité de voyager dans le réseau postal séparément des écrits périodiques auxquels il se rattache.
-Dans ce cas, il doit satisfaire aux mêmes conditions de fond et de forme qu'une publication principale. Le supplément doit en
-particulier porter la mention "supplément" en page de couverture. Il doit également comporter l'indication du titre ainsi que
-la date et le numéro de parution de chaque publication à laquelle il se rattache.
+Le supplément a la possibilité de voyager dans le réseau postal séparément des écrits périodiques auxquels il se rattache. Il
+doit satisfaire aux critères de l'article D. 18 au même titre que la publication principale. Le supplément doit en
+particulier porter la mention " supplément " en page de couverture. Il doit également comporter l'indication du titre ainsi
+que la date et le numéro de parution de chaque publication à laquelle il se rattache. 
 
 Le nombre d'exemplaires diffusés ne peut excéder celui des publications dont il constitue un complément : il ne peut ni être
-vendu isolément, ni faire l'objet d'un abonnement séparé, ni d'une distribution gratuite de façon autonome.
+vendu isolément, ni faire l'objet d'un abonnement séparé, ni d'une distribution gratuite de façon autonome. 
 
-Le tarif postal est déterminé en fonction du poids global de chaque envoi.
+Le supplément relève du tarif de l'article D. 18 à l'exception de celui répondant à la définition de l'article D. 27-2.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2016-2013 du 30 décembre 2016, les dispositions du présent décret entrent en vigueur
+le 1er mars 2017. Toutefois, à compter de la même date, les suppléments des journaux et publications mentionnés à l'article
+D. 19-2 du code des postes et des communications électroniques, à l'exception de ceux mentionnés à l'article D. 27-2 de ce
+même code dans sa rédaction résultant du présent décret, ainsi que les hors-série de ces journaux et publications,
+bénéficient d'une remise appliquée à la différence entre le tarif prévu à l'article D. 19-2 et celui prévu à l'article D. 18.
+Cette remise correspond à 75 % de cette différence pour l'année 2017, 50 % pour l'année 2018 et 25 % pour l'année 2019.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2007-787 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 5
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. D18 (V)
 
 	**Cité par**:
 
@@ -19074,24 +19109,72 @@ Le tarif postal est déterminé en fonction du poids global de chaque envoi.
 ###### Article D27-1
 
 Est considérée comme un numéro spécial ou hors série d'un écrit périodique toute publication proposée au public en dehors de
-la parution normale, à l'occasion d'un événement ou d'une manifestation importante.
+la parution normale, à l'occasion d'un événement ou d'une manifestation importante. 
 
-Le numéro spécial ou hors-série doit satisfaire aux mêmes conditions de fond et de forme que la publication principale. Il
-doit porter la mention : "numéro spécial" ou "hors-série".
+Le numéro spécial ou hors-série doit satisfaire aux critères de l'article D. 18 au même titre que la publication principale.
+Il doit porter la mention : " numéro spécial " ou " hors-série ". 
 
 Toutefois, un numéro par an pour les publications trimestrielles et deux numéros par an pour les publications paraissant à
 des intervalles moindres peuvent être consacrés à un thème unique, à condition que le sujet traité présente un lien manifeste
-avec le contenu habituel de la publication principale.
+avec le contenu habituel de la publication principale. 
+
+Le hors-série relève du tarif de l'article D. 18.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2016-2013 du 30 décembre 2016, les dispositions du présent décret entrent en vigueur
+le 1er mars 2017. Toutefois, à compter de la même date, les suppléments des journaux et publications mentionnés à l'article
+D. 19-2 du code des postes et des communications électroniques, à l'exception de ceux mentionnés à l'article D. 27-2 de ce
+même code dans sa rédaction résultant du présent décret, ainsi que les hors-série de ces journaux et publications,
+bénéficient d'une remise appliquée à la différence entre le tarif prévu à l'article D. 19-2 et celui prévu à l'article D. 18.
+Cette remise correspond à 75 % de cette différence pour l'année 2017, 50 % pour l'année 2018 et 25 % pour l'année 2019.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-275 1962-03-12
+	  - Décret n°62-275 du 12 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 6
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. D18 (V)
+
+
+###### Article D27-2
+
+Un supplément au sens de l'article D. 27 paraissant régulièrement selon une périodicité au maximum hebdomadaire et répondant
+aux critères d'information politique et générale au sens de l'article D. 19-2 bénéficie du tarif prévu par ce dernier
+article.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2016-2013 du 30 décembre 2016, les dispositions du présent décret entrent en vigueur
+le 1er mars 2017. Toutefois, à compter de la même date, les suppléments des journaux et publications mentionnés à l'article
+D. 19-2 du code des postes et des communications électroniques, à l'exception de ceux mentionnés à l'article D. 27-2 de ce
+même code dans sa rédaction résultant du présent décret, ainsi que les hors-série de ces journaux et publications,
+bénéficient d'une remise appliquée à la différence entre le tarif prévu à l'article D. 19-2 et celui prévu à l'article D. 18.
+Cette remise correspond à 75 % de cette différence pour l'année 2017, 50 % pour l'année 2018 et 25 % pour l'année 2019.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1065 du 20 novembre 1997 - art. 11 (V)
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 9 (V)
+	  - Code des postes et des communications électroni... - art. D19-3 (V)
+	  - Code des postes et des communications électroni... - art. D27 (V)
 
 	**Créé par**:
 
-	  - Décret n°97-37 du 17 janvier 1997 - art. 1 () JORF 19 janvier 1997
+	  - Décret n°2016-2013 du 30 décembre 2016 - art. 7
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. D19-2 (V)
 
 
 ###### Article D28
@@ -22496,8 +22579,6 @@ portent pas atteinte au service fourni par l'opérateur.
 	  - Décret n°2005-399 2005-04-27 art. 8 I, II JORF 30 avril 2005
 	  - Décret n°2005-399 du 27 avril 2005 - art. 8 () JORF 30 avril 2005
 
-
-##### Section 2 : Accueil des installations de communications électroniques lors de travaux sur le domaine public.
 
 ##### Section 2 : Accueil des installations de communications électroniques lors de travaux
 
