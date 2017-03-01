@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -17,7 +17,7 @@ postaux dans le cadre de tournées régulières.
 Constitue un envoi postal tout objet destiné à être remis à l'adresse indiquée par l'expéditeur sur l'objet lui-même ou sur
 son conditionnement, y compris sous forme de coordonnées géographiques codées, et présenté dans la forme définitive dans
 laquelle il doit être acheminé. Sont notamment considérés comme des envois postaux les livres, les catalogues, les journaux,
-les périodiques et les colis postaux contenant des marchandises avec ou sans valeur commerciale.
+les périodiques et les colis postaux contenant des marchandises avec ou sans valeur commerciale. 
 
 L'envoi de correspondance est un envoi postal ne dépassant pa s deux kilogrammes et comportant une communication écrite sur
 un support matériel, à l'exclusion des livres, catalogues, journaux ou périodiques. Le publipostage fait partie des envois de
@@ -36,11 +36,12 @@ déclarée.
 
 Les services d'envois postaux à l'unité fournis par le prestataire du service universel postal sont proposés au même tarif
 sur l'ensemble du territoire métropolitain. Le tarif appliqué aux envois de correspondance à l'unité en provenance et à
-destination des départements d'outre-mer, de Mayotte, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy, de Saint-Martin, des
-îles Wallis et Futuna et des Terres australes et antarctiques françaises est celui en vigueur sur le territoire métropolitain
-lorsque ces envois relèvent de la première tranche de poids. Il en va de même des envois de correspondance à l'unité relevant
-de la première tranche de poids en provenance du territoire métropolitain ou des collectivités précédemment mentionnées et à
-destination de la Polynésie française et de la Nouvelle-Calédonie. 
+destination des collectivités régies par l'article 73 de la Constitution, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy,
+de Saint-Martin, des îles Wallis et Futuna et des Terres australes et antarctiques françaises est celui en vigueur sur le
+territoire métropolitain lorsque ces envois sont d'un poids inférieur à 100 grammes. Le tarif appliqué aux envois de
+correspondance à l'unité relevant de la première tranche de poids en provenance du territoire métropolitain ou des
+collectivités précédemment mentionnées et à destination de la Polynésie française et de la Nouvelle-Calédonie est celui en
+vigueur sur le territoire métropolitain. 
 
 Les services de levée et de distribution relevant du service universel postal sont assurés tous les jours ouvrables, sauf
 circonstances exceptionnelles. 
@@ -49,6 +50,10 @@ Le service de distribution est effectué, dans des installations appropriées, a
 morale ou, par dérogation, dans des conditions déterminées par décret.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 73 (V)
 
 	**Cité par**:
 
@@ -75,7 +80,7 @@ morale ou, par dérogation, dans des conditions déterminées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2010-123 du 9 février 2010 - art. 18
+	  - Loi n°2017-256 du 28 février 2017 - art. 45
 
 
 ###### Article L2
@@ -3924,9 +3929,10 @@ au premier alinéa du présent article.
 ###### Article L34-8-6
 
 Sans préjudice de l'article L. 34-8-2-1, dans les zones de montagne au sens de la loi n° 85-30 du 9 janvier 1985 relative au
-développement et à la protection de la montagne, les exploitants de réseaux radioélectriques font droit aux demandes
-raisonnables d'accès aux infrastructures physiques d'une installation radioélectrique, à son alimentation en énergie et au
-lien de transmission utilisé pour raccorder cette installation, émanant d'autres exploitants de réseaux radioélectriques. 
+développement et à la protection de la montagne et dans les collectivités régies par l'article 73 de la Constitution, les
+exploitants de réseaux radioélectriques font droit aux demandes raisonnables d'accès aux infrastructures physiques d'une
+installation radioélectrique, à son alimentation en énergie et au lien de transmission utilisé pour raccorder cette
+installation, émanant d'autres exploitants de réseaux radioélectriques. 
 
 L'accès est fourni dans des conditions équitables et raisonnables. Lorsque l'accès demandé par un opérateur nécessite un
 aménagement des installations, les coûts induits sont pris en charge par l'opérateur en demande. Tout refus d'accès est
@@ -3944,13 +3950,14 @@ ou à l'exécution de la convention prévue au présent article sont soumis à l
 
 	**Cite**:
 
-	  - Loi n°85-30 du 9 janvier 1985 (V)
-	  - Code des postes et des communications électroni... - art. L34-8-2-1 (V)
-	  - Code des postes et des communications électroni... - art. L36-8 (V)
+	  - Constitution du 4 octobre 1958 - art. 73 (V)
+	  - Loi n°85-30 du 9 janvier 1985
+	  - Code des postes et des communications électroniques - art. L34-8-2-1
+	  - Code des postes et des communications électroniques - art. L36-8
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-1888 du 28 décembre 2016 - art. 36
+	  - Loi n°2017-256 du 28 février 2017 - art. 46
 
 
 ##### Section 5 : Equipements radioélectriques et terminaux.
