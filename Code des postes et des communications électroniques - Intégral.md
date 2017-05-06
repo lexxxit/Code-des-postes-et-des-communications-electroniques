@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-04-24 00:00:01 +0200
+Version Consolidée au 2017-05-07
 
 # Partie législative
 
@@ -11056,33 +11056,6 @@ conformes aux exigences applicables de la législation d'harmonisation de l'Unio
 	  - Décret n°62-274 du 12 mars 1962
 
 
-###### Article R*9-1
-
-Les enquêtes mentionnées à l'article L. 32-4 sont menées par les fonctionnaires et agents du ministère chargé des
-communications électroniques et de l'Autorité de régulation des communications électroniques et des postes habilités à cet
-effet par le ministre chargé des communications électroniques et assermentés dans les conditions prévues aux articles R.
-20-44-1 à R. 20-44-4.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-605 du 27 mai 2005 - art. 3 () JORF 29 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2017-768 du 4 mai 2017 - art. 1
-
-	**Codifié par**:
-
-	  - Décret n°62-274 du 12 mars 1962
-
-	**Cite**:
-
-	  - Code des postes et des communications électroniques - art. L32-4
-	  - Code des postes et des communications électroniques - art. R20-44-1
-
-
 #### Chapitre II : Régime juridique.
 
 ##### Section 1 : Réseaux et services
@@ -14898,6 +14871,8 @@ paiement d'un opérateur ou de notification à cette Autorité en cas de défail
 
 #### Chapitre V : Dispositions pénales.
 
+#### Chapitre V : Pouvoirs d'enquête
+
 ###### Article R20-44-1
 
 Un arrêté du ministre chargé des communications électroniques habilite, parmi les fonctionnaires et agents placés sous son
@@ -15030,6 +15005,71 @@ Le modèle de la carte professionnelle est établi par les autorités susmention
 	**Cite**:
 
 	  - Code des postes et des communications électroni... - art. R20-44-1 (V)
+
+
+###### Article R20-44-4-1
+
+Les enquêtes mentionnées à l'article L. 32-4 sont menées par les fonctionnaires et agents du ministère chargé des
+communications électroniques et de l'Autorité de régulation des communications électroniques et des postes habilités à cet
+effet par le ministre chargé des communications électroniques et assermentés dans les conditions prévues aux articles R.
+20-44-1 à R. 20-44-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-768 du 4 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L32-4 (V)
+
+
+###### Article R20-44-4-2
+
+Les procès-verbaux prévus au neuvième alinéa du II de l'article L. 32-4 énoncent la nature, la date et le lieu des
+constatations effectuées. L'inventaire des pièces et documents dont les fonctionnaires et agents mentionnés à l'article L.
+32-4 ont pris copie est annexé au procès-verbal. 
+
+Les procès-verbaux sont signés par un fonctionnaire ou agent mentionné à l'article L. 32-4. 
+
+Les procès-verbaux sont notifiés dans les cinq jours qui suivent leur clôture par le fonctionnaire ou agent mentionné à
+l'article L. 32-4 à la ou aux personnes intéressées par lettre recommandée avec demande d'avis de réception ou par tout autre
+moyen permettant d'attester de la date de réception, y compris par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-768 du 4 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L32-4 (V)
+
+
+###### Article R20-44-4-3
+
+I.-Les constatations effectuées en application du dixième alinéa du II de l'article L. 32-4 donnent lieu à l'établissement de
+procès-verbaux qui énoncent les nom, qualité et résidence administrative du fonctionnaire ou de l'agent, mentionné au premier
+alinéa du même II de l'article L. 32-4, réalisant la constatation, ainsi que la date et l'heure de celle-ci. 
+
+II.-Lorsqu'une constatation est effectuée à partir d'un service de communication au public en ligne, le procès-verbal
+précise, en outre, les conditions dans lesquelles il a été procédé à celle-ci et notamment les modalités de connexion, de
+consultation et d'utilisation du service de communication au public en ligne, ainsi que de recueil et de retranscription des
+informations. 
+
+Une copie des pages du service de communication au public en ligne consultées est annexée à ce procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-768 du 4 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L32-4 (V)
 
 
 ### TITRE II : Ressources et police
