@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-05-07
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -14869,8 +14869,6 @@ paiement d'un opérateur ou de notification à cette Autorité en cas de défail
 	  - Décret n°62-274 1962-03-12
 
 
-#### Chapitre V : Dispositions pénales.
-
 #### Chapitre V : Pouvoirs d'enquête
 
 ###### Article R20-44-1
@@ -21142,6 +21140,47 @@ postes.
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. D98-3 (V)
+
+
+###### Article D98-14
+
+I. – L'offre mentionnée au p du I de l'article L. 33-1 est destinée à toute personne physique en dehors de son activité
+commerciale, industrielle, artisanale, libérale ou agricole. 
+
+II. – La limite d'usage raisonnable mentionnée au p du I de l'article L. 33-1 est fixée à : 
+
+– une heure de communications mensuelles jusqu'au 30 septembre 2021 inclus ; 
+
+– trois heures de communications mensuelles du 1er octobre 2021 au 30 septembre 2026 inclus ; 
+
+– cinq heures de communications mensuelles à compter du 1er octobre 2026. 
+
+Cette durée comprend les appels émis et reçus. 
+
+Est exclu du décompte de cette durée le temps d'attente avant la mise en relation avec l'opérateur relais. 
+
+III. – Le service de traduction simultanée écrite et visuelle est proposé via une offre de téléphonie fixe ou mobile incluant
+un accès internet à des débits permettant la fourniture de ce service sans surcoût par rapport à une offre abordable et dans
+le respect des conditions de qualité définies par l'Autorité de régulation des communications électroniques et des postes. 
+
+IV. – Le service mentionné au p du I de l'article L. 33-1 fonctionne selon les modalités horaires minimales suivantes : 
+
+– du lundi au vendredi de 8 h 30 à 19 heures, hors jours fériés jusqu'au 30 septembre 2021 inclus ; 
+
+– du lundi au vendredi de 8 h 30 à 21 heures et le samedi matin de 8 h 30 à 13 heures, hors jours fériés du 1er octobre 2021
+au 30 septembre 2026 inclus ; 
+
+– vingt-quatre heures sur vingt-quatre, tous les jours de l'année à compter du 1er octobre 2026.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-875 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
 ##### Paragraphe 3 : Conditions d'exploitation des réseaux indépendants.
