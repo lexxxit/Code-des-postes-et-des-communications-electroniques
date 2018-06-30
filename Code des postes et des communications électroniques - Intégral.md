@@ -1,5 +1,5 @@
 # Code des postes et des communications électroniques  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2018-07-01
 
 # Partie législative
 
@@ -4154,6 +4154,25 @@ des postes et des communications électroniques, dans sa rédaction résultant d
 	**Cite**:
 
 	  - Code des postes et des communications électroniques - art. L33-3
+
+
+###### Article L34-9-2
+
+Les aéronefs circulant sans personne à bord, d'une masse supérieure à un seuil fixé par voie réglementaire, qui ne peut être
+supérieur à 800 grammes, sont équipés d'un dispositif de signalement lumineux et d'un dispositif de signalement électronique
+ou numérique. 
+
+Sont exemptés de l'obligation définie au premier alinéa les aéronefs circulant sans personne à bord et qui sont opérés dans
+un cadre agréé et dans des zones identifiées à cet effet. 
+
+Un décret en Conseil d'Etat précise les objectifs des dispositifs mentionnés au même premier alinéa et les conditions dans
+lesquelles des aéronefs circulant sans personne à bord sont exemptés de l'obligation définie audit premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 4 (V)
 
 
 ##### Section 6 : Dispositions particulières aux prestations d'itinérance ultramarine.
